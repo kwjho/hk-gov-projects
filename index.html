@@ -1,0 +1,735 @@
+<!DOCTYPE html>
+<html lang="zh-HK">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>香港政府項目追蹤 | HK Government Projects</title>
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/opencc-js@1.0.5/dist/umd/full.js"></script>
+<style>
+:root {
+  --bg:       #0f1117;
+  --surface:  #1a1d27;
+  --surface2: #232636;
+  --border:   #2e3248;
+  --text:     #e8eaf0;
+  --muted:    #8b90a8;
+  --ua:  #3b82f6; --ua-bg:  #1a2f5a;
+  --hel: #10b981; --hel-bg: #0a3d28;
+  --wc:  #f59e0b; --wc-bg:  #4a3000;
+  --df:  #a855f7; --df-bg:  #3a1560;
+  --s1:  #facc15;
+  --s2:  #fb923c;
+  --s3:  #4ade80;
+  --header-h: 56px;
+  --filter-h: 48px;
+  --panel-w:  440px;
+  --radius:   10px;
+}
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+html, body { height: 100%; overflow: hidden; }
+body {
+  font-family: -apple-system, "Helvetica Neue", "PingFang TC", "Microsoft JhengHei",
+               "Noto Sans TC", sans-serif;
+  background: var(--bg); color: var(--text); font-size: 14px;
+}
+
+/* ── Header ──────────────────────────────────────────────────────── */
+header {
+  height: var(--header-h);
+  background: var(--surface);
+  border-bottom: 1px solid var(--border);
+  display: flex; align-items: center; gap: 12px;
+  padding: 0 16px; position: relative; z-index: 1000; flex-shrink: 0;
+}
+.logo { font-weight: 800; font-size: 16px; white-space: nowrap; flex-shrink: 0; }
+.logo em { color: var(--ua); font-style: normal; }
+.logo-sub { font-size: 11px; color: var(--muted); white-space: nowrap; }
+
+.header-right { margin-left: auto; display: flex; align-items: center; gap: 8px; flex-shrink: 0; }
+
+.lang-switcher { display: flex; background: var(--bg); border-radius: 8px; overflow: hidden; border: 1px solid var(--border); }
+.lang-btn {
+  padding: 5px 10px; border: none; cursor: pointer; font-size: 12px; font-weight: 700;
+  background: transparent; color: var(--muted); transition: all .15s; white-space: nowrap;
+}
+.lang-btn.active { background: var(--surface2); color: var(--text); }
+
+.view-toggle { display: flex; background: var(--bg); border-radius: 8px; overflow: hidden; border: 1px solid var(--border); }
+.view-btn {
+  padding: 5px 12px; border: none; cursor: pointer; font-size: 12px; font-weight: 700;
+  background: transparent; color: var(--muted); transition: all .15s; white-space: nowrap;
+}
+.view-btn.active { background: var(--ua); color: #fff; }
+
+/* ── Filter bar ──────────────────────────────────────────────────── */
+.filters {
+  height: var(--filter-h);
+  background: var(--surface); border-bottom: 1px solid var(--border);
+  display: flex; align-items: center; gap: 6px;
+  padding: 0 12px; position: relative; z-index: 999;
+  overflow-x: auto; scrollbar-width: none; flex-shrink: 0;
+}
+.filters::-webkit-scrollbar { display: none; }
+
+.chip {
+  padding: 4px 11px; border-radius: 20px; border: 1px solid var(--border);
+  font-size: 11px; font-weight: 700; cursor: pointer; user-select: none;
+  background: var(--surface2); color: var(--muted); white-space: nowrap;
+  transition: all .15s; flex-shrink: 0;
+}
+.chip.active { color: #fff; border-color: transparent; }
+.chip-ua.active  { background: var(--ua); }
+.chip-hel.active { background: var(--hel); }
+.chip-wc.active  { background: var(--wc); color: #111; }
+.chip-df.active  { background: var(--df); }
+.chip-s1.active  { background: var(--s1); color: #111; }
+.chip-s2.active  { background: var(--s2); }
+.chip-s3.active  { background: var(--s3); color: #111; }
+.chip-ds.active  { background: var(--surface2); color: var(--text); border-color: var(--ua); }
+
+.fdivider { width: 1px; height: 22px; background: var(--border); flex-shrink: 0; }
+
+.search-wrap { position: relative; flex-shrink: 0; width: 160px; }
+.search-wrap input {
+  width: 100%; padding: 5px 10px 5px 28px;
+  background: var(--surface2); border: 1px solid var(--border);
+  border-radius: 20px; color: var(--text); font-size: 12px; outline: none;
+  font-family: inherit;
+}
+.search-wrap input::placeholder { color: var(--muted); }
+.search-wrap input:focus { border-color: var(--ua); }
+.search-icon { position: absolute; left: 9px; top: 50%; transform: translateY(-50%); pointer-events: none; }
+
+.count-pill {
+  background: var(--surface2); border: 1px solid var(--border);
+  padding: 3px 9px; border-radius: 12px; font-size: 11px; color: var(--muted);
+  flex-shrink: 0; white-space: nowrap;
+}
+
+/* ── Main area ───────────────────────────────────────────────────── */
+.main {
+  height: calc(100dvh - var(--header-h) - var(--filter-h));
+  position: relative; overflow: hidden; display: flex; flex-direction: column;
+}
+
+/* ── Map ─────────────────────────────────────────────────────────── */
+#map { flex: 1; width: 100%; }
+#map.hidden { display: none; }
+.leaflet-container { background: #12151e !important; }
+.leaflet-popup-content-wrapper {
+  background: var(--surface2); color: var(--text);
+  border: 1px solid var(--border); border-radius: var(--radius); box-shadow: none;
+}
+.leaflet-popup-tip { background: var(--surface2); }
+.leaflet-popup-content { margin: 10px 14px; font-size: 13px; }
+.popup-name { font-weight: 700; margin-bottom: 4px; line-height: 1.3; }
+.popup-meta { color: var(--muted); font-size: 12px; }
+
+.map-legend {
+  position: absolute; bottom: 20px; left: 12px; z-index: 800;
+  background: var(--surface); border: 1px solid var(--border);
+  border-radius: var(--radius); padding: 10px 13px; font-size: 11px;
+}
+.legend-row { display: flex; align-items: center; gap: 6px; margin-bottom: 4px; }
+.legend-dot { width: 9px; height: 9px; border-radius: 50%; flex-shrink: 0; }
+.legend-section { font-weight: 700; color: var(--muted); font-size: 10px;
+                  text-transform: uppercase; letter-spacing: .06em; margin-bottom: 5px; }
+.legend-section + .legend-section, .legend-divider { margin-top: 8px; }
+
+/* ── Kanban ──────────────────────────────────────────────────────── */
+#kanban {
+  display: none; height: 100%; overflow-x: auto; overflow-y: hidden;
+  padding: 12px; gap: 10px; scrollbar-width: thin; scrollbar-color: var(--border) transparent;
+  align-items: stretch;
+}
+#kanban.visible { display: flex; }
+.column {
+  flex: 0 0 300px; display: flex; flex-direction: column;
+  background: var(--surface); border-radius: var(--radius);
+  border: 1px solid var(--border); overflow: hidden; min-height: 0;
+}
+.col-header {
+  padding: 11px 14px; border-bottom: 1px solid var(--border);
+  display: flex; align-items: center; gap: 8px; flex-shrink: 0;
+}
+.col-dot { width: 9px; height: 9px; border-radius: 50%; flex-shrink: 0; }
+.col-dot.s1 { background: var(--s1); }
+.col-dot.s2 { background: var(--s2); }
+.col-dot.s3 { background: var(--s3); }
+.col-title { font-weight: 800; font-size: 13px; }
+.col-count { margin-left: auto; background: var(--surface2); border-radius: 10px;
+             padding: 1px 8px; font-size: 11px; color: var(--muted); }
+.col-cards { overflow-y: auto; padding: 8px; flex: 1; display: flex;
+             flex-direction: column; gap: 7px; scrollbar-width: thin;
+             scrollbar-color: var(--border) transparent; }
+
+.card {
+  background: var(--surface2); border-radius: 9px; padding: 11px 12px;
+  cursor: pointer; border: 1px solid var(--border); transition: border-color .15s;
+  flex-shrink: 0;
+}
+.card:hover { border-color: var(--ua); }
+.card-name { font-size: 12px; font-weight: 600; line-height: 1.4; margin-bottom: 7px; }
+.card-tags { display: flex; flex-wrap: wrap; gap: 4px; }
+.tag { font-size: 10px; font-weight: 700; padding: 2px 8px; border-radius: 10px; }
+.tag-ua  { background: var(--ua-bg);  color: var(--ua); }
+.tag-hel { background: var(--hel-bg); color: var(--hel); }
+.tag-wc  { background: var(--wc-bg);  color: var(--wc); }
+.tag-df  { background: var(--df-bg);  color: var(--df); }
+.tag-info { background: var(--surface); color: var(--muted); border: 1px solid var(--border); }
+
+/* ── Detail panel ────────────────────────────────────────────────── */
+.overlay {
+  position: absolute; inset: 0; background: rgba(0,0,0,.55);
+  z-index: 1500; opacity: 0; pointer-events: none; transition: opacity .2s;
+}
+.overlay.open { opacity: 1; pointer-events: all; }
+
+.panel {
+  position: absolute; top: 0; right: 0; height: 100%;
+  width: var(--panel-w); max-width: 100%;
+  background: var(--surface); z-index: 1600;
+  transform: translateX(100%); transition: transform .25s ease;
+  display: flex; flex-direction: column;
+  border-left: 1px solid var(--border);
+}
+.panel.open { transform: translateX(0); }
+
+.panel-head {
+  padding: 14px 16px; border-bottom: 1px solid var(--border);
+  display: flex; gap: 10px; align-items: flex-start; flex-shrink: 0;
+}
+.panel-title { font-size: 14px; font-weight: 800; line-height: 1.4; flex: 1; }
+.close-btn {
+  width: 28px; height: 28px; border-radius: 7px; border: 1px solid var(--border);
+  background: var(--surface2); color: var(--text); cursor: pointer; font-size: 16px;
+  display: flex; align-items: center; justify-content: center; flex-shrink: 0;
+  line-height: 1;
+}
+.close-btn:hover { background: var(--border); }
+
+.panel-badges {
+  padding: 10px 16px; border-bottom: 1px solid var(--border);
+  display: flex; flex-wrap: wrap; gap: 5px; flex-shrink: 0;
+}
+.badge {
+  font-size: 11px; font-weight: 800; padding: 3px 11px; border-radius: 20px;
+}
+.badge-ua  { background: var(--ua-bg);  color: var(--ua); }
+.badge-hel { background: var(--hel-bg); color: var(--hel); }
+.badge-wc  { background: var(--wc-bg);  color: var(--wc); }
+.badge-df  { background: var(--df-bg);  color: var(--df); }
+.badge-s1 { background: rgba(250,204,21,.13); color: var(--s1); }
+.badge-s2 { background: rgba(251,146,60,.13); color: var(--s2); }
+.badge-s3 { background: rgba(74,222,128,.13); color: var(--s3); }
+.badge-ds { background: var(--surface2); color: var(--muted); border: 1px solid var(--border); }
+
+.panel-body { overflow-y: auto; flex: 1; padding: 14px 16px;
+              display: flex; flex-direction: column; gap: 12px;
+              scrollbar-width: thin; scrollbar-color: var(--border) transparent; }
+
+.panel-photo { width: 100%; border-radius: 9px; object-fit: cover; height: 170px;
+               background: var(--surface2); display: block; }
+.panel-photos { display: flex; gap: 6px; }
+.panel-photos .panel-photo { flex: 1; height: 130px; cursor: pointer; transition: opacity .15s; }
+.panel-photos .panel-photo:hover { opacity: .82; }
+
+.info-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 8px; }
+.info-item { background: var(--surface2); border-radius: 8px; padding: 9px 11px; }
+.info-item.full { grid-column: 1/-1; }
+.info-label { font-size: 10px; font-weight: 700; text-transform: uppercase;
+              letter-spacing: .06em; color: var(--muted); margin-bottom: 3px; }
+.info-value { font-size: 13px; line-height: 1.4; }
+.info-value.cost { font-size: 15px; font-weight: 800; color: var(--s3); }
+
+.panel-link {
+  display: flex; align-items: center; justify-content: center; gap: 8px;
+  padding: 10px; background: var(--ua); border-radius: 9px;
+  color: #fff; text-decoration: none; font-size: 13px; font-weight: 700;
+}
+.panel-link:hover { background: #2563eb; }
+.panel-link-tc { background: var(--surface2); color: var(--text);
+                 border: 1px solid var(--border); }
+.panel-link-tc:hover { background: var(--border); }
+
+/* ── Empty state ─────────────────────────────────────────────────── */
+.empty-col {
+  display: flex; flex-direction: column; align-items: center;
+  justify-content: center; padding: 24px 16px; color: var(--muted);
+  gap: 6px; font-size: 12px; text-align: center;
+}
+
+/* ── Loading ─────────────────────────────────────────────────────── */
+#loading {
+  position: absolute; inset: 0; background: var(--bg);
+  display: flex; align-items: center; justify-content: center;
+  flex-direction: column; gap: 12px; z-index: 2000;
+}
+.spinner {
+  width: 36px; height: 36px; border: 3px solid var(--border);
+  border-top-color: var(--ua); border-radius: 50%; animation: spin .7s linear infinite;
+}
+@keyframes spin { to { transform: rotate(360deg); } }
+
+/* ── Responsive ──────────────────────────────────────────────────── */
+@media (max-width: 640px) {
+  :root { --panel-w: 100vw; --header-h: 50px; --filter-h: 44px; }
+  .logo-sub { display: none; }
+  .logo { font-size: 14px; }
+  .column { flex: 0 0 270px; }
+  .map-legend { display: none; }
+  .lang-btn { padding: 4px 7px; font-size: 11px; }
+  .view-btn  { padding: 4px 9px;  font-size: 11px; }
+  header { gap: 8px; padding: 0 10px; }
+}
+
+::-webkit-scrollbar { width: 5px; height: 5px; }
+::-webkit-scrollbar-track { background: transparent; }
+::-webkit-scrollbar-thumb { background: var(--border); border-radius: 3px; }
+</style>
+</head>
+<body>
+
+<!-- Loading screen -->
+<div id="loading">
+  <div class="spinner"></div>
+  <div id="loadingText" style="color:var(--muted);font-size:13px">載入中…</div>
+</div>
+
+<!-- Header -->
+<header>
+  <div>
+    <div class="logo"><em data-i18n="siteTitle">香港政府項目追蹤</em></div>
+    <div class="logo-sub" data-i18n="siteSubtitle">Hong Kong Government Projects</div>
+  </div>
+  <div class="header-right">
+    <div class="lang-switcher">
+      <button class="lang-btn" onclick="setLang('en')">EN</button>
+      <button class="lang-btn active" onclick="setLang('tc')">繁</button>
+      <button class="lang-btn" onclick="setLang('sc')">简</button>
+    </div>
+    <div class="view-toggle">
+      <button class="view-btn active" id="btnMap" onclick="switchView('map')" data-i18n="viewMap">地圖</button>
+      <button class="view-btn" id="btnKanban" onclick="switchView('kanban')" data-i18n="viewKanban">看板</button>
+    </div>
+  </div>
+</header>
+
+<!-- Filter bar -->
+<div class="filters" id="filterBar">
+  <!-- dataset chips injected by JS -->
+  <div class="fdivider" id="fdivDs" style="display:none"></div>
+  <!-- type chips -->
+  <div class="chip chip-ua  active" data-filter="type" data-val="UA"  onclick="toggleChip(this)"><span data-i18n="typeUA">暢道通行</span></div>
+  <div class="chip chip-hel active" data-filter="type" data-val="HEL" onclick="toggleChip(this)"><span data-i18n="typeHEL">坡道電梯</span></div>
+  <div class="chip chip-wc  active" data-filter="type" data-val="WC"  onclick="toggleChip(this)"><span data-i18n="typeWC">有蓋行人道</span></div>
+  <div class="chip chip-df  active" data-filter="type" data-val="DF"  onclick="toggleChip(this)"><span data-i18n="typeDF">地區設施</span></div>
+  <div class="fdivider"></div>
+  <!-- status chips -->
+  <div class="chip chip-s1 active" data-filter="status" data-val="1" onclick="toggleChip(this)"><span data-i18n="s1">規劃中</span></div>
+  <div class="chip chip-s2 active" data-filter="status" data-val="2" onclick="toggleChip(this)"><span data-i18n="s2">施工中</span></div>
+  <div class="chip chip-s3 active" data-filter="status" data-val="3" onclick="toggleChip(this)"><span data-i18n="s3">已完成</span></div>
+  <div class="fdivider"></div>
+  <!-- search -->
+  <div class="search-wrap">
+    <svg class="search-icon" width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="var(--muted)" stroke-width="2.5"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/></svg>
+    <input type="text" id="searchInput" data-i18n-placeholder="searchPlaceholder" placeholder="搜尋項目…" oninput="applyFilters()">
+  </div>
+  <div class="count-pill" id="countPill">82</div>
+</div>
+
+<!-- Main -->
+<div class="main" id="mainArea">
+  <div id="map"></div>
+  <div class="map-legend" id="mapLegend">
+    <div class="legend-section" data-i18n="legendType">項目類別</div>
+    <div class="legend-row"><div class="legend-dot" style="background:var(--ua)"></div><span data-i18n="typeUA">暢道通行</span></div>
+    <div class="legend-row"><div class="legend-dot" style="background:var(--hel)"></div><span data-i18n="typeHEL">坡道電梯</span></div>
+    <div class="legend-row"><div class="legend-dot" style="background:var(--wc)"></div><span data-i18n="typeWC">有蓋行人道</span></div>
+    <div class="legend-row"><div class="legend-dot" style="background:var(--df)"></div><span data-i18n="typeDF">地區設施</span></div>
+    <div class="legend-divider"></div>
+    <div class="legend-section" data-i18n="legendStatus">施工狀態（邊框）</div>
+    <div class="legend-row"><div class="legend-dot" style="background:var(--s1)"></div><span data-i18n="s1">規劃中</span></div>
+    <div class="legend-row"><div class="legend-dot" style="background:var(--s2)"></div><span data-i18n="s2">施工中</span></div>
+    <div class="legend-row"><div class="legend-dot" style="background:var(--s3)"></div><span data-i18n="s3">已完成</span></div>
+  </div>
+
+  <div id="kanban">
+    <div class="column" id="col-1">
+      <div class="col-header"><div class="col-dot s1"></div><div class="col-title" data-i18n="s1">規劃中</div><div class="col-count" id="cnt-1">0</div></div>
+      <div class="col-cards" id="cards-1"></div>
+    </div>
+    <div class="column" id="col-2">
+      <div class="col-header"><div class="col-dot s2"></div><div class="col-title" data-i18n="s2">施工中</div><div class="col-count" id="cnt-2">0</div></div>
+      <div class="col-cards" id="cards-2"></div>
+    </div>
+    <div class="column" id="col-3">
+      <div class="col-header"><div class="col-dot s3"></div><div class="col-title" data-i18n="s3">已完成</div><div class="col-count" id="cnt-3">0</div></div>
+      <div class="col-cards" id="cards-3"></div>
+    </div>
+  </div>
+
+  <div class="overlay" id="overlay" onclick="closePanel()"></div>
+  <div class="panel" id="panel">
+    <div class="panel-head">
+      <div class="panel-title" id="panelTitle"></div>
+      <button class="close-btn" onclick="closePanel()">×</button>
+    </div>
+    <div class="panel-badges" id="panelBadges"></div>
+    <div class="panel-body" id="panelBody"></div>
+  </div>
+</div>
+
+<script>
+// ─── i18n ─────────────────────────────────────────────────────────────────────
+const I18N = {
+  tc: {
+    siteTitle: '香港政府項目追蹤',
+    siteSubtitle: 'Hong Kong Government Projects',
+    viewMap: '地圖', viewKanban: '看板',
+    typeUA: '暢道通行', typeHEL: '坡道電梯', typeWC: '有蓋行人道', typeDF: '地區設施',
+    s1: '規劃中', s2: '施工中', s3: '已完成',
+    legendType: '項目類別', legendStatus: '施工狀態（邊框）',
+    searchPlaceholder: '搜尋項目…',
+    updated: '更新於',
+    labelDesc: '項目描述', labelScope: '工程範圍', labelCost: '估計費用',
+    labelConsultant: '顧問', labelContractor: '承建商',
+    labelCommencement: '動工日期', labelCommissioning: '完工╱啟用日期',
+    labelAward: '批出日期', labelAgreement: '合約編號',
+    officialPage: '查閱官方項目頁面',
+    noProjects: '沒有符合的項目',
+    loading: '載入中…',
+  },
+  en: {
+    siteTitle: 'HK Government Projects',
+    siteSubtitle: '香港政府項目追蹤',
+    viewMap: 'Map', viewKanban: 'Kanban',
+    typeUA: 'Universal Access', typeHEL: 'Hillside Lift', typeWC: 'Walkway Cover', typeDF: 'District Facilities',
+    s1: 'Planning', s2: 'Construction', s3: 'Completed',
+    legendType: 'Project Type', legendStatus: 'Status (border)',
+    searchPlaceholder: 'Search projects…',
+    updated: 'Updated',
+    labelDesc: 'Description', labelScope: 'Scope of Works', labelCost: 'Estimated Cost',
+    labelConsultant: 'Consultant', labelContractor: 'Contractor',
+    labelCommencement: 'Commencement', labelCommissioning: 'Commissioning / Completion',
+    labelAward: 'Award Date', labelAgreement: 'Contract No.',
+    officialPage: 'View Official Project Page',
+    noProjects: 'No matching projects',
+    loading: 'Loading…',
+  },
+};
+// SC inherits from TC — auto-converted by opencc-js at display time
+I18N.sc = { ...I18N.tc };
+
+let lang = 'tc';
+let scConverter = null;
+
+// Initialise opencc converter for SC
+if (typeof OpenCC !== 'undefined') {
+  try { scConverter = OpenCC.Converter({ from: 'hk', to: 'cn' }); } catch(e) {}
+}
+
+function t(key) {
+  const base = (I18N[lang] || I18N.tc)[key] || key;
+  if (lang === 'sc' && scConverter) return scConverter(base);
+  return base;
+}
+
+function tx(obj) {
+  // obj is {en, tc} — pick and optionally convert to SC
+  if (!obj) return '';
+  if (lang === 'en') return obj.en || obj.tc || '';
+  const tcVal = obj.tc || obj.en || '';
+  if (lang === 'sc' && scConverter) return scConverter(tcVal);
+  return tcVal;
+}
+
+function setLang(l) {
+  lang = l;
+  document.documentElement.lang = l === 'tc' ? 'zh-HK' : l === 'sc' ? 'zh-CN' : 'en';
+  document.querySelectorAll('.lang-btn').forEach((b,i) => {
+    b.classList.toggle('active', ['en','tc','sc'][i] === l);
+  });
+  applyI18n();
+  applyFilters();
+}
+
+function applyI18n() {
+  document.querySelectorAll('[data-i18n]').forEach(el => {
+    el.textContent = t(el.dataset.i18n);
+  });
+  document.querySelectorAll('[data-i18n-placeholder]').forEach(el => {
+    el.placeholder = t(el.dataset.i18nPlaceholder);
+  });
+  // Update dataset chip labels
+  document.querySelectorAll('.chip-ds').forEach(chip => {
+    const dsId = chip.dataset.val;
+    const ds = loadedDatasets[dsId];
+    if (ds) chip.querySelector('span').textContent = tx(ds.dataset_name);
+  });
+}
+
+// ─── Data & state ─────────────────────────────────────────────────────────────
+const DATASETS = [
+  { id: 'walkability', file: 'data/walkability.json' },
+  // Add more datasets here as they are created:
+  // { id: 'roads', file: 'data/roads.json' },
+];
+
+const TYPE_COLOR = { UA:'#3b82f6', HEL:'#10b981', WC:'#f59e0b', DF:'#a855f7' };
+const STATUS_COLOR = { 1:'#facc15', 2:'#fb923c', 3:'#4ade80' };
+const TYPE_CSS = { UA:'ua', HEL:'hel', WC:'wc', DF:'df' };
+
+let allProjects = [];
+let loadedDatasets = {}; // id → dataset metadata
+let activeFilters = {
+  type:    new Set(['UA','HEL','WC','DF']),
+  status:  new Set(['1','2','3']),
+  dataset: new Set(DATASETS.map(d => d.id)),
+};
+let currentView = 'map';
+let map, markersLayer;
+
+// ─── Map setup ────────────────────────────────────────────────────────────────
+map = L.map('map', { center:[22.35,114.15], zoom:11, zoomControl:false, attributionControl:false });
+L.control.zoom({ position:'topright' }).addTo(map);
+L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png', { maxZoom:19 }).addTo(map);
+L.control.attribution({ position:'bottomright', prefix:false })
+  .addAttribution('© OpenStreetMap contributors © CARTO | 數據來源：路政署 / CSDI')
+  .addTo(map);
+markersLayer = L.layerGroup().addTo(map);
+
+// ─── Load data ────────────────────────────────────────────────────────────────
+Promise.all(DATASETS.map(ds =>
+  fetch(ds.file)
+    .then(r => r.ok ? r.json() : Promise.reject(`${ds.file} not found`))
+    .catch(err => { console.warn(err); return null; })
+))
+.then(results => {
+  results.forEach((data, i) => {
+    if (!data) return;
+    const dsId = DATASETS[i].id;
+    loadedDatasets[dsId] = data;
+    allProjects.push(...data.projects);
+  });
+
+  buildDatasetChips();
+  applyI18n();
+  applyFilters();
+  document.getElementById('loading').style.display = 'none';
+})
+.catch(err => {
+  document.getElementById('loadingText').textContent = 'Error loading data. Run scripts/crawl.py first.';
+});
+
+function buildDatasetChips() {
+  const bar = document.getElementById('filterBar');
+  const divider = document.getElementById('fdivDs');
+  const firstTypeChip = bar.querySelector('[data-filter="type"]');
+
+  if (Object.keys(loadedDatasets).length <= 1) return; // hide if only one dataset
+  divider.style.display = 'block';
+
+  Object.entries(loadedDatasets).forEach(([id, data]) => {
+    const chip = document.createElement('div');
+    chip.className = 'chip chip-ds active';
+    chip.dataset.filter = 'dataset';
+    chip.dataset.val = id;
+    chip.onclick = () => toggleChip(chip);
+    chip.innerHTML = `<span>${tx(data.dataset_name)}</span>`;
+    bar.insertBefore(chip, divider);
+  });
+}
+
+// ─── Filters ──────────────────────────────────────────────────────────────────
+function toggleChip(chip) {
+  const { filter, val } = chip.dataset;
+  if (activeFilters[filter].has(val)) {
+    activeFilters[filter].delete(val);
+    chip.classList.remove('active');
+  } else {
+    activeFilters[filter].add(val);
+    chip.classList.add('active');
+  }
+  applyFilters();
+}
+
+function getFiltered() {
+  const q = document.getElementById('searchInput').value.trim().toLowerCase();
+  return allProjects.filter(p => {
+    if (!activeFilters.type.has(p.type)) return false;
+    if (!activeFilters.status.has(String(p.status))) return false;
+    if (DATASETS.length > 1 && !activeFilters.dataset.has(p.dataset)) return false;
+    if (q) {
+      const hay = [
+        p.name,
+        p.agreement_no,
+        tx(p.page_title), tx(p.description), tx(p.scope),
+        tx(p.cost), tx(p.consultant), tx(p.contractor),
+      ].join(' ').toLowerCase();
+      if (!hay.includes(q)) return false;
+    }
+    return true;
+  });
+}
+
+function applyFilters() {
+  const filtered = getFiltered();
+  document.getElementById('countPill').textContent = filtered.length;
+  if (currentView === 'map') renderMap(filtered);
+  else renderKanban(filtered);
+}
+
+// ─── Map ──────────────────────────────────────────────────────────────────────
+function markerIcon(p) {
+  const fill = TYPE_COLOR[p.type] || '#aaa';
+  const stroke = STATUS_COLOR[p.status] || '#aaa';
+  const svg = `<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 22 22">
+    <circle cx="11" cy="11" r="8" fill="${fill}" fill-opacity=".9" stroke="${stroke}" stroke-width="2.5"/>
+  </svg>`;
+  return L.divIcon({ html:svg, className:'', iconSize:[22,22], iconAnchor:[11,11], popupAnchor:[0,-13] });
+}
+
+function renderMap(projects) {
+  markersLayer.clearLayers();
+  projects.forEach(p => {
+    if (!p.coordinates?.length) return;
+    const lons = p.coordinates.map(c => c[0]);
+    const lats = p.coordinates.map(c => c[1]);
+    const lon = lons.reduce((a,b) => a+b) / lons.length;
+    const lat = lats.reduce((a,b) => a+b) / lats.length;
+    const nameStr = lang === 'en' ? p.name : (tx(p.page_title) || p.name);
+    const costStr = tx(p.cost);
+    L.marker([lat, lon], { icon: markerIcon(p) })
+      .bindPopup(`<div class="popup-name">${nameStr}</div>
+        <div class="popup-meta">${tx(p.type_label)} · ${tx(p.status_label)}${costStr ? ' · ' + costStr : ''}</div>`)
+      .on('click', () => openPanel(p))
+      .addTo(markersLayer);
+  });
+}
+
+// ─── Kanban ───────────────────────────────────────────────────────────────────
+function renderKanban(projects) {
+  [1, 2, 3].forEach(s => {
+    const col = document.getElementById(`cards-${s}`);
+    const cnt = document.getElementById(`cnt-${s}`);
+    const items = projects.filter(p => p.status === s);
+    cnt.textContent = items.length;
+    if (!items.length) {
+      col.innerHTML = `<div class="empty-col">${t('noProjects')}</div>`;
+      return;
+    }
+    col.innerHTML = items.map(p => {
+      const name = lang === 'en' ? p.name : (tx(p.page_title) || p.name);
+      const cost = tx(p.cost);
+      const cd   = tx(p.commissioning_date);
+      const tc_class = TYPE_CSS[p.type] || 'ua';
+      return `<div class="card" onclick="openPanel(allProjects.find(x=>x.id===${p.id}&&x.dataset==='${p.dataset}'))">
+        <div class="card-name">${name}</div>
+        <div class="card-tags">
+          <span class="tag tag-${tc_class}">${tx(p.type_label)}</span>
+          ${cost ? `<span class="tag tag-info">${cost}</span>` : ''}
+          ${cd   ? `<span class="tag tag-info">📅 ${cd}</span>` : ''}
+        </div>
+      </div>`;
+    }).join('');
+  });
+}
+
+// ─── Detail panel ─────────────────────────────────────────────────────────────
+function openPanel(p) {
+  if (!p) return;
+  const title = lang === 'en' ? p.name : (tx(p.page_title) || p.name);
+  document.getElementById('panelTitle').textContent = title;
+
+  const tc = TYPE_CSS[p.type] || 'ua';
+  let badges = `
+    <span class="badge badge-${tc}">${tx(p.type_label)}</span>
+    <span class="badge badge-s${p.status}">${tx(p.status_label)}</span>`;
+  if (p.agreement_no) badges += `<span class="badge badge-ds">${p.agreement_no}</span>`;
+  document.getElementById('panelBadges').innerHTML = badges;
+
+  let body = '';
+
+  // Photos
+  if (p.photos?.length) {
+    if (p.photos.length === 1) {
+      body += `<img class="panel-photo" src="${p.photos[0].url}" alt="${p.photos[0].alt}" onerror="this.style.display='none'">`;
+    } else {
+      body += `<div class="panel-photos">` +
+        p.photos.slice(0,3).map(ph =>
+          `<img class="panel-photo" src="${ph.url}" alt="${ph.alt}"
+             onclick="window.open('${ph.url}','_blank')"
+             onerror="this.parentElement.removeChild(this)">`
+        ).join('') + `</div>`;
+    }
+  }
+
+  // Info grid
+  body += '<div class="info-grid">';
+  const desc = tx(p.description) || tx(p.scope);
+  if (desc) body += infoItem(t('labelDesc'), desc, true);
+  const cost = tx(p.cost);
+  if (cost) body += infoItem(t('labelCost'), cost, false, true);
+  const consultant = tx(p.consultant);
+  if (consultant) body += infoItem(t('labelConsultant'), consultant);
+  const contractor = tx(p.contractor);
+  if (contractor) body += infoItem(t('labelContractor'), contractor);
+  const cd = tx(p.commencement_date);
+  if (cd) body += infoItem(t('labelCommencement'), cd);
+  const comm = tx(p.commissioning_date);
+  if (comm) body += infoItem(t('labelCommissioning'), comm);
+  if (p.award_date) { const ad = tx(p.award_date); if(ad) body += infoItem(t('labelAward'), ad); }
+  body += '</div>';
+
+  // Links
+  const enUrl = typeof p.url === 'object' ? p.url.en : p.url;
+  const tcUrl  = typeof p.url === 'object' ? p.url.tc : '';
+  if (enUrl || tcUrl) {
+    body += '<div style="display:flex;gap:8px;flex-wrap:wrap">';
+    if (lang === 'en' && enUrl) {
+      body += `<a class="panel-link" href="${enUrl}" target="_blank" rel="noopener">${t('officialPage')} ↗</a>`;
+    } else if (lang !== 'en' && tcUrl) {
+      body += `<a class="panel-link" href="${tcUrl}" target="_blank" rel="noopener">${t('officialPage')} ↗</a>`;
+      if (enUrl) body += `<a class="panel-link panel-link-tc" href="${enUrl}" target="_blank" rel="noopener">EN ↗</a>`;
+    } else if (enUrl) {
+      body += `<a class="panel-link" href="${enUrl}" target="_blank" rel="noopener">${t('officialPage')} ↗</a>`;
+    }
+    body += '</div>';
+  }
+
+  document.getElementById('panelBody').innerHTML = body;
+  document.getElementById('panel').classList.add('open');
+  document.getElementById('overlay').classList.add('open');
+}
+
+function infoItem(label, val, full=false, isCost=false) {
+  return `<div class="info-item${full?' full':''}">
+    <div class="info-label">${label}</div>
+    <div class="info-value${isCost?' cost':''}">${val}</div>
+  </div>`;
+}
+
+function closePanel() {
+  document.getElementById('panel').classList.remove('open');
+  document.getElementById('overlay').classList.remove('open');
+}
+
+// ─── View switching ───────────────────────────────────────────────────────────
+function switchView(view) {
+  currentView = view;
+  document.getElementById('btnMap').classList.toggle('active', view==='map');
+  document.getElementById('btnKanban').classList.toggle('active', view==='kanban');
+  document.getElementById('map').classList.toggle('hidden', view!=='map');
+  document.getElementById('mapLegend').style.display = view==='map' ? '' : 'none';
+  document.getElementById('kanban').classList.toggle('visible', view==='kanban');
+  if (view==='map') { map.invalidateSize(); }
+  applyFilters();
+}
+
+document.addEventListener('keydown', e => { if (e.key==='Escape') closePanel(); });
+</script>
+</body>
+</html>
