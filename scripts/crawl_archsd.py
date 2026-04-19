@@ -79,12 +79,40 @@ def get_soup(url):
         return None
 
 
-def scrape_photos(code):
-    """Fetch EN detail page and extract project photos from /media/projects/ paths."""
+def _sum_contract_costs(soup):
+    """
+    Find the Current Contracts / 現時合約 table row and sum all
+    'Contract Sum : $XXXM' / '合約價值 : $XXXM' values in that cell.
+    Returns a formatted string like 'HK$1,392M', or '' if none found.
+    """
+    for row in soup.find_all("tr"):
+        th = row.find("th")
+        if not th:
+            continue
+        th_text = th.get_text(strip=True)
+        if not re.search(r"current contracts|現時合約", th_text, re.IGNORECASE):
+            continue
+        td = row.find("td")
+        if not td:
+            continue
+        td_text = td.get_text(separator=" ", strip=True)
+        total_m = 0.0
+        for m in re.finditer(
+            r"(?:Contract Sum|合約價值)\s*[：:]\s*\$\s*([\d,]+)\s*M\b",
+            td_text, re.IGNORECASE
+        ):
+            total_m += float(m.group(1).replace(",", ""))
+        if total_m:
+            return f"HK${round(total_m):,}M"
+    return ""
+
+
+def scrape_detail(code):
+    """Fetch EN detail page; return photos and summed contract cost."""
     url = DETAIL_URL_EN.format(code=code)
     soup = get_soup(url)
     if not soup:
-        return []
+        return {"photos": [], "cost": ""}
     photos = []
     for img in soup.find_all("img"):
         src = img.get("src", "")
@@ -98,7 +126,7 @@ def scrape_photos(code):
             photos.append({"url": abs_src, "alt": alt})
         if len(photos) >= 4:
             break
-    return photos
+    return {"photos": photos, "cost": _sum_contract_costs(soup)}
 
 
 def merge_multipoint(features):
@@ -199,11 +227,14 @@ def main():
         code = d["code"]
         print(f"  [{i:03d}/{total}] {code} | S{status} | {d['name_en'][:50]}...")
 
-        photos = scrape_photos(code)
+        detail = scrape_detail(code)
         time.sleep(0.3)
 
         en_url = DETAIL_URL_EN.format(code=code)
         tc_url = DETAIL_URL_TC.format(code=code)
+
+        # Contract sum from detail page; fall back to WFS estimated cost
+        contract_cost = detail["cost"] or d["cost"]
 
         desc_en = f"{d['ptype_en']} – {d['btype_en']}" if d['btype_en'] else d['ptype_en']
         desc_tc = f"{d['ptype_tc']} – {d['btype_tc']}" if d['btype_tc'] else d['ptype_tc']
@@ -225,13 +256,13 @@ def main():
             "description":        {"en": desc_en,      "tc": desc_tc},
             "scope":              {"en": d["location_en"], "tc": d["location_tc"]},
             "agreement_no":       code,
-            "cost":               {"en": d["cost"], "tc": d["cost"]},
+            "cost":               {"en": contract_cost, "tc": contract_cost},
             "award_date":         {"en": "", "tc": ""},
             "commencement_date":  {"en": d["start_en"], "tc": d["start_tc"]},
             "commissioning_date": {"en": d["end_en"],   "tc": d["end_tc"]},
             "consultant":         {"en": "", "tc": ""},
             "contractor":         {"en": d["contractor_en"], "tc": d["contractor_tc"]},
-            "photos":             photos,
+            "photos":             detail["photos"],
         })
 
     output = {
@@ -249,8 +280,10 @@ def main():
         json.dump(output, f, ensure_ascii=False, indent=2)
 
     photos_count = sum(1 for p in projects if p["photos"])
+    cost_count   = sum(1 for p in projects if p["cost"]["en"])
     print(f"\nSaved {len(projects)} projects → {out_path}")
-    print(f"Photos found: {photos_count}/{len(projects)}")
+    print(f"Photos found:  {photos_count}/{len(projects)}")
+    print(f"Cost scraped:  {cost_count}/{len(projects)}")
 
 
 if __name__ == "__main__":
