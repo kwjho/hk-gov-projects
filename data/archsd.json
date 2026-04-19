@@ -1,0 +1,4029 @@
+{
+  "dataset_id": "archsd",
+  "dataset_name": {
+    "en": "Capital Projects",
+    "tc": "資本工程項目"
+  },
+  "department": "ARCHSD",
+  "department_full": {
+    "en": "Architectural Services Department",
+    "tc": "建築署"
+  },
+  "generated_at": "2026-04-19T04:57:57.245720+00:00",
+  "total": 57,
+  "projects": [
+    {
+      "id": 1,
+      "dataset": "archsd",
+      "department": "ARCHSD",
+      "item": "207GK",
+      "name": "Joint-user Complex and Joint-user General Office Building at Area 29, Kwu Tung North",
+      "type": null,
+      "type_label": {
+        "en": "Other",
+        "tc": "其他"
+      },
+      "status": 1,
+      "status_label": {
+        "en": "Under Planning",
+        "tc": "規劃中"
+      },
+      "url": {
+        "en": "https://www.archsd.gov.hk/en/projects/capital-projects-under-detail/207GK.html",
+        "tc": "https://www.archsd.gov.hk/tc/projects/capital-projects-under-detail/207GK.html"
+      },
+      "coordinates": [
+        [
+          114.098521,
+          22.50484
+        ]
+      ],
+      "geometry": null,
+      "page_title": {
+        "en": "Joint-user Complex and Joint-user General Office Building at Area 29, Kwu Tung North",
+        "tc": "古洞北第29區聯用綜合大樓及聯用辦公大樓"
+      },
+      "description": {
+        "en": "Support – Other",
+        "tc": "輔助設施 – 其他"
+      },
+      "scope": {
+        "en": "Northern",
+        "tc": "北區"
+      },
+      "agreement_no": "207GK",
+      "cost": {
+        "en": ">=$500M",
+        "tc": ">=$500M"
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "2026-27",
+        "tc": "2026-27"
+      },
+      "commissioning_date": {
+        "en": "2031-32",
+        "tc": "2031-32"
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "",
+        "tc": ""
+      },
+      "photos": []
+    },
+    {
+      "id": 2,
+      "dataset": "archsd",
+      "department": "ARCHSD",
+      "item": "203GK",
+      "name": "Joint-user Complex at Carpenter Road, Kowloon City (KC-017 Northern Site)",
+      "type": null,
+      "type_label": {
+        "en": "Other",
+        "tc": "其他"
+      },
+      "status": 1,
+      "status_label": {
+        "en": "Under Planning",
+        "tc": "規劃中"
+      },
+      "url": {
+        "en": "https://www.archsd.gov.hk/en/projects/capital-projects-under-detail/203GK.html",
+        "tc": "https://www.archsd.gov.hk/tc/projects/capital-projects-under-detail/203GK.html"
+      },
+      "coordinates": [
+        [
+          114.189328,
+          22.330941
+        ]
+      ],
+      "geometry": null,
+      "page_title": {
+        "en": "Joint-user Complex at Carpenter Road, Kowloon City (KC-017 Northern Site)",
+        "tc": "九龍城賈炳達道聯用大樓"
+      },
+      "description": {
+        "en": "Support – Other",
+        "tc": "輔助設施 – 其他"
+      },
+      "scope": {
+        "en": "Wong Tai Sin",
+        "tc": "黃大仙"
+      },
+      "agreement_no": "203GK",
+      "cost": {
+        "en": ">=$500M",
+        "tc": ">=$500M"
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "2026-27",
+        "tc": "2026-27"
+      },
+      "commissioning_date": {
+        "en": "2030-31",
+        "tc": "2030-31"
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "",
+        "tc": ""
+      },
+      "photos": []
+    },
+    {
+      "id": 3,
+      "dataset": "archsd",
+      "department": "ARCHSD",
+      "item": "078MC",
+      "name": "Development of a Community Health Centre Building at On Sau Road, Kwun Tong",
+      "type": null,
+      "type_label": {
+        "en": "Clinics",
+        "tc": "診療所"
+      },
+      "status": 1,
+      "status_label": {
+        "en": "Under Planning",
+        "tc": "規劃中"
+      },
+      "url": {
+        "en": "https://www.archsd.gov.hk/en/projects/capital-projects-under-detail/078MC.html",
+        "tc": "https://www.archsd.gov.hk/tc/projects/capital-projects-under-detail/078MC.html"
+      },
+      "coordinates": [
+        [
+          114.231075,
+          22.32592
+        ]
+      ],
+      "geometry": null,
+      "page_title": {
+        "en": "Development of a Community Health Centre Building at On Sau Road, Kwun Tong",
+        "tc": "觀塘安秀道社區健康中心大樓"
+      },
+      "description": {
+        "en": "Health – Clinics",
+        "tc": "衛生 – 診療所"
+      },
+      "scope": {
+        "en": "Kwun Tong",
+        "tc": "觀塘"
+      },
+      "agreement_no": "078MC",
+      "cost": {
+        "en": ">=$500M",
+        "tc": ">=$500M"
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "2027-28",
+        "tc": "2027-28"
+      },
+      "commissioning_date": {
+        "en": "2031-32",
+        "tc": "2031-32"
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "",
+        "tc": ""
+      },
+      "photos": []
+    },
+    {
+      "id": 4,
+      "dataset": "archsd",
+      "department": "ARCHSD",
+      "item": "035NB",
+      "name": "Provision of Crematorium at Wo Hop Shek Cemetery",
+      "type": null,
+      "type_label": {
+        "en": "Burial Grounds, Columbaria and Crematoria",
+        "tc": "墓地、靈灰安置所及火葬場"
+      },
+      "status": 1,
+      "status_label": {
+        "en": "Under Planning",
+        "tc": "規劃中"
+      },
+      "url": {
+        "en": "https://www.archsd.gov.hk/en/projects/capital-projects-under-detail/035NB.html",
+        "tc": "https://www.archsd.gov.hk/tc/projects/capital-projects-under-detail/035NB.html"
+      },
+      "coordinates": [
+        [
+          114.146596,
+          22.477751
+        ]
+      ],
+      "geometry": null,
+      "page_title": {
+        "en": "Provision of Crematorium at Wo Hop Shek Cemetery",
+        "tc": "在和合石墳場興建火葬場"
+      },
+      "description": {
+        "en": "Environmental Hygiene – Burial Grounds, Columbaria and Crematoria",
+        "tc": "環境衛生 – 墓地、靈灰安置所及火葬場"
+      },
+      "scope": {
+        "en": "Northern",
+        "tc": "北區"
+      },
+      "agreement_no": "035NB",
+      "cost": {
+        "en": ">=$500M",
+        "tc": ">=$500M"
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "2026-27",
+        "tc": "2026-27"
+      },
+      "commissioning_date": {
+        "en": "2031-32",
+        "tc": "2031-32"
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "",
+        "tc": ""
+      },
+      "photos": []
+    },
+    {
+      "id": 5,
+      "dataset": "archsd",
+      "department": "ARCHSD",
+      "item": "003SG",
+      "name": "Provision of Welfare Facilities at the Development of Cha Kwo Ling Village Site E",
+      "type": null,
+      "type_label": {
+        "en": "Multi-purpose / Miscellaneous",
+        "tc": "多種用途／雜項"
+      },
+      "status": 1,
+      "status_label": {
+        "en": "Under Planning",
+        "tc": "規劃中"
+      },
+      "url": {
+        "en": "https://www.archsd.gov.hk/en/projects/capital-projects-under-detail/003SG.html",
+        "tc": "https://www.archsd.gov.hk/tc/projects/capital-projects-under-detail/003SG.html"
+      },
+      "coordinates": [
+        [
+          114.229173,
+          22.299913
+        ]
+      ],
+      "geometry": null,
+      "page_title": {
+        "en": "Provision of Welfare Facilities at the Development of Cha Kwo Ling Village Site E",
+        "tc": "在茶果嶺村地盤戊發展項目興建福利設施"
+      },
+      "description": {
+        "en": "Social Welfare – Multi-purpose / Miscellaneous",
+        "tc": "社會福利設施 – 多種用途／雜項"
+      },
+      "scope": {
+        "en": "Kwun Tong",
+        "tc": "觀塘"
+      },
+      "agreement_no": "003SG",
+      "cost": {
+        "en": "$100M - $200M",
+        "tc": "$100M - $200M"
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "2026-27",
+        "tc": "2026-27"
+      },
+      "commissioning_date": {
+        "en": "2032-33",
+        "tc": "2032-33"
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "",
+        "tc": ""
+      },
+      "photos": []
+    },
+    {
+      "id": 1,
+      "dataset": "archsd",
+      "department": "ARCHSD",
+      "item": "478RO",
+      "name": "Quarry Park in Anderson Road Quarry",
+      "type": null,
+      "type_label": {
+        "en": "Open Spaces",
+        "tc": "休憩用地"
+      },
+      "status": 2,
+      "status_label": {
+        "en": "Under Construction",
+        "tc": "施工中"
+      },
+      "url": {
+        "en": "https://www.archsd.gov.hk/en/projects/capital-projects-under-detail/478RO.html",
+        "tc": "https://www.archsd.gov.hk/tc/projects/capital-projects-under-detail/478RO.html"
+      },
+      "coordinates": [
+        [
+          114.23353,
+          22.325188
+        ]
+      ],
+      "geometry": null,
+      "page_title": {
+        "en": "Quarry Park in Anderson Road Quarry",
+        "tc": "安達臣道石礦場石礦公園"
+      },
+      "description": {
+        "en": "Recreation, Culture and Amenities – Open Spaces",
+        "tc": "康樂、文化及市政設施 – 休憩用地"
+      },
+      "scope": {
+        "en": "Sai Kung",
+        "tc": "西貢"
+      },
+      "agreement_no": "478RO",
+      "cost": {
+        "en": ">=500M",
+        "tc": ">=500M"
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "2023-24",
+        "tc": "2023-24"
+      },
+      "commissioning_date": {
+        "en": "2026-27",
+        "tc": "2026-27"
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "Contract No. : SSM512  (NEC4 ECC Option B)Contract Sum : $696M Contractor's Name : Techoy Construction Company Limited",
+        "tc": "合約編號 : SSM512 (「新工程合約4」工程建造合約B選項)合約價值 : $696M 承建商名稱 : 德材建築工程有限公司"
+      },
+      "photos": [
+        {
+          "url": "https://www.archsd.gov.hk/media/projects/202604/20260413143709507/CPM302_478RO.jpg",
+          "alt": "CPM302_478RO.jpg"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "dataset": "archsd",
+      "department": "ARCHSD",
+      "item": "477RO",
+      "name": "Public Open Space at East Coast Park Precinct, North Point",
+      "type": null,
+      "type_label": {
+        "en": "Open Spaces",
+        "tc": "休憩用地"
+      },
+      "status": 2,
+      "status_label": {
+        "en": "Under Construction",
+        "tc": "施工中"
+      },
+      "url": {
+        "en": "https://www.archsd.gov.hk/en/projects/capital-projects-under-detail/477RO.html",
+        "tc": "https://www.archsd.gov.hk/tc/projects/capital-projects-under-detail/477RO.html"
+      },
+      "coordinates": [
+        [
+          114.190129,
+          22.288864
+        ]
+      ],
+      "geometry": null,
+      "page_title": {
+        "en": "Public Open Space at East Coast Park Precinct, North Point",
+        "tc": "北角東岸公園主題區公眾休憩用地"
+      },
+      "description": {
+        "en": "Recreation, Culture and Amenities – Open Spaces",
+        "tc": "康樂、文化及市政設施 – 休憩用地"
+      },
+      "scope": {
+        "en": "Eastern / Wan Chai",
+        "tc": "東區 / 灣仔"
+      },
+      "agreement_no": "477RO",
+      "cost": {
+        "en": ">=500M",
+        "tc": ">=500M"
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "2024-25",
+        "tc": "2024-25"
+      },
+      "commissioning_date": {
+        "en": "2028-29",
+        "tc": "2028-29"
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "Contract No. : SSN522 (NEC4 ECC Option B)Contract Sum : $610MContractor's Name : China Harbour Engineering Company Limited",
+        "tc": "合約編號 : SSN522 (「新工程合約4」工程建造合約B選項) 合約價值 : $610M承建商名稱 : 中國港灣工程有限責任公司"
+      },
+      "photos": [
+        {
+          "url": "https://www.archsd.gov.hk/media/projects/202604/20260413143709507/CPM101_477RO-1.jpg",
+          "alt": "CPM101_477RO-1.jpg"
+        },
+        {
+          "url": "https://www.archsd.gov.hk/media/projects/202604/20260413143709507/CPM101_477RO-2.jpg",
+          "alt": "CPM101_477RO-2.jpg"
+        },
+        {
+          "url": "https://www.archsd.gov.hk/media/projects/202604/20260413143709507/CPM101_477RO-3.jpg",
+          "alt": "CPM101_477RO-3.jpg"
+        },
+        {
+          "url": "https://www.archsd.gov.hk/media/projects/202604/20260413143709507/CPM101_477RO-4.jpg",
+          "alt": "CPM101_477RO-4.jpg"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "dataset": "archsd",
+      "department": "ARCHSD",
+      "item": "442RO",
+      "name": "Open space at Hoi Fan Road, Tai Kok Tsui",
+      "type": null,
+      "type_label": {
+        "en": "Open Spaces",
+        "tc": "休憩用地"
+      },
+      "status": 2,
+      "status_label": {
+        "en": "Under Construction",
+        "tc": "施工中"
+      },
+      "url": {
+        "en": "https://www.archsd.gov.hk/en/projects/capital-projects-under-detail/442RO.html",
+        "tc": "https://www.archsd.gov.hk/tc/projects/capital-projects-under-detail/442RO.html"
+      },
+      "coordinates": [
+        [
+          114.156162,
+          22.321494
+        ]
+      ],
+      "geometry": null,
+      "page_title": {
+        "en": "Open space at Hoi Fan Road, Tai Kok Tsui",
+        "tc": "大角咀海帆道休憩用地"
+      },
+      "description": {
+        "en": "Recreation, Culture and Amenities – Open Spaces",
+        "tc": "康樂、文化及市政設施 – 休憩用地"
+      },
+      "scope": {
+        "en": "Yau Tsim Mong",
+        "tc": "油尖旺"
+      },
+      "agreement_no": "442RO",
+      "cost": {
+        "en": "$100M - $200M",
+        "tc": "$100M - $200M"
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "2021-22",
+        "tc": "2021-22"
+      },
+      "commissioning_date": {
+        "en": "2026-27",
+        "tc": "2026-27"
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "Contract No. : TCM931 (Term Contract)Contractor's Name : Cheung Hing-Maylon JV",
+        "tc": "合約編號 : TCM931 (定期合約)承建商名稱 : 祥興 - 美聯聯營"
+      },
+      "photos": [
+        {
+          "url": "https://www.archsd.gov.hk/media/projects/202604/20260413143709507/CPM302_442RO.jpg",
+          "alt": "CPM302_442RO.jpg"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "dataset": "archsd",
+      "department": "ARCHSD",
+      "item": "402IO",
+      "name": "Provision of facilities and accommodation for various government departments to support the Three-Runway System at the Hong Kong International Airport",
+      "type": null,
+      "type_label": {
+        "en": "Others",
+        "tc": "其他"
+      },
+      "status": 2,
+      "status_label": {
+        "en": "Under Construction",
+        "tc": "施工中"
+      },
+      "url": {
+        "en": "https://www.archsd.gov.hk/en/projects/capital-projects-under-detail/402IO.html",
+        "tc": "https://www.archsd.gov.hk/tc/projects/capital-projects-under-detail/402IO.html"
+      },
+      "coordinates": [
+        [
+          113.911417,
+          22.324348
+        ]
+      ],
+      "geometry": null,
+      "page_title": {
+        "en": "Provision of facilities and accommodation for various government departments to support the Three-Runway System at the Hong Kong International Airport",
+        "tc": "香港國際機場三跑道系統的相關政府部門設施及辦公地方"
+      },
+      "description": {
+        "en": "Fitting out – Others",
+        "tc": "裝修工程 – 其他"
+      },
+      "scope": {
+        "en": "Islands",
+        "tc": "離島"
+      },
+      "agreement_no": "402IO",
+      "cost": {
+        "en": ">=$500M",
+        "tc": ">=$500M"
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "2021-22",
+        "tc": "2021-22"
+      },
+      "commissioning_date": {
+        "en": "2026-27",
+        "tc": "2026-27"
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "Works undertaken by Airport Authority Hong Kong",
+        "tc": "工程建造由香港機場管理局執行"
+      },
+      "photos": []
+    },
+    {
+      "id": 6,
+      "dataset": "archsd",
+      "department": "ARCHSD",
+      "item": "374EP",
+      "name": "A 30-classroom primary school at Area 29, Kwu Tung North New Development Area",
+      "type": null,
+      "type_label": {
+        "en": "Primary Schools",
+        "tc": "小學"
+      },
+      "status": 2,
+      "status_label": {
+        "en": "Under Construction",
+        "tc": "施工中"
+      },
+      "url": {
+        "en": "https://www.archsd.gov.hk/en/projects/capital-projects-under-detail/374EP.html",
+        "tc": "https://www.archsd.gov.hk/tc/projects/capital-projects-under-detail/374EP.html"
+      },
+      "coordinates": [
+        [
+          114.097539,
+          22.5053
+        ]
+      ],
+      "geometry": null,
+      "page_title": {
+        "en": "A 30-classroom primary school at Area 29, Kwu Tung North New Development Area",
+        "tc": "古洞北新發展區第29區1所設有30間課室的小學"
+      },
+      "description": {
+        "en": "Education – Primary Schools",
+        "tc": "教育 – 小學"
+      },
+      "scope": {
+        "en": "Northern",
+        "tc": "北區"
+      },
+      "agreement_no": "374EP",
+      "cost": {
+        "en": ">=$500M",
+        "tc": ">=$500M"
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "2025-26",
+        "tc": "2025-26"
+      },
+      "commissioning_date": {
+        "en": "2028-29",
+        "tc": "2028-29"
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "Contract No. : SSN517 (NEC ECC HK Edition Option B)Contract Sum : $503MContractor's Name :  Allied Success - Creative Concept Joint Venture",
+        "tc": "合約編號 : SSN517 (「新工程合約香港版」工程建造合約B選項) 合約價值 : $503M 承建商名稱 : 聯城 - 思建聯營"
+      },
+      "photos": [
+        {
+          "url": "https://www.archsd.gov.hk/media/projects/202604/20260413143709507/CPM102_374EP.jpg",
+          "alt": "CPM102_374EP.jpg"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "dataset": "archsd",
+      "department": "ARCHSD",
+      "item": "373EP",
+      "name": "A 30-classroom primary school at Area 17, Fanling North New Development Area",
+      "type": null,
+      "type_label": {
+        "en": "Primary Schools",
+        "tc": "小學"
+      },
+      "status": 2,
+      "status_label": {
+        "en": "Under Construction",
+        "tc": "施工中"
+      },
+      "url": {
+        "en": "https://www.archsd.gov.hk/en/projects/capital-projects-under-detail/373EP.html",
+        "tc": "https://www.archsd.gov.hk/tc/projects/capital-projects-under-detail/373EP.html"
+      },
+      "coordinates": [
+        [
+          114.14246,
+          22.502625
+        ]
+      ],
+      "geometry": null,
+      "page_title": {
+        "en": "A 30-classroom primary school at Area 17, Fanling North New Development Area",
+        "tc": "粉嶺北新發展區第17區1所設有30間課室的小學"
+      },
+      "description": {
+        "en": "Education – Primary Schools",
+        "tc": "教育 – 小學"
+      },
+      "scope": {
+        "en": "Northern",
+        "tc": "北區"
+      },
+      "agreement_no": "373EP",
+      "cost": {
+        "en": "$400M-$500M",
+        "tc": "$400M-$500M"
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "2025-26",
+        "tc": "2025-26"
+      },
+      "commissioning_date": {
+        "en": "2028-29",
+        "tc": "2028-29"
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "Contract No. : SSN515 (NEC ECC HK Edition Option B)Contract Sum : $366MContractor's Name : W. Hing Construction Company Limited - China Civil Engineering Construction Corporation - Sun Fook Kong (Civil) Limited Joint Venture",
+        "tc": "合約編號 : SSN515 (「新工程合約香港版」工程建造合約B選項) 合約價值 : $366M 承建商名稱 : 永興聯合建築有限公司 - 中國土木工程集團有限公司 - 新福港(土木)有限公司聯營"
+      },
+      "photos": [
+        {
+          "url": "https://www.archsd.gov.hk/media/projects/202604/20260413143709507/CPM102_373EP.jpg",
+          "alt": "CPM102_373EP.jpg"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "dataset": "archsd",
+      "department": "ARCHSD",
+      "item": "372EP",
+      "name": "A 30-classroom primary school at Area 89 (Northern side), Tung Chung",
+      "type": null,
+      "type_label": {
+        "en": "Primary Schools",
+        "tc": "小學"
+      },
+      "status": 2,
+      "status_label": {
+        "en": "Under Construction",
+        "tc": "施工中"
+      },
+      "url": {
+        "en": "https://www.archsd.gov.hk/en/projects/capital-projects-under-detail/372EP.html",
+        "tc": "https://www.archsd.gov.hk/tc/projects/capital-projects-under-detail/372EP.html"
+      },
+      "coordinates": [
+        [
+          113.952344,
+          22.296497
+        ]
+      ],
+      "geometry": null,
+      "page_title": {
+        "en": "A 30-classroom primary school at Area 89 (Northern side), Tung Chung",
+        "tc": "東涌第89區(北側)1所設有30 間課室的小學"
+      },
+      "description": {
+        "en": "Education – Primary Schools",
+        "tc": "教育 – 小學"
+      },
+      "scope": {
+        "en": "Islands",
+        "tc": "離島"
+      },
+      "agreement_no": "372EP",
+      "cost": {
+        "en": ">=$500M",
+        "tc": ">=$500M"
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "2025-26",
+        "tc": "2025-26"
+      },
+      "commissioning_date": {
+        "en": "2028-29",
+        "tc": "2028-29"
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "Contract No. : SSM510 (NEC4 ECC Option B)Contract Sum : $506M Contractor's Name : Lanon - Hop Lee Joint Venture",
+        "tc": "合約編號 : SSM510 (「新工程合約4」工程建造合約B選項) 合約價值 : $506M承建商名稱 : 亮雅 - 合利聯營"
+      },
+      "photos": [
+        {
+          "url": "https://www.archsd.gov.hk/media/projects/202604/20260413143709507/CPM102_372EP.jpg",
+          "alt": "CPM102_372EP.jpg"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "dataset": "archsd",
+      "department": "ARCHSD",
+      "item": "369EP",
+      "name": "A 30-classroom primary school at Site E-2, Development of Anderson Road Quarry Site, Sai Kung",
+      "type": null,
+      "type_label": {
+        "en": "Primary Schools",
+        "tc": "小學"
+      },
+      "status": 2,
+      "status_label": {
+        "en": "Under Construction",
+        "tc": "施工中"
+      },
+      "url": {
+        "en": "https://www.archsd.gov.hk/en/projects/capital-projects-under-detail/369EP.html",
+        "tc": "https://www.archsd.gov.hk/tc/projects/capital-projects-under-detail/369EP.html"
+      },
+      "coordinates": [
+        [
+          114.238592,
+          22.321249
+        ]
+      ],
+      "geometry": null,
+      "page_title": {
+        "en": "A 30-classroom primary school at Site E-2, Development of Anderson Road Quarry Site, Sai Kung",
+        "tc": "西貢安達臣道石礦場用地發展(地盤E-2)1所設有30間課室的小學"
+      },
+      "description": {
+        "en": "Education – Primary Schools",
+        "tc": "教育 – 小學"
+      },
+      "scope": {
+        "en": "Sai Kung",
+        "tc": "西貢"
+      },
+      "agreement_no": "369EP",
+      "cost": {
+        "en": "$400M - $500M",
+        "tc": "$400M - $500M"
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "2025-26",
+        "tc": "2025-26"
+      },
+      "commissioning_date": {
+        "en": "2028-29",
+        "tc": "2028-29"
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "Contract No. : SSP506 (NEC ECC HK Edition Option B)Contract Sum : $460MContractor's Name : Chun Wo Building Construction Limited",
+        "tc": "合約編號 : SSP506 (「新工程合約香港版」工程建造合約B選項) 合約價值 : $460M 承建商名稱 : 俊和建築有限公司"
+      },
+      "photos": [
+        {
+          "url": "https://www.archsd.gov.hk/media/projects/202604/20260413143709507/CPM102_369EP.jpg",
+          "alt": "CPM102_369EP.jpg"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "dataset": "archsd",
+      "department": "ARCHSD",
+      "item": "362EP",
+      "name": "A 30-classroom primary school at Site 1B-4, Kai Tak Development",
+      "type": null,
+      "type_label": {
+        "en": "Primary Schools",
+        "tc": "小學"
+      },
+      "status": 2,
+      "status_label": {
+        "en": "Under Construction",
+        "tc": "施工中"
+      },
+      "url": {
+        "en": "https://www.archsd.gov.hk/en/projects/capital-projects-under-detail/362EP.html",
+        "tc": "https://www.archsd.gov.hk/tc/projects/capital-projects-under-detail/362EP.html"
+      },
+      "coordinates": [
+        [
+          114.203447,
+          22.328211
+        ]
+      ],
+      "geometry": null,
+      "page_title": {
+        "en": "A 30-classroom primary school at Site 1B-4, Kai Tak Development",
+        "tc": "啟德發展計劃(地盤1B-4)1所設有30間課室的小學"
+      },
+      "description": {
+        "en": "Education – Primary Schools",
+        "tc": "教育 – 小學"
+      },
+      "scope": {
+        "en": "Kowloon City",
+        "tc": "九龍城"
+      },
+      "agreement_no": "362EP",
+      "cost": {
+        "en": "$400M - $500M",
+        "tc": "$400M - $500M"
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "2022-23",
+        "tc": "2022-23"
+      },
+      "commissioning_date": {
+        "en": "2026-27",
+        "tc": "2026-27"
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "Contract No. : SSL510 (NEC3 ECC Option B)Contract Sum : $409M Contractor's Name : Hop Lee Builders Company Limited",
+        "tc": "合約編號 : SSL510 (「新工程合約3」工程建造合約B選項)合約價值 : $409M 承建商名稱 : 合利營造有限公司"
+      },
+      "photos": [
+        {
+          "url": "https://www.archsd.gov.hk/media/projects/202604/20260413143709507/CPM102_362EP.png",
+          "alt": "CPM102_362EP.png"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "dataset": "archsd",
+      "department": "ARCHSD",
+      "item": "291RS",
+      "name": "Redevelopment of Yuen Long Stadium - Main Works",
+      "type": null,
+      "type_label": {
+        "en": "Sports Facilities",
+        "tc": "體育設施"
+      },
+      "status": 2,
+      "status_label": {
+        "en": "Under Construction",
+        "tc": "施工中"
+      },
+      "url": {
+        "en": "https://www.archsd.gov.hk/en/projects/capital-projects-under-detail/291RS.html",
+        "tc": "https://www.archsd.gov.hk/tc/projects/capital-projects-under-detail/291RS.html"
+      },
+      "coordinates": [
+        [
+          114.021238,
+          22.44279
+        ]
+      ],
+      "geometry": null,
+      "page_title": {
+        "en": "Redevelopment of Yuen Long Stadium - Main Works",
+        "tc": "重建元朗大球場 - 主要工程"
+      },
+      "description": {
+        "en": "Recreation, Culture and Amenities – Sports Facilities",
+        "tc": "康樂、文化及市政設施 – 體育設施"
+      },
+      "scope": {
+        "en": "Yuen Long",
+        "tc": "元朗"
+      },
+      "agreement_no": "291RS",
+      "cost": {
+        "en": ">=$500M",
+        "tc": ">=$500M"
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "2022-23",
+        "tc": "2022-23"
+      },
+      "commissioning_date": {
+        "en": "2026-27",
+        "tc": "2026-27"
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "Contract No. : SSK520 (NEC3 ECC Option B)Contract Sum : $1,007M Contractor's Name : CCECC-WF Joint Venture",
+        "tc": "合約編號 : SSK520 (「新工程合約3」工程建造合約B選項) 合約價值 : $1,007M承建商名稱 : 中國土木-華輝聯營"
+      },
+      "photos": [
+        {
+          "url": "https://www.archsd.gov.hk/media/projects/202604/20260413143709507/CPM302_291RS.jpg",
+          "alt": "CPM302_291RS.jpg"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "dataset": "archsd",
+      "department": "ARCHSD",
+      "item": "279LP",
+      "name": "Kong Nga Po Police Training Facilities",
+      "type": null,
+      "type_label": {
+        "en": "Police",
+        "tc": "警察"
+      },
+      "status": 2,
+      "status_label": {
+        "en": "Under Construction",
+        "tc": "施工中"
+      },
+      "url": {
+        "en": "https://www.archsd.gov.hk/en/projects/capital-projects-under-detail/279LP.html",
+        "tc": "https://www.archsd.gov.hk/tc/projects/capital-projects-under-detail/279LP.html"
+      },
+      "coordinates": [
+        [
+          114.134347,
+          22.527926
+        ]
+      ],
+      "geometry": null,
+      "page_title": {
+        "en": "Kong Nga Po Police Training Facilities",
+        "tc": "缸瓦甫警察訓練設施"
+      },
+      "description": {
+        "en": "Law and Order – Police",
+        "tc": "治安 – 警察"
+      },
+      "scope": {
+        "en": "Northern",
+        "tc": "北區"
+      },
+      "agreement_no": "279LP",
+      "cost": {
+        "en": ">=$500M",
+        "tc": ">=$500M"
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "2022-23",
+        "tc": "2022-23"
+      },
+      "commissioning_date": {
+        "en": "2026-27",
+        "tc": "2026-27"
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "Contract No. : SSK509 (NEC3 ECC Option A)Contract Sum : $2666M Contractor's Name : China State Joint Venture",
+        "tc": "合約編號 : SSK509 (「新工程合約3」工程建造合約A選項 )合約價值 : $2666M承建商名稱 : 中國建築聯營"
+      },
+      "photos": [
+        {
+          "url": "https://www.archsd.gov.hk/media/projects/202604/20260413143709507/CPM202_279LP.jpg",
+          "alt": "CPM202_279LP.jpg"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "dataset": "archsd",
+      "department": "ARCHSD",
+      "item": "201GK",
+      "name": "Development of a Joint-user Complex at Sheung Shui Areas 4 and 30",
+      "type": null,
+      "type_label": {
+        "en": "Others",
+        "tc": "其他"
+      },
+      "status": 2,
+      "status_label": {
+        "en": "Under Construction",
+        "tc": "施工中"
+      },
+      "url": {
+        "en": "https://www.archsd.gov.hk/en/projects/capital-projects-under-detail/201GK.html",
+        "tc": "https://www.archsd.gov.hk/tc/projects/capital-projects-under-detail/201GK.html"
+      },
+      "coordinates": [
+        [
+          114.122573,
+          22.50408
+        ]
+      ],
+      "geometry": null,
+      "page_title": {
+        "en": "Development of a Joint-user Complex at Sheung Shui Areas 4 and 30",
+        "tc": "在上水第4及第30區興建聯用綜合大樓"
+      },
+      "description": {
+        "en": "Support – Others",
+        "tc": "輔助設施 – 其他"
+      },
+      "scope": {
+        "en": "Northern",
+        "tc": "北區"
+      },
+      "agreement_no": "201GK",
+      "cost": {
+        "en": ">=$500M",
+        "tc": ">=$500M"
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "2024-25",
+        "tc": "2024-25"
+      },
+      "commissioning_date": {
+        "en": "2029-30",
+        "tc": "2029-30"
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "Works undertaken by Housing Department",
+        "tc": "工程建造由房屋署執行"
+      },
+      "photos": [
+        {
+          "url": "https://www.archsd.gov.hk/media/projects/202604/20260413143709507/CPM303_201GK.jpg",
+          "alt": "CPM303_201GK.jpg"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "dataset": "archsd",
+      "department": "ARCHSD",
+      "item": "200GK",
+      "name": "Joint-user Complex at Cheung Sha Wan Road, Sham Shui Po",
+      "type": null,
+      "type_label": {
+        "en": "Others",
+        "tc": "其他"
+      },
+      "status": 2,
+      "status_label": {
+        "en": "Under Construction",
+        "tc": "施工中"
+      },
+      "url": {
+        "en": "https://www.archsd.gov.hk/en/projects/capital-projects-under-detail/200GK.html",
+        "tc": "https://www.archsd.gov.hk/tc/projects/capital-projects-under-detail/200GK.html"
+      },
+      "coordinates": [
+        [
+          114.151045,
+          22.337409
+        ]
+      ],
+      "geometry": null,
+      "page_title": {
+        "en": "Joint-user Complex at Cheung Sha Wan Road, Sham Shui Po",
+        "tc": "深水埗長沙灣道聯用大樓"
+      },
+      "description": {
+        "en": "Support – Others",
+        "tc": "輔助設施 – 其他"
+      },
+      "scope": {
+        "en": "Sham Shui Po",
+        "tc": "深水埗"
+      },
+      "agreement_no": "200GK",
+      "cost": {
+        "en": ">=$500M",
+        "tc": ">=$500M"
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "2025-26",
+        "tc": "2025-26"
+      },
+      "commissioning_date": {
+        "en": "2030-31",
+        "tc": "2030-31"
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "Works undertaken by Urban Renewal Authority",
+        "tc": "工程建造由市區重建局執行"
+      },
+      "photos": [
+        {
+          "url": "https://www.archsd.gov.hk/media/projects/202604/20260413143709507/CPM303_200GK.png",
+          "alt": "CPM303_200GK.png"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "dataset": "archsd",
+      "department": "ARCHSD",
+      "item": "199SC",
+      "name": "Joint-user Complex at Texaco Road, Tsuen Wan",
+      "type": null,
+      "type_label": {
+        "en": "Community Halls",
+        "tc": "社區會堂"
+      },
+      "status": 2,
+      "status_label": {
+        "en": "Under Construction",
+        "tc": "施工中"
+      },
+      "url": {
+        "en": "https://www.archsd.gov.hk/en/projects/capital-projects-under-detail/199SC.html",
+        "tc": "https://www.archsd.gov.hk/tc/projects/capital-projects-under-detail/199SC.html"
+      },
+      "coordinates": [
+        [
+          114.114192,
+          22.366645
+        ]
+      ],
+      "geometry": null,
+      "page_title": {
+        "en": "Joint-user Complex at Texaco Road, Tsuen Wan",
+        "tc": "荃灣德士古道聯用綜合大樓"
+      },
+      "description": {
+        "en": "Social Welfare and Community Buildings – Community Halls",
+        "tc": "社會福利及社區建設 – 社區會堂"
+      },
+      "scope": {
+        "en": "Tsuen Wan",
+        "tc": "荃灣"
+      },
+      "agreement_no": "199SC",
+      "cost": {
+        "en": "$200M - $300M",
+        "tc": "$200M - $300M"
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "2023-24",
+        "tc": "2023-24"
+      },
+      "commissioning_date": {
+        "en": "2026-27",
+        "tc": "2026-27"
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "Contract No. : SSM507  (NEC4 ECC Option B)Contract Sum : $217M Contractor's Name : Wah Tat Construction Company",
+        "tc": "合約編號 : SSM507 (「新工程合約4」工程建造合約B選項)合約價值 : $217M 承建商名稱 : 華達建築公司"
+      },
+      "photos": [
+        {
+          "url": "https://www.archsd.gov.hk/media/projects/202604/20260413143709507/CPM302_199SC.jpg",
+          "alt": "CPM302_199SC.jpg"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "dataset": "archsd",
+      "department": "ARCHSD",
+      "item": "197GK",
+      "name": "Joint-user Complex with Market in Area 67, Tseung Kwan O",
+      "type": null,
+      "type_label": {
+        "en": "Others",
+        "tc": "其他"
+      },
+      "status": 2,
+      "status_label": {
+        "en": "Under Construction",
+        "tc": "施工中"
+      },
+      "url": {
+        "en": "https://www.archsd.gov.hk/en/projects/capital-projects-under-detail/197GK.html",
+        "tc": "https://www.archsd.gov.hk/tc/projects/capital-projects-under-detail/197GK.html"
+      },
+      "coordinates": [
+        [
+          114.25829,
+          22.305852
+        ]
+      ],
+      "geometry": null,
+      "page_title": {
+        "en": "Joint-user Complex with Market in Area 67, Tseung Kwan O",
+        "tc": "將軍澳第67區的聯用綜合大樓(附設街市)"
+      },
+      "description": {
+        "en": "Support – Others",
+        "tc": "輔助設施 – 其他"
+      },
+      "scope": {
+        "en": "Sai Kung",
+        "tc": "西貢"
+      },
+      "agreement_no": "197GK",
+      "cost": {
+        "en": ">=$500M",
+        "tc": ">=$500M"
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "2024-25",
+        "tc": "2024-25"
+      },
+      "commissioning_date": {
+        "en": "2028-29",
+        "tc": "2028-29"
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "Contract No. : SSM504  (NEC3 ECC Option A)Contract Sum : $2,891M Contractor's Name : Paul Y. - Able (TKO67) Joint Venture",
+        "tc": "合約編號 : SSM504 (「新工程合約3」工程建造合約A選項)合約價值 : $2,891M 承建商名稱 : 保華 - 安保 (TKO67) 聯營"
+      },
+      "photos": [
+        {
+          "url": "https://www.archsd.gov.hk/media/projects/202604/20260413143709507/PPAM_197GK.jpg",
+          "alt": "PPAM_197GK.jpg"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "dataset": "archsd",
+      "department": "ARCHSD",
+      "item": "195GK",
+      "name": "Joint-user Complex at Site G2, Anderson Road Quarry",
+      "type": null,
+      "type_label": {
+        "en": "Others",
+        "tc": "其他"
+      },
+      "status": 2,
+      "status_label": {
+        "en": "Under Construction",
+        "tc": "施工中"
+      },
+      "url": {
+        "en": "https://www.archsd.gov.hk/en/projects/capital-projects-under-detail/195GK.html",
+        "tc": "https://www.archsd.gov.hk/tc/projects/capital-projects-under-detail/195GK.html"
+      },
+      "coordinates": [
+        [
+          114.233617,
+          22.323969
+        ]
+      ],
+      "geometry": null,
+      "page_title": {
+        "en": "Joint-user Complex at Site G2, Anderson Road Quarry",
+        "tc": "安達臣道石礦場(地盤G2)聯用大樓"
+      },
+      "description": {
+        "en": "Support – Others",
+        "tc": "輔助設施 – 其他"
+      },
+      "scope": {
+        "en": "Sai Kung",
+        "tc": "西貢"
+      },
+      "agreement_no": "195GK",
+      "cost": {
+        "en": ">=$500M",
+        "tc": ">=$500M"
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "2022-23",
+        "tc": "2022-23"
+      },
+      "commissioning_date": {
+        "en": "2027-28",
+        "tc": "2027-28"
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "Contract No. : SSM503 (NEC4 ECC Option A)Contract Sum : $1,839M Contractor's Name : Dragages Hong Kong Limited",
+        "tc": "合約編號 : SSM503 (「新工程合約4」工程建造合約A選項)合約價值 : $1,839M 承建商名稱 : 香港寶嘉建築有限公司"
+      },
+      "photos": []
+    },
+    {
+      "id": 18,
+      "dataset": "archsd",
+      "department": "ARCHSD",
+      "item": "193GK",
+      "name": "Kwun Tong Composite Development Project",
+      "type": null,
+      "type_label": {
+        "en": "Others",
+        "tc": "其他"
+      },
+      "status": 2,
+      "status_label": {
+        "en": "Under Construction",
+        "tc": "施工中"
+      },
+      "url": {
+        "en": "https://www.archsd.gov.hk/en/projects/capital-projects-under-detail/193GK.html",
+        "tc": "https://www.archsd.gov.hk/tc/projects/capital-projects-under-detail/193GK.html"
+      },
+      "coordinates": [
+        [
+          114.228412,
+          22.311849
+        ]
+      ],
+      "geometry": null,
+      "page_title": {
+        "en": "Kwun Tong Composite Development Project",
+        "tc": "觀塘綜合發展項目"
+      },
+      "description": {
+        "en": "Support – Others",
+        "tc": "輔助設施 – 其他"
+      },
+      "scope": {
+        "en": "Kwun Tong",
+        "tc": "觀塘"
+      },
+      "agreement_no": "193GK",
+      "cost": {
+        "en": ">=$500M",
+        "tc": ">=$500M"
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "2022-23",
+        "tc": "2022-23"
+      },
+      "commissioning_date": {
+        "en": "2027-28",
+        "tc": "2027-28"
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "Contract No. : SSL501 (NEC3 ECC Option A)Contract Sum : $3,643M Contractor's Name :  Gammon Construction Limited",
+        "tc": "合約編號 : SSL501 (「新工程合約3」工程建造合約A選項) 合約價值 : $3,643M承建商名稱 : 金門建築有限公司"
+      },
+      "photos": [
+        {
+          "url": "https://www.archsd.gov.hk/media/projects/202604/20260413143709507/CPM103_193GK.jpg",
+          "alt": "CPM103_193GK.jpg"
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "dataset": "archsd",
+      "department": "ARCHSD",
+      "item": "191GK",
+      "name": "Community hall, general outpatient clinic and maternal and child health centre at Ching Hong Road, Tsing Yi",
+      "type": null,
+      "type_label": {
+        "en": "Others",
+        "tc": "其他"
+      },
+      "status": 2,
+      "status_label": {
+        "en": "Under Construction",
+        "tc": "施工中"
+      },
+      "url": {
+        "en": "https://www.archsd.gov.hk/en/projects/capital-projects-under-detail/191GK.html",
+        "tc": "https://www.archsd.gov.hk/tc/projects/capital-projects-under-detail/191GK.html"
+      },
+      "coordinates": [
+        [
+          114.107433,
+          22.349222
+        ]
+      ],
+      "geometry": null,
+      "page_title": {
+        "en": "Community hall, general outpatient clinic and maternal and child health centre at Ching Hong Road, Tsing Yi",
+        "tc": "青衣青康路社區會堂、普通科門診診所及母嬰健康院"
+      },
+      "description": {
+        "en": "Support – Others",
+        "tc": "輔助設施 – 其他"
+      },
+      "scope": {
+        "en": "Kwai Tsing",
+        "tc": "葵青"
+      },
+      "agreement_no": "191GK",
+      "cost": {
+        "en": ">=$500M",
+        "tc": ">=$500M"
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "2020-21",
+        "tc": "2020-21"
+      },
+      "commissioning_date": {
+        "en": "2029-30",
+        "tc": "2029-30"
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "Works undertaken by Housing Department",
+        "tc": "工程建造由房屋署執行"
+      },
+      "photos": [
+        {
+          "url": "https://www.archsd.gov.hk/media/projects/202604/20260413143709507/CPM303_191GK.jpg",
+          "alt": "CPM303_191GK.jpg"
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "dataset": "archsd",
+      "department": "ARCHSD",
+      "item": "179BF",
+      "name": "Reprovisioning of Kong Wan Fire Station",
+      "type": null,
+      "type_label": {
+        "en": "Fire Services",
+        "tc": "消防"
+      },
+      "status": 2,
+      "status_label": {
+        "en": "Under Construction",
+        "tc": "施工中"
+      },
+      "url": {
+        "en": "https://www.archsd.gov.hk/en/projects/capital-projects-under-detail/179BF.html",
+        "tc": "https://www.archsd.gov.hk/tc/projects/capital-projects-under-detail/179BF.html"
+      },
+      "coordinates": [
+        [
+          114.168811,
+          22.281209
+        ]
+      ],
+      "geometry": null,
+      "page_title": {
+        "en": "Reprovisioning of Kong Wan Fire Station",
+        "tc": "重置港灣消防局"
+      },
+      "description": {
+        "en": "Public Safety – Fire Services",
+        "tc": "公眾安全 – 消防"
+      },
+      "scope": {
+        "en": "Wan Chai",
+        "tc": "灣仔"
+      },
+      "agreement_no": "179BF",
+      "cost": {
+        "en": ">=$500M",
+        "tc": ">=$500M"
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "2023-24",
+        "tc": "2023-24"
+      },
+      "commissioning_date": {
+        "en": "2027-28",
+        "tc": "2027-28"
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "Contract No. : SSM502 (NEC4 ECC Option A) Contract Sum : $1110M Contractor's Name : Shui On Construction Company Limited",
+        "tc": "合約編號 : SSM502 (「新工程合約4」工程建造合約A選項 )合約價值 : $1110M承建商名稱 : 瑞安建築有限公司"
+      },
+      "photos": []
+    },
+    {
+      "id": 21,
+      "dataset": "archsd",
+      "department": "ARCHSD",
+      "item": "177BF",
+      "name": "Construction of Fire station-cum-ambulance depot with departmental quarters and facilities of the Fire Services Department at Anderson Road Quarry Site, Sai Kung",
+      "type": null,
+      "type_label": {
+        "en": "Fire Services",
+        "tc": "消防"
+      },
+      "status": 2,
+      "status_label": {
+        "en": "Under Construction",
+        "tc": "施工中"
+      },
+      "url": {
+        "en": "https://www.archsd.gov.hk/en/projects/capital-projects-under-detail/177BF.html",
+        "tc": "https://www.archsd.gov.hk/tc/projects/capital-projects-under-detail/177BF.html"
+      },
+      "coordinates": [
+        [
+          114.237242,
+          22.321621
+        ]
+      ],
+      "geometry": null,
+      "page_title": {
+        "en": "Construction of Fire station-cum-ambulance depot with departmental quarters and facilities of the Fire Services Department at Anderson Road Quarry Site, Sai Kung",
+        "tc": "西貢安達臣道石礦場消防處消防局暨救護站、部門宿舍及消防設施建造工程"
+      },
+      "description": {
+        "en": "Public Safety – Fire Services",
+        "tc": "公眾安全 – 消防"
+      },
+      "scope": {
+        "en": "Kwun Tong",
+        "tc": "觀塘"
+      },
+      "agreement_no": "177BF",
+      "cost": {
+        "en": ">=$500M",
+        "tc": ">=$500M"
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "2025-26",
+        "tc": "2025-26"
+      },
+      "commissioning_date": {
+        "en": "2029-30",
+        "tc": "2029-30"
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "Contract No. : SSP504 (NEC ECC HK Edition Option C)Contract Sum : $1,032M Contractor's Name : Shui On Joint Venture",
+        "tc": "合約編號. : SSP504 「新工程合約香港版」工程建造合約C選項合約價值 : $1,032M 承建商名稱 : 瑞安聯營"
+      },
+      "photos": []
+    },
+    {
+      "id": 22,
+      "dataset": "archsd",
+      "department": "ARCHSD",
+      "item": "140KA",
+      "name": "Construction of Annex Block at Hong Kong Observatory Headquarters, Tsim Sha Tsui",
+      "type": null,
+      "type_label": {
+        "en": "Intra-governmental services",
+        "tc": "政府內部服務"
+      },
+      "status": 2,
+      "status_label": {
+        "en": "Under Construction",
+        "tc": "施工中"
+      },
+      "url": {
+        "en": "https://www.archsd.gov.hk/en/projects/capital-projects-under-detail/140KA.html",
+        "tc": "https://www.archsd.gov.hk/tc/projects/capital-projects-under-detail/140KA.html"
+      },
+      "coordinates": [
+        [
+          114.173429,
+          22.301619
+        ]
+      ],
+      "geometry": null,
+      "page_title": {
+        "en": "Construction of Annex Block at Hong Kong Observatory Headquarters, Tsim Sha Tsui",
+        "tc": "尖沙咀天文台總部副樓興建工程"
+      },
+      "description": {
+        "en": "Government Office – Intra-governmental services",
+        "tc": "政府辦事處 – 政府內部服務"
+      },
+      "scope": {
+        "en": "Yau Tsim Mong",
+        "tc": "油尖旺"
+      },
+      "agreement_no": "140KA",
+      "cost": {
+        "en": ">=$500M",
+        "tc": ">=$500M"
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "2025-26",
+        "tc": "2025-26"
+      },
+      "commissioning_date": {
+        "en": "2029-30",
+        "tc": "2029-30"
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "Contract No. : SSN518 (NEC ECC HK Edition Option B)Contract Sum : $480MContractor's Name :  Treasure Construction Engineering Limited",
+        "tc": "合約編號 : SSN518 (「新工程合約香港版」工程建造合約B選項) 合約價值 : $480M 承建商名稱 : 海悅建築工程有限公司"
+      },
+      "photos": [
+        {
+          "url": "https://www.archsd.gov.hk/media/projects/202604/20260413143709507/CPM101_140KA.jpg",
+          "alt": "CPM101_140KA.jpg"
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "dataset": "archsd",
+      "department": "ARCHSD",
+      "item": "129KA",
+      "name": "Water Supplies Department Headquarters with Hong Kong and Islands Regional Office and Correctional Services Department Headquarters Building in Chai Wan",
+      "type": null,
+      "type_label": {
+        "en": "Intra-governmental services",
+        "tc": "政府內部服務"
+      },
+      "status": 2,
+      "status_label": {
+        "en": "Under Construction",
+        "tc": "施工中"
+      },
+      "url": {
+        "en": "https://www.archsd.gov.hk/en/projects/capital-projects-under-detail/129KA.html",
+        "tc": "https://www.archsd.gov.hk/tc/projects/capital-projects-under-detail/129KA.html"
+      },
+      "coordinates": [
+        [
+          114.241747,
+          22.2739
+        ]
+      ],
+      "geometry": null,
+      "page_title": {
+        "en": "Water Supplies Department Headquarters with Hong Kong and Islands Regional Office and Correctional Services Department Headquarters Building in Chai Wan",
+        "tc": "柴灣水務署總部暨香港及離島分署及懲教署總部大樓"
+      },
+      "description": {
+        "en": "Government Office – Intra-governmental services",
+        "tc": "政府辦事處 – 政府內部服務"
+      },
+      "scope": {
+        "en": "Eastern",
+        "tc": "東區"
+      },
+      "agreement_no": "129KA",
+      "cost": {
+        "en": ">=$500M",
+        "tc": ">=$500M"
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "2020-21",
+        "tc": "2020-21"
+      },
+      "commissioning_date": {
+        "en": "2027-28",
+        "tc": "2027-28"
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "Contract No. : REN521Contract Sum : $2200MContractor's Name : China State Construction Engineering (Hong Kong) Limited",
+        "tc": "合約編號. : REN521合約價值 : $2200M承建商名稱 : 中國建築工程 (香港) 有限公司"
+      },
+      "photos": [
+        {
+          "url": "https://www.archsd.gov.hk/media/projects/202604/20260413143709507/CPM103_129KA.jpg",
+          "alt": "CPM103_129KA.jpg"
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "dataset": "archsd",
+      "department": "ARCHSD",
+      "item": "115ET",
+      "name": "A 12-classroom special school at Oi Kwan Road, Wan Chai",
+      "type": null,
+      "type_label": {
+        "en": "Other",
+        "tc": "其他"
+      },
+      "status": 2,
+      "status_label": {
+        "en": "Under Construction",
+        "tc": "施工中"
+      },
+      "url": {
+        "en": "https://www.archsd.gov.hk/en/projects/capital-projects-under-detail/115ET.html",
+        "tc": "https://www.archsd.gov.hk/tc/projects/capital-projects-under-detail/115ET.html"
+      },
+      "coordinates": [
+        [
+          114.179795,
+          22.276505
+        ]
+      ],
+      "geometry": null,
+      "page_title": {
+        "en": "A 12-classroom special school at Oi Kwan Road, Wan Chai",
+        "tc": "灣仔愛群道1所設有12間課室的特殊學校"
+      },
+      "description": {
+        "en": "Education – Other",
+        "tc": "教育 – 其他"
+      },
+      "scope": {
+        "en": "Wan Chai",
+        "tc": "灣仔"
+      },
+      "agreement_no": "115ET",
+      "cost": {
+        "en": "$400M-$500M",
+        "tc": "$400M-$500M"
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "2024-25",
+        "tc": "2024-25"
+      },
+      "commissioning_date": {
+        "en": "2028-29",
+        "tc": "2028-29"
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "Contract No. : SSM508 (NEC4 ECC Option B) Contract Sum : $378M Contractor's Name : Woon Lee Construction Company Ltd.",
+        "tc": "合約編號 : SSM508 (「新工程合約4」工程建造合約B選項) 合約價值 : $378M承建商名稱 : 煥利建築有限公司"
+      },
+      "photos": [
+        {
+          "url": "https://www.archsd.gov.hk/media/projects/202604/20260413143709507/CPM102_115ET.jpg",
+          "alt": "CPM102_115ET.jpg"
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "dataset": "archsd",
+      "department": "ARCHSD",
+      "item": "114MH",
+      "name": "Expansion of Lai King Building in Princess Margaret Hospital  - main works",
+      "type": null,
+      "type_label": {
+        "en": "Hospitals",
+        "tc": "醫院"
+      },
+      "status": 2,
+      "status_label": {
+        "en": "Under Construction",
+        "tc": "施工中"
+      },
+      "url": {
+        "en": "https://www.archsd.gov.hk/en/projects/capital-projects-under-detail/114MH.html",
+        "tc": "https://www.archsd.gov.hk/tc/projects/capital-projects-under-detail/114MH.html"
+      },
+      "coordinates": [
+        [
+          114.130966,
+          22.347695
+        ]
+      ],
+      "geometry": null,
+      "page_title": {
+        "en": "Expansion of Lai King Building in Princess Margaret Hospital  - main works",
+        "tc": "瑪嘉烈醫院荔景大樓擴建工程 - 主要工程"
+      },
+      "description": {
+        "en": "Health – Hospitals",
+        "tc": "衛生 – 醫院"
+      },
+      "scope": {
+        "en": "Kwai Tsing",
+        "tc": "葵青"
+      },
+      "agreement_no": "114MH",
+      "cost": {
+        "en": ">=500M",
+        "tc": ">=500M"
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "2023-24",
+        "tc": "2023-24"
+      },
+      "commissioning_date": {
+        "en": "2027-28",
+        "tc": "2027-28"
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "Works undertaken by Hospital Authority",
+        "tc": "工程建造由醫院管理局執行"
+      },
+      "photos": [
+        {
+          "url": "https://www.archsd.gov.hk/media/projects/202604/20260413143709507/CPM401_114MH.png",
+          "alt": "CPM401_114MH.png"
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "dataset": "archsd",
+      "department": "ARCHSD",
+      "item": "114ET",
+      "name": "Kindergarten Education Centre (Siu Sai Wan)",
+      "type": null,
+      "type_label": {
+        "en": "Others",
+        "tc": "其他"
+      },
+      "status": 2,
+      "status_label": {
+        "en": "Under Construction",
+        "tc": "施工中"
+      },
+      "url": {
+        "en": "https://www.archsd.gov.hk/en/projects/capital-projects-under-detail/114ET.html",
+        "tc": "https://www.archsd.gov.hk/tc/projects/capital-projects-under-detail/114ET.html"
+      },
+      "coordinates": [
+        [
+          114.250407,
+          22.26435
+        ]
+      ],
+      "geometry": null,
+      "page_title": {
+        "en": "Kindergarten Education Centre (Siu Sai Wan)",
+        "tc": "幼稚園教育中心(小西灣)"
+      },
+      "description": {
+        "en": "Education – Others",
+        "tc": "教育 – 其他"
+      },
+      "scope": {
+        "en": "Eastern",
+        "tc": "東區"
+      },
+      "agreement_no": "114ET",
+      "cost": {
+        "en": "$400M - $500M",
+        "tc": "$400M - $500M"
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "2022-23",
+        "tc": "2022-23"
+      },
+      "commissioning_date": {
+        "en": "2026-27",
+        "tc": "2026-27"
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "Contract No. : SSL507 (NEC3 ECC Option B)Contract Sum : 428MContractor's Name : China International Water &amp; Electric Corporation",
+        "tc": "合約編號 : SSL507(「新工程合約3」工程建造合約B選項)合約價值 : $428M 承建商名稱 : 中國水利電力對外有限公司"
+      },
+      "photos": [
+        {
+          "url": "https://www.archsd.gov.hk/media/projects/202604/20260413143709507/CPM102_114ET.jpg",
+          "alt": "CPM102_114ET.jpg"
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "dataset": "archsd",
+      "department": "ARCHSD",
+      "item": "112ET",
+      "name": "Two special schools at Renfrew Road, Kowloon Tong",
+      "type": null,
+      "type_label": {
+        "en": "Others",
+        "tc": "其他"
+      },
+      "status": 2,
+      "status_label": {
+        "en": "Under Construction",
+        "tc": "施工中"
+      },
+      "url": {
+        "en": "https://www.archsd.gov.hk/en/projects/capital-projects-under-detail/112ET.html",
+        "tc": "https://www.archsd.gov.hk/tc/projects/capital-projects-under-detail/112ET.html"
+      },
+      "coordinates": [
+        [
+          114.181825,
+          22.334915
+        ]
+      ],
+      "geometry": null,
+      "page_title": {
+        "en": "Two special schools at Renfrew Road, Kowloon Tong",
+        "tc": "九龍塘聯福道2所特殊學校"
+      },
+      "description": {
+        "en": "Education – Others",
+        "tc": "教育 – 其他"
+      },
+      "scope": {
+        "en": "Kowloon City",
+        "tc": "九龍城"
+      },
+      "agreement_no": "112ET",
+      "cost": {
+        "en": ">=$500M",
+        "tc": ">=$500M"
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "2022-23",
+        "tc": "2022-23"
+      },
+      "commissioning_date": {
+        "en": "2026-27",
+        "tc": "2026-27"
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "Contract No. : SSL506 (NEC3 ECC Option B)Contract Sum : $742M Contractor's Name : Unistress Building Construction Limited",
+        "tc": "合約編號 : SSL506 (「新工程合約3」工程建造合約B選項)合約價值 : $742M 承建商名稱 : 聯力建築有限公司"
+      },
+      "photos": [
+        {
+          "url": "https://www.archsd.gov.hk/media/projects/202604/20260413143709507/CPM102_112ET.jpg",
+          "alt": "CPM102_112ET.jpg"
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "dataset": "archsd",
+      "department": "ARCHSD",
+      "item": "087MM",
+      "name": "New Acute Hospital at Kai Tak Development Area &ndash; main works",
+      "type": null,
+      "type_label": {
+        "en": "Hospitals",
+        "tc": "醫院"
+      },
+      "status": 2,
+      "status_label": {
+        "en": "Under Construction",
+        "tc": "施工中"
+      },
+      "url": {
+        "en": "https://www.archsd.gov.hk/en/projects/capital-projects-under-detail/087MM.html",
+        "tc": "https://www.archsd.gov.hk/tc/projects/capital-projects-under-detail/087MM.html"
+      },
+      "coordinates": [
+        [
+          114.207201,
+          22.318283
+        ]
+      ],
+      "geometry": null,
+      "page_title": {
+        "en": "New Acute Hospital at Kai Tak Development Area &ndash; main works",
+        "tc": "在啟德發展區興建新急症醫院－主要工程"
+      },
+      "description": {
+        "en": "Health – Hospitals",
+        "tc": "衛生 – 醫院"
+      },
+      "scope": {
+        "en": "Kowloon City",
+        "tc": "九龍城"
+      },
+      "agreement_no": "087MM",
+      "cost": {
+        "en": ">=$500M",
+        "tc": ">=$500M"
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "2021-22",
+        "tc": "2021-22"
+      },
+      "commissioning_date": {
+        "en": "2027-28",
+        "tc": "2027-28"
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "Works undertaken by Hospital Authority",
+        "tc": "工程建造由醫院管理局執行"
+      },
+      "photos": [
+        {
+          "url": "https://www.archsd.gov.hk/media/projects/202604/20260413143709507/CPM202_87MM.jpg",
+          "alt": "CPM202_87MM.jpg"
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "dataset": "archsd",
+      "department": "ARCHSD",
+      "item": "079LC",
+      "name": "Redevelopment of Lai Chi Kok Reception Centre",
+      "type": null,
+      "type_label": {
+        "en": "Correctional services",
+        "tc": "懲教服務"
+      },
+      "status": 2,
+      "status_label": {
+        "en": "Under Construction",
+        "tc": "施工中"
+      },
+      "url": {
+        "en": "https://www.archsd.gov.hk/en/projects/capital-projects-under-detail/079LC.html",
+        "tc": "https://www.archsd.gov.hk/tc/projects/capital-projects-under-detail/079LC.html"
+      },
+      "coordinates": [
+        [
+          114.144054,
+          22.338496
+        ]
+      ],
+      "geometry": null,
+      "page_title": {
+        "en": "Redevelopment of Lai Chi Kok Reception Centre",
+        "tc": "荔枝角收押所重建計劃"
+      },
+      "description": {
+        "en": "Law and Order – Correctional services",
+        "tc": "治安 – 懲教服務"
+      },
+      "scope": {
+        "en": "Sham Shui Po",
+        "tc": "深水埗"
+      },
+      "agreement_no": "079LC",
+      "cost": {
+        "en": ">=$500M",
+        "tc": ">=$500M"
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "2024-25",
+        "tc": "2024-25"
+      },
+      "commissioning_date": {
+        "en": "2031-32",
+        "tc": "2031-32"
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "Contract No. : SSK508  (NEC3 ECC Option A)Contract Sum : $3,908M Contractor's Name : Shui On Construction Company Limited",
+        "tc": "合約編號 : SSK508 (「新工程合約3」工程建造合約A選項)合約價值 : $3,908M 承建商名稱 : 瑞安建築有限公司"
+      },
+      "photos": []
+    },
+    {
+      "id": 30,
+      "dataset": "archsd",
+      "department": "ARCHSD",
+      "item": "078RE",
+      "name": "Reprovisioning of Pok Fu Lam Public Library in the Pok Fu Lam South Public Housing Developments",
+      "type": null,
+      "type_label": {
+        "en": "Cultural Facilities",
+        "tc": "文化設施"
+      },
+      "status": 2,
+      "status_label": {
+        "en": "Under Construction",
+        "tc": "施工中"
+      },
+      "url": {
+        "en": "https://www.archsd.gov.hk/en/projects/capital-projects-under-detail/078RE.html",
+        "tc": "https://www.archsd.gov.hk/tc/projects/capital-projects-under-detail/078RE.html"
+      },
+      "coordinates": [
+        [
+          114.141454,
+          22.253644
+        ]
+      ],
+      "geometry": null,
+      "page_title": {
+        "en": "Reprovisioning of Pok Fu Lam Public Library in the Pok Fu Lam South Public Housing Developments",
+        "tc": "在薄扶林南公營房屋發展計劃中重置薄扶林公共圖書館"
+      },
+      "description": {
+        "en": "Recreation, Culture and Amenities – Cultural Facilities",
+        "tc": "康樂、文化及市政設施 – 文化設施"
+      },
+      "scope": {
+        "en": "Southern",
+        "tc": "南區"
+      },
+      "agreement_no": "078RE",
+      "cost": {
+        "en": "$100M - $200M",
+        "tc": "$100M - $200M"
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "2025-26",
+        "tc": "2025-26"
+      },
+      "commissioning_date": {
+        "en": "2031-32",
+        "tc": "2031-32"
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "Works undertaken by Housing Department",
+        "tc": "工程建造由房屋署執行"
+      },
+      "photos": [
+        {
+          "url": "https://www.archsd.gov.hk/media/projects/202604/20260413143709507/CPM303_078RE.jpg",
+          "alt": "CPM303_078RE.jpg"
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "dataset": "archsd",
+      "department": "ARCHSD",
+      "item": "077RE",
+      "name": "Chinese Culture Experience Centre",
+      "type": null,
+      "type_label": {
+        "en": "Cultural Facilities",
+        "tc": "文化設施"
+      },
+      "status": 2,
+      "status_label": {
+        "en": "Under Construction",
+        "tc": "施工中"
+      },
+      "url": {
+        "en": "https://www.archsd.gov.hk/en/projects/capital-projects-under-detail/077RE.html",
+        "tc": "https://www.archsd.gov.hk/tc/projects/capital-projects-under-detail/077RE.html"
+      },
+      "coordinates": [
+        [
+          114.169977,
+          22.298609
+        ]
+      ],
+      "geometry": null,
+      "page_title": {
+        "en": "Chinese Culture Experience Centre",
+        "tc": "中華文化體驗館"
+      },
+      "description": {
+        "en": "Recreation, Culture and Amenities – Cultural Facilities",
+        "tc": "康樂、文化及市政設施 – 文化設施"
+      },
+      "scope": {
+        "en": "Yau Tsim Mong",
+        "tc": "油尖旺"
+      },
+      "agreement_no": "077RE",
+      "cost": {
+        "en": "$300M-$400M",
+        "tc": "$300M-$400M"
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "2025-26",
+        "tc": "2025-26"
+      },
+      "commissioning_date": {
+        "en": "2028-29",
+        "tc": "2028-29"
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "Contract No. : SSN504 (NEC4 ECC Option B)Contract Sum : $233M Contractor's Name : Man Kit Construction Company Limited",
+        "tc": "合約編號 : SSN504 (「新工程合約4」工程建造合約B選項) 合約價值 : $233M 承建商名稱 : 文傑建築有限公司"
+      },
+      "photos": [
+        {
+          "url": "https://www.archsd.gov.hk/media/projects/202604/20260413143709507/CPM302_077RE-1.jpg",
+          "alt": "CPM302_077RE-1.jpg"
+        },
+        {
+          "url": "https://www.archsd.gov.hk/media/projects/202604/20260413143709507/CPM302_077RE-2.jpg",
+          "alt": "CPM302_077RE-2.jpg"
+        },
+        {
+          "url": "https://www.archsd.gov.hk/media/projects/202604/20260413143709507/CPM302_077RE-3.jpg",
+          "alt": "CPM302_077RE-3.jpg"
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "dataset": "archsd",
+      "department": "ARCHSD",
+      "item": "077MC",
+      "name": "General outpatient clinic and child assessment centre at Ko Chiu Road",
+      "type": null,
+      "type_label": {
+        "en": "Clinics",
+        "tc": "診療所"
+      },
+      "status": 2,
+      "status_label": {
+        "en": "Under Construction",
+        "tc": "施工中"
+      },
+      "url": {
+        "en": "https://www.archsd.gov.hk/en/projects/capital-projects-under-detail/077MC.html",
+        "tc": "https://www.archsd.gov.hk/tc/projects/capital-projects-under-detail/077MC.html"
+      },
+      "coordinates": [
+        [
+          114.240492,
+          22.300132
+        ]
+      ],
+      "geometry": null,
+      "page_title": {
+        "en": "General outpatient clinic and child assessment centre at Ko Chiu Road",
+        "tc": "位於高超道的普通科門診診所及兒童體能智力測驗中心"
+      },
+      "description": {
+        "en": "Health – Clinics",
+        "tc": "衛生 – 診療所"
+      },
+      "scope": {
+        "en": "Kwun Tong",
+        "tc": "觀塘"
+      },
+      "agreement_no": "077MC",
+      "cost": {
+        "en": ">=500M",
+        "tc": ">=500M"
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "2023-24",
+        "tc": "2023-24"
+      },
+      "commissioning_date": {
+        "en": "2028-29",
+        "tc": "2028-29"
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "Works undertaken by Housing Department",
+        "tc": "工程建造由房屋署執行"
+      },
+      "photos": [
+        {
+          "url": "https://www.archsd.gov.hk/media/projects/202604/20260413143709507/CPM303_077MC_Ko_Chiu_Road.jpg",
+          "alt": "CPM303_077MC_Ko_Chiu_Road.jpg"
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "dataset": "archsd",
+      "department": "ARCHSD",
+      "item": "075MM",
+      "name": "Redevelopment of Prince of Wales Hospital, phase 2 (stage 1) &ndash; main works",
+      "type": null,
+      "type_label": {
+        "en": "Hospitals",
+        "tc": "醫院"
+      },
+      "status": 2,
+      "status_label": {
+        "en": "Under Construction",
+        "tc": "施工中"
+      },
+      "url": {
+        "en": "https://www.archsd.gov.hk/en/projects/capital-projects-under-detail/075MM.html",
+        "tc": "https://www.archsd.gov.hk/tc/projects/capital-projects-under-detail/075MM.html"
+      },
+      "coordinates": [
+        [
+          114.203101,
+          22.379433
+        ]
+      ],
+      "geometry": null,
+      "page_title": {
+        "en": "Redevelopment of Prince of Wales Hospital, phase 2 (stage 1) &ndash; main works",
+        "tc": "威爾斯親王醫院重建計劃第二期(第一階段) &ndash; 主要工程"
+      },
+      "description": {
+        "en": "Health – Hospitals",
+        "tc": "衛生 – 醫院"
+      },
+      "scope": {
+        "en": "Shatin",
+        "tc": "沙田"
+      },
+      "agreement_no": "075MM",
+      "cost": {
+        "en": ">=$500M",
+        "tc": ">=$500M"
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "2023-24",
+        "tc": "2023-24"
+      },
+      "commissioning_date": {
+        "en": "2029-30",
+        "tc": "2029-30"
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "Works undertaken by Hospital Authority",
+        "tc": "工程建造由醫院管理局執行"
+      },
+      "photos": [
+        {
+          "url": "https://www.archsd.gov.hk/media/projects/202604/20260413143709507/CPM401_075MM.jpg",
+          "alt": "CPM401_075MM.jpg"
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "dataset": "archsd",
+      "department": "ARCHSD",
+      "item": "075MC",
+      "name": "Community health centre-cum-residential care home for the elderly at Tuen Mun Area 29 West",
+      "type": null,
+      "type_label": {
+        "en": "Clinics",
+        "tc": "診療所"
+      },
+      "status": 2,
+      "status_label": {
+        "en": "Under Construction",
+        "tc": "施工中"
+      },
+      "url": {
+        "en": "https://www.archsd.gov.hk/en/projects/capital-projects-under-detail/075MC.html",
+        "tc": "https://www.archsd.gov.hk/tc/projects/capital-projects-under-detail/075MC.html"
+      },
+      "coordinates": [
+        [
+          113.964819,
+          22.408781
+        ]
+      ],
+      "geometry": null,
+      "page_title": {
+        "en": "Community health centre-cum-residential care home for the elderly at Tuen Mun Area 29 West",
+        "tc": "屯門第29區西社區健康中心暨安老院舍"
+      },
+      "description": {
+        "en": "Health – Clinics",
+        "tc": "衛生 – 診療所"
+      },
+      "scope": {
+        "en": "Tuen Mun",
+        "tc": "屯門"
+      },
+      "agreement_no": "075MC",
+      "cost": {
+        "en": ">=$500M",
+        "tc": ">=$500M"
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "2019-20",
+        "tc": "2019-20"
+      },
+      "commissioning_date": {
+        "en": "2026-27",
+        "tc": "2026-27"
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "Works undertaken by Housing Department",
+        "tc": "工程建造由房屋署執行"
+      },
+      "photos": [
+        {
+          "url": "https://www.archsd.gov.hk/media/projects/202604/20260413143709507/CPM303_075MC.jpg",
+          "alt": "CPM303_075MC.jpg"
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "dataset": "archsd",
+      "department": "ARCHSD",
+      "item": "074MC",
+      "name": "Redevelopment of Shek Kip Mei Health Centre",
+      "type": null,
+      "type_label": {
+        "en": "Clinics",
+        "tc": "診療所"
+      },
+      "status": 2,
+      "status_label": {
+        "en": "Under Construction",
+        "tc": "施工中"
+      },
+      "url": {
+        "en": "https://www.archsd.gov.hk/en/projects/capital-projects-under-detail/074MC.html",
+        "tc": "https://www.archsd.gov.hk/tc/projects/capital-projects-under-detail/074MC.html"
+      },
+      "coordinates": [
+        [
+          114.167342,
+          22.330941
+        ]
+      ],
+      "geometry": null,
+      "page_title": {
+        "en": "Redevelopment of Shek Kip Mei Health Centre",
+        "tc": "重建石硤尾健康院"
+      },
+      "description": {
+        "en": "Health – Clinics",
+        "tc": "衛生 – 診療所"
+      },
+      "scope": {
+        "en": "Sham Shui Po",
+        "tc": "深水埗"
+      },
+      "agreement_no": "074MC",
+      "cost": {
+        "en": ">=$500M",
+        "tc": ">=$500M"
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "2025-26",
+        "tc": "2025-26"
+      },
+      "commissioning_date": {
+        "en": "2029-30",
+        "tc": "2029-30"
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "Contract No. : SSH505 (NEC4 ECC Option C)Contract Sum : $1,834M Contractor's Name : Able - Square Joint Venture",
+        "tc": "合約編號 : SSH505 (「新工程合約4」工程建造合約C選項) 合約價值 : $1,834M 承建商名稱 : 安保 - 新生聯營"
+      },
+      "photos": []
+    },
+    {
+      "id": 36,
+      "dataset": "archsd",
+      "department": "ARCHSD",
+      "item": "073JA",
+      "name": "Redevelopment of Western Police Married Quarters",
+      "type": null,
+      "type_label": {
+        "en": "Internal Security",
+        "tc": "內部保安"
+      },
+      "status": 2,
+      "status_label": {
+        "en": "Under Construction",
+        "tc": "施工中"
+      },
+      "url": {
+        "en": "https://www.archsd.gov.hk/en/projects/capital-projects-under-detail/073JA.html",
+        "tc": "https://www.archsd.gov.hk/tc/projects/capital-projects-under-detail/073JA.html"
+      },
+      "coordinates": [
+        [
+          114.140117,
+          22.287265
+        ]
+      ],
+      "geometry": null,
+      "page_title": {
+        "en": "Redevelopment of Western Police Married Quarters",
+        "tc": "西區已婚警務人員宿舍重建計劃"
+      },
+      "description": {
+        "en": "Quarters – Internal Security",
+        "tc": "宿舍 – 內部保安"
+      },
+      "scope": {
+        "en": "Central and Western",
+        "tc": "中西區"
+      },
+      "agreement_no": "073JA",
+      "cost": {
+        "en": ">=$500M",
+        "tc": ">=$500M"
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "2021-22",
+        "tc": "2021-22"
+      },
+      "commissioning_date": {
+        "en": "2027-28",
+        "tc": "2027-28"
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "Contract No. : SSJ506 (NEC3 ECC Option A)  Contract Sum: $1935MContractor's Name: Shui On Construction Company Limited",
+        "tc": "合約編號 : SSJ506 (「新工程合約3」工程建造合約A選項) 合約價值 : $1935M 承建商名稱 : 瑞安建築有限公司"
+      },
+      "photos": [
+        {
+          "url": "https://www.archsd.gov.hk/media/projects/202604/20260413143709507/CPM203_073JA.png",
+          "alt": "CPM203_073JA.png"
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "dataset": "archsd",
+      "department": "ARCHSD",
+      "item": "072RE",
+      "name": "Leisure and Cultural Complex at Tin Yip Road, Tin Shui Wai &ndash; Phase 1 (Heritage and Cultural Resource Centre)",
+      "type": null,
+      "type_label": {
+        "en": "Cultural Facilities",
+        "tc": "文化設施"
+      },
+      "status": 2,
+      "status_label": {
+        "en": "Under Construction",
+        "tc": "施工中"
+      },
+      "url": {
+        "en": "https://www.archsd.gov.hk/en/projects/capital-projects-under-detail/072RE.html",
+        "tc": "https://www.archsd.gov.hk/tc/projects/capital-projects-under-detail/072RE.html"
+      },
+      "coordinates": [
+        [
+          114.0066,
+          22.465018
+        ]
+      ],
+      "geometry": null,
+      "page_title": {
+        "en": "Leisure and Cultural Complex at Tin Yip Road, Tin Shui Wai &ndash; Phase 1 (Heritage and Cultural Resource Centre)",
+        "tc": "天水圍天業路康樂及文化綜合項目 &ndash; 第一期(文物修復資源中心)"
+      },
+      "description": {
+        "en": "Recreation, Culture and Amenities – Cultural Facilities",
+        "tc": "康樂、文化及市政設施 – 文化設施"
+      },
+      "scope": {
+        "en": "Yuen Long",
+        "tc": "元朗"
+      },
+      "agreement_no": "072RE",
+      "cost": {
+        "en": ">=$500M",
+        "tc": ">=$500M"
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "2022-23",
+        "tc": "2022-23"
+      },
+      "commissioning_date": {
+        "en": "2026-27",
+        "tc": "2026-27"
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "Contract No. : SSL514 (NEC3 ECC Option B)Contract Sum : $1,983M Contractor's Name : China State Construction Engineering (Hong Kong) Limited",
+        "tc": "合約編號 : SSL514 (「新工程合約3」工程建造合約B選項)合約價值 : $1,983M 承建商名稱 : 中國建築工程 (香港) 有限公司"
+      },
+      "photos": [
+        {
+          "url": "https://www.archsd.gov.hk/media/projects/202604/20260413143709507/CPM302_072RE.jpg",
+          "alt": "CPM302_072RE.jpg"
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "dataset": "archsd",
+      "department": "ARCHSD",
+      "item": "071GI",
+      "name": "Redevelopment of Hong Kong Correctional Services Academy Multi-purpose Gymnasium at 47 Tung Tau Wan Road, Stanley",
+      "type": null,
+      "type_label": {
+        "en": "Intra-governmental services",
+        "tc": "政府內部服務"
+      },
+      "status": 2,
+      "status_label": {
+        "en": "Under Construction",
+        "tc": "施工中"
+      },
+      "url": {
+        "en": "https://www.archsd.gov.hk/en/projects/capital-projects-under-detail/071GI.html",
+        "tc": "https://www.archsd.gov.hk/tc/projects/capital-projects-under-detail/071GI.html"
+      },
+      "coordinates": [
+        [
+          114.218337,
+          22.215434
+        ]
+      ],
+      "geometry": null,
+      "page_title": {
+        "en": "Redevelopment of Hong Kong Correctional Services Academy Multi-purpose Gymnasium at 47 Tung Tau Wan Road, Stanley",
+        "tc": "赤柱東頭灣道47號香港懲教學院多用途體育館重建計劃"
+      },
+      "description": {
+        "en": "Support – Intra-governmental services",
+        "tc": "輔助設施 – 政府內部服務"
+      },
+      "scope": {
+        "en": "Southern",
+        "tc": "南區"
+      },
+      "agreement_no": "071GI",
+      "cost": {
+        "en": "$400M - $500M",
+        "tc": "$400M - $500M"
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "2023-24",
+        "tc": "2023-24"
+      },
+      "commissioning_date": {
+        "en": "2026-27",
+        "tc": "2026-27"
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "Contract No. : SSL505 (NEC3 ECC Option B)Contract Sum : $366M Contractor's Name : Wanson Construction Company Limited",
+        "tc": "合約編號 : SSL505 (「新工程合約3」工程建造合約B選項 )合約價值 : $366M承建商名稱 : 宏勝建築有限公司"
+      },
+      "photos": [
+        {
+          "url": "https://www.archsd.gov.hk/media/projects/202604/20260413143709507/CPM203_071GI.jpg",
+          "alt": "CPM203_071GI.jpg"
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "dataset": "archsd",
+      "department": "ARCHSD",
+      "item": "069RG",
+      "name": "Amenity Complex in Area 103, Ma On Shan",
+      "type": null,
+      "type_label": {
+        "en": "Mixed Amenity Packages",
+        "tc": "綜合設施"
+      },
+      "status": 2,
+      "status_label": {
+        "en": "Under Construction",
+        "tc": "施工中"
+      },
+      "url": {
+        "en": "https://www.archsd.gov.hk/en/projects/capital-projects-under-detail/069RG.html",
+        "tc": "https://www.archsd.gov.hk/tc/projects/capital-projects-under-detail/069RG.html"
+      },
+      "coordinates": [
+        [
+          114.233609,
+          22.422555
+        ]
+      ],
+      "geometry": null,
+      "page_title": {
+        "en": "Amenity Complex in Area 103, Ma On Shan",
+        "tc": "馬鞍山第103區綜合設施大樓"
+      },
+      "description": {
+        "en": "Recreation, Culture and Amenities – Mixed Amenity Packages",
+        "tc": "康樂、文化及市政設施 – 綜合設施"
+      },
+      "scope": {
+        "en": "Shatin",
+        "tc": "沙田"
+      },
+      "agreement_no": "069RG",
+      "cost": {
+        "en": ">=$500M",
+        "tc": ">=$500M"
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "2024-25",
+        "tc": "2024-25"
+      },
+      "commissioning_date": {
+        "en": "2028-29",
+        "tc": "2028-29"
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "Contract No. : SSM515 (NEC4 ECC Option D)Contract Sum : $2,550MContractor's Name : Square-Able Joint Venture",
+        "tc": "合約編號 : SSM515 (「新工程合約4」工程建造合約D選項) 合約價值 : $2,550M承建商名稱 : 新生 - 安保聯營"
+      },
+      "photos": [
+        {
+          "url": "https://www.archsd.gov.hk/media/projects/202604/20260413143709507/CPM302_069RG.jpg",
+          "alt": "CPM302_069RG.jpg"
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "dataset": "archsd",
+      "department": "ARCHSD",
+      "item": "068RG",
+      "name": "District open space, sports centre and public vehicle park at Sze Mei Street",
+      "type": null,
+      "type_label": {
+        "en": "Mixed Amenity Packages",
+        "tc": "綜合設施"
+      },
+      "status": 2,
+      "status_label": {
+        "en": "Under Construction",
+        "tc": "施工中"
+      },
+      "url": {
+        "en": "https://www.archsd.gov.hk/en/projects/capital-projects-under-detail/068RG.html",
+        "tc": "https://www.archsd.gov.hk/tc/projects/capital-projects-under-detail/068RG.html"
+      },
+      "coordinates": [
+        [
+          114.200069,
+          22.335965
+        ]
+      ],
+      "geometry": null,
+      "page_title": {
+        "en": "District open space, sports centre and public vehicle park at Sze Mei Street",
+        "tc": "四美街地區休憩用地、體育館及公眾停車場"
+      },
+      "description": {
+        "en": "Recreation, Culture and Amenities – Mixed Amenity Packages",
+        "tc": "康樂、文化及市政設施 – 綜合設施"
+      },
+      "scope": {
+        "en": "Wong Tai Sin",
+        "tc": "黃大仙"
+      },
+      "agreement_no": "068RG",
+      "cost": {
+        "en": ">=$500M",
+        "tc": ">=$500M"
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "2022-23",
+        "tc": "2022-23"
+      },
+      "commissioning_date": {
+        "en": "2026-27",
+        "tc": "2026-27"
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "Contract No. : SSK504 (NEC3 ECC Option A)Contract Sum: $1,479MContractor's Name: Dragages Hong Kong Limited",
+        "tc": "合約編號 : SSK504 (「新工程合約3」工程建造合約A選項)合約價值 : $1,479M 承建商名稱 : 香港寶嘉建築有限公司"
+      },
+      "photos": [
+        {
+          "url": "https://www.archsd.gov.hk/media/projects/202604/20260413143709507/CPM303_068RG.jpg",
+          "alt": "CPM303_068RG.jpg"
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "dataset": "archsd",
+      "department": "ARCHSD",
+      "item": "065RE",
+      "name": "New Territories East Cultural Centre in Area 11, Fanling",
+      "type": null,
+      "type_label": {
+        "en": "Cultural Facilities",
+        "tc": "文化設施"
+      },
+      "status": 2,
+      "status_label": {
+        "en": "Under Construction",
+        "tc": "施工中"
+      },
+      "url": {
+        "en": "https://www.archsd.gov.hk/en/projects/capital-projects-under-detail/065RE.html",
+        "tc": "https://www.archsd.gov.hk/tc/projects/capital-projects-under-detail/065RE.html"
+      },
+      "coordinates": [
+        [
+          114.139294,
+          22.494416
+        ]
+      ],
+      "geometry": null,
+      "page_title": {
+        "en": "New Territories East Cultural Centre in Area 11, Fanling",
+        "tc": "粉嶺第11區新界東文化中心"
+      },
+      "description": {
+        "en": "Recreation, Culture and Amenities – Cultural Facilities",
+        "tc": "康樂、文化及市政設施 – 文化設施"
+      },
+      "scope": {
+        "en": "Northern",
+        "tc": "北區"
+      },
+      "agreement_no": "065RE",
+      "cost": {
+        "en": ">=$500M",
+        "tc": ">=$500M"
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "2023-24",
+        "tc": "2023-24"
+      },
+      "commissioning_date": {
+        "en": "2027-28",
+        "tc": "2027-28"
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "Contract No. : SSL509 (NEC3 ECC Option B)Contract Sum : $4,471MContractor's Name : Build King - ABLE Joint Venture",
+        "tc": "合約編號 : SSL509 (「新工程合約3」工程建造合約B選項) 合約價值 : $4,471M承建商名稱 : Build King - 安保聯營"
+      },
+      "photos": [
+        {
+          "url": "https://www.archsd.gov.hk/media/projects/202604/20260413143709507/CPM302_065RE.jpg",
+          "alt": "CPM302_065RE.jpg"
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "dataset": "archsd",
+      "department": "ARCHSD",
+      "item": "064RE",
+      "name": "Construction of Yau Ma Tei Theatre Phase 2",
+      "type": null,
+      "type_label": {
+        "en": "Cultural Facilities",
+        "tc": "文化設施"
+      },
+      "status": 2,
+      "status_label": {
+        "en": "Under Construction",
+        "tc": "施工中"
+      },
+      "url": {
+        "en": "https://www.archsd.gov.hk/en/projects/capital-projects-under-detail/064RE.html",
+        "tc": "https://www.archsd.gov.hk/tc/projects/capital-projects-under-detail/064RE.html"
+      },
+      "coordinates": [
+        [
+          114.169353,
+          22.312446
+        ]
+      ],
+      "geometry": null,
+      "page_title": {
+        "en": "Construction of Yau Ma Tei Theatre Phase 2",
+        "tc": "油麻地戲院第二期建造工程"
+      },
+      "description": {
+        "en": "Recreation, Culture and Amenities – Cultural Facilities",
+        "tc": "康樂、文化及市政設施 – 文化設施"
+      },
+      "scope": {
+        "en": "Yau Tsim Mong",
+        "tc": "油尖旺"
+      },
+      "agreement_no": "064RE",
+      "cost": {
+        "en": "$200M - $300M",
+        "tc": "$200M - $300M"
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "2022-23",
+        "tc": "2022-23"
+      },
+      "commissioning_date": {
+        "en": "2026-27",
+        "tc": "2026-27"
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "Contract No. : SSK517 (NEC3 ECC Option B)Contract Sum: $210MContractor's Name: Cycle Links Construction Company Limited",
+        "tc": "合約編號 : SSK517 (「新工程合約3」工程建造合約B選項)合約價值 : $210M 承建商名稱 : 圓渾建築有限公司"
+      },
+      "photos": [
+        {
+          "url": "https://www.archsd.gov.hk/media/projects/202604/20260413143709507/CPM302_064RE_1_Yau Ma Tei Theatre Phase 2.jpg",
+          "alt": "CPM302_064RE_1_Yau Ma Tei Theatre Phase 2.jpg"
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "dataset": "archsd",
+      "department": "ARCHSD",
+      "item": "038NM",
+      "name": "Construction of a new public market in Kwu Tung North New Development Area",
+      "type": null,
+      "type_label": {
+        "en": "Retail Markets and Cooked Food Centres",
+        "tc": "零售市場及熟食中心"
+      },
+      "status": 2,
+      "status_label": {
+        "en": "Under Construction",
+        "tc": "施工中"
+      },
+      "url": {
+        "en": "https://www.archsd.gov.hk/en/projects/capital-projects-under-detail/038NM.html",
+        "tc": "https://www.archsd.gov.hk/tc/projects/capital-projects-under-detail/038NM.html"
+      },
+      "coordinates": [
+        [
+          114.098207,
+          22.508403
+        ]
+      ],
+      "geometry": null,
+      "page_title": {
+        "en": "Construction of a new public market in Kwu Tung North New Development Area",
+        "tc": "古洞北新發展區公眾街市建造工程"
+      },
+      "description": {
+        "en": "Environmental Hygiene – Retail Markets and Cooked Food Centres",
+        "tc": "環境衛生 – 零售市場及熟食中心"
+      },
+      "scope": {
+        "en": "Northern",
+        "tc": "北區"
+      },
+      "agreement_no": "038NM",
+      "cost": {
+        "en": ">=500M",
+        "tc": ">=500M"
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "2024-25",
+        "tc": "2024-25"
+      },
+      "commissioning_date": {
+        "en": "2028-29",
+        "tc": "2028-29"
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "Contract No. : SSN505 (NEC4 ECC Option B)  Contract Sum: $726MContractor's Name: Realty-Lanon Joint Venture",
+        "tc": "合約編號 : SSN505 (「新工程合約4」工程建造合約B選項) 合約價值 : $726M 承建商名稱 : 偉業 - 亮雅聯營"
+      },
+      "photos": [
+        {
+          "url": "https://www.archsd.gov.hk/media/projects/202604/20260413143709507/PPAM_038NM_1.jpg",
+          "alt": "PPAM_038NM_1.jpg"
+        },
+        {
+          "url": "https://www.archsd.gov.hk/media/projects/202604/20260413143709507/PPAM_038NM_2.jpg",
+          "alt": "PPAM_038NM_2.jpg"
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "dataset": "archsd",
+      "department": "ARCHSD",
+      "item": "037NM",
+      "name": "Construction of a Public Market in Tin Shui Wai",
+      "type": null,
+      "type_label": {
+        "en": "Retail Markets and Cooked Food Centres",
+        "tc": "零售市場及熟食中心"
+      },
+      "status": 2,
+      "status_label": {
+        "en": "Under Construction",
+        "tc": "施工中"
+      },
+      "url": {
+        "en": "https://www.archsd.gov.hk/en/projects/capital-projects-under-detail/037NM.html",
+        "tc": "https://www.archsd.gov.hk/tc/projects/capital-projects-under-detail/037NM.html"
+      },
+      "coordinates": [
+        [
+          114.006054,
+          22.450007
+        ]
+      ],
+      "geometry": null,
+      "page_title": {
+        "en": "Construction of a Public Market in Tin Shui Wai",
+        "tc": "天水圍公眾街市建造工程"
+      },
+      "description": {
+        "en": "Environmental Hygiene – Retail Markets and Cooked Food Centres",
+        "tc": "環境衛生 – 零售市場及熟食中心"
+      },
+      "scope": {
+        "en": "Yuen Long",
+        "tc": "元朗"
+      },
+      "agreement_no": "037NM",
+      "cost": {
+        "en": ">=$500M",
+        "tc": ">=$500M"
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "2022-23",
+        "tc": "2022-23"
+      },
+      "commissioning_date": {
+        "en": "2027-28",
+        "tc": "2027-28"
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "Contract No. : SSL502 (NEC3 ECC Option A)Contract Sum : $1450M Contractor's Name : Hip Hing Engineering Company Limited",
+        "tc": "合約編號 : SSL502 (「新工程合約3」工程建造合約A選項)合約價值 : $1450M 承建商名稱 : 協興工程有限公司"
+      },
+      "photos": [
+        {
+          "url": "https://www.archsd.gov.hk/media/projects/202604/20260413143709507/PPAM_037NM_5.jpg",
+          "alt": "PPAM_037NM_5.jpg"
+        },
+        {
+          "url": "https://www.archsd.gov.hk/media/projects/202604/20260413143709507/PPAM_037NM_6.jpg",
+          "alt": "PPAM_037NM_6.jpg"
+        },
+        {
+          "url": "https://www.archsd.gov.hk/media/projects/202604/20260413143709507/PPAM_037NM_7.jpg",
+          "alt": "PPAM_037NM_7.jpg"
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "dataset": "archsd",
+      "department": "ARCHSD",
+      "item": "034NB",
+      "name": "Reprovisioning of cremators and related works at Kwai Chung Crematorium",
+      "type": null,
+      "type_label": {
+        "en": "Burial Grounds, Columbaria and Crematoria",
+        "tc": "墓地、靈灰安置所及火葬場"
+      },
+      "status": 2,
+      "status_label": {
+        "en": "Under Construction",
+        "tc": "施工中"
+      },
+      "url": {
+        "en": "https://www.archsd.gov.hk/en/projects/capital-projects-under-detail/034NB.html",
+        "tc": "https://www.archsd.gov.hk/tc/projects/capital-projects-under-detail/034NB.html"
+      },
+      "coordinates": [
+        [
+          114.117827,
+          22.357088
+        ]
+      ],
+      "geometry": null,
+      "page_title": {
+        "en": "Reprovisioning of cremators and related works at Kwai Chung Crematorium",
+        "tc": "葵涌火葬場重置火化爐及相關工程"
+      },
+      "description": {
+        "en": "Environmental Hygiene – Burial Grounds, Columbaria and Crematoria",
+        "tc": "環境衛生 – 墓地、靈灰安置所及火葬場"
+      },
+      "scope": {
+        "en": "Kwai Tsing",
+        "tc": "葵青"
+      },
+      "agreement_no": "034NB",
+      "cost": {
+        "en": ">=$500M",
+        "tc": ">=$500M"
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "2024-25",
+        "tc": "2024-25"
+      },
+      "commissioning_date": {
+        "en": "2027-28",
+        "tc": "2027-28"
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "Contract No. : RFN510 (NEC4 ECC Option B)Contract Sum : $438M Contractor's Name : Woon Lee Construction Company Limited",
+        "tc": "合約編號 : RFN510 (「新工程合約4」工程建造合約B選項) 合約價值 : $438M 承建商名稱 : 煥利建築有限公司"
+      },
+      "photos": [
+        {
+          "url": "https://www.archsd.gov.hk/media/projects/202604/20260413143709507/CPM301_034NB.jpg",
+          "alt": "CPM301_034NB.jpg"
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "dataset": "archsd",
+      "department": "ARCHSD",
+      "item": "033LJ",
+      "name": "Construction of a District Court Building at Caroline Hill Road",
+      "type": null,
+      "type_label": {
+        "en": "Judiciary",
+        "tc": "司法"
+      },
+      "status": 2,
+      "status_label": {
+        "en": "Under Construction",
+        "tc": "施工中"
+      },
+      "url": {
+        "en": "https://www.archsd.gov.hk/en/projects/capital-projects-under-detail/033LJ.html",
+        "tc": "https://www.archsd.gov.hk/tc/projects/capital-projects-under-detail/033LJ.html"
+      },
+      "coordinates": [
+        [
+          114.186433,
+          22.276303
+        ]
+      ],
+      "geometry": null,
+      "page_title": {
+        "en": "Construction of a District Court Building at Caroline Hill Road",
+        "tc": "在加路連山道興建區域法院"
+      },
+      "description": {
+        "en": "Law and Order – Judiciary",
+        "tc": "治安 – 司法"
+      },
+      "scope": {
+        "en": "Central and Western",
+        "tc": "中西區"
+      },
+      "agreement_no": "033LJ",
+      "cost": {
+        "en": ">=$500M",
+        "tc": ">=$500M"
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "2022-23",
+        "tc": "2022-23"
+      },
+      "commissioning_date": {
+        "en": "2027-28",
+        "tc": "2027-28"
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "Contract No. : SSK502 (NEC3 ECC Option A)Contract Sum: $4,713MContractor's Name: Hip Hing Engineering Company Limited",
+        "tc": "合約編號 : SSK502 (「新工程合約3」工程建造合約A選項)合約價值 : $4,713M 承建商名稱 : 協興工程有限公司"
+      },
+      "photos": []
+    },
+    {
+      "id": 47,
+      "dataset": "archsd",
+      "department": "ARCHSD",
+      "item": "032TP",
+      "name": "Public Vehicle Park at Choi Shun Street, Sheung Shui",
+      "type": null,
+      "type_label": {
+        "en": "Car Parks",
+        "tc": "停車場"
+      },
+      "status": 2,
+      "status_label": {
+        "en": "Under Construction",
+        "tc": "施工中"
+      },
+      "url": {
+        "en": "https://www.archsd.gov.hk/en/projects/capital-projects-under-detail/032TP.html",
+        "tc": "https://www.archsd.gov.hk/tc/projects/capital-projects-under-detail/032TP.html"
+      },
+      "coordinates": [
+        [
+          114.120112,
+          22.506352
+        ]
+      ],
+      "geometry": null,
+      "page_title": {
+        "en": "Public Vehicle Park at Choi Shun Street, Sheung Shui",
+        "tc": "上水彩順街公眾停車場"
+      },
+      "description": {
+        "en": "Transport – Car Parks",
+        "tc": "運輸 – 停車場"
+      },
+      "scope": {
+        "en": "Northern",
+        "tc": "北區"
+      },
+      "agreement_no": "032TP",
+      "cost": {
+        "en": "$100M-$200M",
+        "tc": "$100M-$200M"
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "2024-25",
+        "tc": "2024-25"
+      },
+      "commissioning_date": {
+        "en": "2029-30",
+        "tc": "2029-30"
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "Works undertaken by Housing Department",
+        "tc": "工程建造由房屋署執行"
+      },
+      "photos": [
+        {
+          "url": "https://www.archsd.gov.hk/media/projects/202604/20260413143709507/CPM303_032TP.jpg",
+          "alt": "CPM303_032TP.jpg"
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "dataset": "archsd",
+      "department": "ARCHSD",
+      "item": "027TP",
+      "name": "Town Park with Public Vehicle Park in Area 66, Tseung Kwan O",
+      "type": null,
+      "type_label": {
+        "en": "Car Parks",
+        "tc": "停車場"
+      },
+      "status": 2,
+      "status_label": {
+        "en": "Under Construction",
+        "tc": "施工中"
+      },
+      "url": {
+        "en": "https://www.archsd.gov.hk/en/projects/capital-projects-under-detail/027TP.html",
+        "tc": "https://www.archsd.gov.hk/tc/projects/capital-projects-under-detail/027TP.html"
+      },
+      "coordinates": [
+        [
+          114.260085,
+          22.306149
+        ]
+      ],
+      "geometry": null,
+      "page_title": {
+        "en": "Town Park with Public Vehicle Park in Area 66, Tseung Kwan O",
+        "tc": "將軍澳第66區市鎮公園及公眾停車場"
+      },
+      "description": {
+        "en": "Transport – Car Parks",
+        "tc": "運輸 – 停車場"
+      },
+      "scope": {
+        "en": "Sai Kung",
+        "tc": "西貢"
+      },
+      "agreement_no": "027TP",
+      "cost": {
+        "en": ">=$500M",
+        "tc": ">=$500M"
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "2025-26",
+        "tc": "2025-26"
+      },
+      "commissioning_date": {
+        "en": "2028-29",
+        "tc": "2028-29"
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "Contract No. : SSM501 (NEC3 ECC Option A)Contract Sum : $1,150MContractor's Name : Able - Square Joint Venture",
+        "tc": "合約編號 : SSM501 (「新工程合約3」工程建造合約A選項) 合約價值 : $1,150M 承建商名稱 : 安保 - 新生聯營"
+      },
+      "photos": []
+    },
+    {
+      "id": 49,
+      "dataset": "archsd",
+      "department": "ARCHSD",
+      "item": "025TP",
+      "name": "Open space with Public Vehicle Park at Yen Chow Street West, Sham Shui Po",
+      "type": null,
+      "type_label": {
+        "en": "Car Parks",
+        "tc": "停車場"
+      },
+      "status": 2,
+      "status_label": {
+        "en": "Under Construction",
+        "tc": "施工中"
+      },
+      "url": {
+        "en": "https://www.archsd.gov.hk/en/projects/capital-projects-under-detail/025TP.html",
+        "tc": "https://www.archsd.gov.hk/tc/projects/capital-projects-under-detail/025TP.html"
+      },
+      "coordinates": [
+        [
+          114.139911,
+          22.32979
+        ]
+      ],
+      "geometry": null,
+      "page_title": {
+        "en": "Open space with Public Vehicle Park at Yen Chow Street West, Sham Shui Po",
+        "tc": "深水埗欽州街西休憩用地及公眾停車場"
+      },
+      "description": {
+        "en": "Transport – Car Parks",
+        "tc": "運輸 – 停車場"
+      },
+      "scope": {
+        "en": "Sham Shui Po",
+        "tc": "深水埗"
+      },
+      "agreement_no": "025TP",
+      "cost": {
+        "en": ">=$500M",
+        "tc": ">=$500M"
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "2023-24",
+        "tc": "2023-24"
+      },
+      "commissioning_date": {
+        "en": "2027-28",
+        "tc": "2027-28"
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "Contract No. : SSL517  (NEC3 ECC Option A)Contract Sum : $731M Contractor's Name : Shui On Construction Company Limited",
+        "tc": "合約編號 : SSL517 (「新工程合約3」工程建造合約A選項)合約價值 : $731M 承建商名稱 : 瑞安建築有限公司"
+      },
+      "photos": []
+    },
+    {
+      "id": 50,
+      "dataset": "archsd",
+      "department": "ARCHSD",
+      "item": "025NB",
+      "name": "Reprovisioning of Victoria Public Mortuary",
+      "type": null,
+      "type_label": {
+        "en": "Burial Grounds, Columbaria and Crematoria",
+        "tc": "墓地、靈灰安置所及火葬場"
+      },
+      "status": 2,
+      "status_label": {
+        "en": "Under Construction",
+        "tc": "施工中"
+      },
+      "url": {
+        "en": "https://www.archsd.gov.hk/en/projects/capital-projects-under-detail/025NB.html",
+        "tc": "https://www.archsd.gov.hk/tc/projects/capital-projects-under-detail/025NB.html"
+      },
+      "coordinates": [
+        [
+          114.11721,
+          22.278011
+        ]
+      ],
+      "geometry": null,
+      "page_title": {
+        "en": "Reprovisioning of Victoria Public Mortuary",
+        "tc": "重置域多利亞公眾殮房"
+      },
+      "description": {
+        "en": "Environmental Hygiene – Burial Grounds, Columbaria and Crematoria",
+        "tc": "環境衛生 – 墓地、靈灰安置所及火葬場"
+      },
+      "scope": {
+        "en": "Central and Western",
+        "tc": "中西區"
+      },
+      "agreement_no": "025NB",
+      "cost": {
+        "en": ">=$500M",
+        "tc": ">=$500M"
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "2025-26",
+        "tc": "2025-26"
+      },
+      "commissioning_date": {
+        "en": "2029-30",
+        "tc": "2029-30"
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "Cavern enhancement works undertaken by Civil Engineering and Development Department",
+        "tc": "岩洞優化工程由土木工程拓展署執行"
+      },
+      "photos": [
+        {
+          "url": "https://www.archsd.gov.hk/media/projects/202604/20260413143709507/CPM203_025NB.jpg",
+          "alt": "CPM203_025NB.jpg"
+        }
+      ]
+    },
+    {
+      "id": 51,
+      "dataset": "archsd",
+      "department": "ARCHSD",
+      "item": "003MI",
+      "name": "Expansion of North District Hospital",
+      "type": null,
+      "type_label": {
+        "en": "Hospitals",
+        "tc": "醫院"
+      },
+      "status": 2,
+      "status_label": {
+        "en": "Under Construction",
+        "tc": "施工中"
+      },
+      "url": {
+        "en": "https://www.archsd.gov.hk/en/projects/capital-projects-under-detail/003MI.html",
+        "tc": "https://www.archsd.gov.hk/tc/projects/capital-projects-under-detail/003MI.html"
+      },
+      "coordinates": [
+        [
+          114.124075,
+          22.497392
+        ]
+      ],
+      "geometry": null,
+      "page_title": {
+        "en": "Expansion of North District Hospital",
+        "tc": "北區醫院擴建計劃"
+      },
+      "description": {
+        "en": "Health – Hospitals",
+        "tc": "衛生 – 醫院"
+      },
+      "scope": {
+        "en": "Northern",
+        "tc": "北區"
+      },
+      "agreement_no": "003MI",
+      "cost": {
+        "en": ">=500M",
+        "tc": ">=500M"
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "2024-25",
+        "tc": "2024-25"
+      },
+      "commissioning_date": {
+        "en": "2031-32",
+        "tc": "2031-32"
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "Works undertaken by Hospital Authority",
+        "tc": "工程建造由醫院管理局執行"
+      },
+      "photos": [
+        {
+          "url": "https://www.archsd.gov.hk/media/projects/202604/20260413143709507/CPM401_003MI.jpg",
+          "alt": "CPM401_003MI.jpg"
+        }
+      ]
+    },
+    {
+      "id": 52,
+      "dataset": "archsd",
+      "department": "ARCHSD",
+      "item": "002HL",
+      "name": "Implementation of Light Public Housing - the First Batch of Projects",
+      "type": null,
+      "type_label": {
+        "en": "Light Public Housing",
+        "tc": "簡約公屋"
+      },
+      "status": 2,
+      "status_label": {
+        "en": "Under Construction",
+        "tc": "施工中"
+      },
+      "url": {
+        "en": "https://www.archsd.gov.hk/en/projects/capital-projects-under-detail/002HL.html",
+        "tc": "https://www.archsd.gov.hk/tc/projects/capital-projects-under-detail/002HL.html"
+      },
+      "coordinates": [
+        [
+          114.084298,
+          22.3687
+        ]
+      ],
+      "geometry": null,
+      "page_title": {
+        "en": "Implementation of Light Public Housing - the First Batch of Projects",
+        "tc": "推展「簡約公屋」項目 - 第一批項目"
+      },
+      "description": {
+        "en": "Housing – Light Public Housing",
+        "tc": "房屋 – 簡約公屋"
+      },
+      "scope": {
+        "en": "Kowloon City / Tuen Mun / Wong Tai Sin / Yuen Long",
+        "tc": "九龍城 / 屯門 / 黃大仙 / 元朗"
+      },
+      "agreement_no": "002HL",
+      "cost": {
+        "en": ">=$500M",
+        "tc": ">=$500M"
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "2023-24",
+        "tc": "2023-24"
+      },
+      "commissioning_date": {
+        "en": "2026-27",
+        "tc": "2026-27"
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "Contract No. : SSM519  (NEC4 ECC Option C) (for site at Kowloon City)Contract Sum : $6280MContractor's Names : China State Construction Engineering (HK) Limited",
+        "tc": "合約編號 : SSM519  (「新工程合約4」工程建造合約C選項) (地盤位於九龍城) 合約價值 : $6280M 承建商名稱 : 中國建築工程 (香港) 有限公司"
+      },
+      "photos": [
+        {
+          "url": "https://www.archsd.gov.hk/media/projects/202604/20260413143709507/CPM202_002HL_5.jpg",
+          "alt": "CPM202_002HL_5.jpg"
+        }
+      ]
+    },
+    {
+      "id": 54,
+      "dataset": "archsd",
+      "department": "ARCHSD",
+      "item": "001HL",
+      "name": "Implementation of Light Public Housing - the Second Batch of Projects",
+      "type": null,
+      "type_label": {
+        "en": "Light Public Housing",
+        "tc": "簡約公屋"
+      },
+      "status": 2,
+      "status_label": {
+        "en": "Under Construction",
+        "tc": "施工中"
+      },
+      "url": {
+        "en": "https://www.archsd.gov.hk/en/projects/capital-projects-under-detail/001HL.html",
+        "tc": "https://www.archsd.gov.hk/tc/projects/capital-projects-under-detail/001HL.html"
+      },
+      "coordinates": [
+        [
+          114.15846,
+          22.366299
+        ]
+      ],
+      "geometry": null,
+      "page_title": {
+        "en": "Implementation of Light Public Housing - the Second Batch of Projects",
+        "tc": "推展「簡約公屋」項目 - 第二批項目"
+      },
+      "description": {
+        "en": "Housing – Light Public Housing",
+        "tc": "房屋 – 簡約公屋"
+      },
+      "scope": {
+        "en": "Eastern / Kwun Tong / Northern / Shatin / Tuen Mun / Wong Tai Sin",
+        "tc": "東區 / 觀塘 / 北區 / 沙田 / 屯門 / 黃大仙"
+      },
+      "agreement_no": "001HL",
+      "cost": {
+        "en": ">=$500M",
+        "tc": ">=$500M"
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "2023-24",
+        "tc": "2023-24"
+      },
+      "commissioning_date": {
+        "en": "2026-27",
+        "tc": "2026-27"
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "Contract No. : SSM520  (NEC4 ECC Option C) (for site at Siu Lam)Contract Sum : $2,020MContractor's Name : Able - Chun Wo Joint VentureContract No. : SSM521 (NEC4 ECC Option C) (for sites at Chai Wan and Tuen Mun)Contract Sum : $3,198M Contractor's Name : Able - Chun Wo Joint VentureContract No. : SSN516 (NEC4 ECC Option C) (for sites at Ma On Shan and 2 nos. of vacant school premises)Contract Sum: $808M (including 3 nos. of completed school premises)Contractor's Name : Yau Lee Construction Company LimitedContract No. : SSN520 (NEC4 Supply Contract) (for Construction and Delivery of Habitable MiC Modules for sites at Chai Wan, Ma On Shan, Siu Lam and Tuen Mun)Contract Sum: $2,033MContractor's Name : CCSIC GreenTech - Aluhouse Joint Venture",
+        "tc": "合約編號 : SSM520  (「新工程合約4」工程建造合約C選項) (地盤位於小欖) 合約價值 : $2,020M 承建商名稱 : 安保 - 俊和聯營合約編號 : SSM521  (「新工程合約4」工程建造合約C選項) (地盤位於柴灣及屯門) 合約價值 : $3,198M 承建商名稱 : 安保 - 俊和聯營合約編號 : SSN516 (「新工程合約4」工程建造合約C選項) (地盤位於馬鞍山及两間空置的校舍) 合約價值 : $808M (包括已竣工的三間校舍)承建商名稱 : 有利建築有限公司合約編號 : SSN520 (「新工程合约4」供應合约) (建造及運送位於柴灣、馬鞍山、小欖及屯門地盤的住用組裝合成建築構件) 合約價值 : $2,033M 承建商名稱 : CCSIC GreenTech - Aluhouse聯營"
+      },
+      "photos": [
+        {
+          "url": "https://www.archsd.gov.hk/media/projects/202604/20260413143709507/CPM202_001HL_1.jpg",
+          "alt": "CPM202_001HL_1.jpg"
+        },
+        {
+          "url": "https://www.archsd.gov.hk/media/projects/202604/20260413143709507/CPM202_001HL_2.jpg",
+          "alt": "CPM202_001HL_2.jpg"
+        }
+      ]
+    }
+  ]
+}
