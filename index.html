@@ -459,6 +459,7 @@ const DATASETS = [
   { id: 'wsd',         file: 'data/wsd.json' },
   { id: 'cedd',        file: 'data/cedd.json' },
   { id: 'archsd',      file: 'data/archsd.json' },
+  { id: 'hyd_road',   file: 'data/hyd_road.json' },
 ];
 
 const TYPE_COLOR = { UA:'#3b82f6', HEL:'#10b981', WC:'#f59e0b', DF:'#a855f7' };
@@ -548,7 +549,7 @@ function getFiltered() {
   return allProjects.filter(p => {
     if (!activeFilters.dept.has(p.department)) return false;
     // type filter only applies to HYD projects (WSD/CEDD have no type)
-    if (p.department === 'HYD' && !activeFilters.type.has(p.type)) return false;
+    if (p.department === 'HYD' && p.type && !activeFilters.type.has(p.type)) return false;
     if (!activeFilters.status.has(String(p.status))) return false;
     if (q) {
       const hay = [

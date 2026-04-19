@@ -1,0 +1,1931 @@
+{
+  "dataset_id": "hyd_road",
+  "dataset_name": {
+    "en": "Road Projects",
+    "tc": "道路工程項目"
+  },
+  "department": "HYD",
+  "department_full": {
+    "en": "Highways Department",
+    "tc": "路政署"
+  },
+  "generated_at": "2026-04-19T14:27:19.722372+00:00",
+  "total": 27,
+  "projects": [
+    {
+      "id": 1,
+      "dataset": "hyd_road",
+      "department": "HYD",
+      "item": "6876th",
+      "name": "Improvement of Lion Rock Tunnel",
+      "type": null,
+      "type_label": {
+        "en": "Road Project",
+        "tc": "道路工程"
+      },
+      "status": 1,
+      "status_label": {
+        "en": "Under Planning",
+        "tc": "規劃中"
+      },
+      "url": {
+        "en": "https://www.hyd.gov.hk/en/our_projects/road_projects/6876th/index.html",
+        "tc": "https://www.hyd.gov.hk/tc/our_projects/road_projects/6876th/index.html"
+      },
+      "coordinates": [
+        [
+          114.180748,
+          22.358304
+        ]
+      ],
+      "geometry": null,
+      "page_title": {
+        "en": "Improvement of Lion Rock Tunnel",
+        "tc": "獅子山隧道改善工程"
+      },
+      "description": {
+        "en": "The proposed project is to rehabilitate the existing Lion Rock Tunnel to extend its service life, and to take this opportunity to enhance the capacity of the tunnel and its connecting roads as far as practicable to alleviate the traffic congestion at the tunnel during peak hours and the traffic impact during maintenance.",
+        "tc": "擬建工程計劃旨在修復現有的獅子山隧道，以延長其使用期；及藉此機會在可行的情況下增加隧道及其連接路的容車量，以紓緩繁忙時段的交通擠塞情況。"
+      },
+      "scope": {
+        "en": "",
+        "tc": ""
+      },
+      "agreement_no": "6876th",
+      "cost": {
+        "en": "",
+        "tc": ""
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commissioning_date": {
+        "en": "",
+        "tc": ""
+      },
+      "consultant": {
+        "en": "- AECOM Asia Company Limited (Investigation Study) - Ove Arup & Partners Hong Kong Limited (Design and Construction Study)",
+        "tc": "- 艾奕康有限公司 (勘查研究) - 奧雅納工程顧問 (設計及建造研究)"
+      },
+      "contractor": {
+        "en": "",
+        "tc": ""
+      },
+      "photos": [
+        {
+          "url": "https://www.hyd.gov.hk/en/our_projects/road_projects/6876th/6876th.jpg",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "dataset": "hyd_road",
+      "department": "HYD",
+      "item": "6880th",
+      "name": "Extension Works to Major Roads in Tuen Mun",
+      "type": null,
+      "type_label": {
+        "en": "Road Project",
+        "tc": "道路工程"
+      },
+      "status": 1,
+      "status_label": {
+        "en": "Under Planning",
+        "tc": "規劃中"
+      },
+      "url": {
+        "en": "https://www.hyd.gov.hk/en/our_projects/road_projects/6880th/index.html",
+        "tc": "https://www.hyd.gov.hk/tc/our_projects/road_projects/6880th/index.html"
+      },
+      "coordinates": [
+        [
+          113.970856,
+          22.385899
+        ]
+      ],
+      "geometry": null,
+      "page_title": {
+        "en": "Extension Works to Major Roads in Tuen Mun",
+        "tc": "屯門區內主要道路擴建工程"
+      },
+      "description": {
+        "en": "The project mainly involves construction of elevated slip roads connecting Tsing Wun Road and Lung Fu Road (northbound and southbound) (hereinafter referred to as \"Lung Fu Road Slip Roads\"), and construction of a slip road between Hoi Wing Road westbound and Tuen Mun Road northbound (hereinafter referred to as \"Hoi Wing Road Slip Road\"). The overall objective is to improve the traffic conditions within Tuen Mun District.",
+        "tc": "工程項目主要包括興建行車天橋連接青雲路至龍富路高架路段的南行線及北行線(下稱「龍富路連接路」)，及興建行車道連接屯門公路(三聖段)北行線至海榮路西行線(下稱「海榮路連接路」)，以改善屯門區內的交通情況。"
+      },
+      "scope": {
+        "en": "",
+        "tc": ""
+      },
+      "agreement_no": "6880th",
+      "cost": {
+        "en": "",
+        "tc": ""
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commissioning_date": {
+        "en": "",
+        "tc": ""
+      },
+      "consultant": {
+        "en": "WSP (Asia) Limited",
+        "tc": "科進顧問(亞洲)有限公司"
+      },
+      "contractor": {
+        "en": "",
+        "tc": ""
+      },
+      "photos": [
+        {
+          "url": "https://www.hyd.gov.hk/en/our_projects/road_projects/6880th/layout.jpg",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "dataset": "hyd_road",
+      "department": "HYD",
+      "item": "6877th",
+      "name": "Widening of Tsuen Wan Road and the Associated Junction Improvement Works",
+      "type": null,
+      "type_label": {
+        "en": "Road Project",
+        "tc": "道路工程"
+      },
+      "status": 1,
+      "status_label": {
+        "en": "Under Planning",
+        "tc": "規劃中"
+      },
+      "url": {
+        "en": "https://www.hyd.gov.hk/en/our_projects/road_projects/6877th/index.html",
+        "tc": "https://www.hyd.gov.hk/tc/our_projects/road_projects/6877th/index.html"
+      },
+      "coordinates": [
+        [
+          114.116424,
+          22.363199
+        ]
+      ],
+      "geometry": null,
+      "page_title": {
+        "en": "Widening of Tsuen Wan Road and the Associated Junction Improvement Works",
+        "tc": "荃灣路擴闊及相關路口改善工程"
+      },
+      "description": {
+        "en": "The proposed project aims to improve the existing Tsuen Wan Road by road widening and associated junction improvement works, in order to cater for the future traffic demand.",
+        "tc": "擬建工程計劃旨在透過道路擴闊及相關路口改善工程改善現有的荃灣路，以應付未來的交通需求。"
+      },
+      "scope": {
+        "en": "",
+        "tc": ""
+      },
+      "agreement_no": "6877th",
+      "cost": {
+        "en": "",
+        "tc": "檢視中"
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "",
+        "tc": "檢視中"
+      },
+      "commissioning_date": {
+        "en": "",
+        "tc": "檢視中"
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "",
+        "tc": ""
+      },
+      "photos": [
+        {
+          "url": "https://www.hyd.gov.hk/en/our_projects/road_projects/6877th/layout_1.jpg",
+          "alt": "Layout Plan of Widening of Tsuen Wan Road and the Associated Junction Improvement Works"
+        },
+        {
+          "url": "https://www.hyd.gov.hk/en/our_projects/road_projects/6877th/layout_2.jpg",
+          "alt": "Layout Plan of Widening of Tsuen Wan Road and the Associated Junction Improvement Works"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "dataset": "hyd_road",
+      "department": "HYD",
+      "item": "6888th",
+      "name": "Widening of Yuen Long Highway (section between Lam Tei and Tong Yan San Tsuen)",
+      "type": null,
+      "type_label": {
+        "en": "Road Project",
+        "tc": "道路工程"
+      },
+      "status": 1,
+      "status_label": {
+        "en": "Under Planning",
+        "tc": "規劃中"
+      },
+      "url": {
+        "en": "https://www.hyd.gov.hk/en/our_projects/road_projects/6888th/index.html",
+        "tc": "https://www.hyd.gov.hk/tc/our_projects/road_projects/6888th/index.html"
+      },
+      "coordinates": [
+        [
+          114.003362,
+          22.432193
+        ]
+      ],
+      "geometry": null,
+      "page_title": {
+        "en": "Widening of Yuen Long Highway (section between Lam Tei and Tong Yan San Tsuen)",
+        "tc": "元朗公路（藍地至唐人新村段）擴闊工程"
+      },
+      "description": {
+        "en": "The project mainly involves widening of a section of Yuen Long Highway between Lam Tei Quarry and Tong Yan San Tsuen Interchange from existing dual-three lane to dual-four lane for increasing the carrying capacity of this section of Yuen Long Highway and enhancing the connectivity of Route 11 to Yuen Long South Development so as to complement the traffic need due to the commissioning of Route 11 and future developments in the Northwest New Territories.",
+        "tc": "工程項目主要包括擴闊一段介乎藍地石礦場至唐人新村交匯處的元朗公路，由雙程三線分隔行車道改為雙程四線分隔行車道，從而提升該段元朗公路的容量，並加強十一號幹線與元朗南發展的連接，以配合十一號幹線的落成及新界西北未來發展的交通需求。"
+      },
+      "scope": {
+        "en": "",
+        "tc": ""
+      },
+      "agreement_no": "6888th",
+      "cost": {
+        "en": "",
+        "tc": ""
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commissioning_date": {
+        "en": "",
+        "tc": ""
+      },
+      "consultant": {
+        "en": "AECOM Asia Company Limited",
+        "tc": "艾奕康有限公司"
+      },
+      "contractor": {
+        "en": "",
+        "tc": ""
+      },
+      "photos": [
+        {
+          "url": "https://www.hyd.gov.hk/en/our_projects/road_projects/6888th/layout.jpg",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "dataset": "hyd_road",
+      "department": "HYD",
+      "item": "6820th",
+      "name": "Upgrading of Remaining Sections of Kam Tin Road and Lam Kam Road",
+      "type": null,
+      "type_label": {
+        "en": "Road Project",
+        "tc": "道路工程"
+      },
+      "status": 1,
+      "status_label": {
+        "en": "Under Planning",
+        "tc": "規劃中"
+      },
+      "url": {
+        "en": "https://www.hyd.gov.hk/en/our_projects/road_projects/6820th/index.html",
+        "tc": "https://www.hyd.gov.hk/tc/our_projects/road_projects/6820th/index.html"
+      },
+      "coordinates": [
+        [
+          114.096367,
+          22.436795
+        ]
+      ],
+      "geometry": null,
+      "page_title": {
+        "en": "Upgrading of Remaining Sections of Kam Tin Road and Lam Kam Road",
+        "tc": "錦田公路及林錦公路餘段改善工程"
+      },
+      "description": {
+        "en": "To upgrade the section of Kam Tin Road between Tung Wui Road and Lam Kam Road and the section of Lam Kam Road between Kam Tin Road and Kadoorie Farm and Botanic Garden for enhancement of road safety.",
+        "tc": "這項工程改善介乎東匯路和林錦公路之間的一段錦田公路及介乎錦田公路和嘉道理農場暨植物園之間的一段林錦公路以提高道路安全水平。"
+      },
+      "scope": {
+        "en": "",
+        "tc": ""
+      },
+      "agreement_no": "6820th",
+      "cost": {
+        "en": "",
+        "tc": ""
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commissioning_date": {
+        "en": "",
+        "tc": ""
+      },
+      "consultant": {
+        "en": "Meinhardt Infrastructure and Environment Limited (Design and Construction)",
+        "tc": "邁進基建環保工程顧問有限公司 (設計及建造)"
+      },
+      "contractor": {
+        "en": "",
+        "tc": ""
+      },
+      "photos": [
+        {
+          "url": "https://www.hyd.gov.hk/en/our_projects/road_projects/6820th/layout.jpg",
+          "alt": "Layout Plan of Upgrading of Remaining Sections of Kam Tin Road and Lam Kam Road"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "dataset": "hyd_road",
+      "department": "HYD",
+      "item": "6852th",
+      "name": "Widening of Fuk Hang Tsuen Road (Between Castle Peak Road - Lam Tei and Fuk Hang Tsuen Lane)",
+      "type": null,
+      "type_label": {
+        "en": "Road Project",
+        "tc": "道路工程"
+      },
+      "status": 3,
+      "status_label": {
+        "en": "Completed",
+        "tc": "已完成"
+      },
+      "url": {
+        "en": "https://www.hyd.gov.hk/en/our_projects/road_projects/6852th/index.html",
+        "tc": "https://www.hyd.gov.hk/tc/our_projects/road_projects/6852th/index.html"
+      },
+      "coordinates": [
+        [
+          113.986485,
+          22.419224
+        ]
+      ],
+      "geometry": null,
+      "page_title": {
+        "en": "Widening of Fuk Hang Tsuen Road (Between Castle Peak Road – Lam Tei and Fuk Hang Tsuen Lane)",
+        "tc": "擴闊福亨村路工程(介乎青山公路 — 藍地段至福亨村里)"
+      },
+      "description": {
+        "en": "The project is to improve and widen the section of Fuk Hang Tsuen Road between Castle Peak Road – Lam Tei and Fuk Hang Tsuen Lane. The scope of the project comprises widening of a section of the existing single two-lane carriageway of approximately 600 metres (m) long from 6.5m to 10.3m; widening of footpaths; provision of one layby and one roundabout.",
+        "tc": "工程計劃是改善及擴闊位於青山公路-藍地段及福亨村里之間的福亨村路。工程計劃的範圍包括把一段現有長約600 米的雙線不分隔行車道由6.5 米擴闊至10.3 米、擴闊現有行人路、增設一個停車灣及一個迴轉處。"
+      },
+      "scope": {
+        "en": "",
+        "tc": ""
+      },
+      "agreement_no": "6852th",
+      "cost": {
+        "en": "",
+        "tc": "7,280萬港元"
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "10/2022",
+        "tc": ""
+      },
+      "commissioning_date": {
+        "en": "",
+        "tc": "2025年第一季"
+      },
+      "consultant": {
+        "en": "Nil",
+        "tc": "無"
+      },
+      "contractor": {
+        "en": "",
+        "tc": ""
+      },
+      "photos": [
+        {
+          "url": "https://www.hyd.gov.hk/en/our_projects/road_projects/6852th/layout_plan.jpg",
+          "alt": "Layout Plan of Widening of Fuk Hang Tsuen Road (Between Castle Peak Road – Lam Tei and Fuk Hang Tsuen Lane)"
+        },
+        {
+          "url": "https://www.hyd.gov.hk/en/our_projects/road_projects/6852th/photo.jpg",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "dataset": "hyd_road",
+      "department": "HYD",
+      "item": "6087th",
+      "name": "Improvement works at Tsuen Tsing Interchange",
+      "type": null,
+      "type_label": {
+        "en": "Road Project",
+        "tc": "道路工程"
+      },
+      "status": 2,
+      "status_label": {
+        "en": "Under Construction",
+        "tc": "施工中"
+      },
+      "url": {
+        "en": "https://www.hyd.gov.hk/en/our_projects/road_projects/6087th/index.html",
+        "tc": "https://www.hyd.gov.hk/tc/our_projects/road_projects/6087th/index.html"
+      },
+      "coordinates": [
+        [
+          114.117967,
+          22.36374
+        ]
+      ],
+      "geometry": null,
+      "page_title": {
+        "en": "Improvement works at Tsuen Tsing Interchange",
+        "tc": ""
+      },
+      "description": {
+        "en": "",
+        "tc": ""
+      },
+      "scope": {
+        "en": "",
+        "tc": ""
+      },
+      "agreement_no": "6087th",
+      "cost": {
+        "en": "",
+        "tc": ""
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commissioning_date": {
+        "en": "",
+        "tc": ""
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "",
+        "tc": ""
+      },
+      "photos": []
+    },
+    {
+      "id": 8,
+      "dataset": "hyd_road",
+      "department": "HYD",
+      "item": "6806th",
+      "name": "Hiram's Highway Improvement Stage 2",
+      "type": null,
+      "type_label": {
+        "en": "Road Project",
+        "tc": "道路工程"
+      },
+      "status": 2,
+      "status_label": {
+        "en": "Under Construction",
+        "tc": "施工中"
+      },
+      "url": {
+        "en": "https://www.hyd.gov.hk/en/our_projects/road_projects/6806th/index.html",
+        "tc": "https://www.hyd.gov.hk/tc/our_projects/road_projects/6806th/index.html"
+      },
+      "coordinates": [
+        [
+          114.261474,
+          22.371148
+        ]
+      ],
+      "geometry": null,
+      "page_title": {
+        "en": "Hiram's Highway Improvement Stage 2",
+        "tc": "西貢公路改善工程第二期"
+      },
+      "description": {
+        "en": "To improve the section of Hiram's Highway, Po Tung Road and Tai Mong Tsai Road from Marina Cove to the south of Sha Ha. The proposed improvement works will relieve the existing traffic congestion and cope with the anticipated traffic growth, as well as to enhance the resilience of the concerned roads to cope with unforeseen situation.",
+        "tc": "這項工程旨在改善匡湖居至沙下以南之間的西貢公路、普通道及大網仔路。 擬建的道路改善工程將會紓緩現時的交通擠塞情況並應付預期的交通增長，以及增強該道路應付突發狀況的應變能力。"
+      },
+      "scope": {
+        "en": "",
+        "tc": ""
+      },
+      "agreement_no": "6806th",
+      "cost": {
+        "en": "",
+        "tc": "27.5億港元"
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "24 December 2024",
+        "tc": ""
+      },
+      "commissioning_date": {
+        "en": "",
+        "tc": "2032年"
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "",
+        "tc": ""
+      },
+      "photos": [
+        {
+          "url": "https://www.hyd.gov.hk/en/our_projects/road_projects/6806th/layout.jpg",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "dataset": "hyd_road",
+      "department": "HYD",
+      "item": "HY201113_Pok_Oi",
+      "name": "Improvement to Pok Oi Interchange",
+      "type": null,
+      "type_label": {
+        "en": "Road Project",
+        "tc": "道路工程"
+      },
+      "status": 3,
+      "status_label": {
+        "en": "Completed",
+        "tc": "已完成"
+      },
+      "url": {
+        "en": "https://www.hyd.gov.hk/en/our_projects/road_projects/HY201113_Pok_Oi/index.html",
+        "tc": "https://www.hyd.gov.hk/tc/our_projects/road_projects/HY201113_Pok_Oi/index.html"
+      },
+      "coordinates": [
+        [
+          114.039642,
+          22.443789
+        ]
+      ],
+      "geometry": null,
+      "page_title": {
+        "en": "Improvement to Pok Oi  Interchange",
+        "tc": "博愛交匯處改善工程"
+      },
+      "description": {
+        "en": "To improve the traffic  capacity of Pok Oi Interchange to relieve the existing traffic pressure and  meet the future traffic demand.",
+        "tc": "改善博愛交匯處的交通流量，以紓緩現時該交匯處所承受的交通壓力，並滿足未來的交通需求。"
+      },
+      "scope": {
+        "en": "",
+        "tc": ""
+      },
+      "agreement_no": "HY201113_Pok_Oi",
+      "cost": {
+        "en": "",
+        "tc": "2.48 億港元"
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commissioning_date": {
+        "en": "Oct 2016",
+        "tc": "2016年10月"
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "",
+        "tc": ""
+      },
+      "photos": [
+        {
+          "url": "https://www.hyd.gov.hk/en/our_projects/road_projects/HY201113_Pok_Oi/HWDHY1113-PD0011(Eng).jpg",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "dataset": "hyd_road",
+      "department": "HYD",
+      "item": "6843th",
+      "name": "Widening of Tolo Highway/Fanling Highway between Island House Interchange and Tai Hang",
+      "type": null,
+      "type_label": {
+        "en": "Road Project",
+        "tc": "道路工程"
+      },
+      "status": 3,
+      "status_label": {
+        "en": "Completed",
+        "tc": "已完成"
+      },
+      "url": {
+        "en": "https://www.hyd.gov.hk/en/our_projects/road_projects/6843th/index.html",
+        "tc": "https://www.hyd.gov.hk/tc/our_projects/road_projects/6843th/index.html"
+      },
+      "coordinates": [
+        [
+          114.159231,
+          22.450284
+        ]
+      ],
+      "geometry": null,
+      "page_title": {
+        "en": "Widening of Tolo Highway/Fanling Highway between Island House Interchange and Tai Hang",
+        "tc": "舊政務司官邸附近道路交匯處與泰亨之間的吐露港公路擴闊工程"
+      },
+      "description": {
+        "en": "To alleviate the  traffic congestion problem on the Tolo    Highway.",
+        "tc": "擬建的擴闊工程是為了紓緩在吐露港公路的交通擠塞問題。"
+      },
+      "scope": {
+        "en": "",
+        "tc": ""
+      },
+      "agreement_no": "6843th",
+      "cost": {
+        "en": "",
+        "tc": "44.9億港元"
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "Aug   2009",
+        "tc": ""
+      },
+      "commissioning_date": {
+        "en": "March 2014",
+        "tc": "2014年3月"
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "",
+        "tc": ""
+      },
+      "photos": [
+        {
+          "url": "https://www.hyd.gov.hk/en/our_projects/road_projects/6843th/HMW6843TH-PD0001.jpg",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "dataset": "hyd_road",
+      "department": "HYD",
+      "item": "6746th",
+      "name": "Reconstruction and Improvement of Tuen Mun Road",
+      "type": null,
+      "type_label": {
+        "en": "Road Project",
+        "tc": "道路工程"
+      },
+      "status": 3,
+      "status_label": {
+        "en": "Completed",
+        "tc": "已完成"
+      },
+      "url": {
+        "en": "https://www.hyd.gov.hk/en/our_projects/road_projects/6746th/index.html",
+        "tc": "https://www.hyd.gov.hk/tc/our_projects/road_projects/6746th/index.html"
+      },
+      "coordinates": [
+        [
+          114.038299,
+          22.369349
+        ]
+      ],
+      "geometry": null,
+      "page_title": {
+        "en": "Reconstruction and Improvement of Tuen Mun Road",
+        "tc": "屯門公路重建及改善工程"
+      },
+      "description": {
+        "en": "To bring the road  up to the current standards as far as practicable.",
+        "tc": "盡量將屯門公路改善以符合現今的設計標準"
+      },
+      "scope": {
+        "en": "",
+        "tc": ""
+      },
+      "agreement_no": "6746th",
+      "cost": {
+        "en": "",
+        "tc": "68億港元"
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commissioning_date": {
+        "en": "End 2014",
+        "tc": "2014年尾"
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "",
+        "tc": ""
+      },
+      "photos": [
+        {
+          "url": "https://www.hyd.gov.hk/en/our_projects/road_projects/6746th/MW6746TH-PD0004.jpg",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "dataset": "hyd_road",
+      "department": "HYD",
+      "item": "6720th",
+      "name": "Widening of Tolo Highway / Fanling Highway between Island House Interchange and Fanling - Stage 2",
+      "type": null,
+      "type_label": {
+        "en": "Road Project",
+        "tc": "道路工程"
+      },
+      "status": 3,
+      "status_label": {
+        "en": "Completed",
+        "tc": "已完成"
+      },
+      "url": {
+        "en": "https://www.hyd.gov.hk/en/our_projects/road_projects/6720th/index.html",
+        "tc": "https://www.hyd.gov.hk/tc/our_projects/road_projects/6720th/index.html"
+      },
+      "coordinates": [
+        [
+          114.152276,
+          22.476595
+        ]
+      ],
+      "geometry": null,
+      "page_title": {
+        "en": "Widening of Tolo Highway / Fanling Highway between Island House Interchange and Fanling - Stage 2",
+        "tc": "舊政務司官邸附近道路交匯處與粉嶺之間的吐露港公路/粉嶺公路擴闊工程-第二期"
+      },
+      "description": {
+        "en": "To alleviate the  traffic congestion problem on Fanling    Highway.",
+        "tc": "擬建的擴闊工程是為了紓緩在粉嶺公路的交通擠塞問題。"
+      },
+      "scope": {
+        "en": "",
+        "tc": ""
+      },
+      "agreement_no": "6720th",
+      "cost": {
+        "en": "HK$4.32 Billion",
+        "tc": "43.2億港元"
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "Jul  2013",
+        "tc": ""
+      },
+      "commissioning_date": {
+        "en": "August 2019",
+        "tc": "2019年8月"
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "",
+        "tc": ""
+      },
+      "photos": [
+        {
+          "url": "https://www.hyd.gov.hk/en/our_projects/road_projects/6720th/HMW6720TH-PD0010.jpg",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "dataset": "hyd_road",
+      "department": "HYD",
+      "item": "6855th",
+      "name": "Road Improvement Works for West Kowloon Reclamation Development (Phase 1)",
+      "type": null,
+      "type_label": {
+        "en": "Road Project",
+        "tc": "道路工程"
+      },
+      "status": 3,
+      "status_label": {
+        "en": "Completed",
+        "tc": "已完成"
+      },
+      "url": {
+        "en": "https://www.hyd.gov.hk/en/our_projects/road_projects/6855th/index.html",
+        "tc": "https://www.hyd.gov.hk/tc/our_projects/road_projects/6855th/index.html"
+      },
+      "coordinates": [
+        [
+          114.160543,
+          22.312773
+        ]
+      ],
+      "geometry": null,
+      "page_title": {
+        "en": "Road Improvement Works for West Kowloon Reclamation Development (Phase 1)",
+        "tc": "西九龍填海發展的道路改善工程(第一期)"
+      },
+      "description": {
+        "en": "To improve the road network in the West Kowloon Reclamation Development area to cope with future traffic demand:",
+        "tc": "改善西九龍填海發展區的道路網絡，以應付未來的交通需求:"
+      },
+      "scope": {
+        "en": "",
+        "tc": ""
+      },
+      "agreement_no": "6855th",
+      "cost": {
+        "en": "HK$845.8 Million",
+        "tc": "8.458億港元"
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commissioning_date": {
+        "en": "Stage 1 - 16 August 2018 (Scheme Q) 19 September 2018 (Scheme J) Stage 2 - 31 January 2020 (Schemes H(A)) 29 January 2021 (Schemes I)",
+        "tc": "第1階段 - 2018年8月16日 (計劃 Q) 2018年9月19日 (計劃 J) 第2階段 - 2020年1月31日 (計劃 H(A)) 2021年1月29日 (計劃 I)"
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "",
+        "tc": ""
+      },
+      "photos": [
+        {
+          "url": "https://www.hyd.gov.hk/en/our_projects/road_projects/6855th/CE44-K-CV-0001.jpg",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "dataset": "hyd_road",
+      "department": "HYD",
+      "item": "703th_Hirams",
+      "name": "Hiram's Highway Improvement Stage 1",
+      "type": null,
+      "type_label": {
+        "en": "Road Project",
+        "tc": "道路工程"
+      },
+      "status": 3,
+      "status_label": {
+        "en": "Completed",
+        "tc": "已完成"
+      },
+      "url": {
+        "en": "https://www.hyd.gov.hk/en/our_projects/road_projects/703th_Hirams/index.html",
+        "tc": "https://www.hyd.gov.hk/tc/our_projects/road_projects/703th_Hirams/index.html"
+      },
+      "coordinates": [
+        [
+          114.253604,
+          22.354941
+        ]
+      ],
+      "geometry": null,
+      "page_title": {
+        "en": "Hiram's Highway Improvement Stage 1",
+        "tc": "西貢公路改善工程第一期"
+      },
+      "description": {
+        "en": "To improve two sections of Hiram's Highway between Clear Water Bay Road and Pak Wai, the existing Ho Chung Road and Luk Mei Tsuen Road. The proposed improvement works will relieve the traffic congestion on the road section near Marina Cove, enhance the safety of the road section and improve the local access to Ho Chung and Luk Mei Tsuen.",
+        "tc": "這項工程旨在改善清水灣道與匡湖居之間的兩段西貢公路及蠔涌和鹿尾村區內通路。"
+      },
+      "scope": {
+        "en": "",
+        "tc": ""
+      },
+      "agreement_no": "703th_Hirams",
+      "cost": {
+        "en": "HK$1.77 Billion",
+        "tc": "17.7億港元"
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "Mar 2016",
+        "tc": ""
+      },
+      "commissioning_date": {
+        "en": "Feb 2021",
+        "tc": "2021年2月"
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "",
+        "tc": ""
+      },
+      "photos": [
+        {
+          "url": "https://www.hyd.gov.hk/en/our_projects/road_projects/703th_Hirams/703TH-PD0001-Eng.jpg",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "dataset": "hyd_road",
+      "department": "HYD",
+      "item": "6579th",
+      "name": "Central - Wanchai Bypass and Island Eastern Corridor Link",
+      "type": null,
+      "type_label": {
+        "en": "Road Project",
+        "tc": "道路工程"
+      },
+      "status": 3,
+      "status_label": {
+        "en": "Completed",
+        "tc": "已完成"
+      },
+      "url": {
+        "en": "https://www.hyd.gov.hk/en/our_projects/road_projects/6579th/index.html",
+        "tc": "https://www.hyd.gov.hk/tc/our_projects/road_projects/6579th/index.html"
+      },
+      "coordinates": [
+        [
+          114.173363,
+          22.285227
+        ]
+      ],
+      "geometry": null,
+      "page_title": {
+        "en": "Central - Wan Chai Bypass and Island Eastern Corridor Link",
+        "tc": "中環及灣仔繞道和東區走廊連接路"
+      },
+      "description": {
+        "en": "The Central - Wan  Chai Bypass and Island Eastern Corridor Link  forms part of  an east-west strategic route along the north shore  of Hong Kong Island,  which serves to alleviate the traffic congestion along the existing Gloucester Road - Harcourt Road -  Connaught Road Central corridor.",
+        "tc": "中環及灣仔繞道和東區走廊連接路為港島北岸的東西行策略性幹道的一部分，旨在紓緩現時告士打道-夏慤道-干諾道中走廊的交通擠塞情況。"
+      },
+      "scope": {
+        "en": "",
+        "tc": ""
+      },
+      "agreement_no": "6579th",
+      "cost": {
+        "en": "HK$36 Billion",
+        "tc": "360億港元"
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commissioning_date": {
+        "en": "20 January 2019",
+        "tc": "2019年1月20日"
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "",
+        "tc": ""
+      },
+      "photos": [
+        {
+          "url": "https://www.hyd.gov.hk/en/our_projects/road_projects/6579th/HMW6579TH-SK0282.jpg",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "dataset": "hyd_road",
+      "department": "HYD",
+      "item": "6853th",
+      "name": "Widening of Castle Peak Road - Castle Peak Bay",
+      "type": null,
+      "type_label": {
+        "en": "Road Project",
+        "tc": "道路工程"
+      },
+      "status": 3,
+      "status_label": {
+        "en": "Completed",
+        "tc": "已完成"
+      },
+      "url": {
+        "en": "https://www.hyd.gov.hk/en/our_projects/road_projects/6853th/index.html",
+        "tc": "https://www.hyd.gov.hk/tc/our_projects/road_projects/6853th/index.html"
+      },
+      "coordinates": [
+        [
+          113.985266,
+          22.376671
+        ]
+      ],
+      "geometry": null,
+      "page_title": {
+        "en": "Widening of Castle Peak Road - Castle Peak Bay",
+        "tc": "青山公路青山灣段擴闊工程"
+      },
+      "description": {
+        "en": "",
+        "tc": ""
+      },
+      "scope": {
+        "en": "",
+        "tc": ""
+      },
+      "agreement_no": "6853th",
+      "cost": {
+        "en": "HK$ 755.2 Million",
+        "tc": "7.552 億港元"
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "30 November 2020",
+        "tc": ""
+      },
+      "commissioning_date": {
+        "en": "24 August 2024",
+        "tc": "2024年8月24日"
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "",
+        "tc": ""
+      },
+      "photos": [
+        {
+          "url": "https://www.hyd.gov.hk/en/our_projects/road_projects/6853th/6853th-Eng.jpg",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "dataset": "hyd_road",
+      "department": "HYD",
+      "item": "6870th",
+      "name": "Route 11 (section between Yuen Long and North Lantau)",
+      "type": null,
+      "type_label": {
+        "en": "Road Project",
+        "tc": "道路工程"
+      },
+      "status": 1,
+      "status_label": {
+        "en": "Under Planning",
+        "tc": "規劃中"
+      },
+      "url": {
+        "en": "https://www.hyd.gov.hk/en/our_projects/road_projects/6870th/index.html",
+        "tc": "https://www.hyd.gov.hk/tc/our_projects/road_projects/6870th/index.html"
+      },
+      "coordinates": [
+        [
+          114.013879,
+          22.379685
+        ]
+      ],
+      "geometry": null,
+      "page_title": {
+        "en": "Route 11 (section between Yuen Long and North Lantau)",
+        "tc": "十一號幹線（元朗至北大嶼山段）"
+      },
+      "description": {
+        "en": "Route 11 (section between Yuen Long and North Lantau) is a strategic highway connecting North West New Territories  (NWNT) and urban areas. The objectives of the project are to relieve the  traffic congestion on the roads to and from the NWNT and to support the  proposed developments in the NWNT. Furthermore, Route 11 can increase the route  choice to and from the NWNT and strengthen the resilience of the road network  to traffic incident or emergency works.",
+        "tc": "十一號幹線（元朗至北大嶼山段）是一條連接新界西北及市區的主要幹道。本工程目的是改善新界西北對外道路的交通情況及支持新界西北擬議發展。十一號幹線亦可以增加新界西北來往市區的路線選擇及加強道路網絡對交通事故的應變能力。"
+      },
+      "scope": {
+        "en": "",
+        "tc": ""
+      },
+      "agreement_no": "6870th",
+      "cost": {
+        "en": "",
+        "tc": ""
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commissioning_date": {
+        "en": "",
+        "tc": ""
+      },
+      "consultant": {
+        "en": "Ove Arup & Partners Hong Kong Limited",
+        "tc": "奧雅納工程顧問"
+      },
+      "contractor": {
+        "en": "",
+        "tc": ""
+      },
+      "photos": [
+        {
+          "url": "https://www.hyd.gov.hk/en/our_projects/road_projects/6870th/layout_plan.jpg",
+          "alt": "Layout Plan of Route 11 (section between Yuen Long and North Lantau)"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "dataset": "hyd_road",
+      "department": "HYD",
+      "item": "tmb",
+      "name": "Tuen Mun Bypass (TMB)",
+      "type": null,
+      "type_label": {
+        "en": "Road Project",
+        "tc": "道路工程"
+      },
+      "status": 1,
+      "status_label": {
+        "en": "Under Planning",
+        "tc": "規劃中"
+      },
+      "url": {
+        "en": "https://www.hyd.gov.hk/en/our_projects/road_projects/tmb/index.html",
+        "tc": "https://www.hyd.gov.hk/tc/our_projects/road_projects/tmb/index.html"
+      },
+      "coordinates": [
+        [
+          113.97321,
+          22.388848
+        ]
+      ],
+      "geometry": null,
+      "page_title": {
+        "en": "Tuen Mun Bypass",
+        "tc": "屯門繞道"
+      },
+      "description": {
+        "en": "Tuen Mun Bypass (\"TMB\") is a strategic highway connecting Tuen Mun-Chek Lap Kok Tunnel and Yuen Long Highway (near Lam Tei Quarry).  The objectives of the project are to enhance the strategic road network in the Northwest New Territories (\"NWNT\") and alleviate the traffic congestion along some local roads in Tuen Mun.  Upon commissioning, TMB can divert traffic away from the road network in Tuen Mun, thus releasing the capacity of the existing roads, especially Tuen Mun Road (Fu Tei and Town Centre Sections) and Wong Chu Road, to support various proposed developments in Tuen Mun West and the NWNT.",
+        "tc": "屯門繞道是一條連接屯門-赤鱲角隧道及元朗公路(近藍地石礦場)的主要幹道。建設本工程是要促進新界西北的主要幹道網絡及改善屯門區內道路的交通情況。落成後屯門繞道將有助分流屯門道路的交通，尤其是屯門公路(虎地段及市中心段)和皇珠路。屯門道路的容車量因此得到釋放，並能支持屯門西及新界西北各個擬議的發展。"
+      },
+      "scope": {
+        "en": "",
+        "tc": ""
+      },
+      "agreement_no": "tmb",
+      "cost": {
+        "en": "",
+        "tc": ""
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commissioning_date": {
+        "en": "",
+        "tc": ""
+      },
+      "consultant": {
+        "en": "Ove Arup & Partners Hong Kong Limited",
+        "tc": "奧雅納工程顧問"
+      },
+      "contractor": {
+        "en": "",
+        "tc": ""
+      },
+      "photos": [
+        {
+          "url": "https://www.hyd.gov.hk/en/our_projects/road_projects/tmb/TMB.jpg",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "dataset": "hyd_road",
+      "department": "HYD",
+      "item": "6887th",
+      "name": "Nim Wan Road (South)",
+      "type": null,
+      "type_label": {
+        "en": "Road Project",
+        "tc": "道路工程"
+      },
+      "status": 1,
+      "status_label": {
+        "en": "Under Planning",
+        "tc": "規劃中"
+      },
+      "url": {
+        "en": "https://www.hyd.gov.hk/en/our_projects/road_projects/6887th/index.html",
+        "tc": "https://www.hyd.gov.hk/tc/our_projects/road_projects/6887th/index.html"
+      },
+      "coordinates": [
+        [
+          113.916248,
+          22.418217
+        ]
+      ],
+      "geometry": null,
+      "page_title": {
+        "en": "Nim Wan Road (South)",
+        "tc": "稔灣路（南）"
+      },
+      "description": {
+        "en": "The Project serves to provide an alternative route for the existing Nim Wan Road, connecting the existing road junction of Yung Long Road and Nim Wan Road to the road junction at the entrance of the existing T⸱PARK, in order to enhance road accessibility to the government facilities in Nim Wan area.",
+        "tc": "本工程項目旨在提供一條現有稔灣路的替代路線，把湧浪路和稔灣路的現有交界處與T⸱PARK（源．區）入口的現有交界處連接起來，以提升稔灣一帶政府設施的道路通達性。"
+      },
+      "scope": {
+        "en": "",
+        "tc": ""
+      },
+      "agreement_no": "6887th",
+      "cost": {
+        "en": "",
+        "tc": "檢討中"
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "",
+        "tc": "檢討中"
+      },
+      "commissioning_date": {
+        "en": "",
+        "tc": "檢討中"
+      },
+      "consultant": {
+        "en": "Meinhardt Infrastructure and Environment Limited",
+        "tc": "邁進基建環保工程顧問有限公司"
+      },
+      "contractor": {
+        "en": "",
+        "tc": ""
+      },
+      "photos": [
+        {
+          "url": "https://www.hyd.gov.hk/en/our_projects/road_projects/6887th/layout.jpg",
+          "alt": "Layout Plan of Nim Wan Road (South)"
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "dataset": "hyd_road",
+      "department": "HYD",
+      "item": "tyll",
+      "name": "Tsing Yi – Lantau Link",
+      "type": null,
+      "type_label": {
+        "en": "Road Project",
+        "tc": "道路工程"
+      },
+      "status": 1,
+      "status_label": {
+        "en": "Under Planning",
+        "tc": "規劃中"
+      },
+      "url": {
+        "en": "https://www.hyd.gov.hk/en/our_projects/road_projects/tyll/index.html",
+        "tc": "https://www.hyd.gov.hk/tc/our_projects/road_projects/tyll/index.html"
+      },
+      "coordinates": [
+        [
+          114.077249,
+          22.345831
+        ]
+      ],
+      "geometry": null,
+      "page_title": {
+        "en": "Tsing Yi – Lantau Link",
+        "tc": "青衣至大嶼山連接路"
+      },
+      "description": {
+        "en": "Tsing Yi – Lantau Link (TYLL) can relieve the forecast traffic impact on Lantau Link, creating capacity to cope with the long term development of the Northwest New Territories (NWNT), Lantau Island and Hong Kong International Airport. TYLL, being part of the group of strategic roads, together with the implementation of Route 11 and other relevant major roads, can improve the traffic conditions of major roads plying the NWNT and the urban areas, increase the route choices for the traffic commuting Lantau Island and the urban areas, and strengthen the resilience of the entire road network.",
+        "tc": "青衣至大嶼山連接路能改善預期於青嶼幹線出現的交通情況， 創造容量以配合新界西北、大嶼山和香港國際機場的長遠發展需要。青衣至大嶼山連接路作為整組策略性幹道的一部分， 連同十一號幹線及其他相關主要幹道將可改善新界西北來往市區主要道路的交通情況， 並增加大嶼山來往市區的路線選擇， 加強整體道路網絡對交通事故的應變能力。"
+      },
+      "scope": {
+        "en": "",
+        "tc": ""
+      },
+      "agreement_no": "tyll",
+      "cost": {
+        "en": "",
+        "tc": ""
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commissioning_date": {
+        "en": "",
+        "tc": ""
+      },
+      "consultant": {
+        "en": "AECOM Asia Company Limited",
+        "tc": "艾奕康有限公司"
+      },
+      "contractor": {
+        "en": "",
+        "tc": ""
+      },
+      "photos": [
+        {
+          "url": "https://www.hyd.gov.hk/en/our_projects/road_projects/tyll/layout.jpg",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "dataset": "hyd_road",
+      "department": "HYD",
+      "item": "6878th_1",
+      "name": "Upgrading of Nim Wan Road (North)",
+      "type": null,
+      "type_label": {
+        "en": "Road Project",
+        "tc": "道路工程"
+      },
+      "status": 1,
+      "status_label": {
+        "en": "Under Planning",
+        "tc": "規劃中"
+      },
+      "url": {
+        "en": "https://www.hyd.gov.hk/en/our_projects/road_projects/6878th_1/index.html",
+        "tc": "https://www.hyd.gov.hk/tc/our_projects/road_projects/6878th_1/index.html"
+      },
+      "coordinates": [
+        [
+          113.951682,
+          22.439332
+        ]
+      ],
+      "geometry": null,
+      "page_title": {
+        "en": "Upgrading of Nim Wan Road (North)",
+        "tc": "稔灣路(北)改善工程"
+      },
+      "description": {
+        "en": "The purpose of the Project is to upgrade the Nim Wan Road (North) section (connecting Deep Bay Road and the West New Territories Landfill) from an existing single lane carriageway with two-way traffic to a single two-lane carriageway to meet the latest traffic need and current design standards, including reducing sharp curves, improving driving sightline and traffic safety.",
+        "tc": "本工程項目是將稔灣路(北)段(連接深灣路及新界西堆填區)由現時的單線雙程行車道改善為雙線行車道，以配合最新的交通需求和符合現時的設計標準，包括減少急彎、改善行車視線及交通安全。"
+      },
+      "scope": {
+        "en": "",
+        "tc": ""
+      },
+      "agreement_no": "6878th_1",
+      "cost": {
+        "en": "",
+        "tc": ""
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commissioning_date": {
+        "en": "",
+        "tc": ""
+      },
+      "consultant": {
+        "en": "Meinhardt Infrastructure and Environment Limited",
+        "tc": "邁進基建環保工程顧問有限公司"
+      },
+      "contractor": {
+        "en": "",
+        "tc": ""
+      },
+      "photos": [
+        {
+          "url": "https://www.hyd.gov.hk/en/our_projects/road_projects/6878th_1/layout.jpg",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "dataset": "hyd_road",
+      "department": "HYD",
+      "item": "895th",
+      "name": "Northern Metropolis Highway",
+      "type": null,
+      "type_label": {
+        "en": "Road Project",
+        "tc": "道路工程"
+      },
+      "status": 1,
+      "status_label": {
+        "en": "Under Planning",
+        "tc": "規劃中"
+      },
+      "url": {
+        "en": "https://www.hyd.gov.hk/en/our_projects/road_projects/895th/index.html",
+        "tc": "https://www.hyd.gov.hk/tc/our_projects/road_projects/895th/index.html"
+      },
+      "coordinates": [
+        [
+          114.091354,
+          22.491362
+        ]
+      ],
+      "geometry": null,
+      "page_title": {
+        "en": "Northern Metropolis Highway",
+        "tc": "北都公路"
+      },
+      "description": {
+        "en": "The Northern Metropolis Highway (NMH) is a major east-west corridor linking the development nodes (including Ngau Tam Mei, San Tin Technopole, Kwu Tung North/Fanling North and New Territories North (NTN) New Town) in the Northern Metropolis with a total length of approximately 24 kilometers. The preliminary alignment of the NMH connects Tin Shui Wai to the NTN New Town near Ping Che, and consists of the four road sections – Tin Shui Wai section, San Tin section, Kwu Tung section, and NTN New Town section. The NMH will enhance accessibility to the new development areas, and further enhance cross-boundary road connections for passengers and goods, enabling members of the public and visitors to travel conveniently to and from various major land boundary control points in the Northern Metropolis. Upon commissioning of the NMH, it can effectively divert about 40 per cent of the traffic flow between the New Territories East and West during peak hours, thereby alleviating traffic pressure on existing roads.",
+        "tc": "北都公路是一條連貫北部都會區內各個發展重心(包括牛潭尾、新田科技城、古洞北／粉嶺北及新界北新市鎮)的主要東西走廊，總長度約為24公里。其初步走線連接天水圍至新界北新市鎮近坪輋，由四個路段組成：天水圍段、新田段、古洞段，以及新界北新市鎮段。北都公路將會增強各新發展區的通達性，以及進一步完善跨境客貨運的道路連接，讓市民及旅客更便捷地往返區內各個主要陸路口岸。北都公路通車後，在繁忙時段能有效分流約四成往返新界東西的交通流量，紓緩現有道路的交通壓力。"
+      },
+      "scope": {
+        "en": "",
+        "tc": ""
+      },
+      "agreement_no": "895th",
+      "cost": {
+        "en": "",
+        "tc": ""
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commissioning_date": {
+        "en": "",
+        "tc": "2036年或之前開通新田段，爭取於新田段開通後3至4年分階段完成其餘路段"
+      },
+      "consultant": {
+        "en": "AECOM Asia Company Limited and AtkinsRealis Asia Limited Joint Venture",
+        "tc": "艾奕康有限公司和阿特金斯睿萊亞洲有限公司聯營"
+      },
+      "contractor": {
+        "en": "",
+        "tc": ""
+      },
+      "photos": [
+        {
+          "url": "https://www.hyd.gov.hk/en/our_projects/road_projects/895th/layout_plan.jpg",
+          "alt": "Layout Plan of Northern Metropolis Highway"
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "dataset": "hyd_road",
+      "department": "HYD",
+      "item": "6461th",
+      "name": "Central Kowloon Route",
+      "type": null,
+      "type_label": {
+        "en": "Road Project",
+        "tc": "道路工程"
+      },
+      "status": 2,
+      "status_label": {
+        "en": "Under Construction",
+        "tc": "施工中"
+      },
+      "url": {
+        "en": "https://www.hyd.gov.hk/en/our_projects/road_projects/6461th/index.html",
+        "tc": "https://www.hyd.gov.hk/tc/our_projects/road_projects/6461th/index.html"
+      },
+      "coordinates": [
+        [
+          114.184518,
+          22.315736
+        ]
+      ],
+      "geometry": null,
+      "page_title": {
+        "en": "Central Kowloon Route",
+        "tc": "中九龍幹線"
+      },
+      "description": {
+        "en": "To relieve traffic congestion on the existing east-west roads across Central Kowloon.",
+        "tc": "目的是紓緩九龍中部現有東西行道路的交通擠塞情況。"
+      },
+      "scope": {
+        "en": "",
+        "tc": ""
+      },
+      "agreement_no": "6461th",
+      "cost": {
+        "en": "HK$ 42.36 Billion",
+        "tc": "423.6億港元"
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "Dec 2017",
+        "tc": ""
+      },
+      "commissioning_date": {
+        "en": "End of 2025",
+        "tc": "2025年年底"
+      },
+      "consultant": {
+        "en": "Arup – Mott MacDonald Joint Venture (Design and Construction)",
+        "tc": "奧雅納–莫特麥克唐納顧問聯營公司(設計及建造)"
+      },
+      "contractor": {
+        "en": "",
+        "tc": ""
+      },
+      "photos": [
+        {
+          "url": "https://www.hyd.gov.hk/en/our_projects/road_projects/6461th/HMW6461TH-SK0765_20160125.jpg",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "dataset": "hyd_road",
+      "department": "HYD",
+      "item": "856th",
+      "name": "Flyover from Kwai Tsing Interchange Upramp to Kwai Chung Road",
+      "type": null,
+      "type_label": {
+        "en": "Road Project",
+        "tc": "道路工程"
+      },
+      "status": 2,
+      "status_label": {
+        "en": "Under Construction",
+        "tc": "施工中"
+      },
+      "url": {
+        "en": "https://www.hyd.gov.hk/en/our_projects/road_projects/856th/index.html",
+        "tc": "https://www.hyd.gov.hk/tc/our_projects/road_projects/856th/index.html"
+      },
+      "coordinates": [
+        [
+          114.126122,
+          22.352271
+        ]
+      ],
+      "geometry": null,
+      "page_title": {
+        "en": "Flyover from Kwai Tsing Interchange Upramp to Kwai Chung Road",
+        "tc": "連接葵青交匯處上斜路至葵涌道的天橋"
+      },
+      "description": {
+        "en": "The objective of the proposed works is to relieve the traffic congestion at the Kwai Tsing Interchange Upramp. The scope of works mainly comprises the construction of a single-lane vehicular bridge connecting Tsuen Wan Road southbound fast lane to Kwai Chung Road, widening of a section of Tsuen Wan Road southbound traffic lane between Kwai Tsing Interchange upramp and Kwai Chung Road, and other ancillary works.",
+        "tc": "工程旨在紓緩葵青交匯處上斜路交通擠塞的情况。工程主要包括建造1條單線行車橋連接荃灣路南行快線到葵涌道，擴闊連接葵青交匯處上斜路至葵涌道一段荃灣路南行線，以及其他附屬工程。"
+      },
+      "scope": {
+        "en": "",
+        "tc": ""
+      },
+      "agreement_no": "856th",
+      "cost": {
+        "en": "HK$472.0 Million",
+        "tc": "4.72億港元"
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "June 2021",
+        "tc": ""
+      },
+      "commissioning_date": {
+        "en": "Mid-2026",
+        "tc": "2026年年中"
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "",
+        "tc": ""
+      },
+      "photos": [
+        {
+          "url": "https://www.hyd.gov.hk/en/our_projects/road_projects/856th/856th.jpg",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "dataset": "hyd_road",
+      "department": "HYD",
+      "item": "6863th",
+      "name": "Widening of Western Section of Lin Ma Hang Road between Ping Yuen River and Ping Che Road",
+      "type": null,
+      "type_label": {
+        "en": "Road Project",
+        "tc": "道路工程"
+      },
+      "status": 3,
+      "status_label": {
+        "en": "Completed",
+        "tc": "已完成"
+      },
+      "url": {
+        "en": "https://www.hyd.gov.hk/en/our_projects/road_projects/6863th/index.html",
+        "tc": "https://www.hyd.gov.hk/tc/our_projects/road_projects/6863th/index.html"
+      },
+      "coordinates": [
+        [
+          114.144602,
+          22.540935
+        ]
+      ],
+      "geometry": null,
+      "page_title": {
+        "en": "Widening of Western Section of Lin Ma Hang Road between Ping Yuen River and Ping Che Road",
+        "tc": "蓮麻坑路西段(平原河至坪輋路)擴闊工程"
+      },
+      "description": {
+        "en": "The proposed project is to widen about 750m of Lin  Ma Hang Road between Ping Yuen River and Ping Che Road to cope with the  anticipated traffic demand arising from the opening of Frontier Closed Area.",
+        "tc": "擬建工程計劃將會擴闊平原河至坪輋路之間約750米的蓮麻坑路，以應付邊境禁區縮減計劃所帶來的預期交通需求。"
+      },
+      "scope": {
+        "en": "",
+        "tc": ""
+      },
+      "agreement_no": "6863th",
+      "cost": {
+        "en": "HK$ 432.3 Million",
+        "tc": "4.323 億港元"
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "14 February 2020",
+        "tc": ""
+      },
+      "commissioning_date": {
+        "en": "30 November 2023",
+        "tc": "2023年11月30日"
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "",
+        "tc": ""
+      },
+      "photos": [
+        {
+          "url": "https://www.hyd.gov.hk/en/our_projects/road_projects/6863th/6863TH-Layout Plan_CE4.jpg",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "dataset": "hyd_road",
+      "department": "HYD",
+      "item": "6886th",
+      "name": "Widening of T6 Bridge of Tate's Cairn Highway",
+      "type": null,
+      "type_label": {
+        "en": "Road Project",
+        "tc": "道路工程"
+      },
+      "status": 1,
+      "status_label": {
+        "en": "Under Planning",
+        "tc": "規劃中"
+      },
+      "url": {
+        "en": "https://www.hyd.gov.hk/en/our_projects/road_projects/6886th/index.html",
+        "tc": "https://www.hyd.gov.hk/tc/our_projects/road_projects/6886th/index.html"
+      },
+      "coordinates": [
+        [
+          114.214897,
+          22.408411
+        ]
+      ],
+      "geometry": null,
+      "page_title": {
+        "en": "Widening of T6 Bridge of Tate's Cairn Highway",
+        "tc": "大老山公路T6橋擴闊工程"
+      },
+      "description": {
+        "en": "The project aims to widen the T6 Bridge of Tate's Cairn Highway across Sha Tin Sewage Treatment Works and Shing Mun River Channel from the existing dual two-lane carriageway to a dual three-lane carriageway",
+        "tc": "工程計劃旨在擴闊橫跨沙田污水處理廠及城門河的大老山公路T6橋，由現時的雙程雙線分隔行車道增加為雙程三線分隔行車道。"
+      },
+      "scope": {
+        "en": "",
+        "tc": ""
+      },
+      "agreement_no": "6886th",
+      "cost": {
+        "en": "",
+        "tc": ""
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commissioning_date": {
+        "en": "",
+        "tc": ""
+      },
+      "consultant": {
+        "en": "Mott MacDonald Hong Kong Limited",
+        "tc": "莫特麥克唐納香港有限公司"
+      },
+      "contractor": {
+        "en": "",
+        "tc": ""
+      },
+      "photos": [
+        {
+          "url": "https://www.hyd.gov.hk/en/our_projects/road_projects/6886th/layout.jpg",
+          "alt": "Layout Plan of Widening of T6 Bridge of Tate's Cairn Highway"
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "dataset": "hyd_road",
+      "department": "HYD",
+      "item": "hzmb_projects",
+      "name": "Hong Kong-Zhuhai-Macao Bridge Related Hong Kong Projects",
+      "type": null,
+      "type_label": {
+        "en": "Road Project",
+        "tc": "道路工程"
+      },
+      "status": 3,
+      "status_label": {
+        "en": "Completed",
+        "tc": "已完成"
+      },
+      "url": {
+        "en": "https://www.hyd.gov.hk/en/our_projects/road_projects/hzmb_projects/index.html",
+        "tc": "https://www.hyd.gov.hk/tc/our_projects/road_projects/hzmb_projects/index.html"
+      },
+      "coordinates": [
+        [
+          113.936522,
+          22.309893
+        ]
+      ],
+      "geometry": null,
+      "page_title": {
+        "en": "Hong Kong-Zhuhai-Macao Bridge Related Hong Kong Projects",
+        "tc": "港珠澳大橋香港相關工程項目"
+      },
+      "description": {
+        "en": "",
+        "tc": ""
+      },
+      "scope": {
+        "en": "",
+        "tc": ""
+      },
+      "agreement_no": "hzmb_projects",
+      "cost": {
+        "en": "",
+        "tc": ""
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commissioning_date": {
+        "en": "",
+        "tc": ""
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "",
+        "tc": ""
+      },
+      "photos": []
+    }
+  ]
+}
