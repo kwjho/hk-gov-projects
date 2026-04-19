@@ -321,12 +321,6 @@ header {
 <div class="filters" id="filterBar">
   <!-- dataset chips injected by JS -->
   <div class="fdivider" id="fdivDs" style="display:none"></div>
-  <!-- type chips -->
-  <div class="chip chip-ua  active" data-filter="type" data-val="UA"  onclick="toggleChip(this)"><span data-i18n="typeUA">暢道通行</span></div>
-  <div class="chip chip-hel active" data-filter="type" data-val="HEL" onclick="toggleChip(this)"><span data-i18n="typeHEL">坡道電梯</span></div>
-  <div class="chip chip-wc  active" data-filter="type" data-val="WC"  onclick="toggleChip(this)"><span data-i18n="typeWC">有蓋行人道</span></div>
-  <div class="chip chip-df  active" data-filter="type" data-val="DF"  onclick="toggleChip(this)"><span data-i18n="typeDF">地區設施</span></div>
-  <div class="fdivider"></div>
   <!-- status chips -->
   <div class="chip chip-s1 active" data-filter="status" data-val="1" onclick="toggleChip(this)"><span data-i18n="s1">規劃中</span></div>
   <div class="chip chip-s2 active" data-filter="status" data-val="2" onclick="toggleChip(this)"><span data-i18n="s2">施工中</span></div>
@@ -344,13 +338,7 @@ header {
 <div class="main" id="mainArea">
   <div id="map"></div>
   <div class="map-legend" id="mapLegend">
-    <div class="legend-section" data-i18n="legendType">項目類別</div>
-    <div class="legend-row"><div class="legend-dot" style="background:var(--ua)"></div><span data-i18n="typeUA">暢道通行</span></div>
-    <div class="legend-row"><div class="legend-dot" style="background:var(--hel)"></div><span data-i18n="typeHEL">坡道電梯</span></div>
-    <div class="legend-row"><div class="legend-dot" style="background:var(--wc)"></div><span data-i18n="typeWC">有蓋行人道</span></div>
-    <div class="legend-row"><div class="legend-dot" style="background:var(--df)"></div><span data-i18n="typeDF">地區設施</span></div>
-    <div class="legend-divider"></div>
-    <div class="legend-section" data-i18n="legendStatus">施工狀態（邊框）</div>
+    <div class="legend-section" data-i18n="legendStatus">施工狀態</div>
     <div class="legend-row"><div class="legend-dot" style="background:var(--s1)"></div><span data-i18n="s1">規劃中</span></div>
     <div class="legend-row"><div class="legend-dot" style="background:var(--s2)"></div><span data-i18n="s2">施工中</span></div>
     <div class="legend-row"><div class="legend-dot" style="background:var(--s3)"></div><span data-i18n="s3">已完成</span></div>
