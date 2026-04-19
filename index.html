@@ -469,6 +469,7 @@ function applyI18n() {
 const DATASETS = [
   { id: 'walkability', file: 'data/walkability.json' },
   { id: 'wsd',         file: 'data/wsd.json' },
+  { id: 'cedd',        file: 'data/cedd.json' },
 ];
 
 const TYPE_COLOR = { UA:'#3b82f6', HEL:'#10b981', WC:'#f59e0b', DF:'#a855f7' };
@@ -480,7 +481,7 @@ let loadedDatasets = {}; // id → dataset metadata
 let activeFilters = {
   type:    new Set(['UA','HEL','WC','DF']),
   status:  new Set(['1','2','3']),
-  dept:    new Set(['HYD','WSD']),
+  dept:    new Set(['HYD','WSD','CEDD']),
 };
 let currentView = 'map';
 let map, markersLayer, polygonLayer;
@@ -490,7 +491,7 @@ map = L.map('map', { center:[22.35,114.15], zoom:11, zoomControl:false, attribut
 L.control.zoom({ position:'topright' }).addTo(map);
 L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png', { maxZoom:19 }).addTo(map);
 L.control.attribution({ position:'bottomright', prefix:false })
-  .addAttribution('© OpenStreetMap contributors © CARTO | 數據來源：路政署 / CSDI')
+  .addAttribution('© OpenStreetMap contributors © CARTO')
   .addTo(map);
 markersLayer = L.layerGroup().addTo(map);
 polygonLayer = L.layerGroup().addTo(map);
@@ -524,8 +525,9 @@ function buildDatasetChips() {
   divider.style.display = 'block';
 
   const depts = [
-    { val: 'HYD', label: 'HYD' },
-    { val: 'WSD', label: 'WSD' },
+    { val: 'HYD',  label: 'HYD' },
+    { val: 'WSD',  label: 'WSD' },
+    { val: 'CEDD', label: 'CEDD' },
   ];
   depts.forEach(({ val, label }) => {
     const chip = document.createElement('div');
@@ -555,7 +557,7 @@ function getFiltered() {
   const q = document.getElementById('searchInput').value.trim().toLowerCase();
   return allProjects.filter(p => {
     if (!activeFilters.dept.has(p.department)) return false;
-    // type filter only applies to HYD projects (WSD has no type)
+    // type filter only applies to HYD projects (WSD/CEDD have no type)
     if (p.department === 'HYD' && !activeFilters.type.has(p.type)) return false;
     if (!activeFilters.status.has(String(p.status))) return false;
     if (q) {
@@ -735,8 +737,9 @@ function openPanel(p) {
 
   // Source attribution
   const srcMap = {
-    HYD: { en: 'Source: Highways Department (HYD) / CSDI', tc: '資料來源：路政署（HYD）/ CSDI' },
-    WSD: { en: 'Source: Water Services Department (WSD) / CSDI', tc: '資料來源：水務署（WSD）/ CSDI' },
+    HYD:  { en: 'Source: Highways Department (HYD) / CSDI',                    tc: '資料來源：路政署（HYD）/ CSDI' },
+    WSD:  { en: 'Source: Water Services Department (WSD) / CSDI',               tc: '資料來源：水務署（WSD）/ CSDI' },
+    CEDD: { en: 'Source: Civil Engineering and Development Department (CEDD) / CSDI', tc: '資料來源：土木工程拓展署（CEDD）/ CSDI' },
   };
   const src = srcMap[p.department];
   if (src) body += `<div style="font-size:11px;color:var(--muted);text-align:right">${lang === 'en' ? src.en : src.tc}</div>`;

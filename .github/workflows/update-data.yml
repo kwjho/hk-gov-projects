@@ -26,6 +26,7 @@ jobs:
         run: |
           python scripts/crawl_walkability.py
           python scripts/crawl_wsd.py
+          python scripts/crawl_cedd.py
 
       - name: Commit updated data
         run: |

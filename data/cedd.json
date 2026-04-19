@@ -1,0 +1,8276 @@
+{
+  "dataset_id": "cedd",
+  "dataset_name": {
+    "en": "Major Projects",
+    "tc": "主要工程項目"
+  },
+  "department": "CEDD",
+  "department_full": {
+    "en": "Civil Engineering and Development Department",
+    "tc": "土木工程拓展署"
+  },
+  "generated_at": "2026-04-19T03:33:35.913365+00:00",
+  "total": 118,
+  "projects": [
+    {
+      "id": 1,
+      "dataset": "cedd",
+      "department": "CEDD",
+      "item": "B566CL",
+      "name": "Development at Anderson Road",
+      "type": null,
+      "type_label": {
+        "en": "",
+        "tc": ""
+      },
+      "status": 3,
+      "status_label": {
+        "en": "Completed",
+        "tc": "已完成"
+      },
+      "url": {
+        "en": "",
+        "tc": ""
+      },
+      "overview": {
+        "en": "",
+        "tc": ""
+      },
+      "coordinates": [
+        [
+          114.231906,
+          22.323685
+        ]
+      ],
+      "geometry": null,
+      "page_title": {
+        "en": "Development at Anderson Road",
+        "tc": "安達臣道發展"
+      },
+      "description": {
+        "en": "",
+        "tc": ""
+      },
+      "scope": {
+        "en": "",
+        "tc": ""
+      },
+      "agreement_no": "B566CL",
+      "cost": {
+        "en": "",
+        "tc": ""
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commissioning_date": {
+        "en": "",
+        "tc": ""
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "",
+        "tc": ""
+      },
+      "photos": []
+    },
+    {
+      "id": 2,
+      "dataset": "cedd",
+      "department": "CEDD",
+      "item": "7741CL",
+      "name": "Kai Tak development – stage 1 advance infrastructure works for developments at the southern part of the former runway",
+      "type": null,
+      "type_label": {
+        "en": "",
+        "tc": ""
+      },
+      "status": 3,
+      "status_label": {
+        "en": "Completed",
+        "tc": "已完成"
+      },
+      "url": {
+        "en": "",
+        "tc": ""
+      },
+      "overview": {
+        "en": "",
+        "tc": ""
+      },
+      "coordinates": [
+        [
+          114.199499,
+          22.319101
+        ]
+      ],
+      "geometry": null,
+      "page_title": {
+        "en": "Kai Tak development – stage 1 advance infrastructure works for developments at the southern part of the former runway",
+        "tc": "啟德發展計劃－前跑道南面發展項目的前期基礎設施工程第1期"
+      },
+      "description": {
+        "en": "",
+        "tc": ""
+      },
+      "scope": {
+        "en": "",
+        "tc": ""
+      },
+      "agreement_no": "7741CL",
+      "cost": {
+        "en": "",
+        "tc": ""
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commissioning_date": {
+        "en": "",
+        "tc": ""
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "",
+        "tc": ""
+      },
+      "photos": []
+    },
+    {
+      "id": 3,
+      "dataset": "cedd",
+      "department": "CEDD",
+      "item": "7739CL",
+      "name": "Kai Tak development – stage 1 infrastructure works at north apron area of Kai Tak Airport",
+      "type": null,
+      "type_label": {
+        "en": "",
+        "tc": ""
+      },
+      "status": 3,
+      "status_label": {
+        "en": "Completed",
+        "tc": "已完成"
+      },
+      "url": {
+        "en": "",
+        "tc": ""
+      },
+      "overview": {
+        "en": "",
+        "tc": ""
+      },
+      "coordinates": [
+        [
+          114.201852,
+          22.33111
+        ]
+      ],
+      "geometry": null,
+      "page_title": {
+        "en": "Kai Tak development – stage 1 infrastructure works at north apron area of Kai Tak Airport",
+        "tc": "啟德發展計劃 – 啟德機場北面停機坪配合公共房屋及政府合署發展的第一期基礎設施"
+      },
+      "description": {
+        "en": "",
+        "tc": ""
+      },
+      "scope": {
+        "en": "",
+        "tc": ""
+      },
+      "agreement_no": "7739CL",
+      "cost": {
+        "en": "",
+        "tc": ""
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commissioning_date": {
+        "en": "",
+        "tc": ""
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "",
+        "tc": ""
+      },
+      "photos": []
+    },
+    {
+      "id": 4,
+      "dataset": "cedd",
+      "department": "CEDD",
+      "item": "7746CL",
+      "name": "Kai Tak development – stage 2 infrastructure at north apron area of Kai Tak Airport",
+      "type": null,
+      "type_label": {
+        "en": "",
+        "tc": ""
+      },
+      "status": 3,
+      "status_label": {
+        "en": "Completed",
+        "tc": "已完成"
+      },
+      "url": {
+        "en": "",
+        "tc": ""
+      },
+      "overview": {
+        "en": "",
+        "tc": ""
+      },
+      "coordinates": [
+        [
+          114.201852,
+          22.33111
+        ]
+      ],
+      "geometry": null,
+      "page_title": {
+        "en": "Kai Tak development – stage 2 infrastructure at north apron area of Kai Tak Airport",
+        "tc": "啟德發展計劃－啟德機場北面停機坪第2期基礎設施"
+      },
+      "description": {
+        "en": "",
+        "tc": ""
+      },
+      "scope": {
+        "en": "",
+        "tc": ""
+      },
+      "agreement_no": "7746CL",
+      "cost": {
+        "en": "",
+        "tc": ""
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commissioning_date": {
+        "en": "",
+        "tc": ""
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "",
+        "tc": ""
+      },
+      "photos": []
+    },
+    {
+      "id": 5,
+      "dataset": "cedd",
+      "department": "CEDD",
+      "item": "7749CL",
+      "name": "Kai Tak development - reprovisioning of radar on top of the cruise terminal building",
+      "type": null,
+      "type_label": {
+        "en": "",
+        "tc": ""
+      },
+      "status": 3,
+      "status_label": {
+        "en": "Completed",
+        "tc": "已完成"
+      },
+      "url": {
+        "en": "",
+        "tc": ""
+      },
+      "overview": {
+        "en": "",
+        "tc": ""
+      },
+      "coordinates": [
+        [
+          114.215174,
+          22.304418
+        ]
+      ],
+      "geometry": null,
+      "page_title": {
+        "en": "Kai Tak development - reprovisioning of radar on top of the cruise terminal building",
+        "tc": "啟德發展計劃－在郵輪碼頭大樓頂部重置雷達"
+      },
+      "description": {
+        "en": "",
+        "tc": ""
+      },
+      "scope": {
+        "en": "",
+        "tc": ""
+      },
+      "agreement_no": "7749CL",
+      "cost": {
+        "en": "",
+        "tc": ""
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commissioning_date": {
+        "en": "",
+        "tc": ""
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "",
+        "tc": ""
+      },
+      "photos": []
+    },
+    {
+      "id": 6,
+      "dataset": "cedd",
+      "department": "CEDD",
+      "item": "7736CL",
+      "name": "Site formation for Kai Tak Cruise Termninal Development",
+      "type": null,
+      "type_label": {
+        "en": "",
+        "tc": ""
+      },
+      "status": 3,
+      "status_label": {
+        "en": "Completed",
+        "tc": "已完成"
+      },
+      "url": {
+        "en": "",
+        "tc": ""
+      },
+      "overview": {
+        "en": "",
+        "tc": ""
+      },
+      "coordinates": [
+        [
+          114.214779,
+          22.302144
+        ]
+      ],
+      "geometry": null,
+      "page_title": {
+        "en": "Site formation for Kai Tak Cruise Termninal Development",
+        "tc": "啟德郵輪碼頭發展的土地平整工程"
+      },
+      "description": {
+        "en": "",
+        "tc": ""
+      },
+      "scope": {
+        "en": "",
+        "tc": ""
+      },
+      "agreement_no": "7736CL",
+      "cost": {
+        "en": "",
+        "tc": ""
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commissioning_date": {
+        "en": "",
+        "tc": ""
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "",
+        "tc": ""
+      },
+      "photos": []
+    },
+    {
+      "id": 7,
+      "dataset": "cedd",
+      "department": "CEDD",
+      "item": "7745CL",
+      "name": "Kai Tak development – Kai Tak approach channel and Kwun Tong typhoon shelter improvement works (Phase 1)",
+      "type": null,
+      "type_label": {
+        "en": "",
+        "tc": ""
+      },
+      "status": 3,
+      "status_label": {
+        "en": "Completed",
+        "tc": "已完成"
+      },
+      "url": {
+        "en": "",
+        "tc": ""
+      },
+      "overview": {
+        "en": "",
+        "tc": ""
+      },
+      "coordinates": [
+        [
+          114.211292,
+          22.312565
+        ]
+      ],
+      "geometry": null,
+      "page_title": {
+        "en": "Kai Tak development – Kai Tak approach channel and Kwun Tong typhoon shelter improvement works (Phase 1)",
+        "tc": "啟德發展計劃 – 啟德明渠進口道及觀塘避風塘的改善工程(第一期)"
+      },
+      "description": {
+        "en": "",
+        "tc": ""
+      },
+      "scope": {
+        "en": "",
+        "tc": ""
+      },
+      "agreement_no": "7745CL",
+      "cost": {
+        "en": "",
+        "tc": ""
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commissioning_date": {
+        "en": "",
+        "tc": ""
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "",
+        "tc": ""
+      },
+      "photos": []
+    },
+    {
+      "id": 8,
+      "dataset": "cedd",
+      "department": "CEDD",
+      "item": "7E04CL",
+      "name": "Preliminary Feasibility Study on Developing the New Territories North",
+      "type": null,
+      "type_label": {
+        "en": "",
+        "tc": ""
+      },
+      "status": 3,
+      "status_label": {
+        "en": "Completed",
+        "tc": "已完成"
+      },
+      "url": {
+        "en": "",
+        "tc": ""
+      },
+      "overview": {
+        "en": "",
+        "tc": ""
+      },
+      "coordinates": [
+        [
+          114.113638,
+          22.510348
+        ]
+      ],
+      "geometry": null,
+      "page_title": {
+        "en": "Preliminary Feasibility Study on Developing the New Territories North",
+        "tc": "發展新界北部地區初步可行性研究"
+      },
+      "description": {
+        "en": "",
+        "tc": ""
+      },
+      "scope": {
+        "en": "",
+        "tc": ""
+      },
+      "agreement_no": "7E04CL",
+      "cost": {
+        "en": "",
+        "tc": ""
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commissioning_date": {
+        "en": "",
+        "tc": ""
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "",
+        "tc": ""
+      },
+      "photos": []
+    },
+    {
+      "id": 9,
+      "dataset": "cedd",
+      "department": "CEDD",
+      "item": "7160TB",
+      "name": "Footbridge across Po Yap Road linking Tseung Kwan O Area 55 and Area 65",
+      "type": null,
+      "type_label": {
+        "en": "",
+        "tc": ""
+      },
+      "status": 3,
+      "status_label": {
+        "en": "Completed",
+        "tc": "已完成"
+      },
+      "url": {
+        "en": "",
+        "tc": ""
+      },
+      "overview": {
+        "en": "",
+        "tc": ""
+      },
+      "coordinates": [
+        [
+          114.261006,
+          22.307469
+        ]
+      ],
+      "geometry": null,
+      "page_title": {
+        "en": "Footbridge across Po Yap Road linking Tseung Kwan O Area 55 and Area 65",
+        "tc": "橫跨寶邑路連接將軍澳第55及第65區行人天橋"
+      },
+      "description": {
+        "en": "",
+        "tc": ""
+      },
+      "scope": {
+        "en": "",
+        "tc": ""
+      },
+      "agreement_no": "7160TB",
+      "cost": {
+        "en": "",
+        "tc": ""
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commissioning_date": {
+        "en": "",
+        "tc": ""
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "",
+        "tc": ""
+      },
+      "photos": []
+    },
+    {
+      "id": 10,
+      "dataset": "cedd",
+      "department": "CEDD",
+      "item": "7270RS",
+      "name": "Cycle Tracks and Associated Facilities along Seafront at Town Centre South, Tseung Kwan O",
+      "type": null,
+      "type_label": {
+        "en": "",
+        "tc": ""
+      },
+      "status": 3,
+      "status_label": {
+        "en": "Completed",
+        "tc": "已完成"
+      },
+      "url": {
+        "en": "",
+        "tc": ""
+      },
+      "overview": {
+        "en": "",
+        "tc": ""
+      },
+      "coordinates": [
+        [
+          114.26322,
+          22.30175
+        ]
+      ],
+      "geometry": null,
+      "page_title": {
+        "en": "Cycle Tracks and Associated Facilities along Seafront at Town Centre South, Tseung Kwan O",
+        "tc": "將軍澳市中心南部海旁單車徑及配套設施工程"
+      },
+      "description": {
+        "en": "",
+        "tc": ""
+      },
+      "scope": {
+        "en": "",
+        "tc": ""
+      },
+      "agreement_no": "7270RS",
+      "cost": {
+        "en": "",
+        "tc": ""
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commissioning_date": {
+        "en": "",
+        "tc": ""
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "",
+        "tc": ""
+      },
+      "photos": []
+    },
+    {
+      "id": 11,
+      "dataset": "cedd",
+      "department": "CEDD",
+      "item": "7715CL",
+      "name": "Tseung Kwan O Further Development - Infrastructure Works at Town Centre South and Tiu Keng Leng, Tseung Kwan O",
+      "type": null,
+      "type_label": {
+        "en": "",
+        "tc": ""
+      },
+      "status": 3,
+      "status_label": {
+        "en": "Completed",
+        "tc": "已完成"
+      },
+      "url": {
+        "en": "",
+        "tc": ""
+      },
+      "overview": {
+        "en": "",
+        "tc": ""
+      },
+      "coordinates": [
+        [
+          114.259416,
+          22.303677
+        ]
+      ],
+      "geometry": null,
+      "page_title": {
+        "en": "Tseung Kwan O Further Development - Infrastructure Works at Town Centre South and Tiu Keng Leng, Tseung Kwan O",
+        "tc": "將軍澳進一步發展－將軍澳市中心南及調景嶺的基礎設施工程"
+      },
+      "description": {
+        "en": "",
+        "tc": ""
+      },
+      "scope": {
+        "en": "",
+        "tc": ""
+      },
+      "agreement_no": "7715CL",
+      "cost": {
+        "en": "",
+        "tc": ""
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commissioning_date": {
+        "en": "",
+        "tc": ""
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "",
+        "tc": ""
+      },
+      "photos": []
+    },
+    {
+      "id": 12,
+      "dataset": "cedd",
+      "department": "CEDD",
+      "item": "7717CL",
+      "name": "Tseung Kwan O Further Development – Site Formation and Infrastructure Works at Pak Shing Kok",
+      "type": null,
+      "type_label": {
+        "en": "",
+        "tc": ""
+      },
+      "status": 3,
+      "status_label": {
+        "en": "Completed",
+        "tc": "已完成"
+      },
+      "url": {
+        "en": "",
+        "tc": ""
+      },
+      "overview": {
+        "en": "",
+        "tc": ""
+      },
+      "coordinates": [
+        [
+          114.273309,
+          22.307185
+        ]
+      ],
+      "geometry": null,
+      "page_title": {
+        "en": "Tseung Kwan O Further Development – Site Formation and Infrastructure Works at Pak Shing Kok",
+        "tc": "將軍澳百勝角地盤平整及基礎設施工程"
+      },
+      "description": {
+        "en": "",
+        "tc": ""
+      },
+      "scope": {
+        "en": "",
+        "tc": ""
+      },
+      "agreement_no": "7717CL",
+      "cost": {
+        "en": "",
+        "tc": ""
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commissioning_date": {
+        "en": "",
+        "tc": ""
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "",
+        "tc": ""
+      },
+      "photos": []
+    },
+    {
+      "id": 13,
+      "dataset": "cedd",
+      "department": "CEDD",
+      "item": "7570CL",
+      "name": "Ground Decontamination Works at the Site of Ex-Kennedy Town Incineration Plant/Abattoir and Adjoining Area",
+      "type": null,
+      "type_label": {
+        "en": "",
+        "tc": ""
+      },
+      "status": 1,
+      "status_label": {
+        "en": "Under Planning",
+        "tc": "規劃中"
+      },
+      "url": {
+        "en": "",
+        "tc": ""
+      },
+      "overview": {
+        "en": "",
+        "tc": ""
+      },
+      "coordinates": [
+        [
+          114.122038,
+          22.282957
+        ]
+      ],
+      "geometry": null,
+      "page_title": {
+        "en": "Ground Decontamination Works at the Site of Ex-Kennedy Town Incineration Plant/Abattoir and Adjoining Area",
+        "tc": "前堅尼地城焚化爐、屠房及毗鄰用地土地除污工程"
+      },
+      "description": {
+        "en": "",
+        "tc": ""
+      },
+      "scope": {
+        "en": "",
+        "tc": ""
+      },
+      "agreement_no": "7570CL",
+      "cost": {
+        "en": "",
+        "tc": ""
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commissioning_date": {
+        "en": "",
+        "tc": ""
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "",
+        "tc": ""
+      },
+      "photos": []
+    },
+    {
+      "id": 14,
+      "dataset": "cedd",
+      "department": "CEDD",
+      "item": "7702CL",
+      "name": "Kai Tak development - remaining infrastructure works for developments at the former runway and south apron",
+      "type": null,
+      "type_label": {
+        "en": "",
+        "tc": ""
+      },
+      "status": 1,
+      "status_label": {
+        "en": "Under Planning",
+        "tc": "規劃中"
+      },
+      "url": {
+        "en": "",
+        "tc": ""
+      },
+      "overview": {
+        "en": "",
+        "tc": ""
+      },
+      "coordinates": [
+        [
+          114.20364,
+          22.321159
+        ]
+      ],
+      "geometry": null,
+      "page_title": {
+        "en": "Kai Tak development - remaining infrastructure works for developments at the former runway and south apron",
+        "tc": "啟德發展計劃－前跑道及南面停機坪發展項目的餘下基礎設施工程"
+      },
+      "description": {
+        "en": "",
+        "tc": ""
+      },
+      "scope": {
+        "en": "",
+        "tc": ""
+      },
+      "agreement_no": "7702CL",
+      "cost": {
+        "en": "",
+        "tc": ""
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commissioning_date": {
+        "en": "",
+        "tc": ""
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "",
+        "tc": ""
+      },
+      "photos": []
+    },
+    {
+      "id": 15,
+      "dataset": "cedd",
+      "department": "CEDD",
+      "item": "7332CL",
+      "name": "West Kowloon Reclamation – main works (remainder) – footbridge at the junction of Sham Mong Road and Yen Chow Street West in Sham Shui Po",
+      "type": null,
+      "type_label": {
+        "en": "",
+        "tc": ""
+      },
+      "status": 2,
+      "status_label": {
+        "en": "Under Construction",
+        "tc": "施工中"
+      },
+      "url": {
+        "en": "",
+        "tc": ""
+      },
+      "overview": {
+        "en": "",
+        "tc": ""
+      },
+      "coordinates": [
+        [
+          114.155961,
+          22.326165
+        ]
+      ],
+      "geometry": null,
+      "page_title": {
+        "en": "West Kowloon Reclamation – main works (remainder) – footbridge at the junction of Sham Mong Road and Yen Chow Street West in Sham Shui Po",
+        "tc": "西九龍填海計劃 – 主要工程(餘下部分) – 位於深水埗深旺道與欽州街西交界處的行人天橋"
+      },
+      "description": {
+        "en": "",
+        "tc": ""
+      },
+      "scope": {
+        "en": "",
+        "tc": ""
+      },
+      "agreement_no": "7332CL",
+      "cost": {
+        "en": "",
+        "tc": ""
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commissioning_date": {
+        "en": "",
+        "tc": ""
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "",
+        "tc": ""
+      },
+      "photos": []
+    },
+    {
+      "id": 16,
+      "dataset": "cedd",
+      "department": "CEDD",
+      "item": "7785TH",
+      "name": "Trunk Road T2 and Cha Kwo Ling Tunnel",
+      "type": null,
+      "type_label": {
+        "en": "",
+        "tc": ""
+      },
+      "status": 2,
+      "status_label": {
+        "en": "Under Construction",
+        "tc": "施工中"
+      },
+      "url": {
+        "en": "",
+        "tc": ""
+      },
+      "overview": {
+        "en": "",
+        "tc": ""
+      },
+      "coordinates": [
+        [
+          114.217572,
+          22.30878
+        ]
+      ],
+      "geometry": null,
+      "page_title": {
+        "en": "Trunk Road T2 and Cha Kwo Ling Tunnel",
+        "tc": "T2主幹路及茶果嶺隧道"
+      },
+      "description": {
+        "en": "",
+        "tc": ""
+      },
+      "scope": {
+        "en": "",
+        "tc": ""
+      },
+      "agreement_no": "7785TH",
+      "cost": {
+        "en": "",
+        "tc": ""
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commissioning_date": {
+        "en": "",
+        "tc": ""
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "",
+        "tc": ""
+      },
+      "photos": []
+    },
+    {
+      "id": 17,
+      "dataset": "cedd",
+      "department": "CEDD",
+      "item": "7465CL",
+      "name": "Kai Tak development - Kai Tak approach channel and Kwun Tong typhoon shelter improvement works (Phase 2)",
+      "type": null,
+      "type_label": {
+        "en": "",
+        "tc": ""
+      },
+      "status": 1,
+      "status_label": {
+        "en": "Under Planning",
+        "tc": "規劃中"
+      },
+      "url": {
+        "en": "",
+        "tc": ""
+      },
+      "overview": {
+        "en": "",
+        "tc": ""
+      },
+      "coordinates": [
+        [
+          114.201854,
+          22.318289
+        ]
+      ],
+      "geometry": null,
+      "page_title": {
+        "en": "Kai Tak development - Kai Tak approach channel and Kwun Tong typhoon shelter improvement works (Phase 2)",
+        "tc": "啟德發展計劃 － 啟德明渠進口道及觀塘避風塘的改善工程 (第二期)"
+      },
+      "description": {
+        "en": "",
+        "tc": ""
+      },
+      "scope": {
+        "en": "",
+        "tc": ""
+      },
+      "agreement_no": "7465CL",
+      "cost": {
+        "en": "",
+        "tc": ""
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commissioning_date": {
+        "en": "",
+        "tc": ""
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "",
+        "tc": ""
+      },
+      "photos": []
+    },
+    {
+      "id": 18,
+      "dataset": "cedd",
+      "department": "CEDD",
+      "item": "7469CL",
+      "name": "Kai Tak Development - infrastructure at north apron area of Kai Tak Airport",
+      "type": null,
+      "type_label": {
+        "en": "",
+        "tc": ""
+      },
+      "status": 1,
+      "status_label": {
+        "en": "Under Planning",
+        "tc": "規劃中"
+      },
+      "url": {
+        "en": "",
+        "tc": ""
+      },
+      "overview": {
+        "en": "",
+        "tc": ""
+      },
+      "coordinates": [
+        [
+          114.199048,
+          22.324608
+        ]
+      ],
+      "geometry": null,
+      "page_title": {
+        "en": "Kai Tak Development - infrastructure at north apron area of Kai Tak Airport",
+        "tc": "啟德發展計劃 － 啟德機場北面停機坪的基礎設施"
+      },
+      "description": {
+        "en": "",
+        "tc": ""
+      },
+      "scope": {
+        "en": "",
+        "tc": ""
+      },
+      "agreement_no": "7469CL",
+      "cost": {
+        "en": "",
+        "tc": ""
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commissioning_date": {
+        "en": "",
+        "tc": ""
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "",
+        "tc": ""
+      },
+      "photos": []
+    },
+    {
+      "id": 19,
+      "dataset": "cedd",
+      "department": "CEDD",
+      "item": "7F97CL, 7F98CL and 7F99CG",
+      "name": "Development of Tseung Kwan O Area 137 and Associated Reclamation Sites – Investigation, Design and Construction",
+      "type": null,
+      "type_label": {
+        "en": "",
+        "tc": ""
+      },
+      "status": 1,
+      "status_label": {
+        "en": "Under Planning",
+        "tc": "規劃中"
+      },
+      "url": {
+        "en": "",
+        "tc": ""
+      },
+      "overview": {
+        "en": "",
+        "tc": ""
+      },
+      "coordinates": [
+        [
+          114.269172,
+          22.268755
+        ]
+      ],
+      "geometry": null,
+      "page_title": {
+        "en": "Development of Tseung Kwan O Area 137 and Associated Reclamation Sites – Investigation, Design and Construction",
+        "tc": "將軍澳第137區及相關填海用地的發展 -  勘查研究、設計及建造的顧問合約"
+      },
+      "description": {
+        "en": "",
+        "tc": ""
+      },
+      "scope": {
+        "en": "",
+        "tc": ""
+      },
+      "agreement_no": "7F97CL, 7F98CL and 7F99CG",
+      "cost": {
+        "en": "",
+        "tc": ""
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commissioning_date": {
+        "en": "",
+        "tc": ""
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "",
+        "tc": ""
+      },
+      "photos": []
+    },
+    {
+      "id": 20,
+      "dataset": "cedd",
+      "department": "CEDD",
+      "item": "7747CL",
+      "name": "Advance Site Formation and Engineering Infrastructure Works at Kwu Tung North and Fanling North New Development Area",
+      "type": null,
+      "type_label": {
+        "en": "",
+        "tc": ""
+      },
+      "status": 2,
+      "status_label": {
+        "en": "Under Construction",
+        "tc": "施工中"
+      },
+      "url": {
+        "en": "",
+        "tc": ""
+      },
+      "overview": {
+        "en": "",
+        "tc": ""
+      },
+      "coordinates": [
+        [
+          114.099928,
+          22.50231
+        ]
+      ],
+      "geometry": null,
+      "page_title": {
+        "en": "Advance Site Formation and Engineering Infrastructure Works at Kwu Tung North and Fanling North New Development Area",
+        "tc": "古洞北及粉嶺北新發展區前期地盤平整和基礎設施工程"
+      },
+      "description": {
+        "en": "",
+        "tc": ""
+      },
+      "scope": {
+        "en": "",
+        "tc": ""
+      },
+      "agreement_no": "7747CL",
+      "cost": {
+        "en": "",
+        "tc": ""
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commissioning_date": {
+        "en": "",
+        "tc": ""
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "",
+        "tc": ""
+      },
+      "photos": []
+    },
+    {
+      "id": 21,
+      "dataset": "cedd",
+      "department": "CEDD",
+      "item": "7759CL",
+      "name": "First Stage of Site Formation and Engineering Infrastructure at Kwu Tung North and Fanling North New Development Area",
+      "type": null,
+      "type_label": {
+        "en": "",
+        "tc": ""
+      },
+      "status": 2,
+      "status_label": {
+        "en": "Under Construction",
+        "tc": "施工中"
+      },
+      "url": {
+        "en": "",
+        "tc": ""
+      },
+      "overview": {
+        "en": "",
+        "tc": ""
+      },
+      "coordinates": [
+        [
+          114.1153,
+          22.510355
+        ]
+      ],
+      "geometry": null,
+      "page_title": {
+        "en": "First Stage of Site Formation and Engineering Infrastructure at Kwu Tung North and Fanling North New Development Area",
+        "tc": "古洞北及粉嶺北新發展區第一期地盤平整和基礎設施工程"
+      },
+      "description": {
+        "en": "",
+        "tc": ""
+      },
+      "scope": {
+        "en": "",
+        "tc": ""
+      },
+      "agreement_no": "7759CL",
+      "cost": {
+        "en": "",
+        "tc": ""
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commissioning_date": {
+        "en": "",
+        "tc": ""
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "",
+        "tc": ""
+      },
+      "photos": []
+    },
+    {
+      "id": 22,
+      "dataset": "cedd",
+      "department": "CEDD",
+      "item": "7716CL",
+      "name": "Tseung Kwan O further development - infrastructure works for Tseung Kwan O Stage I Landfill site, Tseung Kwan O",
+      "type": null,
+      "type_label": {
+        "en": "",
+        "tc": ""
+      },
+      "status": 2,
+      "status_label": {
+        "en": "Under Construction",
+        "tc": "施工中"
+      },
+      "url": {
+        "en": "",
+        "tc": ""
+      },
+      "overview": {
+        "en": "",
+        "tc": ""
+      },
+      "coordinates": [
+        [
+          114.26372,
+          22.301405
+        ]
+      ],
+      "geometry": null,
+      "page_title": {
+        "en": "Tseung Kwan O further development - infrastructure works for Tseung Kwan O Stage I Landfill site, Tseung Kwan O",
+        "tc": "將軍澳堆填區第一期發展基礎設施工程"
+      },
+      "description": {
+        "en": "",
+        "tc": ""
+      },
+      "scope": {
+        "en": "",
+        "tc": ""
+      },
+      "agreement_no": "7716CL",
+      "cost": {
+        "en": "",
+        "tc": ""
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commissioning_date": {
+        "en": "",
+        "tc": ""
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "",
+        "tc": ""
+      },
+      "photos": []
+    },
+    {
+      "id": 23,
+      "dataset": "cedd",
+      "department": "CEDD",
+      "item": "7265RS",
+      "name": "Cycle Tracks Connecting North West New Territories with North East New Territories - Sam Mun Tsai Extension",
+      "type": null,
+      "type_label": {
+        "en": "",
+        "tc": ""
+      },
+      "status": 3,
+      "status_label": {
+        "en": "Completed",
+        "tc": "已完成"
+      },
+      "url": {
+        "en": "",
+        "tc": ""
+      },
+      "overview": {
+        "en": "",
+        "tc": ""
+      },
+      "coordinates": [
+        [
+          114.206429,
+          22.457618
+        ]
+      ],
+      "geometry": null,
+      "page_title": {
+        "en": "Cycle Tracks Connecting North West New Territories with North East New Territories - Sam Mun Tsai Extension",
+        "tc": "連接新界西北及新界東北之單車徑 – 三門仔伸延部分"
+      },
+      "description": {
+        "en": "",
+        "tc": ""
+      },
+      "scope": {
+        "en": "",
+        "tc": ""
+      },
+      "agreement_no": "7265RS",
+      "cost": {
+        "en": "",
+        "tc": ""
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commissioning_date": {
+        "en": "",
+        "tc": ""
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "",
+        "tc": ""
+      },
+      "photos": []
+    },
+    {
+      "id": 24,
+      "dataset": "cedd",
+      "department": "CEDD",
+      "item": "7268RS",
+      "name": "Cycle Track between Tsuen Wan and Tuen Mun",
+      "type": null,
+      "type_label": {
+        "en": "",
+        "tc": ""
+      },
+      "status": 1,
+      "status_label": {
+        "en": "Under Planning",
+        "tc": "規劃中"
+      },
+      "url": {
+        "en": "",
+        "tc": ""
+      },
+      "overview": {
+        "en": "",
+        "tc": ""
+      },
+      "coordinates": [
+        [
+          114.062078,
+          22.367515
+        ]
+      ],
+      "geometry": null,
+      "page_title": {
+        "en": "Cycle Track between Tsuen Wan and Tuen Mun",
+        "tc": "荃灣至屯門單車徑"
+      },
+      "description": {
+        "en": "",
+        "tc": ""
+      },
+      "scope": {
+        "en": "",
+        "tc": ""
+      },
+      "agreement_no": "7268RS",
+      "cost": {
+        "en": "",
+        "tc": ""
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commissioning_date": {
+        "en": "",
+        "tc": ""
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "",
+        "tc": ""
+      },
+      "photos": []
+    },
+    {
+      "id": 25,
+      "dataset": "cedd",
+      "department": "CEDD",
+      "item": "7677CL",
+      "name": "Wan Chai development phase II, engineering works",
+      "type": null,
+      "type_label": {
+        "en": "",
+        "tc": ""
+      },
+      "status": 2,
+      "status_label": {
+        "en": "Under Construction",
+        "tc": "施工中"
+      },
+      "url": {
+        "en": "",
+        "tc": ""
+      },
+      "overview": {
+        "en": "",
+        "tc": ""
+      },
+      "coordinates": [
+        [
+          114.17075,
+          22.28225
+        ]
+      ],
+      "geometry": null,
+      "page_title": {
+        "en": "Wan Chai development phase II, engineering works",
+        "tc": "灣仔發展計劃第二期工程"
+      },
+      "description": {
+        "en": "",
+        "tc": ""
+      },
+      "scope": {
+        "en": "",
+        "tc": ""
+      },
+      "agreement_no": "7677CL",
+      "cost": {
+        "en": "",
+        "tc": ""
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commissioning_date": {
+        "en": "",
+        "tc": ""
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "",
+        "tc": ""
+      },
+      "photos": []
+    },
+    {
+      "id": 26,
+      "dataset": "cedd",
+      "department": "CEDD",
+      "item": "7167CD",
+      "name": "Kai Tak development – reconstruction and upgrading of Kai Tak Nullah",
+      "type": null,
+      "type_label": {
+        "en": "",
+        "tc": ""
+      },
+      "status": 3,
+      "status_label": {
+        "en": "Completed",
+        "tc": "已完成"
+      },
+      "url": {
+        "en": "",
+        "tc": ""
+      },
+      "overview": {
+        "en": "",
+        "tc": ""
+      },
+      "coordinates": [
+        [
+          114.200416,
+          22.327093
+        ]
+      ],
+      "geometry": null,
+      "page_title": {
+        "en": "Kai Tak development – reconstruction and upgrading of Kai Tak Nullah",
+        "tc": "啟德發展計劃－啟德明渠重建及改善工程"
+      },
+      "description": {
+        "en": "",
+        "tc": ""
+      },
+      "scope": {
+        "en": "",
+        "tc": ""
+      },
+      "agreement_no": "7167CD",
+      "cost": {
+        "en": "",
+        "tc": ""
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commissioning_date": {
+        "en": "",
+        "tc": ""
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "",
+        "tc": ""
+      },
+      "photos": []
+    },
+    {
+      "id": 27,
+      "dataset": "cedd",
+      "department": "CEDD",
+      "item": "7761CL",
+      "name": "Kai Tak development – Stage 3A & Stage 4 infrastructure works at north apron area of Kai Tak Airport",
+      "type": null,
+      "type_label": {
+        "en": "",
+        "tc": ""
+      },
+      "status": 3,
+      "status_label": {
+        "en": "Completed",
+        "tc": "已完成"
+      },
+      "url": {
+        "en": "",
+        "tc": ""
+      },
+      "overview": {
+        "en": "",
+        "tc": ""
+      },
+      "coordinates": [
+        [
+          114.199222,
+          22.324719
+        ]
+      ],
+      "geometry": null,
+      "page_title": {
+        "en": "Kai Tak development – Stage 3A & Stage 4 infrastructure works at north apron area of Kai Tak Airport",
+        "tc": "啟德發展計劃－ 啟德機場北面停機坪第3 A及第 4 期基礎設施"
+      },
+      "description": {
+        "en": "",
+        "tc": ""
+      },
+      "scope": {
+        "en": "",
+        "tc": ""
+      },
+      "agreement_no": "7761CL",
+      "cost": {
+        "en": "",
+        "tc": ""
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commissioning_date": {
+        "en": "",
+        "tc": ""
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "",
+        "tc": ""
+      },
+      "photos": []
+    },
+    {
+      "id": 28,
+      "dataset": "cedd",
+      "department": "CEDD",
+      "item": "7711CL",
+      "name": "Kai Tak development – infrastructure works for developments at the southern part of the former runway",
+      "type": null,
+      "type_label": {
+        "en": "",
+        "tc": ""
+      },
+      "status": 3,
+      "status_label": {
+        "en": "Completed",
+        "tc": "已完成"
+      },
+      "url": {
+        "en": "",
+        "tc": ""
+      },
+      "overview": {
+        "en": "",
+        "tc": ""
+      },
+      "coordinates": [
+        [
+          114.208371,
+          22.311294
+        ]
+      ],
+      "geometry": null,
+      "page_title": {
+        "en": "Kai Tak development – infrastructure works for developments at the southern part of the former runway",
+        "tc": "啟德發展計劃－前跑道南面發展項目的基礎設施工程"
+      },
+      "description": {
+        "en": "",
+        "tc": ""
+      },
+      "scope": {
+        "en": "",
+        "tc": ""
+      },
+      "agreement_no": "7711CL",
+      "cost": {
+        "en": "",
+        "tc": ""
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commissioning_date": {
+        "en": "",
+        "tc": ""
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "",
+        "tc": ""
+      },
+      "photos": []
+    },
+    {
+      "id": 29,
+      "dataset": "cedd",
+      "department": "CEDD",
+      "item": "7797CL",
+      "name": "Kai Tak development – stages 3B and 5A infrastructure works at former north apron area",
+      "type": null,
+      "type_label": {
+        "en": "",
+        "tc": ""
+      },
+      "status": 3,
+      "status_label": {
+        "en": "Completed",
+        "tc": "已完成"
+      },
+      "url": {
+        "en": "",
+        "tc": ""
+      },
+      "overview": {
+        "en": "",
+        "tc": ""
+      },
+      "coordinates": [
+        [
+          114.194966,
+          22.32872
+        ]
+      ],
+      "geometry": null,
+      "page_title": {
+        "en": "Kai Tak development – stages 3B and 5A infrastructure works at former north apron area",
+        "tc": "啟德發展計劃－前北面停機坪第3B期及第5A期基礎設施"
+      },
+      "description": {
+        "en": "",
+        "tc": ""
+      },
+      "scope": {
+        "en": "",
+        "tc": ""
+      },
+      "agreement_no": "7797CL",
+      "cost": {
+        "en": "",
+        "tc": ""
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commissioning_date": {
+        "en": "",
+        "tc": ""
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "",
+        "tc": ""
+      },
+      "photos": []
+    },
+    {
+      "id": 30,
+      "dataset": "cedd",
+      "department": "CEDD",
+      "item": "7414RO",
+      "name": "Improvement works at Mui Wo",
+      "type": null,
+      "type_label": {
+        "en": "",
+        "tc": ""
+      },
+      "status": 2,
+      "status_label": {
+        "en": "Under Construction",
+        "tc": "施工中"
+      },
+      "url": {
+        "en": "",
+        "tc": ""
+      },
+      "overview": {
+        "en": "",
+        "tc": ""
+      },
+      "coordinates": [
+        [
+          113.99474,
+          22.266032
+        ]
+      ],
+      "geometry": null,
+      "page_title": {
+        "en": "Improvement works at Mui Wo",
+        "tc": "梅窩改善工程"
+      },
+      "description": {
+        "en": "",
+        "tc": ""
+      },
+      "scope": {
+        "en": "",
+        "tc": ""
+      },
+      "agreement_no": "7414RO",
+      "cost": {
+        "en": "",
+        "tc": ""
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commissioning_date": {
+        "en": "",
+        "tc": ""
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "",
+        "tc": ""
+      },
+      "photos": []
+    },
+    {
+      "id": 31,
+      "dataset": "cedd",
+      "department": "CEDD",
+      "item": "5258RS",
+      "name": "Development of a Bathing Beach at Lung Mei, Tai Po",
+      "type": null,
+      "type_label": {
+        "en": "",
+        "tc": ""
+      },
+      "status": 3,
+      "status_label": {
+        "en": "Completed",
+        "tc": "已完成"
+      },
+      "url": {
+        "en": "",
+        "tc": ""
+      },
+      "overview": {
+        "en": "",
+        "tc": ""
+      },
+      "coordinates": [
+        [
+          114.227718,
+          22.471535
+        ]
+      ],
+      "geometry": null,
+      "page_title": {
+        "en": "Development of a Bathing Beach at Lung Mei, Tai Po",
+        "tc": "在大埔龍尾發展泳灘"
+      },
+      "description": {
+        "en": "",
+        "tc": ""
+      },
+      "scope": {
+        "en": "",
+        "tc": ""
+      },
+      "agreement_no": "5258RS",
+      "cost": {
+        "en": "",
+        "tc": ""
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commissioning_date": {
+        "en": "",
+        "tc": ""
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "",
+        "tc": ""
+      },
+      "photos": []
+    },
+    {
+      "id": 32,
+      "dataset": "cedd",
+      "department": "CEDD",
+      "item": "5019GB",
+      "name": "Liantang/Heung Yuen Wai Boundary Control Point and associated works - site formation and infrastructure works",
+      "type": null,
+      "type_label": {
+        "en": "",
+        "tc": ""
+      },
+      "status": 3,
+      "status_label": {
+        "en": "Completed",
+        "tc": "已完成"
+      },
+      "url": {
+        "en": "",
+        "tc": ""
+      },
+      "overview": {
+        "en": "",
+        "tc": ""
+      },
+      "coordinates": [
+        [
+          114.16513,
+          22.553455
+        ]
+      ],
+      "geometry": null,
+      "page_title": {
+        "en": "Liantang/Heung Yuen Wai Boundary Control Point and associated works - site formation and infrastructure works",
+        "tc": "蓮塘/香園圍口岸與相關工程－工地平整及基礎建設工程"
+      },
+      "description": {
+        "en": "",
+        "tc": ""
+      },
+      "scope": {
+        "en": "",
+        "tc": ""
+      },
+      "agreement_no": "5019GB",
+      "cost": {
+        "en": "",
+        "tc": ""
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commissioning_date": {
+        "en": "",
+        "tc": ""
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "",
+        "tc": ""
+      },
+      "photos": []
+    },
+    {
+      "id": 33,
+      "dataset": "cedd",
+      "department": "CEDD",
+      "item": "5729CL",
+      "name": "Disposal of Contaminated Sediment- dredging , management and capping of sediment disposal facility at Sha Chau",
+      "type": null,
+      "type_label": {
+        "en": "",
+        "tc": ""
+      },
+      "status": 2,
+      "status_label": {
+        "en": "Under Construction",
+        "tc": "施工中"
+      },
+      "url": {
+        "en": "",
+        "tc": ""
+      },
+      "overview": {
+        "en": "",
+        "tc": ""
+      },
+      "coordinates": [
+        [
+          113.931954,
+          22.341584
+        ]
+      ],
+      "geometry": null,
+      "page_title": {
+        "en": "Disposal of Contaminated Sediment- dredging , management and capping of sediment disposal facility at Sha Chau",
+        "tc": "卸置污染泥料 - 沙洲污染泥料卸置設施的挖掘、管理及覆蓋工程"
+      },
+      "description": {
+        "en": "",
+        "tc": ""
+      },
+      "scope": {
+        "en": "",
+        "tc": ""
+      },
+      "agreement_no": "5729CL",
+      "cost": {
+        "en": "",
+        "tc": ""
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commissioning_date": {
+        "en": "",
+        "tc": ""
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "",
+        "tc": ""
+      },
+      "photos": []
+    },
+    {
+      "id": 34,
+      "dataset": "cedd",
+      "department": "CEDD",
+      "item": "7259RS",
+      "name": "Cycle Tracks Connecting North West New Territories with North East New Territories – Tuen Mun to Sheung Shui section (Remaining)",
+      "type": null,
+      "type_label": {
+        "en": "",
+        "tc": ""
+      },
+      "status": 3,
+      "status_label": {
+        "en": "Completed",
+        "tc": "已完成"
+      },
+      "url": {
+        "en": "",
+        "tc": ""
+      },
+      "overview": {
+        "en": "",
+        "tc": ""
+      },
+      "coordinates": [
+        [
+          114.111,
+          22.51121
+        ]
+      ],
+      "geometry": null,
+      "page_title": {
+        "en": "Cycle Tracks Connecting North West New Territories with North East New Territories – Tuen Mun to Sheung Shui section (Remaining)",
+        "tc": "連接新界西北及新界東北之單車徑 - 屯門至上水段 (餘下工程)"
+      },
+      "description": {
+        "en": "",
+        "tc": ""
+      },
+      "scope": {
+        "en": "",
+        "tc": ""
+      },
+      "agreement_no": "7259RS",
+      "cost": {
+        "en": "",
+        "tc": ""
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commissioning_date": {
+        "en": "",
+        "tc": ""
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "",
+        "tc": ""
+      },
+      "photos": []
+    },
+    {
+      "id": 35,
+      "dataset": "cedd",
+      "department": "CEDD",
+      "item": "7279RS",
+      "name": "Cycle Tracks Connecting North West New Territories with North East New Territories – Tuen Mun to Sheung Shui section (Stage 1)",
+      "type": null,
+      "type_label": {
+        "en": "",
+        "tc": ""
+      },
+      "status": 3,
+      "status_label": {
+        "en": "Completed",
+        "tc": "已完成"
+      },
+      "url": {
+        "en": "",
+        "tc": ""
+      },
+      "overview": {
+        "en": "",
+        "tc": ""
+      },
+      "coordinates": [
+        [
+          114.03915,
+          22.44612
+        ]
+      ],
+      "geometry": null,
+      "page_title": {
+        "en": "Cycle Tracks Connecting North West New Territories with North East New Territories – Tuen Mun to Sheung Shui section (Stage 1)",
+        "tc": "連接新界西北及新界東北之單車徑 – 屯門至上水段 （第一階段）"
+      },
+      "description": {
+        "en": "",
+        "tc": ""
+      },
+      "scope": {
+        "en": "",
+        "tc": ""
+      },
+      "agreement_no": "7279RS",
+      "cost": {
+        "en": "",
+        "tc": ""
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commissioning_date": {
+        "en": "",
+        "tc": ""
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "",
+        "tc": ""
+      },
+      "photos": []
+    },
+    {
+      "id": 36,
+      "dataset": "cedd",
+      "department": "CEDD",
+      "item": "7271RS",
+      "name": "Cycle Tracks Connecting North West New Territories with North East New Territories – Sheung Shui to Ma On Shan section",
+      "type": null,
+      "type_label": {
+        "en": "",
+        "tc": ""
+      },
+      "status": 3,
+      "status_label": {
+        "en": "Completed",
+        "tc": "已完成"
+      },
+      "url": {
+        "en": "",
+        "tc": ""
+      },
+      "overview": {
+        "en": "",
+        "tc": ""
+      },
+      "coordinates": [
+        [
+          114.12607,
+          22.50377
+        ]
+      ],
+      "geometry": null,
+      "page_title": {
+        "en": "Cycle Tracks Connecting North West New Territories with North East New Territories – Sheung Shui to Ma On Shan section",
+        "tc": "連接新界西北及東北之單車徑 -上水至馬鞍山段"
+      },
+      "description": {
+        "en": "",
+        "tc": ""
+      },
+      "scope": {
+        "en": "",
+        "tc": ""
+      },
+      "agreement_no": "7271RS",
+      "cost": {
+        "en": "",
+        "tc": ""
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commissioning_date": {
+        "en": "",
+        "tc": ""
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "",
+        "tc": ""
+      },
+      "photos": []
+    },
+    {
+      "id": 37,
+      "dataset": "cedd",
+      "department": "CEDD",
+      "item": "7823TH",
+      "name": "Tseung Kwan O – Lam Tin Tunnel",
+      "type": null,
+      "type_label": {
+        "en": "",
+        "tc": ""
+      },
+      "status": 3,
+      "status_label": {
+        "en": "Completed",
+        "tc": "已完成"
+      },
+      "url": {
+        "en": "",
+        "tc": ""
+      },
+      "overview": {
+        "en": "",
+        "tc": ""
+      },
+      "coordinates": [
+        [
+          114.24613,
+          22.301839
+        ]
+      ],
+      "geometry": null,
+      "page_title": {
+        "en": "Tseung Kwan O – Lam Tin Tunnel",
+        "tc": "將軍澳-藍田隧道"
+      },
+      "description": {
+        "en": "",
+        "tc": ""
+      },
+      "scope": {
+        "en": "",
+        "tc": ""
+      },
+      "agreement_no": "7823TH",
+      "cost": {
+        "en": "",
+        "tc": ""
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commissioning_date": {
+        "en": "",
+        "tc": ""
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "",
+        "tc": ""
+      },
+      "photos": []
+    },
+    {
+      "id": 38,
+      "dataset": "cedd",
+      "department": "CEDD",
+      "item": "7417RO",
+      "name": "Improvement works at Tai O",
+      "type": null,
+      "type_label": {
+        "en": "",
+        "tc": ""
+      },
+      "status": 2,
+      "status_label": {
+        "en": "Under Construction",
+        "tc": "施工中"
+      },
+      "url": {
+        "en": "",
+        "tc": ""
+      },
+      "overview": {
+        "en": "",
+        "tc": ""
+      },
+      "coordinates": [
+        [
+          113.863579,
+          22.253245
+        ]
+      ],
+      "geometry": null,
+      "page_title": {
+        "en": "Improvement works at Tai O",
+        "tc": "大澳改善工程"
+      },
+      "description": {
+        "en": "",
+        "tc": ""
+      },
+      "scope": {
+        "en": "",
+        "tc": ""
+      },
+      "agreement_no": "7417RO",
+      "cost": {
+        "en": "",
+        "tc": ""
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commissioning_date": {
+        "en": "",
+        "tc": ""
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "",
+        "tc": ""
+      },
+      "photos": []
+    },
+    {
+      "id": 39,
+      "dataset": "cedd",
+      "department": "CEDD",
+      "item": "7765L, 7803CL & 7818CL",
+      "name": "Development of Anderson Road Quarry Site",
+      "type": null,
+      "type_label": {
+        "en": "",
+        "tc": ""
+      },
+      "status": 2,
+      "status_label": {
+        "en": "Under Construction",
+        "tc": "施工中"
+      },
+      "url": {
+        "en": "",
+        "tc": ""
+      },
+      "overview": {
+        "en": "",
+        "tc": ""
+      },
+      "coordinates": [
+        [
+          114.23226,
+          22.325223
+        ]
+      ],
+      "geometry": null,
+      "page_title": {
+        "en": "Development of Anderson Road Quarry Site",
+        "tc": "安達臣道石礦場用地發展"
+      },
+      "description": {
+        "en": "",
+        "tc": ""
+      },
+      "scope": {
+        "en": "",
+        "tc": ""
+      },
+      "agreement_no": "7765L, 7803CL & 7818CL",
+      "cost": {
+        "en": "",
+        "tc": ""
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commissioning_date": {
+        "en": "",
+        "tc": ""
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "",
+        "tc": ""
+      },
+      "photos": []
+    },
+    {
+      "id": 40,
+      "dataset": "cedd",
+      "department": "CEDD",
+      "item": "7748CL",
+      "name": "Development of the Loop – land decontamination and advance engineering works",
+      "type": null,
+      "type_label": {
+        "en": "",
+        "tc": ""
+      },
+      "status": 2,
+      "status_label": {
+        "en": "Under Construction",
+        "tc": "施工中"
+      },
+      "url": {
+        "en": "",
+        "tc": ""
+      },
+      "overview": {
+        "en": "",
+        "tc": ""
+      },
+      "coordinates": [
+        [
+          114.075724,
+          22.515744
+        ]
+      ],
+      "geometry": null,
+      "page_title": {
+        "en": "Development of the Loop – land decontamination and advance engineering works",
+        "tc": "河套區發展 － 土地除污及前期工程"
+      },
+      "description": {
+        "en": "",
+        "tc": ""
+      },
+      "scope": {
+        "en": "",
+        "tc": ""
+      },
+      "agreement_no": "7748CL",
+      "cost": {
+        "en": "",
+        "tc": ""
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commissioning_date": {
+        "en": "",
+        "tc": ""
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "",
+        "tc": ""
+      },
+      "photos": []
+    },
+    {
+      "id": 41,
+      "dataset": "cedd",
+      "department": "CEDD",
+      "item": "7804CL",
+      "name": "Site Formation and Infrastructure Works for Development at Kam Tin South, Yuen Long – Advance Works",
+      "type": null,
+      "type_label": {
+        "en": "",
+        "tc": ""
+      },
+      "status": 2,
+      "status_label": {
+        "en": "Under Construction",
+        "tc": "施工中"
+      },
+      "url": {
+        "en": "",
+        "tc": ""
+      },
+      "overview": {
+        "en": "",
+        "tc": ""
+      },
+      "coordinates": [
+        [
+          114.06215,
+          22.43408
+        ]
+      ],
+      "geometry": null,
+      "page_title": {
+        "en": "Site Formation and Infrastructure Works for Development at Kam Tin South, Yuen Long – Advance Works",
+        "tc": "元朗錦田南發展計劃工地平整和基礎設施工程 – 前期工程"
+      },
+      "description": {
+        "en": "",
+        "tc": ""
+      },
+      "scope": {
+        "en": "",
+        "tc": ""
+      },
+      "agreement_no": "7804CL",
+      "cost": {
+        "en": "",
+        "tc": ""
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commissioning_date": {
+        "en": "",
+        "tc": ""
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "",
+        "tc": ""
+      },
+      "photos": []
+    },
+    {
+      "id": 42,
+      "dataset": "cedd",
+      "department": "CEDD",
+      "item": "7861TH",
+      "name": "Widening of Tai Po Road (Sha Tin Section)",
+      "type": null,
+      "type_label": {
+        "en": "",
+        "tc": ""
+      },
+      "status": 3,
+      "status_label": {
+        "en": "Completed",
+        "tc": "已完成"
+      },
+      "url": {
+        "en": "",
+        "tc": ""
+      },
+      "overview": {
+        "en": "",
+        "tc": ""
+      },
+      "coordinates": [
+        [
+          114.188988,
+          22.383898
+        ]
+      ],
+      "geometry": null,
+      "page_title": {
+        "en": "Widening of Tai Po Road (Sha Tin Section)",
+        "tc": "大埔公路(沙田段)擴闊工程"
+      },
+      "description": {
+        "en": "",
+        "tc": ""
+      },
+      "scope": {
+        "en": "",
+        "tc": ""
+      },
+      "agreement_no": "7861TH",
+      "cost": {
+        "en": "",
+        "tc": ""
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commissioning_date": {
+        "en": "",
+        "tc": ""
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "",
+        "tc": ""
+      },
+      "photos": []
+    },
+    {
+      "id": 43,
+      "dataset": "cedd",
+      "department": "CEDD",
+      "item": "7822TH",
+      "name": "Cross Bay Link, Tseung Kwan O",
+      "type": null,
+      "type_label": {
+        "en": "",
+        "tc": ""
+      },
+      "status": 3,
+      "status_label": {
+        "en": "Completed",
+        "tc": "已完成"
+      },
+      "url": {
+        "en": "",
+        "tc": ""
+      },
+      "overview": {
+        "en": "",
+        "tc": ""
+      },
+      "coordinates": [
+        [
+          114.261035,
+          22.293334
+        ]
+      ],
+      "geometry": null,
+      "page_title": {
+        "en": "Cross Bay Link, Tseung Kwan O",
+        "tc": "將軍澳跨灣連接路"
+      },
+      "description": {
+        "en": "",
+        "tc": ""
+      },
+      "scope": {
+        "en": "",
+        "tc": ""
+      },
+      "agreement_no": "7822TH",
+      "cost": {
+        "en": "",
+        "tc": ""
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commissioning_date": {
+        "en": "",
+        "tc": ""
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "",
+        "tc": ""
+      },
+      "photos": []
+    },
+    {
+      "id": 44,
+      "dataset": "cedd",
+      "department": "CEDD",
+      "item": "5816CL & 5758CL",
+      "name": "Site Formation and Associated Infrastructural Works for Development of Columbarium, Crematorium and Related Facilities at Sandy Ridge Cemetery",
+      "type": null,
+      "type_label": {
+        "en": "",
+        "tc": ""
+      },
+      "status": 3,
+      "status_label": {
+        "en": "Completed",
+        "tc": "已完成"
+      },
+      "url": {
+        "en": "",
+        "tc": ""
+      },
+      "overview": {
+        "en": "",
+        "tc": ""
+      },
+      "coordinates": [
+        [
+          114.116845,
+          22.52593
+        ]
+      ],
+      "geometry": null,
+      "page_title": {
+        "en": "Site Formation and Associated Infrastructural Works for Development of Columbarium, Crematorium and Related Facilities at Sandy Ridge Cemetery",
+        "tc": "沙嶺墳場興建骨灰安置所、火葬場及有關設施的土地平整及相關基礎設施工程"
+      },
+      "description": {
+        "en": "",
+        "tc": ""
+      },
+      "scope": {
+        "en": "",
+        "tc": ""
+      },
+      "agreement_no": "5816CL & 5758CL",
+      "cost": {
+        "en": "",
+        "tc": ""
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commissioning_date": {
+        "en": "",
+        "tc": ""
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "",
+        "tc": ""
+      },
+      "photos": []
+    },
+    {
+      "id": 45,
+      "dataset": "cedd",
+      "department": "CEDD",
+      "item": "7666CL & 7844CL",
+      "name": "Formation, Roads and Drains in Area 54, Tuen Mun - Phase 1 Stage 2 and Phase 2 Stage 4B Works",
+      "type": null,
+      "type_label": {
+        "en": "",
+        "tc": ""
+      },
+      "status": 2,
+      "status_label": {
+        "en": "Under Construction",
+        "tc": "施工中"
+      },
+      "url": {
+        "en": "",
+        "tc": ""
+      },
+      "overview": {
+        "en": "",
+        "tc": ""
+      },
+      "coordinates": [
+        [
+          113.967334,
+          22.410568
+        ]
+      ],
+      "geometry": null,
+      "page_title": {
+        "en": "Formation, Roads and Drains in Area 54, Tuen Mun - Phase 1 Stage 2 and Phase 2 Stage 4B Works",
+        "tc": "屯門第54區的土地平整、道路及渠務工程－第1期第2階段及第2期第4B階段"
+      },
+      "description": {
+        "en": "",
+        "tc": ""
+      },
+      "scope": {
+        "en": "",
+        "tc": ""
+      },
+      "agreement_no": "7666CL & 7844CL",
+      "cost": {
+        "en": "",
+        "tc": ""
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commissioning_date": {
+        "en": "",
+        "tc": ""
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "",
+        "tc": ""
+      },
+      "photos": []
+    },
+    {
+      "id": 46,
+      "dataset": "cedd",
+      "department": "CEDD",
+      "item": "7822CL",
+      "name": "Kai Tak development – infrastructure for developments at the former runway and south apron",
+      "type": null,
+      "type_label": {
+        "en": "",
+        "tc": ""
+      },
+      "status": 2,
+      "status_label": {
+        "en": "Under Construction",
+        "tc": "施工中"
+      },
+      "url": {
+        "en": "",
+        "tc": ""
+      },
+      "overview": {
+        "en": "",
+        "tc": ""
+      },
+      "coordinates": [
+        [
+          114.201679,
+          22.317282
+        ]
+      ],
+      "geometry": null,
+      "page_title": {
+        "en": "Kai Tak development – infrastructure for developments at the former runway and south apron",
+        "tc": "啟德發展計劃－前跑道及南面停機坪發展項目的基礎設施工程"
+      },
+      "description": {
+        "en": "",
+        "tc": ""
+      },
+      "scope": {
+        "en": "",
+        "tc": ""
+      },
+      "agreement_no": "7822CL",
+      "cost": {
+        "en": "",
+        "tc": ""
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commissioning_date": {
+        "en": "",
+        "tc": ""
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "",
+        "tc": ""
+      },
+      "photos": []
+    },
+    {
+      "id": 47,
+      "dataset": "cedd",
+      "department": "CEDD",
+      "item": "7293RS",
+      "name": "Cycle track between Tsuen Wan and Tuen Mun – Advance Works",
+      "type": null,
+      "type_label": {
+        "en": "",
+        "tc": ""
+      },
+      "status": 3,
+      "status_label": {
+        "en": "Completed",
+        "tc": "已完成"
+      },
+      "url": {
+        "en": "",
+        "tc": ""
+      },
+      "overview": {
+        "en": "",
+        "tc": ""
+      },
+      "coordinates": [
+        [
+          114.108164,
+          22.369657
+        ]
+      ],
+      "geometry": null,
+      "page_title": {
+        "en": "Cycle track between Tsuen Wan and Tuen Mun – Advance Works",
+        "tc": "荃灣至屯門單車徑 — 前期工程"
+      },
+      "description": {
+        "en": "",
+        "tc": ""
+      },
+      "scope": {
+        "en": "",
+        "tc": ""
+      },
+      "agreement_no": "7293RS",
+      "cost": {
+        "en": "",
+        "tc": ""
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commissioning_date": {
+        "en": "",
+        "tc": ""
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "",
+        "tc": ""
+      },
+      "photos": []
+    },
+    {
+      "id": 48,
+      "dataset": "cedd",
+      "department": "CEDD",
+      "item": "7814CL",
+      "name": "Tung Chung New Town Extension - Reclamation and Advance Works",
+      "type": null,
+      "type_label": {
+        "en": "",
+        "tc": ""
+      },
+      "status": 2,
+      "status_label": {
+        "en": "Under Construction",
+        "tc": "施工中"
+      },
+      "url": {
+        "en": "",
+        "tc": ""
+      },
+      "overview": {
+        "en": "",
+        "tc": ""
+      },
+      "coordinates": [
+        [
+          113.954978,
+          22.298721
+        ]
+      ],
+      "geometry": null,
+      "page_title": {
+        "en": "Tung Chung New Town Extension - Reclamation and Advance Works",
+        "tc": "東涌新市鎮擴展－填海及前期工程"
+      },
+      "description": {
+        "en": "",
+        "tc": ""
+      },
+      "scope": {
+        "en": "",
+        "tc": ""
+      },
+      "agreement_no": "7814CL",
+      "cost": {
+        "en": "",
+        "tc": ""
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commissioning_date": {
+        "en": "",
+        "tc": ""
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "",
+        "tc": ""
+      },
+      "photos": []
+    },
+    {
+      "id": 49,
+      "dataset": "cedd",
+      "department": "CEDD",
+      "item": "7828CL",
+      "name": "Remaining Phase of Site Formation and Engineering Infrastructure Works at Kwu Tung North and Fanling North New Development Area - Detailed Design and Site Investigation",
+      "type": null,
+      "type_label": {
+        "en": "",
+        "tc": ""
+      },
+      "status": 2,
+      "status_label": {
+        "en": "Under Construction",
+        "tc": "施工中"
+      },
+      "url": {
+        "en": "",
+        "tc": ""
+      },
+      "overview": {
+        "en": "",
+        "tc": ""
+      },
+      "coordinates": [
+        [
+          114.105783,
+          22.509869
+        ]
+      ],
+      "geometry": null,
+      "page_title": {
+        "en": "Remaining Phase of Site Formation and Engineering Infrastructure Works at Kwu Tung North and Fanling North New Development Area - Detailed Design and Site Investigation",
+        "tc": "古洞北及粉嶺北新發展區餘下地盤平整和基礎設施工程"
+      },
+      "description": {
+        "en": "",
+        "tc": ""
+      },
+      "scope": {
+        "en": "",
+        "tc": ""
+      },
+      "agreement_no": "7828CL",
+      "cost": {
+        "en": "",
+        "tc": ""
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commissioning_date": {
+        "en": "",
+        "tc": ""
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "",
+        "tc": ""
+      },
+      "photos": []
+    },
+    {
+      "id": 50,
+      "dataset": "cedd",
+      "department": "CEDD",
+      "item": "7831CL",
+      "name": "West Kowloon Reclamation – main works (remainder) – footbridge at the junction of Sham Mong Road and Hing Wah Street West in Sham Shui Po",
+      "type": null,
+      "type_label": {
+        "en": "",
+        "tc": ""
+      },
+      "status": 2,
+      "status_label": {
+        "en": "Under Construction",
+        "tc": "施工中"
+      },
+      "url": {
+        "en": "",
+        "tc": ""
+      },
+      "overview": {
+        "en": "",
+        "tc": ""
+      },
+      "coordinates": [
+        [
+          114.148755,
+          22.331578
+        ]
+      ],
+      "geometry": null,
+      "page_title": {
+        "en": "West Kowloon Reclamation – main works (remainder) – footbridge at the junction of Sham Mong Road and Hing Wah Street West in Sham Shui Po",
+        "tc": "西九龍填海計劃–主要工程(餘下部分) – 位於深水埗深旺道與興華街西交界處的行人天橋"
+      },
+      "description": {
+        "en": "",
+        "tc": ""
+      },
+      "scope": {
+        "en": "",
+        "tc": ""
+      },
+      "agreement_no": "7831CL",
+      "cost": {
+        "en": "",
+        "tc": ""
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commissioning_date": {
+        "en": "",
+        "tc": ""
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "",
+        "tc": ""
+      },
+      "photos": []
+    },
+    {
+      "id": 51,
+      "dataset": "cedd",
+      "department": "CEDD",
+      "item": "7786CL",
+      "name": "Tung Chung New Town Extension",
+      "type": null,
+      "type_label": {
+        "en": "",
+        "tc": ""
+      },
+      "status": 2,
+      "status_label": {
+        "en": "Under Construction",
+        "tc": "施工中"
+      },
+      "url": {
+        "en": "",
+        "tc": ""
+      },
+      "overview": {
+        "en": "",
+        "tc": ""
+      },
+      "coordinates": [
+        [
+          113.952481,
+          22.298492
+        ]
+      ],
+      "geometry": null,
+      "page_title": {
+        "en": "Tung Chung New Town Extension",
+        "tc": "東涌新市鎮擴展計劃"
+      },
+      "description": {
+        "en": "",
+        "tc": ""
+      },
+      "scope": {
+        "en": "",
+        "tc": ""
+      },
+      "agreement_no": "7786CL",
+      "cost": {
+        "en": "",
+        "tc": ""
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commissioning_date": {
+        "en": "",
+        "tc": ""
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "",
+        "tc": ""
+      },
+      "photos": []
+    },
+    {
+      "id": 52,
+      "dataset": "cedd",
+      "department": "CEDD",
+      "item": "7787CL, 7829CL, 7845CL and 7846CL",
+      "name": "Hung Shui Kiu/Ha Tsuen New Development Area - Second Phase Development",
+      "type": null,
+      "type_label": {
+        "en": "",
+        "tc": ""
+      },
+      "status": 2,
+      "status_label": {
+        "en": "Under Construction",
+        "tc": "施工中"
+      },
+      "url": {
+        "en": "",
+        "tc": ""
+      },
+      "overview": {
+        "en": "",
+        "tc": ""
+      },
+      "coordinates": [
+        [
+          113.988334,
+          22.443609
+        ]
+      ],
+      "geometry": null,
+      "page_title": {
+        "en": "Hung Shui Kiu/Ha Tsuen New Development Area - Second Phase Development",
+        "tc": "洪水橋／厦村新發展區 - 第二期發展"
+      },
+      "description": {
+        "en": "",
+        "tc": ""
+      },
+      "scope": {
+        "en": "",
+        "tc": ""
+      },
+      "agreement_no": "7787CL, 7829CL, 7845CL and 7846CL",
+      "cost": {
+        "en": "",
+        "tc": ""
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commissioning_date": {
+        "en": "",
+        "tc": ""
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "",
+        "tc": ""
+      },
+      "photos": []
+    },
+    {
+      "id": 53,
+      "dataset": "cedd",
+      "department": "CEDD",
+      "item": "7845CL, 7796CL",
+      "name": "Hung Shui Kiu/Ha Tsuen New Development Area - First Phase Development",
+      "type": null,
+      "type_label": {
+        "en": "",
+        "tc": ""
+      },
+      "status": 2,
+      "status_label": {
+        "en": "Under Construction",
+        "tc": "施工中"
+      },
+      "url": {
+        "en": "",
+        "tc": ""
+      },
+      "overview": {
+        "en": "",
+        "tc": ""
+      },
+      "coordinates": [
+        [
+          113.996511,
+          22.436552
+        ]
+      ],
+      "geometry": null,
+      "page_title": {
+        "en": "Hung Shui Kiu/Ha Tsuen New Development Area - First Phase Development",
+        "tc": "洪水橋／厦村新發展區 - 第一期發展"
+      },
+      "description": {
+        "en": "",
+        "tc": ""
+      },
+      "scope": {
+        "en": "",
+        "tc": ""
+      },
+      "agreement_no": "7845CL, 7796CL",
+      "cost": {
+        "en": "",
+        "tc": ""
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commissioning_date": {
+        "en": "",
+        "tc": ""
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "",
+        "tc": ""
+      },
+      "photos": []
+    },
+    {
+      "id": 54,
+      "dataset": "cedd",
+      "department": "CEDD",
+      "item": "B776CL-2",
+      "name": "Site Formation and Infrastructure Works for Public Housing Developments at Kam Tin South, Yuen Long - Remaining Works",
+      "type": null,
+      "type_label": {
+        "en": "",
+        "tc": ""
+      },
+      "status": 1,
+      "status_label": {
+        "en": "Under Planning",
+        "tc": "規劃中"
+      },
+      "url": {
+        "en": "",
+        "tc": ""
+      },
+      "overview": {
+        "en": "",
+        "tc": ""
+      },
+      "coordinates": [
+        [
+          114.068595,
+          22.432
+        ]
+      ],
+      "geometry": null,
+      "page_title": {
+        "en": "Site Formation and Infrastructure Works for Public Housing Developments at Kam Tin South, Yuen Long - Remaining Works",
+        "tc": "元朗錦田南公營房屋發展之工地平整及基礎設施工程 – 餘下工程"
+      },
+      "description": {
+        "en": "",
+        "tc": ""
+      },
+      "scope": {
+        "en": "",
+        "tc": ""
+      },
+      "agreement_no": "B776CL-2",
+      "cost": {
+        "en": "",
+        "tc": ""
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commissioning_date": {
+        "en": "",
+        "tc": ""
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "",
+        "tc": ""
+      },
+      "photos": []
+    },
+    {
+      "id": 55,
+      "dataset": "cedd",
+      "department": "CEDD",
+      "item": "B781CL",
+      "name": "Infrastructure Works for Public Housing Development at Area 54, Tung Chung",
+      "type": null,
+      "type_label": {
+        "en": "",
+        "tc": ""
+      },
+      "status": 3,
+      "status_label": {
+        "en": "Completed",
+        "tc": "已完成"
+      },
+      "url": {
+        "en": "",
+        "tc": ""
+      },
+      "overview": {
+        "en": "",
+        "tc": ""
+      },
+      "coordinates": [
+        [
+          113.947,
+          22.294
+        ]
+      ],
+      "geometry": null,
+      "page_title": {
+        "en": "Infrastructure Works for Public Housing Development at Area 54, Tung Chung",
+        "tc": "東涌第54區公營房屋發展之基礎設施工程"
+      },
+      "description": {
+        "en": "",
+        "tc": ""
+      },
+      "scope": {
+        "en": "",
+        "tc": ""
+      },
+      "agreement_no": "B781CL",
+      "cost": {
+        "en": "",
+        "tc": ""
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commissioning_date": {
+        "en": "",
+        "tc": ""
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "",
+        "tc": ""
+      },
+      "photos": []
+    },
+    {
+      "id": 56,
+      "dataset": "cedd",
+      "department": "CEDD",
+      "item": "7832CL",
+      "name": "Kai Tak development – stage 5B infrastructure works at the former north apron area",
+      "type": null,
+      "type_label": {
+        "en": "",
+        "tc": ""
+      },
+      "status": 2,
+      "status_label": {
+        "en": "Under Construction",
+        "tc": "施工中"
+      },
+      "url": {
+        "en": "",
+        "tc": ""
+      },
+      "overview": {
+        "en": "",
+        "tc": ""
+      },
+      "coordinates": [
+        [
+          114.191238,
+          22.325404
+        ]
+      ],
+      "geometry": null,
+      "page_title": {
+        "en": "Kai Tak development – stage 5B infrastructure works at the former north apron area",
+        "tc": "啟德發展計劃 – 前北面停機坪第5B期的基礎設施工程"
+      },
+      "description": {
+        "en": "",
+        "tc": ""
+      },
+      "scope": {
+        "en": "",
+        "tc": ""
+      },
+      "agreement_no": "7832CL",
+      "cost": {
+        "en": "",
+        "tc": ""
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commissioning_date": {
+        "en": "",
+        "tc": ""
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "",
+        "tc": ""
+      },
+      "photos": []
+    },
+    {
+      "id": 57,
+      "dataset": "cedd",
+      "department": "CEDD",
+      "item": "7791CL",
+      "name": "Integrated Basement for West Kowloon Cultural District - first and second stages of design, site investigation and construction works",
+      "type": null,
+      "type_label": {
+        "en": "",
+        "tc": ""
+      },
+      "status": 3,
+      "status_label": {
+        "en": "Completed",
+        "tc": "已完成"
+      },
+      "url": {
+        "en": "",
+        "tc": ""
+      },
+      "overview": {
+        "en": "",
+        "tc": ""
+      },
+      "coordinates": [
+        [
+          114.158958,
+          22.300698
+        ]
+      ],
+      "geometry": null,
+      "page_title": {
+        "en": "Integrated Basement for West Kowloon Cultural District - first and second stages of design, site investigation and construction works",
+        "tc": "西九文化區綜合地庫 － 首階段及第二階段的設計、工地勘測及建造工程"
+      },
+      "description": {
+        "en": "",
+        "tc": ""
+      },
+      "scope": {
+        "en": "",
+        "tc": ""
+      },
+      "agreement_no": "7791CL",
+      "cost": {
+        "en": "",
+        "tc": ""
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commissioning_date": {
+        "en": "",
+        "tc": ""
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "",
+        "tc": ""
+      },
+      "photos": []
+    },
+    {
+      "id": 58,
+      "dataset": "cedd",
+      "department": "CEDD",
+      "item": "5051TF",
+      "name": "Reconstruction of Pak Kok Pier on Lamma Island",
+      "type": null,
+      "type_label": {
+        "en": "",
+        "tc": ""
+      },
+      "status": 3,
+      "status_label": {
+        "en": "Completed",
+        "tc": "已完成"
+      },
+      "url": {
+        "en": "",
+        "tc": ""
+      },
+      "overview": {
+        "en": "",
+        "tc": ""
+      },
+      "coordinates": [
+        [
+          114.1105,
+          22.236
+        ]
+      ],
+      "geometry": null,
+      "page_title": {
+        "en": "Reconstruction of Pak Kok Pier on Lamma Island",
+        "tc": "重建南丫島北角碼頭"
+      },
+      "description": {
+        "en": "",
+        "tc": ""
+      },
+      "scope": {
+        "en": "",
+        "tc": ""
+      },
+      "agreement_no": "5051TF",
+      "cost": {
+        "en": "",
+        "tc": ""
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commissioning_date": {
+        "en": "",
+        "tc": ""
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "",
+        "tc": ""
+      },
+      "photos": []
+    },
+    {
+      "id": 59,
+      "dataset": "cedd",
+      "department": "CEDD",
+      "item": "7815CL",
+      "name": "Integrated Basement for West Kowloon Cultural District – third stage of construction works",
+      "type": null,
+      "type_label": {
+        "en": "",
+        "tc": ""
+      },
+      "status": 3,
+      "status_label": {
+        "en": "Completed",
+        "tc": "已完成"
+      },
+      "url": {
+        "en": "",
+        "tc": ""
+      },
+      "overview": {
+        "en": "",
+        "tc": ""
+      },
+      "coordinates": [
+        [
+          114.160422,
+          22.300948
+        ]
+      ],
+      "geometry": null,
+      "page_title": {
+        "en": "Integrated Basement for West Kowloon Cultural District – third stage of construction works",
+        "tc": "西九文化區綜合地庫 － 第三階段建造工程"
+      },
+      "description": {
+        "en": "",
+        "tc": ""
+      },
+      "scope": {
+        "en": "",
+        "tc": ""
+      },
+      "agreement_no": "7815CL",
+      "cost": {
+        "en": "",
+        "tc": ""
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commissioning_date": {
+        "en": "",
+        "tc": ""
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "",
+        "tc": ""
+      },
+      "photos": []
+    },
+    {
+      "id": 60,
+      "dataset": "cedd",
+      "department": "CEDD",
+      "item": "B813CL",
+      "name": "Site Formation and Infrastructure Works for Public Housing Developments at Chung Nga Road and Area 9, Tai Po – Phase 1",
+      "type": null,
+      "type_label": {
+        "en": "",
+        "tc": ""
+      },
+      "status": 3,
+      "status_label": {
+        "en": "Completed",
+        "tc": "已完成"
+      },
+      "url": {
+        "en": "",
+        "tc": ""
+      },
+      "overview": {
+        "en": "",
+        "tc": ""
+      },
+      "coordinates": [
+        [
+          114.173006,
+          22.460907
+        ]
+      ],
+      "geometry": null,
+      "page_title": {
+        "en": "Site Formation and Infrastructure Works for Public Housing Developments at Chung Nga Road and Area 9, Tai Po – Phase 1",
+        "tc": "大埔第9區和頌雅路公營房屋發展之工地平整及基礎設施工程－ 第一期"
+      },
+      "description": {
+        "en": "",
+        "tc": ""
+      },
+      "scope": {
+        "en": "",
+        "tc": ""
+      },
+      "agreement_no": "B813CL",
+      "cost": {
+        "en": "",
+        "tc": ""
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commissioning_date": {
+        "en": "",
+        "tc": ""
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "",
+        "tc": ""
+      },
+      "photos": []
+    },
+    {
+      "id": 61,
+      "dataset": "cedd",
+      "department": "CEDD",
+      "item": "7793CL",
+      "name": "Site Formation and Infrastructure Works for Police Facilities in Kong Nga Po",
+      "type": null,
+      "type_label": {
+        "en": "",
+        "tc": ""
+      },
+      "status": 2,
+      "status_label": {
+        "en": "Under Construction",
+        "tc": "施工中"
+      },
+      "url": {
+        "en": "",
+        "tc": ""
+      },
+      "overview": {
+        "en": "",
+        "tc": ""
+      },
+      "coordinates": [
+        [
+          114.134995,
+          22.527481
+        ]
+      ],
+      "geometry": null,
+      "page_title": {
+        "en": "Site Formation and Infrastructure Works for Police Facilities in Kong Nga Po",
+        "tc": "缸瓦甫警察設施土地平整及基礎建設工程"
+      },
+      "description": {
+        "en": "",
+        "tc": ""
+      },
+      "scope": {
+        "en": "",
+        "tc": ""
+      },
+      "agreement_no": "7793CL",
+      "cost": {
+        "en": "",
+        "tc": ""
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commissioning_date": {
+        "en": "",
+        "tc": ""
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "",
+        "tc": ""
+      },
+      "photos": []
+    },
+    {
+      "id": 62,
+      "dataset": "cedd",
+      "department": "CEDD",
+      "item": "7473RO",
+      "name": "The Establishment of an Agricultural Park in Kwu Tung South (Phase 1)",
+      "type": null,
+      "type_label": {
+        "en": "",
+        "tc": ""
+      },
+      "status": 2,
+      "status_label": {
+        "en": "Under Construction",
+        "tc": "施工中"
+      },
+      "url": {
+        "en": "",
+        "tc": ""
+      },
+      "overview": {
+        "en": "",
+        "tc": ""
+      },
+      "coordinates": [
+        [
+          114.099558,
+          22.476545
+        ]
+      ],
+      "geometry": null,
+      "page_title": {
+        "en": "The Establishment of an Agricultural Park in Kwu Tung South (Phase 1)",
+        "tc": "在古洞南設立農業園（第一期）"
+      },
+      "description": {
+        "en": "",
+        "tc": ""
+      },
+      "scope": {
+        "en": "",
+        "tc": ""
+      },
+      "agreement_no": "7473RO",
+      "cost": {
+        "en": "",
+        "tc": ""
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commissioning_date": {
+        "en": "",
+        "tc": ""
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "",
+        "tc": ""
+      },
+      "photos": []
+    },
+    {
+      "id": 63,
+      "dataset": "cedd",
+      "department": "CEDD",
+      "item": "7771CL",
+      "name": "Site Formation and Infrastructure Works for the Development of ex­-Cha Kwo Ling Kaolin Mine Site (Phase 2)",
+      "type": null,
+      "type_label": {
+        "en": "",
+        "tc": ""
+      },
+      "status": 2,
+      "status_label": {
+        "en": "Under Construction",
+        "tc": "施工中"
+      },
+      "url": {
+        "en": "",
+        "tc": ""
+      },
+      "overview": {
+        "en": "",
+        "tc": ""
+      },
+      "coordinates": [
+        [
+          114.229576,
+          22.302628
+        ]
+      ],
+      "geometry": null,
+      "page_title": {
+        "en": "Site Formation and Infrastructure Works for the Development of ex­-Cha Kwo Ling Kaolin Mine Site (Phase 2)",
+        "tc": "前茶果嶺高嶺土礦場發展(第二期)之工地平整及基礎設施工程"
+      },
+      "description": {
+        "en": "",
+        "tc": ""
+      },
+      "scope": {
+        "en": "",
+        "tc": ""
+      },
+      "agreement_no": "7771CL",
+      "cost": {
+        "en": "",
+        "tc": ""
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commissioning_date": {
+        "en": "",
+        "tc": ""
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "",
+        "tc": ""
+      },
+      "photos": []
+    },
+    {
+      "id": 64,
+      "dataset": "cedd",
+      "department": "CEDD",
+      "item": "7834CL",
+      "name": "Infrastructure Works for West Kowloon Cultural District, phase 1 - Third Construction Package (Artist Square Bridge)",
+      "type": null,
+      "type_label": {
+        "en": "",
+        "tc": ""
+      },
+      "status": 3,
+      "status_label": {
+        "en": "Completed",
+        "tc": "已完成"
+      },
+      "url": {
+        "en": "",
+        "tc": ""
+      },
+      "overview": {
+        "en": "",
+        "tc": ""
+      },
+      "coordinates": [
+        [
+          114.160194,
+          22.302611
+        ]
+      ],
+      "geometry": null,
+      "page_title": {
+        "en": "Infrastructure Works for West Kowloon Cultural District, phase 1 - Third Construction Package (Artist Square Bridge)",
+        "tc": "西九文化區基礎建設工程第一期-第三組建造工程 (藝術廣場天橋)"
+      },
+      "description": {
+        "en": "",
+        "tc": ""
+      },
+      "scope": {
+        "en": "",
+        "tc": ""
+      },
+      "agreement_no": "7834CL",
+      "cost": {
+        "en": "",
+        "tc": ""
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commissioning_date": {
+        "en": "",
+        "tc": ""
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "",
+        "tc": ""
+      },
+      "photos": []
+    },
+    {
+      "id": 65,
+      "dataset": "cedd",
+      "department": "CEDD",
+      "item": "7763CL",
+      "name": "Integrated Basement for West Kowloon Cultural District – remaining works",
+      "type": null,
+      "type_label": {
+        "en": "",
+        "tc": ""
+      },
+      "status": 2,
+      "status_label": {
+        "en": "Under Construction",
+        "tc": "施工中"
+      },
+      "url": {
+        "en": "",
+        "tc": ""
+      },
+      "overview": {
+        "en": "",
+        "tc": ""
+      },
+      "coordinates": [
+        [
+          114.16391,
+          22.301362
+        ]
+      ],
+      "geometry": null,
+      "page_title": {
+        "en": "Integrated Basement for West Kowloon Cultural District – remaining works",
+        "tc": "西九文化區綜合地庫 － 餘下工程"
+      },
+      "description": {
+        "en": "",
+        "tc": ""
+      },
+      "scope": {
+        "en": "",
+        "tc": ""
+      },
+      "agreement_no": "7763CL",
+      "cost": {
+        "en": "",
+        "tc": ""
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commissioning_date": {
+        "en": "",
+        "tc": ""
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "",
+        "tc": ""
+      },
+      "photos": []
+    },
+    {
+      "id": 66,
+      "dataset": "cedd",
+      "department": "CEDD",
+      "item": "B766CL",
+      "name": "Site formation and infrastructure works for public housing development at Ka Wai Man Road and Ex-Mount Davis Cottage Area, Kennedy Town",
+      "type": null,
+      "type_label": {
+        "en": "",
+        "tc": ""
+      },
+      "status": 2,
+      "status_label": {
+        "en": "Under Construction",
+        "tc": "施工中"
+      },
+      "url": {
+        "en": "",
+        "tc": ""
+      },
+      "overview": {
+        "en": "",
+        "tc": ""
+      },
+      "coordinates": [
+        [
+          114.120661,
+          22.280641
+        ]
+      ],
+      "geometry": null,
+      "page_title": {
+        "en": "Site formation and infrastructure works for public housing development at Ka Wai Man Road and Ex-Mount Davis Cottage Area, Kennedy Town",
+        "tc": "堅尼地城加惠民道和前摩星嶺平房區公營房屋發展之工地平整及基礎設施工程"
+      },
+      "description": {
+        "en": "",
+        "tc": ""
+      },
+      "scope": {
+        "en": "",
+        "tc": ""
+      },
+      "agreement_no": "B766CL",
+      "cost": {
+        "en": "",
+        "tc": ""
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commissioning_date": {
+        "en": "",
+        "tc": ""
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "",
+        "tc": ""
+      },
+      "photos": []
+    },
+    {
+      "id": 67,
+      "dataset": "cedd",
+      "department": "CEDD",
+      "item": "B812CL",
+      "name": "Site Formation and Infrastructure Works for Public Housing Developments at Pik Wan Road, Yau Tong",
+      "type": null,
+      "type_label": {
+        "en": "",
+        "tc": ""
+      },
+      "status": 2,
+      "status_label": {
+        "en": "Under Construction",
+        "tc": "施工中"
+      },
+      "url": {
+        "en": "",
+        "tc": ""
+      },
+      "overview": {
+        "en": "",
+        "tc": ""
+      },
+      "coordinates": [
+        [
+          114.240381,
+          22.299983
+        ]
+      ],
+      "geometry": null,
+      "page_title": {
+        "en": "Site Formation and Infrastructure Works for Public Housing Developments at Pik Wan Road, Yau Tong",
+        "tc": "油塘碧雲道公營房屋發展之工地平整及基礎設施工程"
+      },
+      "description": {
+        "en": "",
+        "tc": ""
+      },
+      "scope": {
+        "en": "",
+        "tc": ""
+      },
+      "agreement_no": "B812CL",
+      "cost": {
+        "en": "",
+        "tc": ""
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commissioning_date": {
+        "en": "",
+        "tc": ""
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "",
+        "tc": ""
+      },
+      "photos": []
+    },
+    {
+      "id": 68,
+      "dataset": "cedd",
+      "department": "CEDD",
+      "item": "5841CL",
+      "name": "Site Formation and Associated Infrastructural Works for Development of Columbarium at Siu Ho Wan on Lantau Island",
+      "type": null,
+      "type_label": {
+        "en": "",
+        "tc": ""
+      },
+      "status": 2,
+      "status_label": {
+        "en": "Under Construction",
+        "tc": "施工中"
+      },
+      "url": {
+        "en": "",
+        "tc": ""
+      },
+      "overview": {
+        "en": "",
+        "tc": ""
+      },
+      "coordinates": [
+        [
+          113.998282,
+          22.318406
+        ]
+      ],
+      "geometry": null,
+      "page_title": {
+        "en": "Site Formation and Associated Infrastructural Works for Development of Columbarium at Siu Ho Wan on Lantau Island",
+        "tc": "在大嶼山小蠔灣興建骨灰安置所的土地平整及相關基礎設施工程"
+      },
+      "description": {
+        "en": "",
+        "tc": ""
+      },
+      "scope": {
+        "en": "",
+        "tc": ""
+      },
+      "agreement_no": "5841CL",
+      "cost": {
+        "en": "",
+        "tc": ""
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commissioning_date": {
+        "en": "",
+        "tc": ""
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "",
+        "tc": ""
+      },
+      "photos": []
+    },
+    {
+      "id": 69,
+      "dataset": "cedd",
+      "department": "CEDD",
+      "item": "5193TB",
+      "name": "Construction of Subway in support of the Provision of Columbarium at On Hing Lane, Shek Mun, Sha Tin",
+      "type": null,
+      "type_label": {
+        "en": "",
+        "tc": ""
+      },
+      "status": 2,
+      "status_label": {
+        "en": "Under Construction",
+        "tc": "施工中"
+      },
+      "url": {
+        "en": "",
+        "tc": ""
+      },
+      "overview": {
+        "en": "",
+        "tc": ""
+      },
+      "coordinates": [
+        [
+          114.211056,
+          22.38846
+        ]
+      ],
+      "geometry": null,
+      "page_title": {
+        "en": "Construction of Subway in support of the Provision of Columbarium at On Hing Lane, Shek Mun, Sha Tin",
+        "tc": "興建行人隧道以配合沙田石門安興里骨灰安置所計劃"
+      },
+      "description": {
+        "en": "",
+        "tc": ""
+      },
+      "scope": {
+        "en": "",
+        "tc": ""
+      },
+      "agreement_no": "5193TB",
+      "cost": {
+        "en": "",
+        "tc": ""
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commissioning_date": {
+        "en": "",
+        "tc": ""
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "",
+        "tc": ""
+      },
+      "photos": []
+    },
+    {
+      "id": 70,
+      "dataset": "cedd",
+      "department": "CEDD",
+      "item": "7833CL",
+      "name": "Kai Tak development - remaining infrastructure works for developments at the former runway and south apron",
+      "type": null,
+      "type_label": {
+        "en": "",
+        "tc": ""
+      },
+      "status": 2,
+      "status_label": {
+        "en": "Under Construction",
+        "tc": "施工中"
+      },
+      "url": {
+        "en": "",
+        "tc": ""
+      },
+      "overview": {
+        "en": "",
+        "tc": ""
+      },
+      "coordinates": [
+        [
+          114.204711,
+          22.320688
+        ]
+      ],
+      "geometry": null,
+      "page_title": {
+        "en": "Kai Tak development - remaining infrastructure works for developments at the former runway and south apron",
+        "tc": "啟德發展計劃 - 前跑道及南面停機坪發展項目的餘下基礎設施工程"
+      },
+      "description": {
+        "en": "",
+        "tc": ""
+      },
+      "scope": {
+        "en": "",
+        "tc": ""
+      },
+      "agreement_no": "7833CL",
+      "cost": {
+        "en": "",
+        "tc": ""
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commissioning_date": {
+        "en": "",
+        "tc": ""
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "",
+        "tc": ""
+      },
+      "photos": []
+    },
+    {
+      "id": 71,
+      "dataset": "cedd",
+      "department": "CEDD",
+      "item": "B810CL",
+      "name": "Site formation and infrastructure works for public housing development at Long Bin, Yuen Long",
+      "type": null,
+      "type_label": {
+        "en": "",
+        "tc": ""
+      },
+      "status": 2,
+      "status_label": {
+        "en": "Under Construction",
+        "tc": "施工中"
+      },
+      "url": {
+        "en": "",
+        "tc": ""
+      },
+      "overview": {
+        "en": "",
+        "tc": ""
+      },
+      "coordinates": [
+        [
+          114.015051,
+          22.44047
+        ]
+      ],
+      "geometry": null,
+      "page_title": {
+        "en": "Site formation and infrastructure works for public housing development at Long Bin, Yuen Long",
+        "tc": "元朗朗邊公營房屋發展的工地平整和基礎設施工程"
+      },
+      "description": {
+        "en": "",
+        "tc": ""
+      },
+      "scope": {
+        "en": "",
+        "tc": ""
+      },
+      "agreement_no": "B810CL",
+      "cost": {
+        "en": "",
+        "tc": ""
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commissioning_date": {
+        "en": "",
+        "tc": ""
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "",
+        "tc": ""
+      },
+      "photos": []
+    },
+    {
+      "id": 72,
+      "dataset": "cedd",
+      "department": "CEDD",
+      "item": "B858CL",
+      "name": "Site Formation and Infrastructure Works for Public Housing Developments at Kam Tin South, Yuen Long – Phase 1",
+      "type": null,
+      "type_label": {
+        "en": "",
+        "tc": ""
+      },
+      "status": 2,
+      "status_label": {
+        "en": "Under Construction",
+        "tc": "施工中"
+      },
+      "url": {
+        "en": "",
+        "tc": ""
+      },
+      "overview": {
+        "en": "",
+        "tc": ""
+      },
+      "coordinates": [
+        [
+          114.065032,
+          22.432988
+        ]
+      ],
+      "geometry": null,
+      "page_title": {
+        "en": "Site Formation and Infrastructure Works for Public Housing Developments at Kam Tin South, Yuen Long – Phase 1",
+        "tc": "元朗錦田南公營房屋發展之工地平整及基礎設施工程—第一期"
+      },
+      "description": {
+        "en": "",
+        "tc": ""
+      },
+      "scope": {
+        "en": "",
+        "tc": ""
+      },
+      "agreement_no": "B858CL",
+      "cost": {
+        "en": "",
+        "tc": ""
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commissioning_date": {
+        "en": "",
+        "tc": ""
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "",
+        "tc": ""
+      },
+      "photos": []
+    },
+    {
+      "id": 73,
+      "dataset": "cedd",
+      "department": "CEDD",
+      "item": "7760CL",
+      "name": "Development of the Loop – Main Works Package 1",
+      "type": null,
+      "type_label": {
+        "en": "",
+        "tc": ""
+      },
+      "status": 2,
+      "status_label": {
+        "en": "Under Construction",
+        "tc": "施工中"
+      },
+      "url": {
+        "en": "",
+        "tc": ""
+      },
+      "overview": {
+        "en": "",
+        "tc": ""
+      },
+      "coordinates": [
+        [
+          114.083198,
+          22.521574
+        ]
+      ],
+      "geometry": null,
+      "page_title": {
+        "en": "Development of the Loop – Main Works Package 1",
+        "tc": "河套區發展 － 第一期主體工程"
+      },
+      "description": {
+        "en": "",
+        "tc": ""
+      },
+      "scope": {
+        "en": "",
+        "tc": ""
+      },
+      "agreement_no": "7760CL",
+      "cost": {
+        "en": "",
+        "tc": ""
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commissioning_date": {
+        "en": "",
+        "tc": ""
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "",
+        "tc": ""
+      },
+      "photos": []
+    },
+    {
+      "id": 74,
+      "dataset": "cedd",
+      "department": "CEDD",
+      "item": "B808CL",
+      "name": "Site Formation and Infrastructure Works for Public Housing Developments at Tseung Kwan O",
+      "type": null,
+      "type_label": {
+        "en": "",
+        "tc": ""
+      },
+      "status": 2,
+      "status_label": {
+        "en": "Under Construction",
+        "tc": "施工中"
+      },
+      "url": {
+        "en": "",
+        "tc": ""
+      },
+      "overview": {
+        "en": "",
+        "tc": ""
+      },
+      "coordinates": [
+        [
+          114.26585,
+          22.324316
+        ]
+      ],
+      "geometry": null,
+      "page_title": {
+        "en": "Site Formation and Infrastructure Works for Public Housing Developments at Tseung Kwan O",
+        "tc": "將軍澳公營房屋發展之工地平整及基礎設施工程"
+      },
+      "description": {
+        "en": "",
+        "tc": ""
+      },
+      "scope": {
+        "en": "",
+        "tc": ""
+      },
+      "agreement_no": "B808CL",
+      "cost": {
+        "en": "",
+        "tc": ""
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commissioning_date": {
+        "en": "",
+        "tc": ""
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "",
+        "tc": ""
+      },
+      "photos": []
+    },
+    {
+      "id": 75,
+      "dataset": "cedd",
+      "department": "CEDD",
+      "item": "B857CL",
+      "name": "Site Formation and Infrastructure Works for Public Housing Developments at Tuen Mun Central - Phase 1",
+      "type": null,
+      "type_label": {
+        "en": "",
+        "tc": ""
+      },
+      "status": 2,
+      "status_label": {
+        "en": "Under Construction",
+        "tc": "施工中"
+      },
+      "url": {
+        "en": "",
+        "tc": ""
+      },
+      "overview": {
+        "en": "",
+        "tc": ""
+      },
+      "coordinates": [
+        [
+          113.969574,
+          22.388084
+        ]
+      ],
+      "geometry": null,
+      "page_title": {
+        "en": "Site Formation and Infrastructure Works for Public Housing Developments at Tuen Mun Central - Phase 1",
+        "tc": "屯門中公營房屋發展的工地平整及基礎設施工程 - 第一期"
+      },
+      "description": {
+        "en": "",
+        "tc": ""
+      },
+      "scope": {
+        "en": "",
+        "tc": ""
+      },
+      "agreement_no": "B857CL",
+      "cost": {
+        "en": "",
+        "tc": ""
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commissioning_date": {
+        "en": "",
+        "tc": ""
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "",
+        "tc": ""
+      },
+      "photos": []
+    },
+    {
+      "id": 76,
+      "dataset": "cedd",
+      "department": "CEDD",
+      "item": "795CL",
+      "name": "Site formation and infrastructure works for public housing developments at Pok Fu Lam South",
+      "type": null,
+      "type_label": {
+        "en": "",
+        "tc": ""
+      },
+      "status": 2,
+      "status_label": {
+        "en": "Under Construction",
+        "tc": "施工中"
+      },
+      "url": {
+        "en": "",
+        "tc": ""
+      },
+      "overview": {
+        "en": "",
+        "tc": ""
+      },
+      "coordinates": [
+        [
+          114.13942,
+          22.253958
+        ]
+      ],
+      "geometry": null,
+      "page_title": {
+        "en": "Site formation and infrastructure works for public housing developments at Pok Fu Lam South",
+        "tc": "薄扶林南公營房屋發展之工地平整及基礎設施工程"
+      },
+      "description": {
+        "en": "",
+        "tc": ""
+      },
+      "scope": {
+        "en": "",
+        "tc": ""
+      },
+      "agreement_no": "795CL",
+      "cost": {
+        "en": "",
+        "tc": ""
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commissioning_date": {
+        "en": "",
+        "tc": ""
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "",
+        "tc": ""
+      },
+      "photos": []
+    },
+    {
+      "id": 77,
+      "dataset": "cedd",
+      "department": "CEDD",
+      "item": "B780CL",
+      "name": "Site Formation and Infrastructure Works for Public Housing Development at Wang Chau, Yuen Long",
+      "type": null,
+      "type_label": {
+        "en": "",
+        "tc": ""
+      },
+      "status": 2,
+      "status_label": {
+        "en": "Under Construction",
+        "tc": "施工中"
+      },
+      "url": {
+        "en": "",
+        "tc": ""
+      },
+      "overview": {
+        "en": "",
+        "tc": ""
+      },
+      "coordinates": [
+        [
+          114.021195,
+          22.450213
+        ]
+      ],
+      "geometry": null,
+      "page_title": {
+        "en": "Site Formation and Infrastructure Works for Public Housing Development at Wang Chau, Yuen Long",
+        "tc": "元朗橫洲公營房屋發展之工地平整及基礎設施工程"
+      },
+      "description": {
+        "en": "",
+        "tc": ""
+      },
+      "scope": {
+        "en": "",
+        "tc": ""
+      },
+      "agreement_no": "B780CL",
+      "cost": {
+        "en": "",
+        "tc": ""
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commissioning_date": {
+        "en": "",
+        "tc": ""
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "",
+        "tc": ""
+      },
+      "photos": []
+    },
+    {
+      "id": 78,
+      "dataset": "cedd",
+      "department": "CEDD",
+      "item": "7817CL and 7872CL",
+      "name": "Yuen Long South Development Stage 1 Works and Stage 2 Works, Phase 1",
+      "type": null,
+      "type_label": {
+        "en": "",
+        "tc": ""
+      },
+      "status": 2,
+      "status_label": {
+        "en": "Under Construction",
+        "tc": "施工中"
+      },
+      "url": {
+        "en": "",
+        "tc": ""
+      },
+      "overview": {
+        "en": "",
+        "tc": ""
+      },
+      "coordinates": [
+        [
+          114.02099,
+          22.4335
+        ]
+      ],
+      "geometry": null,
+      "page_title": {
+        "en": "Yuen Long South Development Stage 1 Works and Stage 2 Works, Phase 1",
+        "tc": "元朗南發展第一階段工程及第二階段工程第一期"
+      },
+      "description": {
+        "en": "",
+        "tc": ""
+      },
+      "scope": {
+        "en": "",
+        "tc": ""
+      },
+      "agreement_no": "7817CL and 7872CL",
+      "cost": {
+        "en": "",
+        "tc": ""
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commissioning_date": {
+        "en": "",
+        "tc": ""
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "",
+        "tc": ""
+      },
+      "photos": []
+    },
+    {
+      "id": 79,
+      "dataset": "cedd",
+      "department": "CEDD",
+      "item": "7873TH",
+      "name": "Boardwalk underneath Island Eastern Corridor",
+      "type": null,
+      "type_label": {
+        "en": "",
+        "tc": ""
+      },
+      "status": 2,
+      "status_label": {
+        "en": "Under Construction",
+        "tc": "施工中"
+      },
+      "url": {
+        "en": "",
+        "tc": ""
+      },
+      "overview": {
+        "en": "",
+        "tc": ""
+      },
+      "coordinates": [
+        [
+          114.198552,
+          22.293325
+        ]
+      ],
+      "geometry": null,
+      "page_title": {
+        "en": "Boardwalk underneath Island Eastern Corridor",
+        "tc": "東區走廊下之行人板道"
+      },
+      "description": {
+        "en": "",
+        "tc": ""
+      },
+      "scope": {
+        "en": "",
+        "tc": ""
+      },
+      "agreement_no": "7873TH",
+      "cost": {
+        "en": "",
+        "tc": ""
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commissioning_date": {
+        "en": "",
+        "tc": ""
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "",
+        "tc": ""
+      },
+      "photos": []
+    },
+    {
+      "id": 80,
+      "dataset": "cedd",
+      "department": "CEDD",
+      "item": "7856CL",
+      "name": "Development of the Loop – Main Works Package 1 – site formation and infrastructure works",
+      "type": null,
+      "type_label": {
+        "en": "",
+        "tc": ""
+      },
+      "status": 2,
+      "status_label": {
+        "en": "Under Construction",
+        "tc": "施工中"
+      },
+      "url": {
+        "en": "",
+        "tc": ""
+      },
+      "overview": {
+        "en": "",
+        "tc": ""
+      },
+      "coordinates": [
+        [
+          114.076804,
+          22.518411
+        ]
+      ],
+      "geometry": null,
+      "page_title": {
+        "en": "Development of the Loop – Main Works Package 1 – site formation and infrastructure works",
+        "tc": "河套區發展 － 第一期主體工程 － 工地平整及基礎設施工程"
+      },
+      "description": {
+        "en": "",
+        "tc": ""
+      },
+      "scope": {
+        "en": "",
+        "tc": ""
+      },
+      "agreement_no": "7856CL",
+      "cost": {
+        "en": "",
+        "tc": ""
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commissioning_date": {
+        "en": "",
+        "tc": ""
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "",
+        "tc": ""
+      },
+      "photos": []
+    },
+    {
+      "id": 81,
+      "dataset": "cedd",
+      "department": "CEDD",
+      "item": "7206TB",
+      "name": "Enhancing Connectivity near MTR Kwun Tong Station with Elevated Landscaped Pedestrian Deck",
+      "type": null,
+      "type_label": {
+        "en": "",
+        "tc": ""
+      },
+      "status": 2,
+      "status_label": {
+        "en": "Under Construction",
+        "tc": "施工中"
+      },
+      "url": {
+        "en": "",
+        "tc": ""
+      },
+      "overview": {
+        "en": "",
+        "tc": ""
+      },
+      "coordinates": [
+        [
+          114.226821,
+          22.312209
+        ]
+      ],
+      "geometry": null,
+      "page_title": {
+        "en": "Enhancing Connectivity near MTR Kwun Tong Station with Elevated Landscaped Pedestrian Deck",
+        "tc": "加強港鐵觀塘站附近的區內連繫之高架園景行人平台工程"
+      },
+      "description": {
+        "en": "",
+        "tc": ""
+      },
+      "scope": {
+        "en": "",
+        "tc": ""
+      },
+      "agreement_no": "7206TB",
+      "cost": {
+        "en": "",
+        "tc": ""
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commissioning_date": {
+        "en": "",
+        "tc": ""
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "",
+        "tc": ""
+      },
+      "photos": []
+    },
+    {
+      "id": 82,
+      "dataset": "cedd",
+      "department": "CEDD",
+      "item": "7862CL",
+      "name": "Kai Tak development – remaining infrastructure works for developments at the former runway and south apron – landscaped elevated walkway to the New Acute Hospital",
+      "type": null,
+      "type_label": {
+        "en": "",
+        "tc": ""
+      },
+      "status": 2,
+      "status_label": {
+        "en": "Under Construction",
+        "tc": "施工中"
+      },
+      "url": {
+        "en": "",
+        "tc": ""
+      },
+      "overview": {
+        "en": "",
+        "tc": ""
+      },
+      "coordinates": [
+        [
+          114.208732,
+          22.317547
+        ]
+      ],
+      "geometry": null,
+      "page_title": {
+        "en": "Kai Tak development – remaining infrastructure works for developments at the former runway and south apron – landscaped elevated walkway to the New Acute Hospital",
+        "tc": "啟德發展計劃－前跑道及南面停機坪發展項目的餘下基礎設施工程－ 連接新急症醫院的園景美化高架行人道"
+      },
+      "description": {
+        "en": "",
+        "tc": ""
+      },
+      "scope": {
+        "en": "",
+        "tc": ""
+      },
+      "agreement_no": "7862CL",
+      "cost": {
+        "en": "",
+        "tc": ""
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commissioning_date": {
+        "en": "",
+        "tc": ""
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "",
+        "tc": ""
+      },
+      "photos": []
+    },
+    {
+      "id": 83,
+      "dataset": "cedd",
+      "department": "CEDD",
+      "item": "7842CL",
+      "name": "Infrastructure works for developments at Kwun Tong Action Area",
+      "type": null,
+      "type_label": {
+        "en": "",
+        "tc": ""
+      },
+      "status": 2,
+      "status_label": {
+        "en": "Under Construction",
+        "tc": "施工中"
+      },
+      "url": {
+        "en": "",
+        "tc": ""
+      },
+      "overview": {
+        "en": "",
+        "tc": ""
+      },
+      "coordinates": [
+        [
+          114.222528,
+          22.308493
+        ]
+      ],
+      "geometry": null,
+      "page_title": {
+        "en": "Infrastructure works for developments at Kwun Tong Action Area",
+        "tc": "觀塘行動區發展的基建設施工程"
+      },
+      "description": {
+        "en": "",
+        "tc": ""
+      },
+      "scope": {
+        "en": "",
+        "tc": ""
+      },
+      "agreement_no": "7842CL",
+      "cost": {
+        "en": "",
+        "tc": ""
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commissioning_date": {
+        "en": "",
+        "tc": ""
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "",
+        "tc": ""
+      },
+      "photos": []
+    },
+    {
+      "id": 84,
+      "dataset": "cedd",
+      "department": "CEDD",
+      "item": "B850CL",
+      "name": "Site Formation and Infrastructure Works for Public Housing Development at Choi Shun Street, Sheung Shui",
+      "type": null,
+      "type_label": {
+        "en": "",
+        "tc": ""
+      },
+      "status": 2,
+      "status_label": {
+        "en": "Under Construction",
+        "tc": "施工中"
+      },
+      "url": {
+        "en": "",
+        "tc": ""
+      },
+      "overview": {
+        "en": "",
+        "tc": ""
+      },
+      "coordinates": [
+        [
+          114.119947,
+          22.506405
+        ]
+      ],
+      "geometry": null,
+      "page_title": {
+        "en": "Site Formation and Infrastructure Works for Public Housing Development at Choi Shun Street, Sheung Shui",
+        "tc": "上水彩順街公營房屋發展之工地平整及基礎設施工程"
+      },
+      "description": {
+        "en": "",
+        "tc": ""
+      },
+      "scope": {
+        "en": "",
+        "tc": ""
+      },
+      "agreement_no": "B850CL",
+      "cost": {
+        "en": "",
+        "tc": ""
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commissioning_date": {
+        "en": "",
+        "tc": ""
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "",
+        "tc": ""
+      },
+      "photos": []
+    },
+    {
+      "id": 85,
+      "dataset": "cedd",
+      "department": "CEDD",
+      "item": "B847CL",
+      "name": "Site Formation and Infrastructure Works for Public Housing Development at Tin Wah Road, Lau Fau Shan",
+      "type": null,
+      "type_label": {
+        "en": "",
+        "tc": ""
+      },
+      "status": 2,
+      "status_label": {
+        "en": "Under Construction",
+        "tc": "施工中"
+      },
+      "url": {
+        "en": "",
+        "tc": ""
+      },
+      "overview": {
+        "en": "",
+        "tc": ""
+      },
+      "coordinates": [
+        [
+          113.992239,
+          22.461959
+        ]
+      ],
+      "geometry": null,
+      "page_title": {
+        "en": "Site Formation and Infrastructure Works for Public Housing Development at Tin Wah Road, Lau Fau Shan",
+        "tc": "流浮山天華路公營房屋發展的工地平整及基礎設施工程"
+      },
+      "description": {
+        "en": "",
+        "tc": ""
+      },
+      "scope": {
+        "en": "",
+        "tc": ""
+      },
+      "agreement_no": "B847CL",
+      "cost": {
+        "en": "",
+        "tc": ""
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commissioning_date": {
+        "en": "",
+        "tc": ""
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "",
+        "tc": ""
+      },
+      "photos": []
+    },
+    {
+      "id": 86,
+      "dataset": "cedd",
+      "department": "CEDD",
+      "item": "B807CL",
+      "name": "Site Formation and Infrastructure Works for Public Housing Developments at Cheung Muk Tau",
+      "type": null,
+      "type_label": {
+        "en": "",
+        "tc": ""
+      },
+      "status": 2,
+      "status_label": {
+        "en": "Under Construction",
+        "tc": "施工中"
+      },
+      "url": {
+        "en": "",
+        "tc": ""
+      },
+      "overview": {
+        "en": "",
+        "tc": ""
+      },
+      "coordinates": [
+        [
+          114.250037,
+          22.427263
+        ]
+      ],
+      "geometry": null,
+      "page_title": {
+        "en": "Site Formation and Infrastructure Works for Public Housing Developments at Cheung Muk Tau",
+        "tc": "樟木頭公營房屋發展的工地平整及基礎設施工程"
+      },
+      "description": {
+        "en": "",
+        "tc": ""
+      },
+      "scope": {
+        "en": "",
+        "tc": ""
+      },
+      "agreement_no": "B807CL",
+      "cost": {
+        "en": "",
+        "tc": ""
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commissioning_date": {
+        "en": "",
+        "tc": ""
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "",
+        "tc": ""
+      },
+      "photos": []
+    },
+    {
+      "id": 87,
+      "dataset": "cedd",
+      "department": "CEDD",
+      "item": "B820CL",
+      "name": "Site Formation and Infrastructure Works for Public Housing Development near Tan Kwai Tsuen, Yuen Long",
+      "type": null,
+      "type_label": {
+        "en": "",
+        "tc": ""
+      },
+      "status": 2,
+      "status_label": {
+        "en": "Under Construction",
+        "tc": "施工中"
+      },
+      "url": {
+        "en": "",
+        "tc": ""
+      },
+      "overview": {
+        "en": "",
+        "tc": ""
+      },
+      "coordinates": [
+        [
+          113.998172,
+          22.424687
+        ]
+      ],
+      "geometry": null,
+      "page_title": {
+        "en": "Site Formation and Infrastructure Works for Public Housing Development near Tan Kwai Tsuen, Yuen Long",
+        "tc": "元朗近丹桂村公營房屋發展的工地平整及基礎設施工程"
+      },
+      "description": {
+        "en": "",
+        "tc": ""
+      },
+      "scope": {
+        "en": "",
+        "tc": ""
+      },
+      "agreement_no": "B820CL",
+      "cost": {
+        "en": "",
+        "tc": ""
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commissioning_date": {
+        "en": "",
+        "tc": ""
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "",
+        "tc": ""
+      },
+      "photos": []
+    },
+    {
+      "id": 88,
+      "dataset": "cedd",
+      "department": "CEDD",
+      "item": "7870CL",
+      "name": "Site Formation and Infrastructure Works for Public Housing Development at Ngau Chi Wan Village, Wong Tai Sin",
+      "type": null,
+      "type_label": {
+        "en": "",
+        "tc": ""
+      },
+      "status": 2,
+      "status_label": {
+        "en": "Under Construction",
+        "tc": "施工中"
+      },
+      "url": {
+        "en": "",
+        "tc": ""
+      },
+      "overview": {
+        "en": "",
+        "tc": ""
+      },
+      "coordinates": [
+        [
+          114.20824,
+          22.33604
+        ]
+      ],
+      "geometry": null,
+      "page_title": {
+        "en": "Site Formation and Infrastructure Works for Public Housing Development at Ngau Chi Wan Village, Wong Tai Sin",
+        "tc": "黃大仙牛池灣村公營房屋發展之工地平整及基礎設施工程"
+      },
+      "description": {
+        "en": "",
+        "tc": ""
+      },
+      "scope": {
+        "en": "",
+        "tc": ""
+      },
+      "agreement_no": "7870CL",
+      "cost": {
+        "en": "",
+        "tc": ""
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commissioning_date": {
+        "en": "",
+        "tc": ""
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "",
+        "tc": ""
+      },
+      "photos": []
+    },
+    {
+      "id": 89,
+      "dataset": "cedd",
+      "department": "CEDD",
+      "item": "B784CL",
+      "name": "Site Formation and Infrastructure Works for Public Housing Development at Area 48, Fanling",
+      "type": null,
+      "type_label": {
+        "en": "",
+        "tc": ""
+      },
+      "status": 2,
+      "status_label": {
+        "en": "Under Construction",
+        "tc": "施工中"
+      },
+      "url": {
+        "en": "",
+        "tc": ""
+      },
+      "overview": {
+        "en": "",
+        "tc": ""
+      },
+      "coordinates": [
+        [
+          114.150042,
+          22.485342
+        ]
+      ],
+      "geometry": null,
+      "page_title": {
+        "en": "Site Formation and Infrastructure Works for Public Housing Development at Area 48, Fanling",
+        "tc": "粉嶺第48區公營房屋發展的工地平整及基礎設施工程"
+      },
+      "description": {
+        "en": "",
+        "tc": ""
+      },
+      "scope": {
+        "en": "",
+        "tc": ""
+      },
+      "agreement_no": "B784CL",
+      "cost": {
+        "en": "",
+        "tc": ""
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commissioning_date": {
+        "en": "",
+        "tc": ""
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "",
+        "tc": ""
+      },
+      "photos": []
+    },
+    {
+      "id": 90,
+      "dataset": "cedd",
+      "department": "CEDD",
+      "item": "7849CL",
+      "name": "Site Formation and Infrastructure Works for Public Housing Development at Cha Kwo Ling Village, Kowloon East",
+      "type": null,
+      "type_label": {
+        "en": "",
+        "tc": ""
+      },
+      "status": 2,
+      "status_label": {
+        "en": "Under Construction",
+        "tc": "施工中"
+      },
+      "url": {
+        "en": "",
+        "tc": ""
+      },
+      "overview": {
+        "en": "",
+        "tc": ""
+      },
+      "coordinates": [
+        [
+          114.22821,
+          22.301437
+        ]
+      ],
+      "geometry": null,
+      "page_title": {
+        "en": "Site Formation and Infrastructure Works for Public Housing Development at Cha Kwo Ling Village, Kowloon East",
+        "tc": "九龍東茶果嶺村公營房屋發展之工地平整及基礎設施工程"
+      },
+      "description": {
+        "en": "",
+        "tc": ""
+      },
+      "scope": {
+        "en": "",
+        "tc": ""
+      },
+      "agreement_no": "7849CL",
+      "cost": {
+        "en": "",
+        "tc": ""
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commissioning_date": {
+        "en": "",
+        "tc": ""
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "",
+        "tc": ""
+      },
+      "photos": []
+    },
+    {
+      "id": 91,
+      "dataset": "cedd",
+      "department": "CEDD",
+      "item": "B866CL",
+      "name": "Site Formation and Infrastructure Works for  Public Housing Development at To Yuen Tung, Tai Po",
+      "type": null,
+      "type_label": {
+        "en": "",
+        "tc": ""
+      },
+      "status": 2,
+      "status_label": {
+        "en": "Under Construction",
+        "tc": "施工中"
+      },
+      "url": {
+        "en": "",
+        "tc": ""
+      },
+      "overview": {
+        "en": "",
+        "tc": ""
+      },
+      "coordinates": [
+        [
+          114.164089,
+          22.440851
+        ]
+      ],
+      "geometry": null,
+      "page_title": {
+        "en": "Site Formation and Infrastructure Works for  Public Housing Development at To Yuen Tung, Tai Po",
+        "tc": "大埔桃源洞公營房屋發展的工地平整及基礎設施工程"
+      },
+      "description": {
+        "en": "",
+        "tc": ""
+      },
+      "scope": {
+        "en": "",
+        "tc": ""
+      },
+      "agreement_no": "B866CL",
+      "cost": {
+        "en": "",
+        "tc": ""
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commissioning_date": {
+        "en": "",
+        "tc": ""
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "",
+        "tc": ""
+      },
+      "photos": []
+    },
+    {
+      "id": 92,
+      "dataset": "cedd",
+      "department": "CEDD",
+      "item": "B811CL",
+      "name": "Site Formation and Infrastructure Works for Public Housing Developments at Tuen Mun Central - Phase 2",
+      "type": null,
+      "type_label": {
+        "en": "",
+        "tc": ""
+      },
+      "status": 2,
+      "status_label": {
+        "en": "Under Construction",
+        "tc": "施工中"
+      },
+      "url": {
+        "en": "",
+        "tc": ""
+      },
+      "overview": {
+        "en": "",
+        "tc": ""
+      },
+      "coordinates": [
+        [
+          113.981273,
+          22.391564
+        ]
+      ],
+      "geometry": null,
+      "page_title": {
+        "en": "Site Formation and Infrastructure Works for Public Housing Developments at Tuen Mun Central - Phase 2",
+        "tc": "屯門中公營房屋發展的工地平整及基礎設施工程 - 第二期"
+      },
+      "description": {
+        "en": "",
+        "tc": ""
+      },
+      "scope": {
+        "en": "",
+        "tc": ""
+      },
+      "agreement_no": "B811CL",
+      "cost": {
+        "en": "",
+        "tc": ""
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commissioning_date": {
+        "en": "",
+        "tc": ""
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "",
+        "tc": ""
+      },
+      "photos": []
+    },
+    {
+      "id": 93,
+      "dataset": "cedd",
+      "department": "CEDD",
+      "item": "B778CL",
+      "name": "Site Formation and Infrastructure Works for  Public Housing Developments at Chung Nga Road and Area 9, Tai Po - Phase 2",
+      "type": null,
+      "type_label": {
+        "en": "",
+        "tc": ""
+      },
+      "status": 2,
+      "status_label": {
+        "en": "Under Construction",
+        "tc": "施工中"
+      },
+      "url": {
+        "en": "",
+        "tc": ""
+      },
+      "overview": {
+        "en": "",
+        "tc": ""
+      },
+      "coordinates": [
+        [
+          114.171273,
+          22.461346
+        ]
+      ],
+      "geometry": null,
+      "page_title": {
+        "en": "Site Formation and Infrastructure Works for  Public Housing Developments at Chung Nga Road and Area 9, Tai Po - Phase 2",
+        "tc": "大埔第9區和頌雅路公營房屋發展的工地平整及基礎設施工程-第二期"
+      },
+      "description": {
+        "en": "",
+        "tc": ""
+      },
+      "scope": {
+        "en": "",
+        "tc": ""
+      },
+      "agreement_no": "B778CL",
+      "cost": {
+        "en": "",
+        "tc": ""
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commissioning_date": {
+        "en": "",
+        "tc": ""
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "",
+        "tc": ""
+      },
+      "photos": []
+    },
+    {
+      "id": 94,
+      "dataset": "cedd",
+      "department": "CEDD",
+      "item": "7705TH",
+      "name": "Trunk Road T4 in Sha Tin",
+      "type": null,
+      "type_label": {
+        "en": "",
+        "tc": ""
+      },
+      "status": 2,
+      "status_label": {
+        "en": "Under Construction",
+        "tc": "施工中"
+      },
+      "url": {
+        "en": "",
+        "tc": ""
+      },
+      "overview": {
+        "en": "",
+        "tc": ""
+      },
+      "coordinates": [
+        [
+          114.186965,
+          22.376607
+        ]
+      ],
+      "geometry": null,
+      "page_title": {
+        "en": "Trunk Road T4 in Sha Tin",
+        "tc": "沙田T4號主幹路"
+      },
+      "description": {
+        "en": "",
+        "tc": ""
+      },
+      "scope": {
+        "en": "",
+        "tc": ""
+      },
+      "agreement_no": "7705TH",
+      "cost": {
+        "en": "",
+        "tc": ""
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commissioning_date": {
+        "en": "",
+        "tc": ""
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "",
+        "tc": ""
+      },
+      "photos": []
+    },
+    {
+      "id": 95,
+      "dataset": "cedd",
+      "department": "CEDD",
+      "item": "5768CL",
+      "name": "Kau Yi Chau Artificial Islands",
+      "type": null,
+      "type_label": {
+        "en": "",
+        "tc": ""
+      },
+      "status": 1,
+      "status_label": {
+        "en": "Under Planning",
+        "tc": "規劃中"
+      },
+      "url": {
+        "en": "",
+        "tc": ""
+      },
+      "overview": {
+        "en": "",
+        "tc": ""
+      },
+      "coordinates": [
+        [
+          114.0739,
+          22.285974
+        ]
+      ],
+      "geometry": null,
+      "page_title": {
+        "en": "Kau Yi Chau Artificial Islands",
+        "tc": "交椅洲人工島"
+      },
+      "description": {
+        "en": "",
+        "tc": ""
+      },
+      "scope": {
+        "en": "",
+        "tc": ""
+      },
+      "agreement_no": "5768CL",
+      "cost": {
+        "en": "",
+        "tc": ""
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commissioning_date": {
+        "en": "",
+        "tc": ""
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "",
+        "tc": ""
+      },
+      "photos": []
+    },
+    {
+      "id": 96,
+      "dataset": "cedd",
+      "department": "CEDD",
+      "item": "5782CL",
+      "name": "Road P1 (Tai Ho – Sunny Bay Section)",
+      "type": null,
+      "type_label": {
+        "en": "",
+        "tc": ""
+      },
+      "status": 1,
+      "status_label": {
+        "en": "Under Planning",
+        "tc": "規劃中"
+      },
+      "url": {
+        "en": "",
+        "tc": ""
+      },
+      "overview": {
+        "en": "",
+        "tc": ""
+      },
+      "coordinates": [
+        [
+          113.989364,
+          22.311885
+        ]
+      ],
+      "geometry": null,
+      "page_title": {
+        "en": "Road P1 (Tai Ho – Sunny Bay Section)",
+        "tc": "P1公路（大蠔至欣澳段）"
+      },
+      "description": {
+        "en": "",
+        "tc": ""
+      },
+      "scope": {
+        "en": "",
+        "tc": ""
+      },
+      "agreement_no": "5782CL",
+      "cost": {
+        "en": "",
+        "tc": ""
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commissioning_date": {
+        "en": "",
+        "tc": ""
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "",
+        "tc": ""
+      },
+      "photos": []
+    },
+    {
+      "id": 97,
+      "dataset": "cedd",
+      "department": "CEDD",
+      "item": "7851CL & 5792CL",
+      "name": "Joint Cavern Development at Anderson Road Quarry Site -",
+      "type": null,
+      "type_label": {
+        "en": "",
+        "tc": ""
+      },
+      "status": 2,
+      "status_label": {
+        "en": "Under Construction",
+        "tc": "施工中"
+      },
+      "url": {
+        "en": "",
+        "tc": ""
+      },
+      "overview": {
+        "en": "",
+        "tc": ""
+      },
+      "coordinates": [
+        [
+          114.23567,
+          22.32732
+        ]
+      ],
+      "geometry": null,
+      "page_title": {
+        "en": "Joint Cavern Development at Anderson Road Quarry Site -",
+        "tc": "安達臣道石礦場用地聯用岩洞發展"
+      },
+      "description": {
+        "en": "",
+        "tc": ""
+      },
+      "scope": {
+        "en": "",
+        "tc": ""
+      },
+      "agreement_no": "7851CL & 5792CL",
+      "cost": {
+        "en": "",
+        "tc": ""
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commissioning_date": {
+        "en": "",
+        "tc": ""
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "",
+        "tc": ""
+      },
+      "photos": []
+    },
+    {
+      "id": 98,
+      "dataset": "cedd",
+      "department": "CEDD",
+      "item": "7906CL",
+      "name": "Yuen Long South Development – Second Phase Development",
+      "type": null,
+      "type_label": {
+        "en": "",
+        "tc": ""
+      },
+      "status": 2,
+      "status_label": {
+        "en": "Under Construction",
+        "tc": "施工中"
+      },
+      "url": {
+        "en": "",
+        "tc": ""
+      },
+      "overview": {
+        "en": "",
+        "tc": ""
+      },
+      "coordinates": [
+        [
+          114.018283,
+          22.427226
+        ]
+      ],
+      "geometry": null,
+      "page_title": {
+        "en": "Yuen Long South Development – Second Phase Development",
+        "tc": "元朗南發展-第二期發展"
+      },
+      "description": {
+        "en": "",
+        "tc": ""
+      },
+      "scope": {
+        "en": "",
+        "tc": ""
+      },
+      "agreement_no": "7906CL",
+      "cost": {
+        "en": "",
+        "tc": ""
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commissioning_date": {
+        "en": "",
+        "tc": ""
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "",
+        "tc": ""
+      },
+      "photos": []
+    },
+    {
+      "id": 99,
+      "dataset": "cedd",
+      "department": "CEDD",
+      "item": "B848CL",
+      "name": "Site Formation and Infrastructure Works for Public Housing Developments at Chak On Road South and Pak Tin Extension, Sham Shui Po",
+      "type": null,
+      "type_label": {
+        "en": "",
+        "tc": ""
+      },
+      "status": 2,
+      "status_label": {
+        "en": "Under Construction",
+        "tc": "施工中"
+      },
+      "url": {
+        "en": "",
+        "tc": ""
+      },
+      "overview": {
+        "en": "",
+        "tc": ""
+      },
+      "coordinates": [
+        [
+          114.16535,
+          22.338687
+        ]
+      ],
+      "geometry": null,
+      "page_title": {
+        "en": "Site Formation and Infrastructure Works for Public Housing Developments at Chak On Road South and Pak Tin Extension, Sham Shui Po",
+        "tc": "深水埗澤安道南與白田伸延公營房屋發展的工地平整及基礎設施工程"
+      },
+      "description": {
+        "en": "",
+        "tc": ""
+      },
+      "scope": {
+        "en": "",
+        "tc": ""
+      },
+      "agreement_no": "B848CL",
+      "cost": {
+        "en": "",
+        "tc": ""
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commissioning_date": {
+        "en": "",
+        "tc": ""
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "",
+        "tc": ""
+      },
+      "photos": []
+    },
+    {
+      "id": 100,
+      "dataset": "cedd",
+      "department": "CEDD",
+      "item": "B875CL",
+      "name": "Site Formation and Infrastructure Works for Public Housing Development at Sha Po, Yuen Long",
+      "type": null,
+      "type_label": {
+        "en": "",
+        "tc": ""
+      },
+      "status": 1,
+      "status_label": {
+        "en": "Under Planning",
+        "tc": "規劃中"
+      },
+      "url": {
+        "en": "",
+        "tc": ""
+      },
+      "overview": {
+        "en": "",
+        "tc": ""
+      },
+      "coordinates": [
+        [
+          114.054408,
+          22.45701
+        ]
+      ],
+      "geometry": null,
+      "page_title": {
+        "en": "Site Formation and Infrastructure Works for Public Housing Development at Sha Po, Yuen Long",
+        "tc": "元朗沙埔公營房屋發展之工地平整和基礎建設工程"
+      },
+      "description": {
+        "en": "",
+        "tc": ""
+      },
+      "scope": {
+        "en": "",
+        "tc": ""
+      },
+      "agreement_no": "B875CL",
+      "cost": {
+        "en": "",
+        "tc": ""
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commissioning_date": {
+        "en": "",
+        "tc": ""
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "",
+        "tc": ""
+      },
+      "photos": []
+    },
+    {
+      "id": 101,
+      "dataset": "cedd",
+      "department": "CEDD",
+      "item": "B874CL",
+      "name": "Site Formation and Infrastructure Works for Public Housing Development at Shap Pat Heung, Yuen Long",
+      "type": null,
+      "type_label": {
+        "en": "",
+        "tc": ""
+      },
+      "status": 1,
+      "status_label": {
+        "en": "Under Planning",
+        "tc": "規劃中"
+      },
+      "url": {
+        "en": "",
+        "tc": ""
+      },
+      "overview": {
+        "en": "",
+        "tc": ""
+      },
+      "coordinates": [
+        [
+          114.038876,
+          22.436712
+        ]
+      ],
+      "geometry": null,
+      "page_title": {
+        "en": "Site Formation and Infrastructure Works for Public Housing Development at Shap Pat Heung, Yuen Long",
+        "tc": "元朗十八鄉公營房屋發展之工地平整和基礎建設工程"
+      },
+      "description": {
+        "en": "",
+        "tc": ""
+      },
+      "scope": {
+        "en": "",
+        "tc": ""
+      },
+      "agreement_no": "B874CL",
+      "cost": {
+        "en": "",
+        "tc": ""
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commissioning_date": {
+        "en": "",
+        "tc": ""
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "",
+        "tc": ""
+      },
+      "photos": []
+    },
+    {
+      "id": 102,
+      "dataset": "cedd",
+      "department": "CEDD",
+      "item": "B873CL",
+      "name": "Site Formation and Infrastructure Works for Public Housing Development at Tai Kei Leng, Yuen Long",
+      "type": null,
+      "type_label": {
+        "en": "",
+        "tc": ""
+      },
+      "status": 1,
+      "status_label": {
+        "en": "Under Planning",
+        "tc": "規劃中"
+      },
+      "url": {
+        "en": "",
+        "tc": ""
+      },
+      "overview": {
+        "en": "",
+        "tc": ""
+      },
+      "coordinates": [
+        [
+          114.033089,
+          22.435797
+        ]
+      ],
+      "geometry": null,
+      "page_title": {
+        "en": "Site Formation and Infrastructure Works for Public Housing Development at Tai Kei Leng, Yuen Long",
+        "tc": "元朗大旗嶺公營房屋發展之工地平整和基礎建設工程"
+      },
+      "description": {
+        "en": "",
+        "tc": ""
+      },
+      "scope": {
+        "en": "",
+        "tc": ""
+      },
+      "agreement_no": "B873CL",
+      "cost": {
+        "en": "",
+        "tc": ""
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commissioning_date": {
+        "en": "",
+        "tc": ""
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "",
+        "tc": ""
+      },
+      "photos": []
+    },
+    {
+      "id": 103,
+      "dataset": "cedd",
+      "department": "CEDD",
+      "item": "B826CL",
+      "name": "Site Formation and Infrastructure Works for Public Housing Developments at Ma On Shan Tsuen Road",
+      "type": null,
+      "type_label": {
+        "en": "",
+        "tc": ""
+      },
+      "status": 1,
+      "status_label": {
+        "en": "Under Planning",
+        "tc": "規劃中"
+      },
+      "url": {
+        "en": "",
+        "tc": ""
+      },
+      "overview": {
+        "en": "",
+        "tc": ""
+      },
+      "coordinates": [
+        [
+          114.234931,
+          22.418404
+        ]
+      ],
+      "geometry": null,
+      "page_title": {
+        "en": "Site Formation and Infrastructure Works for Public Housing Developments at Ma On Shan Tsuen Road",
+        "tc": "馬鞍山村路公營房屋發展之工地平整及基礎設施工程"
+      },
+      "description": {
+        "en": "",
+        "tc": ""
+      },
+      "scope": {
+        "en": "",
+        "tc": ""
+      },
+      "agreement_no": "B826CL",
+      "cost": {
+        "en": "",
+        "tc": ""
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commissioning_date": {
+        "en": "",
+        "tc": ""
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "",
+        "tc": ""
+      },
+      "photos": []
+    },
+    {
+      "id": 104,
+      "dataset": "cedd",
+      "department": "CEDD",
+      "item": "7863CL",
+      "name": "Infrastructure Works for West Kowloon Cultural District, phase 1 - Fourth Construction Package (Southern Landing Facility and Public Infrastructure Works for Zone 2)",
+      "type": null,
+      "type_label": {
+        "en": "",
+        "tc": ""
+      },
+      "status": 2,
+      "status_label": {
+        "en": "Under Construction",
+        "tc": "施工中"
+      },
+      "url": {
+        "en": "",
+        "tc": ""
+      },
+      "overview": {
+        "en": "",
+        "tc": ""
+      },
+      "coordinates": [
+        [
+          114.1585,
+          22.2994
+        ]
+      ],
+      "geometry": null,
+      "page_title": {
+        "en": "Infrastructure Works for West Kowloon Cultural District, phase 1 - Fourth Construction Package (Southern Landing Facility and Public Infrastructure Works for Zone 2)",
+        "tc": "西九文化區基礎建設工程第一期－第四組建造工程(南面登岸設施和2區的公共基礎建設)"
+      },
+      "description": {
+        "en": "",
+        "tc": ""
+      },
+      "scope": {
+        "en": "",
+        "tc": ""
+      },
+      "agreement_no": "7863CL",
+      "cost": {
+        "en": "",
+        "tc": ""
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commissioning_date": {
+        "en": "",
+        "tc": ""
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "",
+        "tc": ""
+      },
+      "photos": []
+    },
+    {
+      "id": 105,
+      "dataset": "cedd",
+      "department": "CEDD",
+      "item": "B880CL",
+      "name": "Site Formation and Infrastructure Works for  Public Housing Development at A Kung Ngam Village, Eastern",
+      "type": null,
+      "type_label": {
+        "en": "",
+        "tc": ""
+      },
+      "status": 2,
+      "status_label": {
+        "en": "Under Construction",
+        "tc": "施工中"
+      },
+      "url": {
+        "en": "",
+        "tc": ""
+      },
+      "overview": {
+        "en": "",
+        "tc": ""
+      },
+      "coordinates": [
+        [
+          114.23315,
+          22.28218
+        ]
+      ],
+      "geometry": null,
+      "page_title": {
+        "en": "Site Formation and Infrastructure Works for  Public Housing Development at A Kung Ngam Village, Eastern",
+        "tc": "東區阿公岩村公共房屋發展土地平整及基礎設施工程"
+      },
+      "description": {
+        "en": "",
+        "tc": ""
+      },
+      "scope": {
+        "en": "",
+        "tc": ""
+      },
+      "agreement_no": "B880CL",
+      "cost": {
+        "en": "",
+        "tc": ""
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commissioning_date": {
+        "en": "",
+        "tc": ""
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "",
+        "tc": ""
+      },
+      "photos": []
+    },
+    {
+      "id": 106,
+      "dataset": "cedd",
+      "department": "CEDD",
+      "item": "B883CL",
+      "name": "Site Formation and Infrastructure Works for Public Housing Development near Chai Wan Swimming Pool, Chai Wan",
+      "type": null,
+      "type_label": {
+        "en": "",
+        "tc": ""
+      },
+      "status": 2,
+      "status_label": {
+        "en": "Under Construction",
+        "tc": "施工中"
+      },
+      "url": {
+        "en": "",
+        "tc": ""
+      },
+      "overview": {
+        "en": "",
+        "tc": ""
+      },
+      "coordinates": [
+        [
+          114.24644,
+          22.26493
+        ]
+      ],
+      "geometry": null,
+      "page_title": {
+        "en": "Site Formation and Infrastructure Works for Public Housing Development near Chai Wan Swimming Pool, Chai Wan",
+        "tc": "柴灣區近柴灣游泳池公營房屋發展之工地平整及基礎設施工程"
+      },
+      "description": {
+        "en": "",
+        "tc": ""
+      },
+      "scope": {
+        "en": "",
+        "tc": ""
+      },
+      "agreement_no": "B883CL",
+      "cost": {
+        "en": "",
+        "tc": ""
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commissioning_date": {
+        "en": "",
+        "tc": ""
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "",
+        "tc": ""
+      },
+      "photos": []
+    },
+    {
+      "id": 107,
+      "dataset": "cedd",
+      "department": "CEDD",
+      "item": "B764CL and B861CL",
+      "name": "Site Formation and Infrastructure Works for Public Housing Developments at San Hing Road and Hong Po Road, Tuen Mun",
+      "type": null,
+      "type_label": {
+        "en": "",
+        "tc": ""
+      },
+      "status": 1,
+      "status_label": {
+        "en": "Under Planning",
+        "tc": "規劃中"
+      },
+      "url": {
+        "en": "",
+        "tc": ""
+      },
+      "overview": {
+        "en": "",
+        "tc": ""
+      },
+      "coordinates": [
+        [
+          113.97851,
+          22.41737
+        ]
+      ],
+      "geometry": null,
+      "page_title": {
+        "en": "Site Formation and Infrastructure Works for Public Housing Developments at San Hing Road and Hong Po Road, Tuen Mun",
+        "tc": "屯門新慶路及康寶路公營房屋發展的工地平整及基礎設施工程"
+      },
+      "description": {
+        "en": "",
+        "tc": ""
+      },
+      "scope": {
+        "en": "",
+        "tc": ""
+      },
+      "agreement_no": "B764CL and B861CL",
+      "cost": {
+        "en": "",
+        "tc": ""
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commissioning_date": {
+        "en": "",
+        "tc": ""
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "",
+        "tc": ""
+      },
+      "photos": []
+    },
+    {
+      "id": 108,
+      "dataset": "cedd",
+      "department": "CEDD",
+      "item": "B838CL",
+      "name": "Site Formation Works for Public Housing Development at Queen's Hill Extension, Fanling",
+      "type": null,
+      "type_label": {
+        "en": "",
+        "tc": ""
+      },
+      "status": 2,
+      "status_label": {
+        "en": "Under Construction",
+        "tc": "施工中"
+      },
+      "url": {
+        "en": "",
+        "tc": ""
+      },
+      "overview": {
+        "en": "",
+        "tc": ""
+      },
+      "coordinates": [
+        [
+          114.16137,
+          22.50442
+        ]
+      ],
+      "geometry": null,
+      "page_title": {
+        "en": "Site Formation Works for Public Housing Development at Queen's Hill Extension, Fanling",
+        "tc": "粉嶺皇后山擴展用地公營房屋發展的工地平整工程"
+      },
+      "description": {
+        "en": "",
+        "tc": ""
+      },
+      "scope": {
+        "en": "",
+        "tc": ""
+      },
+      "agreement_no": "B838CL",
+      "cost": {
+        "en": "",
+        "tc": ""
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commissioning_date": {
+        "en": "",
+        "tc": ""
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "",
+        "tc": ""
+      },
+      "photos": []
+    },
+    {
+      "id": 109,
+      "dataset": "cedd",
+      "department": "CEDD",
+      "item": "7886CL",
+      "name": "Kai Tak Development - Open Spaces near Kai Tak River and Kai Tak Station Square",
+      "type": null,
+      "type_label": {
+        "en": "",
+        "tc": ""
+      },
+      "status": 2,
+      "status_label": {
+        "en": "Under Construction",
+        "tc": "施工中"
+      },
+      "url": {
+        "en": "",
+        "tc": ""
+      },
+      "overview": {
+        "en": "",
+        "tc": ""
+      },
+      "coordinates": [
+        [
+          114.1971,
+          22.33031
+        ]
+      ],
+      "geometry": null,
+      "page_title": {
+        "en": "Kai Tak Development - Open Spaces near Kai Tak River and Kai Tak Station Square",
+        "tc": "啟德發展計劃－ 鄰近啟德河及啟德車站廣場休憩用地工程"
+      },
+      "description": {
+        "en": "",
+        "tc": ""
+      },
+      "scope": {
+        "en": "",
+        "tc": ""
+      },
+      "agreement_no": "7886CL",
+      "cost": {
+        "en": "",
+        "tc": ""
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commissioning_date": {
+        "en": "",
+        "tc": ""
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "",
+        "tc": ""
+      },
+      "photos": []
+    },
+    {
+      "id": 110,
+      "dataset": "cedd",
+      "department": "CEDD",
+      "item": "B860CL",
+      "name": "Site Formation and Infrastructure Works for Public Housing Development near Tin Tsz Road, Tin Shui Wai",
+      "type": null,
+      "type_label": {
+        "en": "",
+        "tc": ""
+      },
+      "status": 1,
+      "status_label": {
+        "en": "Under Planning",
+        "tc": "規劃中"
+      },
+      "url": {
+        "en": "",
+        "tc": ""
+      },
+      "overview": {
+        "en": "",
+        "tc": ""
+      },
+      "coordinates": [
+        [
+          114.01024,
+          22.4566
+        ]
+      ],
+      "geometry": null,
+      "page_title": {
+        "en": "Site Formation and Infrastructure Works for Public Housing Development near Tin Tsz Road, Tin Shui Wai",
+        "tc": "近天水圍天慈路公營房屋發展的工地平整及基礎設施工程"
+      },
+      "description": {
+        "en": "",
+        "tc": ""
+      },
+      "scope": {
+        "en": "",
+        "tc": ""
+      },
+      "agreement_no": "B860CL",
+      "cost": {
+        "en": "",
+        "tc": ""
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commissioning_date": {
+        "en": "",
+        "tc": ""
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "",
+        "tc": ""
+      },
+      "photos": []
+    },
+    {
+      "id": 111,
+      "dataset": "cedd",
+      "department": "CEDD",
+      "item": "B867CL",
+      "name": "Site Formation and Infrastructure Works for Public Housing Development at Tsing Yi Road West, Tsing Yi",
+      "type": null,
+      "type_label": {
+        "en": "",
+        "tc": ""
+      },
+      "status": 2,
+      "status_label": {
+        "en": "Under Construction",
+        "tc": "施工中"
+      },
+      "url": {
+        "en": "",
+        "tc": ""
+      },
+      "overview": {
+        "en": "",
+        "tc": ""
+      },
+      "coordinates": [
+        [
+          114.0972,
+          22.35032
+        ]
+      ],
+      "geometry": null,
+      "page_title": {
+        "en": "Site Formation and Infrastructure Works for Public Housing Development at Tsing Yi Road West, Tsing Yi",
+        "tc": "青衣青衣西路公營房屋發展的工地平整及基礎設施工程"
+      },
+      "description": {
+        "en": "",
+        "tc": ""
+      },
+      "scope": {
+        "en": "",
+        "tc": ""
+      },
+      "agreement_no": "B867CL",
+      "cost": {
+        "en": "",
+        "tc": ""
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commissioning_date": {
+        "en": "",
+        "tc": ""
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "",
+        "tc": ""
+      },
+      "photos": []
+    },
+    {
+      "id": 112,
+      "dataset": "cedd",
+      "department": "CEDD",
+      "item": "B885CL",
+      "name": "Site formation works for public housing development at Kwok Shui Road, Tsuen Wan",
+      "type": null,
+      "type_label": {
+        "en": "",
+        "tc": ""
+      },
+      "status": 2,
+      "status_label": {
+        "en": "Under Construction",
+        "tc": "施工中"
+      },
+      "url": {
+        "en": "",
+        "tc": ""
+      },
+      "overview": {
+        "en": "",
+        "tc": ""
+      },
+      "coordinates": [
+        [
+          114.131857,
+          22.370666
+        ]
+      ],
+      "geometry": null,
+      "page_title": {
+        "en": "Site formation works for public housing development at Kwok Shui Road, Tsuen Wan",
+        "tc": "荃灣國瑞路公營房屋發展的工地平整工程"
+      },
+      "description": {
+        "en": "",
+        "tc": ""
+      },
+      "scope": {
+        "en": "",
+        "tc": ""
+      },
+      "agreement_no": "B885CL",
+      "cost": {
+        "en": "",
+        "tc": ""
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commissioning_date": {
+        "en": "",
+        "tc": ""
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "",
+        "tc": ""
+      },
+      "photos": []
+    },
+    {
+      "id": 113,
+      "dataset": "cedd",
+      "department": "CEDD",
+      "item": "B871CL",
+      "name": "Site formation and infrastructure works for public housing development at Kwok Shui Road, Tsuen Wan – Phase 2",
+      "type": null,
+      "type_label": {
+        "en": "",
+        "tc": ""
+      },
+      "status": 2,
+      "status_label": {
+        "en": "Under Construction",
+        "tc": "施工中"
+      },
+      "url": {
+        "en": "",
+        "tc": ""
+      },
+      "overview": {
+        "en": "",
+        "tc": ""
+      },
+      "coordinates": [
+        [
+          114.131857,
+          22.370666
+        ]
+      ],
+      "geometry": null,
+      "page_title": {
+        "en": "Site formation and infrastructure works for public housing development at Kwok Shui Road, Tsuen Wan – Phase 2",
+        "tc": "荃灣國瑞路公營房屋發展的工地平整及基礎設施工程－ 第二期"
+      },
+      "description": {
+        "en": "",
+        "tc": ""
+      },
+      "scope": {
+        "en": "",
+        "tc": ""
+      },
+      "agreement_no": "B871CL",
+      "cost": {
+        "en": "",
+        "tc": ""
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commissioning_date": {
+        "en": "",
+        "tc": ""
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "",
+        "tc": ""
+      },
+      "photos": []
+    },
+    {
+      "id": 114,
+      "dataset": "cedd",
+      "department": "CEDD",
+      "item": "7163TB-2B",
+      "name": "Kwun Tong Town Centre Redevelopment – Provision of Grade-separated Pedestrian Linkages to the Kwun Tong Town Centre Redevelopment (Subway across Hong Ning Road at the junction with Ngau Tau Kok Road)",
+      "type": null,
+      "type_label": {
+        "en": "",
+        "tc": ""
+      },
+      "status": 1,
+      "status_label": {
+        "en": "Under Planning",
+        "tc": "規劃中"
+      },
+      "url": {
+        "en": "",
+        "tc": ""
+      },
+      "overview": {
+        "en": "",
+        "tc": ""
+      },
+      "coordinates": [
+        [
+          114.2235,
+          22.314391
+        ]
+      ],
+      "geometry": null,
+      "page_title": {
+        "en": "Kwun Tong Town Centre Redevelopment – Provision of Grade-separated Pedestrian Linkages to the Kwun Tong Town Centre Redevelopment (Subway across Hong Ning Road at the junction with Ngau Tau Kok Road)",
+        "tc": "觀塘市中心重建計劃 — 觀塘市中心重建計劃的行人連接設施 (橫越康寧道近牛頭角道交界的行人隧道)"
+      },
+      "description": {
+        "en": "",
+        "tc": ""
+      },
+      "scope": {
+        "en": "",
+        "tc": ""
+      },
+      "agreement_no": "7163TB-2B",
+      "cost": {
+        "en": "",
+        "tc": ""
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commissioning_date": {
+        "en": "",
+        "tc": ""
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "",
+        "tc": ""
+      },
+      "photos": []
+    },
+    {
+      "id": 115,
+      "dataset": "cedd",
+      "department": "CEDD",
+      "item": "7F76RG",
+      "name": "Walkway Cover at Sham Mong Road / Hoi Lai Street in Sham Shui Po",
+      "type": null,
+      "type_label": {
+        "en": "",
+        "tc": ""
+      },
+      "status": 1,
+      "status_label": {
+        "en": "Under Planning",
+        "tc": "規劃中"
+      },
+      "url": {
+        "en": "",
+        "tc": ""
+      },
+      "overview": {
+        "en": "",
+        "tc": ""
+      },
+      "coordinates": [
+        [
+          114.147094,
+          22.332094
+        ]
+      ],
+      "geometry": null,
+      "page_title": {
+        "en": "Walkway Cover at Sham Mong Road / Hoi Lai Street in Sham Shui Po",
+        "tc": "深水埗深旺道／海麗街的行人通道上蓋"
+      },
+      "description": {
+        "en": "",
+        "tc": ""
+      },
+      "scope": {
+        "en": "",
+        "tc": ""
+      },
+      "agreement_no": "7F76RG",
+      "cost": {
+        "en": "",
+        "tc": ""
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commissioning_date": {
+        "en": "",
+        "tc": ""
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "",
+        "tc": ""
+      },
+      "photos": []
+    },
+    {
+      "id": 116,
+      "dataset": "cedd",
+      "department": "CEDD",
+      "item": "7899CL",
+      "name": "San Tin Technopole Phase 1 Stage 1 Works - Site Formation and Engineering Infrastructure",
+      "type": null,
+      "type_label": {
+        "en": "",
+        "tc": ""
+      },
+      "status": 2,
+      "status_label": {
+        "en": "Under Construction",
+        "tc": "施工中"
+      },
+      "url": {
+        "en": "",
+        "tc": ""
+      },
+      "overview": {
+        "en": "",
+        "tc": ""
+      },
+      "coordinates": [
+        [
+          114.082949,
+          22.504123
+        ]
+      ],
+      "geometry": null,
+      "page_title": {
+        "en": "San Tin Technopole Phase 1 Stage 1 Works - Site Formation and Engineering Infrastructure",
+        "tc": "新田科技城第一期第一階段工程 - 工地平整和基礎設施"
+      },
+      "description": {
+        "en": "",
+        "tc": ""
+      },
+      "scope": {
+        "en": "",
+        "tc": ""
+      },
+      "agreement_no": "7899CL",
+      "cost": {
+        "en": "",
+        "tc": ""
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commissioning_date": {
+        "en": "",
+        "tc": ""
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "",
+        "tc": ""
+      },
+      "photos": []
+    },
+    {
+      "id": 117,
+      "dataset": "cedd",
+      "department": "CEDD",
+      "item": "7068TR",
+      "name": "Smart and Green Mass Transit System in Kai Tak",
+      "type": null,
+      "type_label": {
+        "en": "",
+        "tc": ""
+      },
+      "status": 1,
+      "status_label": {
+        "en": "Under Planning",
+        "tc": "規劃中"
+      },
+      "url": {
+        "en": "",
+        "tc": ""
+      },
+      "overview": {
+        "en": "",
+        "tc": ""
+      },
+      "coordinates": [
+        [
+          114.200957,
+          22.317459
+        ]
+      ],
+      "geometry": null,
+      "page_title": {
+        "en": "Smart and Green Mass Transit System in Kai Tak",
+        "tc": "啟德智慧綠色集體運輸系統"
+      },
+      "description": {
+        "en": "",
+        "tc": ""
+      },
+      "scope": {
+        "en": "",
+        "tc": ""
+      },
+      "agreement_no": "7068TR",
+      "cost": {
+        "en": "",
+        "tc": ""
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commissioning_date": {
+        "en": "",
+        "tc": ""
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "",
+        "tc": ""
+      },
+      "photos": []
+    },
+    {
+      "id": 118,
+      "dataset": "cedd",
+      "department": "CEDD",
+      "item": "7896TH",
+      "name": "Development of the Loop – Eastern Connection Road",
+      "type": null,
+      "type_label": {
+        "en": "",
+        "tc": ""
+      },
+      "status": 1,
+      "status_label": {
+        "en": "Under Planning",
+        "tc": "規劃中"
+      },
+      "url": {
+        "en": "",
+        "tc": ""
+      },
+      "overview": {
+        "en": "",
+        "tc": ""
+      },
+      "coordinates": [
+        [
+          114.091477,
+          22.522446
+        ]
+      ],
+      "geometry": null,
+      "page_title": {
+        "en": "Development of the Loop – Eastern Connection Road",
+        "tc": "河套區發展 - 東面連接道路"
+      },
+      "description": {
+        "en": "",
+        "tc": ""
+      },
+      "scope": {
+        "en": "",
+        "tc": ""
+      },
+      "agreement_no": "7896TH",
+      "cost": {
+        "en": "",
+        "tc": ""
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commissioning_date": {
+        "en": "",
+        "tc": ""
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "",
+        "tc": ""
+      },
+      "photos": []
+    }
+  ]
+}
