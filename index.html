@@ -580,12 +580,26 @@ function applyFilters() {
 
 // ─── Map ──────────────────────────────────────────────────────────────────────
 function markerIcon(p) {
-  const fill = TYPE_COLOR[p.type] || '#aaa';
+  const fill = TYPE_COLOR[p.type] || STATUS_COLOR[p.status] || '#aaa';
   const stroke = STATUS_COLOR[p.status] || '#aaa';
   const svg = `<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 22 22">
     <circle cx="11" cy="11" r="8" fill="${fill}" fill-opacity=".9" stroke="${stroke}" stroke-width="2.5"/>
   </svg>`;
   return L.divIcon({ html:svg, className:'', iconSize:[22,22], iconAnchor:[11,11], popupAnchor:[0,-13] });
+}
+
+function geoBBoxSpan(geometry) {
+  // Returns [lonSpan, latSpan] of a GeoJSON geometry's bounding box
+  const pts = [];
+  const collect = coords => {
+    if (!coords?.length) return;
+    if (typeof coords[0] === 'number') { pts.push(coords); return; }
+    coords.forEach(collect);
+  };
+  collect(geometry.coordinates);
+  if (!pts.length) return [0, 0];
+  const lons = pts.map(p => p[0]), lats = pts.map(p => p[1]);
+  return [Math.max(...lons) - Math.min(...lons), Math.max(...lats) - Math.min(...lats)];
 }
 
 function renderMap(projects) {
@@ -598,13 +612,24 @@ function renderMap(projects) {
       <div class="popup-meta">${p.department} · ${tx(p.status_label)}${costStr ? ' · ' + costStr : ''}</div>`;
 
     if (p.department === 'WSD' && p.geometry) {
-      const color = STATUS_COLOR[p.status] || '#aaa';
-      L.geoJSON(p.geometry, {
-        style: { color, weight: 2, fillColor: color, fillOpacity: 0.15 }
-      })
-        .bindPopup(popupHtml)
-        .on('click', () => openPanel(p))
-        .addTo(polygonLayer);
+      const [lonSpan, latSpan] = geoBBoxSpan(p.geometry);
+      const isCitywide = lonSpan > 0.3 || latSpan > 0.3;
+      if (isCitywide && p.coordinates?.length) {
+        // Too large to render as polygon — fall back to centroid marker
+        const [lon, lat] = p.coordinates[0];
+        L.marker([lat, lon], { icon: markerIcon(p) })
+          .bindPopup(popupHtml)
+          .on('click', () => openPanel(p))
+          .addTo(markersLayer);
+      } else {
+        const color = STATUS_COLOR[p.status] || '#aaa';
+        L.geoJSON(p.geometry, {
+          style: { color, weight: 2, fillColor: color, fillOpacity: 0.15 }
+        })
+          .bindPopup(popupHtml)
+          .on('click', () => openPanel(p))
+          .addTo(polygonLayer);
+      }
     } else if (p.coordinates?.length) {
       const lons = p.coordinates.map(c => c[0]);
       const lats = p.coordinates.map(c => c[1]);
