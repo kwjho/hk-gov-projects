@@ -1,0 +1,6512 @@
+{
+  "dataset_id": "walkability",
+  "dataset_name": {
+    "en": "Walkability Projects",
+    "tc": "暢行易行項目"
+  },
+  "department": "HYD",
+  "department_full": {
+    "en": "Highways Department",
+    "tc": "路政署"
+  },
+  "generated_at": "2026-04-18T03:44:43.385383+00:00",
+  "total": 82,
+  "projects": [
+    {
+      "id": 1,
+      "dataset": "walkability",
+      "department": "HYD",
+      "name": "CE 14/2017 (HY) Provision of Universal Accessibility Facilities at Footbridges, Elevated Walkways and Subways Package 3 -Investigation, Design and Construction",
+      "type": "UA",
+      "type_label": {
+        "en": "Universal Accessibility",
+        "tc": "暢道通行設施"
+      },
+      "status": 1,
+      "status_label": {
+        "en": "Planning",
+        "tc": "規劃中"
+      },
+      "url": {
+        "en": "https://www.hyd.gov.hk/en/our_projects/walkability_projects/UA/ce14_2017hy/index.html",
+        "tc": "https://www.hyd.gov.hk/tc/our_projects/walkability_projects/UA/ce14_2017hy/index.html"
+      },
+      "coordinates": [
+        [
+          114.13858591,
+          22.49165082
+        ],
+        [
+          114.03502575,
+          22.44652711
+        ],
+        [
+          114.17180895,
+          22.44841375
+        ],
+        [
+          113.97343179,
+          22.39406396
+        ],
+        [
+          114.10725239,
+          22.35827325
+        ],
+        [
+          113.95047975,
+          22.29450234
+        ],
+        [
+          114.18727996,
+          22.38184469
+        ],
+        [
+          114.27456145,
+          22.3832639
+        ],
+        [
+          114.11799852,
+          22.37331793
+        ]
+      ],
+      "page_title": {
+        "en": "Provision of Universal Accessibility Facilities at Footbridges, Elevated Walkways and Subways Package 3 - Investigation, Design and Construction",
+        "tc": "為行人天橋、高架行人道及行人隧道提供暢道通行設施第三組 - 勘查研究、設計及建造"
+      },
+      "description": {
+        "en": "The Project comprises the investigation, detailed design, tendering and contract administration for provision of 46 lifts at 25 existing footbridges and 2 existing subways in the New Territories.",
+        "tc": "為位於新界的二十五條現有的行人天橋及兩條現有行人隧道加建四十六座升降機提供暢道通行設施的勘查研究、設計、合約採購和工程監督的顧問服務。"
+      },
+      "scope": {
+        "en": "",
+        "tc": ""
+      },
+      "agreement_no": "CE 14/2017 (HY)",
+      "cost": {
+        "en": "HK$11 Million",
+        "tc": "1,100萬港元"
+      },
+      "award_date": {
+        "en": "September 2017",
+        "tc": "2017年9月"
+      },
+      "commencement_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commissioning_date": {
+        "en": "",
+        "tc": ""
+      },
+      "consultant": {
+        "en": "Mannings (Asia) Consultants Limited",
+        "tc": "萬利仕(亞洲)顧問有限公司"
+      },
+      "contractor": {
+        "en": "",
+        "tc": ""
+      },
+      "photos": [
+        {
+          "url": "https://www.hyd.gov.hk/en/our_projects/walkability_projects/UA/ce14_2017hy/photo1.jpg",
+          "alt": ""
+        },
+        {
+          "url": "https://www.hyd.gov.hk/en/our_projects/walkability_projects/UA/ce14_2017hy/photo2.jpg",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "dataset": "walkability",
+      "department": "HYD",
+      "name": "CE 15/2017 (HY) Provision of Universal Accessibility Facilities at Footbridges, Elevated Walkways and Subways Package 4 - Investigation, Design and Construction [in Sham Shui Po, Wong Tai Sin, Eastern, Wan Chai, Kowloon City, Central & Western, Southern",
+      "type": "UA",
+      "type_label": {
+        "en": "Universal Accessibility",
+        "tc": "暢道通行設施"
+      },
+      "status": 1,
+      "status_label": {
+        "en": "Planning",
+        "tc": "規劃中"
+      },
+      "url": {
+        "en": "https://www.hyd.gov.hk/en/our_projects/walkability_projects/UA/ce15_2017hy/index.html",
+        "tc": "https://www.hyd.gov.hk/tc/our_projects/walkability_projects/UA/ce15_2017hy/index.html"
+      },
+      "coordinates": [
+        [
+          114.00628861,
+          22.45268867
+        ],
+        [
+          114.16213106,
+          22.3308744
+        ],
+        [
+          114.19391448,
+          22.34169308
+        ],
+        [
+          114.21650382,
+          22.28465612
+        ],
+        [
+          114.17264517,
+          22.27756175
+        ],
+        [
+          114.18634521,
+          22.33776695
+        ],
+        [
+          114.14273952,
+          22.28551212
+        ],
+        [
+          114.11799852,
+          22.37331793
+        ],
+        [
+          114.2264819,
+          22.31190655
+        ],
+        [
+          114.17068934,
+          22.31284118
+        ],
+        [
+          114.16798534,
+          22.24800566
+        ]
+      ],
+      "page_title": {
+        "en": "Provision of Universal Accessibility Facilities at Footbridges, Elevated Walkways and Subways Package 4 - Investigation, Design and Construction",
+        "tc": "為行人天橋、高架行人道及行人隧道提供暢道通行設施第四組 - 勘查研究、設計及建造"
+      },
+      "description": {
+        "en": "The Project comprises the investigation, detailed design, tendering and contract administration for provision of universal accessibility facilities at 42 lifts for 19 existing footbridges, nine existing subways and 2 existing elevated walkway in Sham Shui Po, Wong Tai Sin, Eastern, Wan Chai, Kowloon City, Central & Western, Southern, Yuen Long, Tsuen Wan, Kwun Tong and Yau Tsim Mong Districts.",
+        "tc": "為位於深水埗、黃大仙、東區、灣仔、九龍城、中西區、南區、元朗、荃灣、觀塘以及油尖旺十九條現有的行人天橋、九條行人隊道以及兩條現有的高架行人道加建四十二座升降機提供暢道通行設施的勘查研究、設計、合約採購和工程監督的顧問服務。"
+      },
+      "scope": {
+        "en": "",
+        "tc": ""
+      },
+      "agreement_no": "CE 15/2017 (HY)",
+      "cost": {
+        "en": "HK$13.9 Million",
+        "tc": "1,390萬港元"
+      },
+      "award_date": {
+        "en": "September 2017",
+        "tc": "2017年9月"
+      },
+      "commencement_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commissioning_date": {
+        "en": "",
+        "tc": ""
+      },
+      "consultant": {
+        "en": "WSP (Asia) Limited",
+        "tc": "科進顧問(亞洲)有限公司"
+      },
+      "contractor": {
+        "en": "",
+        "tc": ""
+      },
+      "photos": [
+        {
+          "url": "https://www.hyd.gov.hk/en/our_projects/walkability_projects/UA/ce15_2017hy/photo1.jpg",
+          "alt": ""
+        },
+        {
+          "url": "https://www.hyd.gov.hk/en/our_projects/walkability_projects/UA/ce15_2017hy/photo2.jpg",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "dataset": "walkability",
+      "department": "HYD",
+      "name": "CE 52/2018 (HY) Provision of Universal Accessibility Facilities at Footbridges, Elevated Walkways and Subways Package 5 - Investigation, Design and Construction [in North, Tai Po, Sha Tin, and Yuen Long]",
+      "type": "UA",
+      "type_label": {
+        "en": "Universal Accessibility",
+        "tc": "暢道通行設施"
+      },
+      "status": 1,
+      "status_label": {
+        "en": "Planning",
+        "tc": "規劃中"
+      },
+      "url": {
+        "en": "https://www.hyd.gov.hk/en/our_projects/walkability_projects/UA/ce52_2018hy/index.html",
+        "tc": "https://www.hyd.gov.hk/tc/our_projects/walkability_projects/UA/ce52_2018hy/index.html"
+      },
+      "coordinates": [
+        [
+          114.12739029,
+          22.49902701
+        ],
+        [
+          114.17180895,
+          22.44841375
+        ],
+        [
+          114.18727996,
+          22.38184469
+        ],
+        [
+          114.03502575,
+          22.44652711
+        ]
+      ],
+      "page_title": {
+        "en": "Provision of Universal Accessibility Facilities at Footbridges, Elevated Walkways and Subways Package 5 - Investigation, Design and Construction",
+        "tc": "為行人天橋、高架行人道及行人隧道提供暢道通行設施第五組 - 勘查研究、設計及建造"
+      },
+      "description": {
+        "en": "The Project comprises the investigation, detailed design, tendering and contract administration for provision of universal accessibility facilities at 89 lifts for 34 existing footbridges, 14 existing subways and one existing elevated walkway in North, Tai Po, Sha Tin, and Yuen Long Districts.",
+        "tc": "為位於北區、大埔、沙田、元朗 三十四條條現有的行人天橋、十四條行人隊道以及一條現有的高架行人道加建八十九座升降機提供暢道通行設施的勘查研究、設計、合約採購和工程監督的顧問服務。"
+      },
+      "scope": {
+        "en": "",
+        "tc": ""
+      },
+      "agreement_no": "CE 52/2018 (HY)",
+      "cost": {
+        "en": "HK$18.89 Million",
+        "tc": "1,889萬港元"
+      },
+      "award_date": {
+        "en": "June 2018",
+        "tc": "2018年6月"
+      },
+      "commencement_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commissioning_date": {
+        "en": "",
+        "tc": ""
+      },
+      "consultant": {
+        "en": "Mannings (Asia) Consultants Ltd",
+        "tc": "萬利仕(亞洲)顧問有限公司"
+      },
+      "contractor": {
+        "en": "",
+        "tc": ""
+      },
+      "photos": [
+        {
+          "url": "https://www.hyd.gov.hk/en/our_projects/walkability_projects/UA/ce52_2018hy/photo1.jpg",
+          "alt": ""
+        },
+        {
+          "url": "https://www.hyd.gov.hk/en/our_projects/walkability_projects/UA/ce52_2018hy/photo2.jpg",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "dataset": "walkability",
+      "department": "HYD",
+      "name": "CE 53/2018 (HY) Provision of Universal Accessibility Facilities at Footbridges, Elevated Walkways and Subways Package 6 - Investigation, Design and Construction [in Tuen Mun and Tsuen Wan]",
+      "type": "UA",
+      "type_label": {
+        "en": "Universal Accessibility",
+        "tc": "暢道通行設施"
+      },
+      "status": 1,
+      "status_label": {
+        "en": "Planning",
+        "tc": "規劃中"
+      },
+      "url": {
+        "en": "https://www.hyd.gov.hk/en/our_projects/walkability_projects/UA/ce53_2018hy/index.html",
+        "tc": "https://www.hyd.gov.hk/tc/our_projects/walkability_projects/UA/ce53_2018hy/index.html"
+      },
+      "coordinates": [
+        [
+          113.96781331,
+          22.37361296
+        ],
+        [
+          114.11393723,
+          22.37100305
+        ]
+      ],
+      "page_title": {
+        "en": "Provision of Universal Accessibility Facilities at Footbridges, Elevated Walkways and Subways Package 6 - Investigation, Design and Construction",
+        "tc": "為行人天橋、高架行人道及行人隧道提供暢道通行設施第六組 - 勘查研究、設計及建造"
+      },
+      "description": {
+        "en": "The Project comprises the investigation, detailed design, tendering and contract administration for provision of univerisal accessibility facilities for 59 lifts for 32 existing footbrigdes,two existing subways and one existing elevated walkway in Tuen Mun and Tsuen Wan Districts.",
+        "tc": "為位於屯門及荃灣內的32條條現有的行人天橋、兩條行人隊道以及一條現有的高架行人道加建五十九座升降機提供暢道通行設施的勘查研究、設計、合約採購和工程監督的顧問服務。"
+      },
+      "scope": {
+        "en": "",
+        "tc": ""
+      },
+      "agreement_no": "CE 53/2018 (HY)",
+      "cost": {
+        "en": "HK$13.39 Million",
+        "tc": "1,339萬港元"
+      },
+      "award_date": {
+        "en": "September 2019",
+        "tc": "2019年9月"
+      },
+      "commencement_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commissioning_date": {
+        "en": "",
+        "tc": ""
+      },
+      "consultant": {
+        "en": "Mannings (Asia) Consultants Ltd",
+        "tc": "萬利仕(亞洲)顧問有限公司"
+      },
+      "contractor": {
+        "en": "",
+        "tc": ""
+      },
+      "photos": [
+        {
+          "url": "https://www.hyd.gov.hk/en/our_projects/walkability_projects/UA/ce53_2018hy/photo1.jpg",
+          "alt": ""
+        },
+        {
+          "url": "https://www.hyd.gov.hk/en/our_projects/walkability_projects/UA/ce53_2018hy/photo2.jpg",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "dataset": "walkability",
+      "department": "HYD",
+      "name": "CE 54/2018 (HY) Provision of Universal Accessibility Facilities at Footbridges, Elevated Walkways and Subways Package 7 - Investigation, Design and Construction [in Kwai Tsing, Sai Kung, Wong Tai Sin, Sham Shui Po, Kwun Tong, Kowloon City and Eastern]",
+      "type": "UA",
+      "type_label": {
+        "en": "Universal Accessibility",
+        "tc": "暢道通行設施"
+      },
+      "status": 1,
+      "status_label": {
+        "en": "Planning",
+        "tc": "規劃中"
+      },
+      "url": {
+        "en": "https://www.hyd.gov.hk/en/our_projects/walkability_projects/UA/ce54_2018hy/index.html",
+        "tc": "https://www.hyd.gov.hk/tc/our_projects/walkability_projects/UA/ce54_2018hy/index.html"
+      },
+      "coordinates": [
+        [
+          114.09708001,
+          22.34912598
+        ],
+        [
+          114.27456145,
+          22.3832639
+        ],
+        [
+          114.16213106,
+          22.3308744
+        ],
+        [
+          114.2264819,
+          22.31190655
+        ],
+        [
+          114.1881925,
+          22.3030606
+        ],
+        [
+          114.21650433,
+          22.28465657
+        ],
+        [
+          114.19391448,
+          22.34169308
+        ]
+      ],
+      "page_title": {
+        "en": "Provision of Universal Accessibility Facilities at Footbridges, Elevated Walkways and Subways Package 7 - Investigation, Design and Construction",
+        "tc": "為行人天橋、高架行人道及行人隧道提供暢道通行設施第七組 - 勘查研究、設計及建造"
+      },
+      "description": {
+        "en": "The Project comprises the investigation, detailed design, tendering and contract administration for provision of univerisal accessibility facilities for 72 lifts at 39 existing footbridges, one existing elevated walkway and five existing subways in Kwai Tsing, Sai Kung, Wong Tai Sin, Sham Shui Po, Kwun Tong, Kowloon City and Eastern Districts.",
+        "tc": "為位於葵青、西貢、黃大仙、深水埗、觀塘、九龍城及東區內的三十九條現有的行人天橋、一條現有的高架行人道以及五條行人隧道加建七十二座升降機提供暢道通行設施的勘查研究、設計、合約採購和工程監督的顧問服務。"
+      },
+      "scope": {
+        "en": "",
+        "tc": ""
+      },
+      "agreement_no": "CE 54/2018 (HY)",
+      "cost": {
+        "en": "HK$22.84 Million",
+        "tc": "2,284萬港元"
+      },
+      "award_date": {
+        "en": "September 2019",
+        "tc": "2019年9月"
+      },
+      "commencement_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commissioning_date": {
+        "en": "",
+        "tc": ""
+      },
+      "consultant": {
+        "en": "WSP (Asia) Limited",
+        "tc": "科進顧問 (亞洲) 有限公司"
+      },
+      "contractor": {
+        "en": "",
+        "tc": ""
+      },
+      "photos": [
+        {
+          "url": "https://www.hyd.gov.hk/en/our_projects/walkability_projects/UA/ce54_2018hy/photo1.jpg",
+          "alt": ""
+        },
+        {
+          "url": "https://www.hyd.gov.hk/en/our_projects/walkability_projects/UA/ce54_2018hy/photo2.jpg",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "dataset": "walkability",
+      "department": "HYD",
+      "name": "CE 22/2021 (HY) Provision of Universal Accessibility Facilities at Footbridges, Elevated Walkways and Subways Package 8 - Investigation, Design and Construction [in Islands, Kwai Tsing, North, Sai Kung, Sha Tin, Tai Po, Tsuen Wan, Tuen Mun and Yuen Long",
+      "type": "UA",
+      "type_label": {
+        "en": "Universal Accessibility",
+        "tc": "暢道通行設施"
+      },
+      "status": 1,
+      "status_label": {
+        "en": "Planning",
+        "tc": "規劃中"
+      },
+      "url": {
+        "en": "https://www.hyd.gov.hk/en/our_projects/walkability_projects/UA/ce22_2021hy/index.html",
+        "tc": "https://www.hyd.gov.hk/tc/our_projects/walkability_projects/UA/ce22_2021hy/index.html"
+      },
+      "coordinates": [
+        [
+          113.9420219,
+          22.28934062
+        ],
+        [
+          114.10725239,
+          22.35827325
+        ],
+        [
+          114.27456145,
+          22.3832639
+        ],
+        [
+          114.18727996,
+          22.38184469
+        ],
+        [
+          114.17180895,
+          22.44841375
+        ],
+        [
+          114.11799852,
+          22.37331793
+        ],
+        [
+          113.97343179,
+          22.39406396
+        ],
+        [
+          114.03502575,
+          22.44652711
+        ],
+        [
+          114.13858591,
+          22.49165082
+        ]
+      ],
+      "page_title": {
+        "en": "Provision of Universal Accessibility Facilities at Footbridges, Elevated\r\nWalkways and Subways Package 8 ‐ Investigation, Design and Construction",
+        "tc": "為行人天橋、高架行人道及行人隧道提供暢道通行設施第八組 - 勘查研究、設計及建造"
+      },
+      "description": {
+        "en": "The Project comprises the investigation, detailed design, tendering and contract administration for provision of\r\nuniversal accessibility facilities at 33 lifts for 19 existing footbridges and 2 existing subways in Islands, Kwai Tsing,\r\nNorth, Sai Kung, Sha Tin, Tai Po, Tsuen Wan, Tuen Mun and Yuen Long Districts.",
+        "tc": "為位於離島、葵青、北區、西貢、沙田、大埔、荃灣、屯門以及元朗內的19條現有的行人天橋以及2條行人\r\n隊道加建33座升降機提供暢道通行設施的勘查研究、設計、合約採購和工程監督的顧問服務。"
+      },
+      "scope": {
+        "en": "",
+        "tc": ""
+      },
+      "agreement_no": "CE 22/2021 (HY)",
+      "cost": {
+        "en": "HK$17.18 Million",
+        "tc": "1,718萬港元"
+      },
+      "award_date": {
+        "en": "January 2021",
+        "tc": "2022年1月"
+      },
+      "commencement_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commissioning_date": {
+        "en": "",
+        "tc": ""
+      },
+      "consultant": {
+        "en": "Atkins China Limited",
+        "tc": "阿特金斯顧問有限公司"
+      },
+      "contractor": {
+        "en": "",
+        "tc": ""
+      },
+      "photos": [
+        {
+          "url": "https://www.hyd.gov.hk/en/our_projects/walkability_projects/UA/ce22_2021hy/layout.png",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "dataset": "walkability",
+      "department": "HYD",
+      "name": "CE 23/2021 (HY) Provision of Universal Accessibility Facilities at Footbridges, Elevated Walkways and Subways Package 9 - Investigation, Design and Construction [in Eastern, Southern, Kwun Tong and Wong Tai Sin]",
+      "type": "UA",
+      "type_label": {
+        "en": "Universal Accessibility",
+        "tc": "暢道通行設施"
+      },
+      "status": 1,
+      "status_label": {
+        "en": "Planning",
+        "tc": "規劃中"
+      },
+      "url": {
+        "en": "https://www.hyd.gov.hk/en/our_projects/walkability_projects/UA/ce23_2021hy/index.html",
+        "tc": "https://www.hyd.gov.hk/tc/our_projects/walkability_projects/UA/ce23_2021hy/index.html"
+      },
+      "coordinates": [
+        [
+          114.21650376,
+          22.28465629
+        ],
+        [
+          114.16798534,
+          22.24800566
+        ],
+        [
+          114.2264819,
+          22.31190655
+        ],
+        [
+          114.19391448,
+          22.34169308
+        ]
+      ],
+      "page_title": {
+        "en": "Provision of Universal Accessibility Facilities at Footbridges, Elevated Walkways and Subways Package 9 - Investigation, Design and Construction",
+        "tc": "為行人天橋、高架行人道及行人隧道提供暢道通行設施第九組 - 勘查研究、設計及建造"
+      },
+      "description": {
+        "en": "The Project comprises the investigation, detailed design, tendering and contract administration for provision of universal accessibility facilities at 14 lifts for 8 existing footbridges, 1 existing subway and 1 existing elevated walkway in Eastern, Southern, Kwun Tong and Wong Tai Sin Districts.",
+        "tc": "為位於東區、南區、觀塘以及黃大仙8條現有的行人天橋、1條行人隊道以及1條現有的高架行人道加建14座升降機提供暢道通行設施的勘查研究、設計、合約採購和工程監督的顧問服務。"
+      },
+      "scope": {
+        "en": "",
+        "tc": ""
+      },
+      "agreement_no": "CE 23/2021 (HY)",
+      "cost": {
+        "en": "HK$9.68 Million",
+        "tc": "968萬港元"
+      },
+      "award_date": {
+        "en": "November 2021",
+        "tc": "2021年11月"
+      },
+      "commencement_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commissioning_date": {
+        "en": "",
+        "tc": ""
+      },
+      "consultant": {
+        "en": "Mannings (Asia) Consultants Limited",
+        "tc": "萬利仕(亞洲)顧問有限公司"
+      },
+      "contractor": {
+        "en": "",
+        "tc": ""
+      },
+      "photos": [
+        {
+          "url": "https://www.hyd.gov.hk/en/our_projects/walkability_projects/UA/ce23_2021hy/layout.png",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "dataset": "walkability",
+      "department": "HYD",
+      "name": "HY/2019/21 Provision of Universal Accessibility Facilities at Footbridges, Elevated Walkways and Subways Package 3 - Contract 2 [in Sai Kung, Sha Tin, Tai Po, Tuen Mun, Yuen Long, Kwai Tsing, Tsuen Wan, North and Islands]",
+      "type": "UA",
+      "type_label": {
+        "en": "Universal Accessibility",
+        "tc": "暢道通行設施"
+      },
+      "status": 2,
+      "status_label": {
+        "en": "Under Construction",
+        "tc": "施工中"
+      },
+      "url": {
+        "en": "https://www.hyd.gov.hk/en/our_projects/walkability_projects/UA/hy2019_21/index.html",
+        "tc": "https://www.hyd.gov.hk/tc/our_projects/walkability_projects/UA/hy2019_21/index.html"
+      },
+      "coordinates": [
+        [
+          113.94202336,
+          22.28934026
+        ],
+        [
+          114.12737795,
+          22.49902087
+        ],
+        [
+          114.27456145,
+          22.3832639
+        ],
+        [
+          114.22605698,
+          22.41840938
+        ],
+        [
+          114.16951818,
+          22.45043625
+        ],
+        [
+          113.96724735,
+          22.4094966
+        ],
+        [
+          114.03216393,
+          22.44431021
+        ],
+        [
+          114.09901985,
+          22.34953691
+        ],
+        [
+          114.11112906,
+          22.37771325
+        ]
+      ],
+      "page_title": {
+        "en": "Provision of Universal Accessibility Facilities at Footbridges, Elevated Walkways and Subways Package 3 - Contract 2",
+        "tc": "為行人天橋、高架行人道及行人隧道提供暢道通行設施─第三組第二份合約"
+      },
+      "description": {
+        "en": "Construction of 24 lifts at 14 existing footbridges and one existing subway in Sai Kung, Sha Tin, Tai Po, Tuen Mun, Yuen Long, Kwai Tsing, Tsuen Wan, North and Islands Districts. [List of Lift Retrofitting Works]",
+        "tc": "為位於西貢、沙田、大埔、屯門、元朗、葵青、荃灣、北區及離島的十四條現有行人天橋及一條現有行人隧道加建二十四座升降機。 加建升降機工程名單"
+      },
+      "scope": {
+        "en": "Construction of 24 lifts at 14 existing footbridges and one existing subway in Sai Kung, Sha Tin, Tai Po, Tuen Mun, Yuen Long, Kwai Tsing, Tsuen Wan, North and Islands Districts. [List of Lift Retrofitting Works]",
+        "tc": "為位於西貢、沙田、大埔、屯門、元朗、葵青、荃灣、北區及離島的十四條現有行人天橋及一條現有行人隧道加建二十四座升降機。 加建升降機工程名單"
+      },
+      "agreement_no": "HY/2019/21",
+      "cost": {
+        "en": "HK$334 Million",
+        "tc": "3億3,400萬港元"
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "June 2020",
+        "tc": "2020年6月"
+      },
+      "commissioning_date": {
+        "en": "Q2 2026",
+        "tc": "2026年第二季"
+      },
+      "consultant": {
+        "en": "Mannings (Asia) Consultants Limited",
+        "tc": "萬利仕(亞洲)顧問有限公司"
+      },
+      "contractor": {
+        "en": "Dixie Engineering Company Limited",
+        "tc": "仁利工程有限公司"
+      },
+      "photos": [
+        {
+          "url": "https://www.hyd.gov.hk/en/our_projects/walkability_projects/UA/hy2019_21/photo1.jpg",
+          "alt": ""
+        },
+        {
+          "url": "https://www.hyd.gov.hk/en/our_projects/walkability_projects/UA/hy2019_21/photo2.jpg",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "dataset": "walkability",
+      "department": "HYD",
+      "name": "HY/2020/09 Provision of Universal Accessibility Facilities at Footbridges, Elevated Walkways and Subways Package 4 - Contract 2 [in Central & Western, Wan Chai, Southern, Kowloon City, Kwun Tong and Wong Tai Sin]",
+      "type": "UA",
+      "type_label": {
+        "en": "Universal Accessibility",
+        "tc": "暢道通行設施"
+      },
+      "status": 2,
+      "status_label": {
+        "en": "Under Construction",
+        "tc": "施工中"
+      },
+      "url": {
+        "en": "https://www.hyd.gov.hk/en/our_projects/walkability_projects/UA/hy2020_09/index.html",
+        "tc": "https://www.hyd.gov.hk/tc/our_projects/walkability_projects/UA/hy2020_09/index.html"
+      },
+      "coordinates": [
+        [
+          114.18813943,
+          22.32750017
+        ],
+        [
+          114.18926145,
+          22.32534151
+        ],
+        [
+          114.17286417,
+          22.25049231
+        ],
+        [
+          114.13642166,
+          22.28352418
+        ],
+        [
+          114.17654953,
+          22.27970741
+        ],
+        [
+          114.21142025,
+          22.32249174
+        ],
+        [
+          114.20119811,
+          22.34277424
+        ]
+      ],
+      "page_title": {
+        "en": "Provision of Universal Accessibility Facilities at Footbridges, Elevated Walkways and Subways Package 4 - Contract 2",
+        "tc": "為行人天橋、高架行人道及行人隧道提供暢道通行設施─第四組第二份合約"
+      },
+      "description": {
+        "en": "Construction of  16 lifts for eight existing footbridges,  four existing subways and one existing elevated walkway in Central & Western, Wan Chai, Southern, Kowloon City, Kwun Tong and Wong Tai Sin Districts. [List of Lift Retrofitting Works]",
+        "tc": "為位於中西區、灣仔、南區、九龍城、觀塘以及黃大仙現有的八條行人天橋、四條行人隊道以及一條現有的高架行人道加建十六座升降機。 加建升降機工程名單"
+      },
+      "scope": {
+        "en": "Construction of  16 lifts for eight existing footbridges,  four existing subways and one existing elevated walkway in Central & Western, Wan Chai, Southern, Kowloon City, Kwun Tong and Wong Tai Sin Districts. [List of Lift Retrofitting Works]",
+        "tc": "為位於中西區、灣仔、南區、九龍城、觀塘以及黃大仙現有的八條行人天橋、四條行人隊道以及一條現有的高架行人道加建十六座升降機。 加建升降機工程名單"
+      },
+      "agreement_no": "HY/2020/09",
+      "cost": {
+        "en": "HK$372.4 Million",
+        "tc": "3億7,240萬港元"
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "November 2021",
+        "tc": "2021年11月"
+      },
+      "commissioning_date": {
+        "en": "February 2025",
+        "tc": "2025年2月"
+      },
+      "consultant": {
+        "en": "WSP (Asia ) Limited",
+        "tc": "科進顧問(亞洲)有限公司"
+      },
+      "contractor": {
+        "en": "Build King - Richwell Engineering Joint Venture",
+        "tc": "利基—顯豐工程聯營"
+      },
+      "photos": [
+        {
+          "url": "https://www.hyd.gov.hk/en/our_projects/walkability_projects/UA/hy2020_09/photo2.png",
+          "alt": ""
+        },
+        {
+          "url": "https://www.hyd.gov.hk/en/our_projects/walkability_projects/UA/hy2020_09/photo1.png",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "dataset": "walkability",
+      "department": "HYD",
+      "name": "HY/2021/10 Provision of Universal Accessibility Facilities at Footbridges, Elevated Walkways and Subways Package 7 - Contract 1 [in Kwai Tsing, Tsuen Wan, Kowloon City, Sham Shui Po, Kwun Tong and Yuen Long]",
+      "type": "UA",
+      "type_label": {
+        "en": "Universal Accessibility",
+        "tc": "暢道通行設施"
+      },
+      "status": 2,
+      "status_label": {
+        "en": "Under Construction",
+        "tc": "施工中"
+      },
+      "url": {
+        "en": "https://www.hyd.gov.hk/en/our_projects/walkability_projects/UA/hy2021_10/index.html",
+        "tc": "https://www.hyd.gov.hk/tc/our_projects/walkability_projects/UA/hy2021_10/index.html"
+      },
+      "coordinates": [
+        [
+          114.10248315,
+          22.35330945
+        ],
+        [
+          114.16213106,
+          22.3308744
+        ],
+        [
+          114.23223951,
+          22.30118034
+        ],
+        [
+          114.00631396,
+          22.45261893
+        ],
+        [
+          114.1881925,
+          22.3030606
+        ],
+        [
+          114.11052704,
+          22.37282599
+        ]
+      ],
+      "page_title": {
+        "en": "Provision of Universal Accessibility Facilities at Footbridges, Elevated Walkways and Subways Package 7 - Contract 1",
+        "tc": "為行人天橋、高架行人道及行人隧道提供暢道通行設施─第七組第一份合約"
+      },
+      "description": {
+        "en": "Construction of  24 lifts for 13 existing footbridges and 3 existing subways in Kwai Tsing, Tsuen Wan, Kowloon City, Sham Shui Po, Kwun Tong and Yuen Long Districts. [List of Lift Retrofitting Works]",
+        "tc": "為位於葵青、荃灣、九龍城、深水埗、觀塘以及元朗現有的十三條行人天橋以及三條行人隧道加建二十四座升降機。 加建升降機工程名單"
+      },
+      "scope": {
+        "en": "Construction of  24 lifts for 13 existing footbridges and 3 existing subways in Kwai Tsing, Tsuen Wan, Kowloon City, Sham Shui Po, Kwun Tong and Yuen Long Districts. [List of Lift Retrofitting Works]",
+        "tc": "為位於葵青、荃灣、九龍城、深水埗、觀塘以及元朗現有的十三條行人天橋以及三條行人隧道加建二十四座升降機。 加建升降機工程名單"
+      },
+      "agreement_no": "HY/2021/10",
+      "cost": {
+        "en": "HK$234.4 Million",
+        "tc": "2億3,438萬港元"
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "December 2021",
+        "tc": "2021年12月"
+      },
+      "commissioning_date": {
+        "en": "December 2024",
+        "tc": "2024年12月"
+      },
+      "consultant": {
+        "en": "WSP (Asia) Limited",
+        "tc": "科進顧問(亞洲)有限公司"
+      },
+      "contractor": {
+        "en": "Po Wing H.P. Drainpipe & Construction Company Limited",
+        "tc": "寶榮建造工程有限公司"
+      },
+      "photos": [
+        {
+          "url": "https://www.hyd.gov.hk/en/our_projects/walkability_projects/UA/hy2021_10/photo1.jpg",
+          "alt": ""
+        },
+        {
+          "url": "https://www.hyd.gov.hk/en/our_projects/walkability_projects/UA/hy2021_10/photo2.jpg",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "dataset": "walkability",
+      "department": "HYD",
+      "name": "HY/2020/23 Provision of Universal Accessibility Facilities at Footbridges, Elevated Walkways and Subways Package 6 - Contract 1 [in Tsuen Wan and Tuen Mun]",
+      "type": "UA",
+      "type_label": {
+        "en": "Universal Accessibility",
+        "tc": "暢道通行設施"
+      },
+      "status": 2,
+      "status_label": {
+        "en": "Under Construction",
+        "tc": "施工中"
+      },
+      "url": {
+        "en": "https://www.hyd.gov.hk/en/our_projects/walkability_projects/UA/hy2020_23/index.html",
+        "tc": "https://www.hyd.gov.hk/tc/our_projects/walkability_projects/UA/hy2020_23/index.html"
+      },
+      "coordinates": [
+        [
+          113.96679709,
+          22.38298146
+        ],
+        [
+          114.11392492,
+          22.37075945
+        ]
+      ],
+      "page_title": {
+        "en": "Provision of Universal Accessibility Facilities at Footbridges, Elevated Walkways and Subways Package 6 - Contract 1",
+        "tc": "為行人天橋、高架行人道及行人隧道提供暢道通行設施─第六組第一份合約"
+      },
+      "description": {
+        "en": "Construction of 23 lifts at 13 existing footbridges and one existing subway in Tsuen Wan and Tuen Mun Districts. [List of Lift Retrofitting Works]",
+        "tc": ""
+      },
+      "scope": {
+        "en": "Construction of 23 lifts at 13 existing footbridges and one existing subway in Tsuen Wan and Tuen Mun Districts. [List of Lift Retrofitting Works]",
+        "tc": "為位於荃灣及屯門現有的十三條行人天橋及一條行人隧道加建共二十三座升降機。 加建升降機工程名單"
+      },
+      "agreement_no": "HY/2020/23",
+      "cost": {
+        "en": "HK$241.5 Million",
+        "tc": "2億4,150萬港元"
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "July 2021",
+        "tc": "2021年7月"
+      },
+      "commissioning_date": {
+        "en": "September 2027",
+        "tc": "2027年9月"
+      },
+      "consultant": {
+        "en": "Mannings (Asia) Consultants Limited",
+        "tc": "萬利仕(亞洲)顧問有限公司"
+      },
+      "contractor": {
+        "en": "China National Chemical Engineering Group Corporation Ltd",
+        "tc": "中國化學工程集團有限公司"
+      },
+      "photos": [
+        {
+          "url": "https://www.hyd.gov.hk/en/our_projects/walkability_projects/UA/hy2020_23/photo1.jpg",
+          "alt": ""
+        },
+        {
+          "url": "https://www.hyd.gov.hk/en/our_projects/walkability_projects/UA/hy2020_23/photo2.jpg",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "dataset": "walkability",
+      "department": "HYD",
+      "name": "HY/2020/24 Provision of Universal Accessibility Facilities at Footbridges, Elevated Walkways and Subways Package 5 - Contract 1 [in North, Sha Tin and Yuen Long]",
+      "type": "UA",
+      "type_label": {
+        "en": "Universal Accessibility",
+        "tc": "暢道通行設施"
+      },
+      "status": 2,
+      "status_label": {
+        "en": "Under Construction",
+        "tc": "施工中"
+      },
+      "url": {
+        "en": "https://www.hyd.gov.hk/en/our_projects/walkability_projects/UA/hy2020_24/index.html",
+        "tc": "https://www.hyd.gov.hk/tc/our_projects/walkability_projects/UA/hy2020_24/index.html"
+      },
+      "coordinates": [
+        [
+          114.14359693,
+          22.49963583
+        ],
+        [
+          114.19844547,
+          22.39506942
+        ],
+        [
+          114.01940189,
+          22.44442441
+        ]
+      ],
+      "page_title": {
+        "en": "Provision of Universal Accessibility Facilities at Footbridges, Elevated Walkways and Subways Package 5 - Contract 1",
+        "tc": "為行人天橋、高架行人道及行人隧道提供暢道通行設施─第五組第一份合約"
+      },
+      "description": {
+        "en": "Construction of  29 lifts for seven existing footbridges, four existing subways and one existing elevated walkway in North, Sha Tin and Yuen Long Districts. [List of Lift Retrofitting Works]",
+        "tc": "為位於北區、沙田以及元朗現有的七條行人天橋、四條現有的行人隊道以及一條現有的高架行人道加建廿九座升降機。 加建升降機工程名單"
+      },
+      "scope": {
+        "en": "Construction of  29 lifts for seven existing footbridges, four existing subways and one existing elevated walkway in North, Sha Tin and Yuen Long Districts. [List of Lift Retrofitting Works]",
+        "tc": "為位於北區、沙田以及元朗現有的七條行人天橋、四條現有的行人隊道以及一條現有的高架行人道加建廿九座升降機。 加建升降機工程名單"
+      },
+      "agreement_no": "HY/2020/24",
+      "cost": {
+        "en": "HK$342.2 Million",
+        "tc": "3億4,220萬港元"
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "April 2021",
+        "tc": "2021年4月"
+      },
+      "commissioning_date": {
+        "en": "September 2027",
+        "tc": "2027年9月"
+      },
+      "consultant": {
+        "en": "Mannings (Asia) Consultants Limited",
+        "tc": "萬利仕(亞洲)顧問有限公司"
+      },
+      "contractor": {
+        "en": "China Geo-Engineering Corporation",
+        "tc": "中國地質工程集團有限公司"
+      },
+      "photos": [
+        {
+          "url": "https://www.hyd.gov.hk/en/our_projects/walkability_projects/UA/hy2020_24/photo1.jpg",
+          "alt": ""
+        },
+        {
+          "url": "https://www.hyd.gov.hk/en/our_projects/walkability_projects/UA/hy2020_24/photo2.jpg",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "dataset": "walkability",
+      "department": "HYD",
+      "name": "HY/2021/16 Provision of Universal Accessibility Facilities at Footbridges, Elevated Walkways and Subways Package 5 - Contract 2 [in Tai Po, Yuen Long and North District]",
+      "type": "UA",
+      "type_label": {
+        "en": "Universal Accessibility",
+        "tc": "暢道通行設施"
+      },
+      "status": 2,
+      "status_label": {
+        "en": "Under Construction",
+        "tc": "施工中"
+      },
+      "url": {
+        "en": "https://www.hyd.gov.hk/en/our_projects/walkability_projects/UA/hy2021_16/index.html",
+        "tc": "https://www.hyd.gov.hk/tc/our_projects/walkability_projects/UA/hy2021_16/index.html"
+      },
+      "coordinates": [
+        [
+          114.12793724,
+          22.50168674
+        ],
+        [
+          114.00513593,
+          22.46605467
+        ],
+        [
+          114.16952717,
+          22.45109529
+        ]
+      ],
+      "page_title": {
+        "en": "Provision of Universal Accessibility Facilities at Footbridges, Elevated Walkways and Subways Package 5 - Contract 2",
+        "tc": "為行人天橋、高架行人道及行人隧道提供暢道通行設施─第五組第二份合約"
+      },
+      "description": {
+        "en": "Construction of  31 lifts for thirteen existing footbridges and four existing subways in Tai Po, Yuen Long and North Districts. [List of Lift Retrofitting Works]",
+        "tc": ""
+      },
+      "scope": {
+        "en": "Construction of  31 lifts for thirteen existing footbridges and four existing subways in Tai Po, Yuen Long and North Districts. [List of Lift Retrofitting Works]",
+        "tc": "為位於大埔、元朗及北區現有的十三條行人天橋以及四條行人隧道加建三十一座升降機。 加建升降機工程名單"
+      },
+      "agreement_no": "HY/2021/16",
+      "cost": {
+        "en": "HK$303 Million",
+        "tc": "3億300萬港元"
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "May 2022",
+        "tc": "2022年5月"
+      },
+      "commissioning_date": {
+        "en": "Q2 2028",
+        "tc": "2028年第2季"
+      },
+      "consultant": {
+        "en": "Mannings (Asia) Consultants Limited",
+        "tc": "萬利仕(亞洲)顧問有限公司"
+      },
+      "contractor": {
+        "en": "Tai Lee Engineering Company Limited",
+        "tc": "太利工程有限公司"
+      },
+      "photos": [
+        {
+          "url": "https://www.hyd.gov.hk/en/our_projects/walkability_projects/UA/hy2021_16/photo1.jpg",
+          "alt": ""
+        },
+        {
+          "url": "https://www.hyd.gov.hk/en/our_projects/walkability_projects/UA/hy2021_16/photo2.jpg",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "dataset": "walkability",
+      "department": "HYD",
+      "name": "HY/2022/08 Provision of Universal Accessibility Facilities at Footbridges, Elevated Walkways and Subways Package 6 - Contract 2 [in Tuen Mun, Tsuen Wan, Sha Tin, Sai Kung and North District]",
+      "type": "UA",
+      "type_label": {
+        "en": "Universal Accessibility",
+        "tc": "暢道通行設施"
+      },
+      "status": 2,
+      "status_label": {
+        "en": "Under Construction",
+        "tc": "施工中"
+      },
+      "url": {
+        "en": "https://www.hyd.gov.hk/en/our_projects/walkability_projects/UA/hy2022_08/index.html",
+        "tc": "https://www.hyd.gov.hk/tc/our_projects/walkability_projects/UA/hy2022_08/index.html"
+      },
+      "coordinates": [
+        [
+          113.97278394,
+          22.40310639
+        ],
+        [
+          114.11213641,
+          22.37508706
+        ],
+        [
+          114.22696124,
+          22.42075292
+        ],
+        [
+          114.26882603,
+          22.31502772
+        ],
+        [
+          114.12752314,
+          22.50130555
+        ]
+      ],
+      "page_title": {
+        "en": "Provision of Universal Accessibility Facilities at Footbridges, Elevated Walkways and Subways Package 6 - Contract 2",
+        "tc": "為行人天橋、高架行人道及行人隧道提供暢道通行設施─第六組第二份合約"
+      },
+      "description": {
+        "en": "Construction of 44 lifts at 25 existing walkways in Tuen Mun, Tsuen Wan, Sha Tin, Tseung Kwan O and Sheung Shui, and a walkway cover of about 66 metres long near Hong Kong Children's Hospital at Shing Cheong Road of Kowloon City. [List of Lift Retrofitting Works]",
+        "tc": "為位於屯門、荃灣、沙田、將軍澳及上水現有的二十五條行人通道加建共四十四座升降機，及於九龍城承昌道近香港兒童醫院興建一條約66米長的行人通道上蓋。 加建升降機工程名單"
+      },
+      "scope": {
+        "en": "Construction of 44 lifts at 25 existing walkways in Tuen Mun, Tsuen Wan, Sha Tin, Tseung Kwan O and Sheung Shui, and a walkway cover of about 66 metres long near Hong Kong Children's Hospital at Shing Cheong Road of Kowloon City. [List of Lift Retrofitting Works]",
+        "tc": "為位於屯門、荃灣、沙田、將軍澳及上水現有的二十五條行人通道加建共四十四座升降機，及於九龍城承昌道近香港兒童醫院興建一條約66米長的行人通道上蓋。 加建升降機工程名單"
+      },
+      "agreement_no": "HY/2022/08",
+      "cost": {
+        "en": "HK$502.76 Million",
+        "tc": "5億276萬港元"
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "December 2022",
+        "tc": "2022年12月"
+      },
+      "commissioning_date": {
+        "en": "December 2027",
+        "tc": "2027年12月"
+      },
+      "consultant": {
+        "en": "Mannings (Asia) Consultants Limited",
+        "tc": "萬利仕(亞洲)顧問有限公司"
+      },
+      "contractor": {
+        "en": "Dix Construction & Transportation Limited",
+        "tc": "迪時建築運輸有限公司"
+      },
+      "photos": [
+        {
+          "url": "https://www.hyd.gov.hk/en/our_projects/walkability_projects/UA/hy2022_08/photo1.jpg",
+          "alt": ""
+        },
+        {
+          "url": "https://www.hyd.gov.hk/en/our_projects/walkability_projects/UA/hy2022_08/photo2.jpg",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "dataset": "walkability",
+      "department": "HYD",
+      "name": "HY/2022/15 Provision of Universal Accessibility Facilities at Footbridges, Elevated Walkways and Subways Package 5 - Contract 3 [in Tuen Mun, Yuen Long, Tsuen Wan, North District, Tai Po, Sha Tin, Sai Kung and Eastern District]",
+      "type": "UA",
+      "type_label": {
+        "en": "Universal Accessibility",
+        "tc": "暢道通行設施"
+      },
+      "status": 2,
+      "status_label": {
+        "en": "Under Construction",
+        "tc": "施工中"
+      },
+      "url": {
+        "en": "https://www.hyd.gov.hk/en/our_projects/walkability_projects/UA/hy2022_15/index.html",
+        "tc": "https://www.hyd.gov.hk/tc/our_projects/walkability_projects/UA/hy2022_15/index.html"
+      },
+      "coordinates": [
+        [
+          114.17368123,
+          22.44854388
+        ],
+        [
+          114.1738848,
+          22.3801414
+        ],
+        [
+          113.96382646,
+          22.37395267
+        ],
+        [
+          114.00526037,
+          22.4492163
+        ],
+        [
+          114.09801641,
+          22.36844327
+        ],
+        [
+          114.12588738,
+          22.50028709
+        ],
+        [
+          114.24944768,
+          22.32285579
+        ],
+        [
+          114.23204649,
+          22.26108701
+        ]
+      ],
+      "page_title": {
+        "en": "Provision of Universal Accessibility Facilities at Footbridges, Elevated Walkways and Subways Package 5 - Contract 3",
+        "tc": "為行人天橋、高架行人道及行人隧道提供暢道通行設施─第五組第三份合約"
+      },
+      "description": {
+        "en": "Construction of 25 lifts at 17 existing walkways in Tuen Mun, Yuen Long, Tsuen Wan, North District, Tai Po, Sha Tin, Sai Kung and Eastern Districts. [List of Lift Retrofitting Works]",
+        "tc": "為位於屯門、元朗、荃灣、北區、大埔、沙田、西貢及東區內現有的十七條行人通道加建共二十五座升降機。 加建升降機工程名單"
+      },
+      "scope": {
+        "en": "Construction of 25 lifts at 17 existing walkways in Tuen Mun, Yuen Long, Tsuen Wan, North District, Tai Po, Sha Tin, Sai Kung and Eastern Districts. [List of Lift Retrofitting Works]",
+        "tc": "為位於屯門、元朗、荃灣、北區、大埔、沙田、西貢及東區內現有的十七條行人通道加建共二十五座升降機。 加建升降機工程名單"
+      },
+      "agreement_no": "HY/2022/15",
+      "cost": {
+        "en": "HK$242.14 Million",
+        "tc": "2億4214萬港元"
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "January 2023",
+        "tc": "2023年1月"
+      },
+      "commissioning_date": {
+        "en": "January 2026",
+        "tc": "2026年1月"
+      },
+      "consultant": {
+        "en": "Mannings (Asia) Consultants Limited",
+        "tc": "萬利仕(亞洲)顧問有限公司"
+      },
+      "contractor": {
+        "en": "WYC Joint Venture",
+        "tc": "匯業-中地聯營"
+      },
+      "photos": [
+        {
+          "url": "https://www.hyd.gov.hk/en/our_projects/walkability_projects/UA/hy2022_15/photo1.jpg",
+          "alt": ""
+        },
+        {
+          "url": "https://www.hyd.gov.hk/en/our_projects/walkability_projects/UA/hy2022_15/photo2.jpg",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "dataset": "walkability",
+      "department": "HYD",
+      "name": "HY/2022/12 Provision of Universal Accessibility Facilities at Footbridges, Elevated Walkways and Subways Package 7 - Contract 2 [in Central and Western, Kowloon City, Kwai Tsing, Kwun Tong, Wong Tai Sin, Sai Kung, Southern and Yau Tsim Mong Districts]",
+      "type": "UA",
+      "type_label": {
+        "en": "Universal Accessibility",
+        "tc": "暢道通行設施"
+      },
+      "status": 2,
+      "status_label": {
+        "en": "Under Construction",
+        "tc": "施工中"
+      },
+      "url": {
+        "en": "https://www.hyd.gov.hk/en/our_projects/walkability_projects/UA/hy2022_12/index.html",
+        "tc": "https://www.hyd.gov.hk/tc/our_projects/walkability_projects/UA/hy2022_12/index.html"
+      },
+      "coordinates": [
+        [
+          114.12775502,
+          22.3571873
+        ],
+        [
+          114.2520507,
+          22.30634287
+        ],
+        [
+          114.13032208,
+          22.27701922
+        ],
+        [
+          114.17462337,
+          22.32660204
+        ],
+        [
+          114.1987199,
+          22.34336827
+        ],
+        [
+          114.27456145,
+          22.3832639
+        ],
+        [
+          114.15676212,
+          22.24197295
+        ],
+        [
+          114.16354482,
+          22.3066758
+        ],
+        [
+          114.22864494,
+          22.32398656
+        ]
+      ],
+      "page_title": {
+        "en": "Provision of Universal Accessibility Facilities at Footbridges, Elevated Walkways and Subways - Package 7 Contract 2",
+        "tc": "為行人天橋、高架行人道及行人隧道加建人人暢道通行設施 - 第七組第二份合約"
+      },
+      "description": {
+        "en": "Construction of 47 lifts at 31 existing walkways in Central and Western, Kowloon City, Kwai Tsing, Kwun Tong, Wong Tai Sin, Sai Kung, Southern  and Yau Tsim Mong Districts, a walkway cover of about 100 metres long connecting United Christian Hospital at footpath of Sau Mau Ping Road Westbound and a covered elevated walkway of about 50 metres long connecting a proposed lift tower for the existing footbridge (Structure no. KT06) to Sau Ming Road Park. [List of Lift Retrofitting Works]",
+        "tc": "為位於中西區、九龍城、葵青、觀塘、黃大仙、西貢、南區及油尖旺現有的三十一條行人通道加建共四十七座升降機，在秀茂坪道西行線的行人路加建一條長約一百米的上蓋連接基督教聯合醫院，及興建一條長約五十米的有蓋高架行人通道以連接擬建於現有行人天橋(結構編號KT06)的升降機塔至秀明道公園。 加建升降機工程名單"
+      },
+      "scope": {
+        "en": "Construction of 47 lifts at 31 existing walkways in Central and Western, Kowloon City, Kwai Tsing, Kwun Tong, Wong Tai Sin, Sai Kung, Southern  and Yau Tsim Mong Districts, a walkway cover of about 100 metres long connecting United Christian Hospital at footpath of Sau Mau Ping Road Westbound and a covered elevated walkway of about 50 metres long connecting a proposed lift tower for the existing footbridge (Structure no. KT06) to Sau Ming Road Park. [List of Lift Retrofitting Works]",
+        "tc": "為位於中西區、九龍城、葵青、觀塘、黃大仙、西貢、南區及油尖旺現有的三十一條行人通道加建共四十七座升降機，在秀茂坪道西行線的行人路加建一條長約一百米的上蓋連接基督教聯合醫院，及興建一條長約五十米的有蓋高架行人通道以連接擬建於現有行人天橋(結構編號KT06)的升降機塔至秀明道公園。 加建升降機工程名單"
+      },
+      "agreement_no": "HY/2022/12",
+      "cost": {
+        "en": "HK$940.7 Million",
+        "tc": "9億4,073萬港元"
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "July 2023",
+        "tc": "2023年7月"
+      },
+      "commissioning_date": {
+        "en": "July 2026",
+        "tc": "2026年7月"
+      },
+      "consultant": {
+        "en": "WPS (Asia) Limited",
+        "tc": "科進顧問(亞洲)有限公司"
+      },
+      "contractor": {
+        "en": "Build King – Richwell  Engineering Joint Venture",
+        "tc": "利基-顯豐工程聯營"
+      },
+      "photos": [
+        {
+          "url": "https://www.hyd.gov.hk/en/our_projects/walkability_projects/UA/hy2022_12/photo1.jpg",
+          "alt": ""
+        },
+        {
+          "url": "https://www.hyd.gov.hk/en/our_projects/walkability_projects/UA/hy2022_12/photo2.jpg",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "dataset": "walkability",
+      "department": "HYD",
+      "name": "HY/2024/09 Provision of Universal Accessibility Facilities at Footbridges, Elevated Walkways and Subways - Package 8 Contract 1 [in Sai Kung, Tuen Mun, Kwun Tong, Wong Tai Sin, Kwai Tsing, Sha Tin, Tsuen Wan, Tai Po, Kowloon City, Sham Shui Po, North Di",
+      "type": "UA",
+      "type_label": {
+        "en": "Universal Accessibility",
+        "tc": "暢道通行設施"
+      },
+      "status": 2,
+      "status_label": {
+        "en": "Under Construction",
+        "tc": "施工中"
+      },
+      "url": {
+        "en": "https://www.hyd.gov.hk/en/our_projects/walkability_projects/UA/hy2024_09/index.html",
+        "tc": "https://www.hyd.gov.hk/tc/our_projects/walkability_projects/UA/hy2024_09/index.html"
+      },
+      "coordinates": [
+        [
+          114.25038584,
+          22.30630299
+        ],
+        [
+          114.12336811,
+          22.36815509
+        ],
+        [
+          113.97541999,
+          22.38666992
+        ],
+        [
+          114.23821016,
+          22.30509422
+        ],
+        [
+          114.19852786,
+          22.34860093
+        ],
+        [
+          114.12503032,
+          22.3766648
+        ],
+        [
+          114.17159252,
+          22.36317083
+        ],
+        [
+          114.17472384,
+          22.44859434
+        ],
+        [
+          114.18030899,
+          22.32625999
+        ],
+        [
+          114.17146233,
+          22.3333956
+        ],
+        [
+          114.13877244,
+          22.49366441
+        ],
+        [
+          114.2378281,
+          22.26832143
+        ],
+        [
+          114.15626144,
+          22.24113432
+        ]
+      ],
+      "page_title": {
+        "en": "Provision of Universal Accessibility Facilities at Footbridges, Elevated Walkways and Subways - Package 8 Contract 1",
+        "tc": "為行人天橋、高架行人道及行人隧道加建人人暢道通行設施 - 第八組第一份合約"
+      },
+      "description": {
+        "en": "Construction of 46 lifts at 29 existing walkways in Sai Kung, Tuen Mun, Kwun Tong, Wong Tai Sin, Kwai Tsing, Sha Tin, Tsuen Wan, Tai Po, Kowloon City, Sham Shui Po, North District, Southern District and Eastern District. [List of Lift Retrofitting Works]",
+        "tc": "為位於西貢、屯門、觀塘、黃大仙、葵青、沙田、荃灣、大埔、九龍城、深水埗、北區、南區及東區現有的二十九條行人通道加建共四十六座升降機。 加建升降機工程名單"
+      },
+      "scope": {
+        "en": "Construction of 46 lifts at 29 existing walkways in Sai Kung, Tuen Mun, Kwun Tong, Wong Tai Sin, Kwai Tsing, Sha Tin, Tsuen Wan, Tai Po, Kowloon City, Sham Shui Po, North District, Southern District and Eastern District. [List of Lift Retrofitting Works]",
+        "tc": "為位於西貢、屯門、觀塘、黃大仙、葵青、沙田、荃灣、大埔、九龍城、深水埗、北區、南區及東區現有的二十九條行人通道加建共四十六座升降機。 加建升降機工程名單"
+      },
+      "agreement_no": "HY/2024/09",
+      "cost": {
+        "en": "HK$425.59 Million",
+        "tc": "4億2,559萬港元"
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "August 2024",
+        "tc": "2024年8月"
+      },
+      "commissioning_date": {
+        "en": "February 2028",
+        "tc": "2028年2月"
+      },
+      "consultant": {
+        "en": "Atkins China Limited",
+        "tc": "阿特金斯顧問有限公司"
+      },
+      "contractor": {
+        "en": "HV-CWE Joint Venture",
+        "tc": "恒利-中水電聯營"
+      },
+      "photos": [
+        {
+          "url": "https://www.hyd.gov.hk/en/our_projects/walkability_projects/UA/hy2024_09/nf220.jpg",
+          "alt": ""
+        },
+        {
+          "url": "https://www.hyd.gov.hk/en/our_projects/walkability_projects/UA/hy2024_09/ot02.jpg",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "dataset": "walkability",
+      "department": "HYD",
+      "name": "CV/2014/02 Provision of Universal Access Facilities for Highway Structures - Package 2 Contract 1 [in North, Tsuen Wan, Kwai Tsing, Sha Tin, Tai Po, Sai Kung and Tuen Mun]",
+      "type": "UA",
+      "type_label": {
+        "en": "Universal Accessibility",
+        "tc": "暢道通行設施"
+      },
+      "status": 3,
+      "status_label": {
+        "en": "Completed",
+        "tc": "已完成"
+      },
+      "url": {
+        "en": "https://www.hyd.gov.hk/en/our_projects/walkability_projects/UA/cv2014_02/index.html",
+        "tc": "https://www.hyd.gov.hk/tc/our_projects/walkability_projects/UA/cv2014_02/index.html"
+      },
+      "coordinates": [
+        [
+          114.13858591,
+          22.49165082
+        ],
+        [
+          114.11799852,
+          22.37331793
+        ],
+        [
+          114.18727996,
+          22.38184469
+        ],
+        [
+          114.27456145,
+          22.3832639
+        ],
+        [
+          113.97343179,
+          22.39406396
+        ],
+        [
+          114.13554073,
+          22.36491713
+        ],
+        [
+          114.17290026,
+          22.4466148
+        ]
+      ],
+      "page_title": {
+        "en": "Provision of Universal Access Facilities for Highway Structures - Package 2 Contract 1",
+        "tc": "在行人天橋、高架行人道及行人隧道加建人人暢道通行設施－第二組第一份合約"
+      },
+      "description": {
+        "en": "Construction of 22 lifts for 11 existing footbridges and two existing subways in North, Tsuen Wan, Kwai Tsing, Sha Tin, Tai Po, Sai Kung and Tuen Mun Districts.",
+        "tc": "為位於北區、荃灣、葵青、沙田、大埔、西貢和屯門的十一條現有行人天橋和兩條現有行人隧道加建二十二座升降機。"
+      },
+      "scope": {
+        "en": "Construction of 22 lifts for 11 existing footbridges and two existing subways in North, Tsuen Wan, Kwai Tsing, Sha Tin, Tai Po, Sai Kung and Tuen Mun Districts.",
+        "tc": "為位於北區、荃灣、葵青、沙田、大埔、西貢和屯門的十一條現有行人天橋和兩條現有行人隧道加建二十二座升降機。"
+      },
+      "agreement_no": "CV/2014/02",
+      "cost": {
+        "en": "",
+        "tc": ""
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "April 2015",
+        "tc": "2015年4月"
+      },
+      "commissioning_date": {
+        "en": "January 2020",
+        "tc": "2020年1月"
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "",
+        "tc": ""
+      },
+      "photos": [
+        {
+          "url": "https://www.hyd.gov.hk/en/our_projects/walkability_projects/UA/cv2014_02/photo1.jpg",
+          "alt": ""
+        },
+        {
+          "url": "https://www.hyd.gov.hk/en/our_projects/walkability_projects/UA/cv2014_02/photo2.jpg",
+          "alt": "NF51 - Footbridge across Castle Peak Road - Kwai Chung Section near Wo Yi Hop Road"
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "dataset": "walkability",
+      "department": "HYD",
+      "name": "CV/2014/03 Provision of Universal Access Facilities for Highway Structures - Package 1 Contract 1 [in Eastern, Wan Chai, Southern, Kwun Tong, Yau Tsim Mong, Kowloon City and Wong Tai Sin]",
+      "type": "UA",
+      "type_label": {
+        "en": "Universal Accessibility",
+        "tc": "暢道通行設施"
+      },
+      "status": 3,
+      "status_label": {
+        "en": "Completed",
+        "tc": "已完成"
+      },
+      "url": {
+        "en": "https://www.hyd.gov.hk/en/our_projects/walkability_projects/UA/cv2014_03/index.html",
+        "tc": "https://www.hyd.gov.hk/tc/our_projects/walkability_projects/UA/cv2014_03/index.html"
+      },
+      "coordinates": [
+        [
+          114.17264517,
+          22.27756175
+        ],
+        [
+          114.16798534,
+          22.24800566
+        ],
+        [
+          114.2264819,
+          22.31190655
+        ],
+        [
+          114.18931989,
+          22.32960623
+        ],
+        [
+          114.19391448,
+          22.34169308
+        ],
+        [
+          114.21650382,
+          22.28465612
+        ],
+        [
+          114.16605276,
+          22.31858725
+        ]
+      ],
+      "page_title": {
+        "en": "Provision of Universal Access Facilities for Highway Structures - Package 1 Contract 1",
+        "tc": "在行人天橋、高架行人道及行人隧道加建人人暢道通行設施－第一組第一份合約"
+      },
+      "description": {
+        "en": "Construction of 16 lifts at four existing footbridges, two existing elevated walkways and two existing subways located in Eastern, Wan Chai, Southern, Kwun Tong, Yau Tsim Mong, Kowloon City and Wong Tai Sin Districts.",
+        "tc": "為位於東區、灣仔、南區、觀塘、油尖旺、九龍城以及黃大仙現有的四條行人天橋、兩條高架行人通道及兩條行人隊道加建總共十六座升降機。"
+      },
+      "scope": {
+        "en": "Construction of 16 lifts at four existing footbridges, two existing elevated walkways and two existing subways located in Eastern, Wan Chai, Southern, Kwun Tong, Yau Tsim Mong, Kowloon City and Wong Tai Sin Districts.",
+        "tc": "為位於東區、灣仔、南區、觀塘、油尖旺、九龍城以及黃大仙現有的四條行人天橋、兩條高架行人通道及兩條行人隊道加建總共十六座升降機。"
+      },
+      "agreement_no": "CV/2014/03",
+      "cost": {
+        "en": "HK$272 Million",
+        "tc": "2億7,200萬港元"
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "April 2015",
+        "tc": "2015年4月"
+      },
+      "commissioning_date": {
+        "en": "May 2019",
+        "tc": "2019年5月"
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "",
+        "tc": ""
+      },
+      "photos": [
+        {
+          "url": "https://www.hyd.gov.hk/en/our_projects/walkability_projects/UA/cv2014_03/photo1.jpg",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "dataset": "walkability",
+      "department": "HYD",
+      "name": "CV/2015/01 Provision of Universal Access Facilities for Highway Structures - Package 1 Contract 2 [in Eastern, Wan Chai, Central and Western, Southern, Kowloon City, Yau Tsim Mong and Kwun Tong]",
+      "type": "UA",
+      "type_label": {
+        "en": "Universal Accessibility",
+        "tc": "暢道通行設施"
+      },
+      "status": 3,
+      "status_label": {
+        "en": "Completed",
+        "tc": "已完成"
+      },
+      "url": {
+        "en": "https://www.hyd.gov.hk/en/our_projects/walkability_projects/UA/cv2015_01/index.html",
+        "tc": "https://www.hyd.gov.hk/tc/our_projects/walkability_projects/UA/cv2015_01/index.html"
+      },
+      "coordinates": [
+        [
+          114.17264517,
+          22.27756175
+        ],
+        [
+          114.18931989,
+          22.32960623
+        ],
+        [
+          114.17068934,
+          22.31284118
+        ],
+        [
+          114.1593273,
+          22.24761977
+        ],
+        [
+          114.14273952,
+          22.28551212
+        ],
+        [
+          114.21650433,
+          22.28465657
+        ],
+        [
+          114.2264819,
+          22.31190655
+        ]
+      ],
+      "page_title": {
+        "en": "Provision of Universal Access Facilities for Highway Structures - Package 1 Contract 2",
+        "tc": "在行人天橋、高架行人道及行人隧道加建人人暢道通行設施－第一組第二份合約"
+      },
+      "description": {
+        "en": "Construction of 15 lifts at nine existing footbridges and one existing elevated walkway located in Eastern, Wan Chai, Central and Western, Southern, Kowloon City, Yau Tsim Mong and Kwun Tong Districts.",
+        "tc": "為位於東區、灣仔、中西區、南區、九龍城、油尖旺以及官塘現有的九條行人天橋及一條高架行人通道加建總共十五座升降機。"
+      },
+      "scope": {
+        "en": "Construction of 15 lifts at nine existing footbridges and one existing elevated walkway located in Eastern, Wan Chai, Central and Western, Southern, Kowloon City, Yau Tsim Mong and Kwun Tong Districts.",
+        "tc": "為位於東區、灣仔、中西區、南區、九龍城、油尖旺以及官塘現有的九條行人天橋及一條高架行人通道加建總共十五座升降機。"
+      },
+      "agreement_no": "CV/2015/01",
+      "cost": {
+        "en": "HK$254 Million",
+        "tc": "2億5,400萬港元"
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "November 2015",
+        "tc": "2015年11月"
+      },
+      "commissioning_date": {
+        "en": "October 2019",
+        "tc": "2019年10月"
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "",
+        "tc": ""
+      },
+      "photos": [
+        {
+          "url": "https://www.hyd.gov.hk/en/our_projects/walkability_projects/UA/cv2015_01/photo1.jpg",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "dataset": "walkability",
+      "department": "HYD",
+      "name": "CV/2015/02 Provision of Universal Access Facilities for Highway Structures - Package 2 Contract 2 [in Islands, Kwai Tsing, Sai Kung, Sha Tin, Tai Po, Tsuen Wan, Tuen Mun and Yuen Long]",
+      "type": "UA",
+      "type_label": {
+        "en": "Universal Accessibility",
+        "tc": "暢道通行設施"
+      },
+      "status": 3,
+      "status_label": {
+        "en": "Completed",
+        "tc": "已完成"
+      },
+      "url": {
+        "en": "https://www.hyd.gov.hk/en/our_projects/walkability_projects/UA/cv2015_02/index.html",
+        "tc": "https://www.hyd.gov.hk/tc/our_projects/walkability_projects/UA/cv2015_02/index.html"
+      },
+      "coordinates": [
+        [
+          114.02430104,
+          22.44520024
+        ],
+        [
+          113.93954149,
+          22.28113589
+        ],
+        [
+          114.10725239,
+          22.35827325
+        ],
+        [
+          114.27456145,
+          22.3832639
+        ],
+        [
+          114.18727996,
+          22.38184469
+        ],
+        [
+          114.17180895,
+          22.44841375
+        ],
+        [
+          114.11799852,
+          22.37331793
+        ],
+        [
+          113.97343179,
+          22.39406396
+        ]
+      ],
+      "page_title": {
+        "en": "Provision of Universal Access Facilities for Highway Structures - Package 2 Contract 2",
+        "tc": "在行人天橋、高架行人道及行人隧道加建人人暢道通行設施－第二組第二份合約"
+      },
+      "description": {
+        "en": "Construction of 23 lifts for ten footbridges and three  subways in Islands, Kwai Tsing, Sai Kung, Sha Tin, Tai Po, Tsuen Wan, Tuen Mun and Yuen Long Districts.",
+        "tc": "為位於離島、葵青、西貢、沙田、大埔、荃灣、屯門和元朗的十條現有行人天橋和三條現有行人隧道加建二十三座升降機。"
+      },
+      "scope": {
+        "en": "Construction of 23 lifts for ten footbridges and three  subways in Islands, Kwai Tsing, Sai Kung, Sha Tin, Tai Po, Tsuen Wan, Tuen Mun and Yuen Long Districts.",
+        "tc": "為位於離島、葵青、西貢、沙田、大埔、荃灣、屯門和元朗的十條現有行人天橋和三條現有行人隧道加建二十三座升降機。"
+      },
+      "agreement_no": "CV/2015/02",
+      "cost": {
+        "en": "HK$320 Million",
+        "tc": "3億2,000萬港元"
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "November 2015",
+        "tc": "2015年11月"
+      },
+      "commissioning_date": {
+        "en": "April 2020",
+        "tc": "2020年4月"
+      },
+      "consultant": {
+        "en": "Mannings (Asia) Consultants Limited",
+        "tc": "萬利仕(亞洲)顧問有限公司"
+      },
+      "contractor": {
+        "en": "China Road and Bridge Corporation",
+        "tc": "中國路橋工程有限責任公司"
+      },
+      "photos": [
+        {
+          "url": "https://www.hyd.gov.hk/en/our_projects/walkability_projects/UA/cv2015_02/photo1.jpg",
+          "alt": ""
+        },
+        {
+          "url": "https://www.hyd.gov.hk/en/our_projects/walkability_projects/UA/cv2015_02/photo2.jpg",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "dataset": "walkability",
+      "department": "HYD",
+      "name": "CV/2015/08 Provision of Universal Access Facilities for Highway Structures - Package 1 Contract 3 [in Southern, Kowloon City, Wong Tai Sin, Sham Shui Po and Kwun Tong]",
+      "type": "UA",
+      "type_label": {
+        "en": "Universal Accessibility",
+        "tc": "暢道通行設施"
+      },
+      "status": 3,
+      "status_label": {
+        "en": "Completed",
+        "tc": "已完成"
+      },
+      "url": {
+        "en": "https://www.hyd.gov.hk/en/our_projects/walkability_projects/UA/cv2015_08/index.html",
+        "tc": "https://www.hyd.gov.hk/tc/our_projects/walkability_projects/UA/cv2015_08/index.html"
+      },
+      "coordinates": [
+        [
+          114.18700889,
+          22.30410552
+        ],
+        [
+          114.16798534,
+          22.24800566
+        ],
+        [
+          114.19391448,
+          22.34169308
+        ],
+        [
+          114.16213106,
+          22.3308744
+        ],
+        [
+          114.2264819,
+          22.31190655
+        ]
+      ],
+      "page_title": {
+        "en": "Provision of Universal Access Facilities for Highway Structures - Package 1 Contract 3",
+        "tc": "在行人天橋、高架行人道及行人隧道加建人人暢道通行設施－第一組第三份合約"
+      },
+      "description": {
+        "en": "Construction of 13 lifts and one ramp at seven existing footbridges in Southern, Kowloon City, Wong Tai Sin, Sham Shui Po and Kwun Tong Districts.",
+        "tc": ""
+      },
+      "scope": {
+        "en": "Construction of 13 lifts and one ramp at seven existing footbridges in Southern, Kowloon City, Wong Tai Sin, Sham Shui Po and Kwun Tong Districts.",
+        "tc": "為位於南區、九龍城、黃大仙、深水埗以及觀塘現有的七條行人天橋加建總共十三座升降機及一條斜道。"
+      },
+      "agreement_no": "CV/2015/08",
+      "cost": {
+        "en": "HK$188 Million",
+        "tc": "1億8,800萬港元"
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "June 2016",
+        "tc": "2016年7月"
+      },
+      "commissioning_date": {
+        "en": "February 2020",
+        "tc": "2020年2月"
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "",
+        "tc": ""
+      },
+      "photos": [
+        {
+          "url": "https://www.hyd.gov.hk/en/our_projects/walkability_projects/UA/cv2015_08/photo1.jpg",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "dataset": "walkability",
+      "department": "HYD",
+      "name": "HY/2012/12 Provision of Barrier-free Access Facilities for Highway Structures Phase 2 [in Tai Po, Sham Shui Po, Kwun Tong, Wan Chai, Tuen Mun, Yau Tsim Mong and Wong Tai Sin]",
+      "type": "UA",
+      "type_label": {
+        "en": "Universal Accessibility",
+        "tc": "暢道通行設施"
+      },
+      "status": 3,
+      "status_label": {
+        "en": "Completed",
+        "tc": "已完成"
+      },
+      "url": {
+        "en": "https://www.hyd.gov.hk/en/our_projects/walkability_projects/UA/hy2012_12/index.html",
+        "tc": "https://www.hyd.gov.hk/tc/our_projects/walkability_projects/UA/hy2012_12/index.html"
+      },
+      "coordinates": [
+        [
+          114.17704776,
+          22.28099301
+        ],
+        [
+          114.17180895,
+          22.44841375
+        ],
+        [
+          114.16213106,
+          22.3308744
+        ],
+        [
+          114.2264819,
+          22.31190655
+        ],
+        [
+          113.97343179,
+          22.39406396
+        ],
+        [
+          114.17068934,
+          22.31284118
+        ],
+        [
+          114.19391448,
+          22.34169308
+        ]
+      ],
+      "page_title": {
+        "en": "Provision of Barrier-free Access Facilities for Highway Structures Phase 2",
+        "tc": "為道路構築物提供無障礙通道設施－第二期"
+      },
+      "description": {
+        "en": "Construction of 13 lifts and three ramps to six existing footbridges and five existing subways in Tai Po, Sham Shui Po, Kwun Tong, Wan Chai, Tuen Mun, Yau Tsim Mong and Wong Tai Sin Districts.",
+        "tc": "為位於大埔、深水埗、觀塘、灣仔、屯門、油尖旺及黃大仙的六條現有行人天橋及五條現有行人隧道建造共十三部升降機及三條斜道。"
+      },
+      "scope": {
+        "en": "Construction of 13 lifts and three ramps to six existing footbridges and five existing subways in Tai Po, Sham Shui Po, Kwun Tong, Wan Chai, Tuen Mun, Yau Tsim Mong and Wong Tai Sin Districts.",
+        "tc": "為位於大埔、深水埗、觀塘、灣仔、屯門、油尖旺及黃大仙的六條現有行人天橋及五條現有行人隧道建造共十三部升降機及三條斜道。"
+      },
+      "agreement_no": "HY/2012/12",
+      "cost": {
+        "en": "HK$162 Million",
+        "tc": "1億6,200萬港元"
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "March 2013",
+        "tc": "2013年3月"
+      },
+      "commissioning_date": {
+        "en": "February 2017",
+        "tc": "2017年2月"
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "",
+        "tc": ""
+      },
+      "photos": [
+        {
+          "url": "https://www.hyd.gov.hk/en/our_projects/walkability_projects/UA/hy2012_12/photo1.jpg",
+          "alt": ""
+        },
+        {
+          "url": "https://www.hyd.gov.hk/en/our_projects/walkability_projects/UA/hy2012_12/photo2.jpg",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "dataset": "walkability",
+      "department": "HYD",
+      "name": "HY/2013/16 Provision of Barrier-free Access Facilities for Highway Structures Phase 2 Contract 2",
+      "type": "UA",
+      "type_label": {
+        "en": "Universal Accessibility",
+        "tc": "暢道通行設施"
+      },
+      "status": 3,
+      "status_label": {
+        "en": "Completed",
+        "tc": "已完成"
+      },
+      "url": {
+        "en": "https://www.hyd.gov.hk/en/our_projects/walkability_projects/UA/hy2013_16/index.html",
+        "tc": "https://www.hyd.gov.hk/tc/our_projects/walkability_projects/UA/hy2013_16/index.html"
+      },
+      "coordinates": [
+        [
+          114.17211265,
+          22.27932087
+        ],
+        [
+          114.13858591,
+          22.49165082
+        ]
+      ],
+      "page_title": {
+        "en": "Provision of Barrier-free Access Facilities for Highway Structures Phase 2 Contract 2",
+        "tc": "為道路構築物提供無障礙通道設施－第二期第二份合約"
+      },
+      "description": {
+        "en": "Construction of eight lifts for four existing footbridges and one existing subway  in Wan Chai and North Districts.",
+        "tc": ""
+      },
+      "scope": {
+        "en": "Construction of eight lifts for four existing footbridges and one existing subway  in Wan Chai and North Districts.",
+        "tc": "為位於灣仔及北區的四條現有的行人天橋及一條現有的行人隧道加建八座升降機。"
+      },
+      "agreement_no": "HY/2013/16",
+      "cost": {
+        "en": "HK$114 Million",
+        "tc": "1億1,400萬港元"
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "June 2014",
+        "tc": "2014年6月"
+      },
+      "commissioning_date": {
+        "en": "September 2017",
+        "tc": "2017年9月"
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "",
+        "tc": ""
+      },
+      "photos": [
+        {
+          "url": "https://www.hyd.gov.hk/en/our_projects/walkability_projects/UA/hy2013_16/photo1.jpg",
+          "alt": ""
+        },
+        {
+          "url": "https://www.hyd.gov.hk/en/our_projects/walkability_projects/UA/hy2013_16/photo2.jpg",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "dataset": "walkability",
+      "department": "HYD",
+      "name": "HY/2013/23 Provision of Barrier-free Access Facilities for Highway Structures Phase 3 Contract 4",
+      "type": "UA",
+      "type_label": {
+        "en": "Universal Accessibility",
+        "tc": "暢道通行設施"
+      },
+      "status": 3,
+      "status_label": {
+        "en": "Completed",
+        "tc": "已完成"
+      },
+      "url": {
+        "en": "https://www.hyd.gov.hk/en/our_projects/walkability_projects/UA/hy2013_23/index.html",
+        "tc": "https://www.hyd.gov.hk/tc/our_projects/walkability_projects/UA/hy2013_23/index.html"
+      },
+      "coordinates": [
+        [
+          114.17281414,
+          22.31997014
+        ],
+        [
+          114.17426154,
+          22.31654548
+        ],
+        [
+          114.17264517,
+          22.27756175
+        ],
+        [
+          114.21650433,
+          22.28465657
+        ],
+        [
+          114.16798534,
+          22.24800566
+        ],
+        [
+          114.19391448,
+          22.34169308
+        ],
+        [
+          114.2264819,
+          22.31190655
+        ],
+        [
+          114.17180895,
+          22.44841375
+        ],
+        [
+          113.97343179,
+          22.39406396
+        ],
+        [
+          114.13858591,
+          22.49165082
+        ]
+      ],
+      "page_title": {
+        "en": "Provision of Barrier-free Access Facilities for Highway Structures Phase 3 Contract 4",
+        "tc": "為道路構築物提供無障礙通道設施－第三期第四份合約"
+      },
+      "description": {
+        "en": "Construction of 24 lifts and one standard ramp for ten existing footbridges, three existing elevated walkways and three existing subways in 16 locations located in Wan Chai, Eastern, Southern, Kowloon City, Yau Tsim Mong, Wong Tai Sin, Kwun Tong, Tai Po, Tuen Mun and North.",
+        "tc": "為位於灣仔、東區、南區、九龍城、油尖旺、黃大仙、觀塘、大埔、屯門及北區十六個地點的十條現有的行人天橋、三條現有的高架行人道及三條現有的行人隧道加建二十四座升降機及一條標準斜道。"
+      },
+      "scope": {
+        "en": "Construction of 24 lifts and one standard ramp for ten existing footbridges, three existing elevated walkways and three existing subways in 16 locations located in Wan Chai, Eastern, Southern, Kowloon City, Yau Tsim Mong, Wong Tai Sin, Kwun Tong, Tai Po, Tuen Mun and North.",
+        "tc": "為位於灣仔、東區、南區、九龍城、油尖旺、黃大仙、觀塘、大埔、屯門及北區十六個地點的十條現有的行人天橋、三條現有的高架行人道及三條現有的行人隧道加建二十四座升降機及一條標準斜道。"
+      },
+      "agreement_no": "HY/2013/23",
+      "cost": {
+        "en": "HK$331.2 Million",
+        "tc": "3億1,120萬港元"
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "August 2014",
+        "tc": "2014年8月"
+      },
+      "commissioning_date": {
+        "en": "November 2018",
+        "tc": "2018年11月"
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "",
+        "tc": ""
+      },
+      "photos": [
+        {
+          "url": "https://www.hyd.gov.hk/en/our_projects/walkability_projects/UA/hy2013_23/photo1.jpg",
+          "alt": ""
+        },
+        {
+          "url": "https://www.hyd.gov.hk/en/our_projects/walkability_projects/UA/hy2013_23/photo2.jpg",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "dataset": "walkability",
+      "department": "HYD",
+      "name": "HY/2014/06 Provision of Barrier-free Access Facilities for Highway Structures Phase 3 Contract 5 [in North, Tsuen Wan, Eastern, Tuen Mun, Yau Tsim Mong, Central & Western, Kwun Tong, Wong Tai Sin and Tai Po]",
+      "type": "UA",
+      "type_label": {
+        "en": "Universal Accessibility",
+        "tc": "暢道通行設施"
+      },
+      "status": 3,
+      "status_label": {
+        "en": "Completed",
+        "tc": "已完成"
+      },
+      "url": {
+        "en": "https://www.hyd.gov.hk/en/our_projects/walkability_projects/UA/hy2014_06/index.html",
+        "tc": "https://www.hyd.gov.hk/tc/our_projects/walkability_projects/UA/hy2014_06/index.html"
+      },
+      "coordinates": [
+        [
+          114.14470654,
+          22.28854038
+        ],
+        [
+          114.23737649,
+          22.3120959
+        ],
+        [
+          114.13858591,
+          22.49165082
+        ],
+        [
+          114.11799852,
+          22.37331793
+        ],
+        [
+          114.21650382,
+          22.28465612
+        ],
+        [
+          113.97343179,
+          22.39406396
+        ],
+        [
+          114.17068934,
+          22.31284118
+        ],
+        [
+          114.19391448,
+          22.34169308
+        ],
+        [
+          114.17180895,
+          22.44841375
+        ]
+      ],
+      "page_title": {
+        "en": "Provision of Barrier-free Access Facilities for Highway Structures Phase 3 Contract 5",
+        "tc": "為道路構築物提供無障礙通道設施－第三期第五份合約"
+      },
+      "description": {
+        "en": "Construction of 25 lifts for 17 existing footbridges and one existing elevated walkway in North, Tsuen Wan, Eastern, Tuen Mun, Yau Tsim Mong, Central & Western, Kwun Tong, Wong Tai Sin and Tai Po Districts.",
+        "tc": "為位於北區、荃灣、東區、屯門、油尖旺、中西區、觀塘、黃大仙及大埔的十七條現有的行人天橋及一條現有的高架行人道加建二十五座升降機。"
+      },
+      "scope": {
+        "en": "Construction of 25 lifts for 17 existing footbridges and one existing elevated walkway in North, Tsuen Wan, Eastern, Tuen Mun, Yau Tsim Mong, Central & Western, Kwun Tong, Wong Tai Sin and Tai Po Districts.",
+        "tc": "為位於北區、荃灣、東區、屯門、油尖旺、中西區、觀塘、黃大仙及大埔的十七條現有的行人天橋及一條現有的高架行人道加建二十五座升降機。"
+      },
+      "agreement_no": "HY/2014/06",
+      "cost": {
+        "en": "HK$369 Million",
+        "tc": "3億6,900萬港元"
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "May 2015",
+        "tc": "2015年5月"
+      },
+      "commissioning_date": {
+        "en": "November 2020",
+        "tc": "2020年11月"
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "",
+        "tc": ""
+      },
+      "photos": [
+        {
+          "url": "https://www.hyd.gov.hk/en/our_projects/walkability_projects/UA/hy2014_06/photo1.jpg",
+          "alt": ""
+        },
+        {
+          "url": "https://www.hyd.gov.hk/en/our_projects/walkability_projects/UA/hy2014_06/photo2.jpg",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "dataset": "walkability",
+      "department": "HYD",
+      "name": "HY/2014/12 Provision of Barrier-free Access Facilities for Highway Structures Phase 3 Contract 6 [in North District, Tai Po, Sha Tin, Sai Kung, Tuen Mun and Tsuen Wan]",
+      "type": "UA",
+      "type_label": {
+        "en": "Universal Accessibility",
+        "tc": "暢道通行設施"
+      },
+      "status": 3,
+      "status_label": {
+        "en": "Completed",
+        "tc": "已完成"
+      },
+      "url": {
+        "en": "https://www.hyd.gov.hk/en/our_projects/walkability_projects/UA/hy2014_12/index.html",
+        "tc": "https://www.hyd.gov.hk/tc/our_projects/walkability_projects/UA/hy2014_12/index.html"
+      },
+      "coordinates": [
+        [
+          114.13129486,
+          22.50348033
+        ],
+        [
+          114.19603599,
+          22.37940277
+        ],
+        [
+          114.17180895,
+          22.44841375
+        ],
+        [
+          114.27456145,
+          22.3832639
+        ],
+        [
+          113.97343179,
+          22.39406396
+        ],
+        [
+          114.11799852,
+          22.37331793
+        ]
+      ],
+      "page_title": {
+        "en": "Provision of Barrier-free Access Facilities for Highway Structures Phase 3 Contract 6",
+        "tc": "為道路構築物提供無障礙通道設施－第三期第六份合約"
+      },
+      "description": {
+        "en": "Construction of 14 lifts and one ramp at six existing footbridges and five existing subways in North, Tai Po,  Sha Tin, Sai Kung, Tuen Mun and Tsuen Wan Districts.",
+        "tc": "為位於北區、大埔、沙田、西貢、屯門以及荃灣現有的六條行人天橋及五條行人隊道加建十四座升降機及一條斜道。"
+      },
+      "scope": {
+        "en": "Construction of 14 lifts and one ramp at six existing footbridges and five existing subways in North, Tai Po,  Sha Tin, Sai Kung, Tuen Mun and Tsuen Wan Districts.",
+        "tc": "為位於北區、大埔、沙田、西貢、屯門以及荃灣現有的六條行人天橋及五條行人隊道加建十四座升降機及一條斜道。"
+      },
+      "agreement_no": "HY/2014/12",
+      "cost": {
+        "en": "HK$215 Million",
+        "tc": "2億1,500萬港元"
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "July 2015",
+        "tc": "2015年7月"
+      },
+      "commissioning_date": {
+        "en": "January 2019",
+        "tc": "2019年1月"
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "",
+        "tc": ""
+      },
+      "photos": [
+        {
+          "url": "https://www.hyd.gov.hk/en/our_projects/walkability_projects/UA/hy2014_12/photo1.jpg",
+          "alt": ""
+        },
+        {
+          "url": "https://www.hyd.gov.hk/en/our_projects/walkability_projects/UA/hy2014_12/photo2.jpg",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "dataset": "walkability",
+      "department": "HYD",
+      "name": "HY/2015/06 Provision of Barrier-free Access Facilities for Highway Structures Phase 3 Contract 8 [in North District, Tai Po, Sha Tin and Yuen Long]",
+      "type": "UA",
+      "type_label": {
+        "en": "Universal Accessibility",
+        "tc": "暢道通行設施"
+      },
+      "status": 3,
+      "status_label": {
+        "en": "Completed",
+        "tc": "已完成"
+      },
+      "url": {
+        "en": "https://www.hyd.gov.hk/en/our_projects/walkability_projects/UA/hy2015_06/index.html",
+        "tc": "https://www.hyd.gov.hk/tc/our_projects/walkability_projects/UA/hy2015_06/index.html"
+      },
+      "coordinates": [
+        [
+          114.18727996,
+          22.38184469
+        ],
+        [
+          114.03502575,
+          22.44652711
+        ],
+        [
+          114.17180895,
+          22.44841375
+        ],
+        [
+          114.15296717,
+          22.48516794
+        ]
+      ],
+      "page_title": {
+        "en": "Provision of Barrier-free Access Facilities for Highway Structures Phase 3 Contract 8",
+        "tc": "為道路構築物提供無障礙通道設施－第三期第八份合約"
+      },
+      "description": {
+        "en": "Construction of 14 lifts for six existing footbridges and two existing subways in North, Tai Po, Sha Tin and Yuen Long Districts.",
+        "tc": ""
+      },
+      "scope": {
+        "en": "Construction of 14 lifts for six existing footbridges and two existing subways in North, Tai Po, Sha Tin and Yuen Long Districts.",
+        "tc": "為位於上水、粉嶺、大埔、馬鞍山、沙田以及元朗現有的六條行人天橋及兩條行人隧道加建十四座升降機。"
+      },
+      "agreement_no": "HY/2015/06",
+      "cost": {
+        "en": "HK$203 Million",
+        "tc": "2億3,000萬港元"
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "January 2017d",
+        "tc": "2017年1月"
+      },
+      "commissioning_date": {
+        "en": "March 2021",
+        "tc": "2021年3月"
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "",
+        "tc": ""
+      },
+      "photos": [
+        {
+          "url": "https://www.hyd.gov.hk/en/our_projects/walkability_projects/UA/hy2015_06/photo1.jpg",
+          "alt": ""
+        },
+        {
+          "url": "https://www.hyd.gov.hk/en/our_projects/walkability_projects/UA/hy2015_06/photo2.jpg",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "dataset": "walkability",
+      "department": "HYD",
+      "name": "HY/2016/02 Provision of Barrier-free Access Facilities for Highways Structures Phase 3 Contract 9 [in Wan Chai, Wong Tai Sin, Sham Shui Po, Kowloon City, Kwai Tsing, Sha Tin, Tsuen Wan and Tai Po]",
+      "type": "UA",
+      "type_label": {
+        "en": "Universal Accessibility",
+        "tc": "暢道通行設施"
+      },
+      "status": 3,
+      "status_label": {
+        "en": "Completed",
+        "tc": "已完成"
+      },
+      "url": {
+        "en": "https://www.hyd.gov.hk/en/our_projects/walkability_projects/UA/hy2016_02/index.html",
+        "tc": "https://www.hyd.gov.hk/tc/our_projects/walkability_projects/UA/hy2016_02/index.html"
+      },
+      "coordinates": [
+        [
+          114.18727996,
+          22.38184469
+        ],
+        [
+          114.1525745,
+          22.46810896
+        ],
+        [
+          114.17264517,
+          22.27756175
+        ],
+        [
+          114.19391448,
+          22.34169308
+        ],
+        [
+          114.16213106,
+          22.3308744
+        ],
+        [
+          114.18931989,
+          22.32960623
+        ],
+        [
+          114.10725239,
+          22.35827325
+        ],
+        [
+          114.11799852,
+          22.37331793
+        ]
+      ],
+      "page_title": {
+        "en": "Provision of Barrier-free Access Facilities for Highways Structures Phase 3 Contract 9",
+        "tc": "為道路構築物提供無障礙通道設施 - 第三期第九份合約"
+      },
+      "description": {
+        "en": "Construction of 18 lifts and three ramps for six existing footbridges, three existing elevated walkways and four existing subways in 13 locations located in Wan Chai, Wong Tai Sin, Sham Shui Po, Kowloon City, Kwai Tsing, Sha Tin, Tsuen Wan and Tai Po Districts.",
+        "tc": "為位於灣仔、黃大仙、深水埗、九龍城、葵青、沙田、荃灣及大埔十三個地點的六條現有的行人天橋、三條現有的高架行人道及四條現有的行人隧道加建十八座升降機及三條斜道。"
+      },
+      "scope": {
+        "en": "Construction of 18 lifts and three ramps for six existing footbridges, three existing elevated walkways and four existing subways in 13 locations located in Wan Chai, Wong Tai Sin, Sham Shui Po, Kowloon City, Kwai Tsing, Sha Tin, Tsuen Wan and Tai Po Districts.",
+        "tc": "為位於灣仔、黃大仙、深水埗、九龍城、葵青、沙田、荃灣及大埔十三個地點的六條現有的行人天橋、三條現有的高架行人道及四條現有的行人隧道加建十八座升降機及三條斜道。"
+      },
+      "agreement_no": "HY/2016/02",
+      "cost": {
+        "en": "HK$340 Million",
+        "tc": "3億4,000萬港元"
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "August 2017",
+        "tc": "2017年8月"
+      },
+      "commissioning_date": {
+        "en": "December 2021",
+        "tc": "2021年12月"
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "",
+        "tc": ""
+      },
+      "photos": [
+        {
+          "url": "https://www.hyd.gov.hk/en/our_projects/walkability_projects/UA/hy2016_02/photo1.jpg",
+          "alt": ""
+        },
+        {
+          "url": "https://www.hyd.gov.hk/en/our_projects/walkability_projects/UA/hy2016_02/photo2.jpg",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "dataset": "walkability",
+      "department": "HYD",
+      "name": "HY/2018/11 Provision of Universal Accessibility Facilities at Footbridges, Elevated Walkways and Subways Package 3 - Contract 1 [in Sha Tin, Tai Po, Tuen Mun and Tsuen Wan]",
+      "type": "UA",
+      "type_label": {
+        "en": "Universal Accessibility",
+        "tc": "暢道通行設施"
+      },
+      "status": 3,
+      "status_label": {
+        "en": "Completed",
+        "tc": "已完成"
+      },
+      "url": {
+        "en": "https://www.hyd.gov.hk/en/our_projects/walkability_projects/UA/hy2018_11/index.html",
+        "tc": "https://www.hyd.gov.hk/tc/our_projects/walkability_projects/UA/hy2018_11/index.html"
+      },
+      "coordinates": [
+        [
+          114.19464689,
+          22.37722546
+        ],
+        [
+          114.10739438,
+          22.37580272
+        ],
+        [
+          113.96786692,
+          22.40229427
+        ],
+        [
+          114.16187436,
+          22.45266093
+        ]
+      ],
+      "page_title": {
+        "en": "Provision of Universal Accessibility Facilities at Footbridges, Elevated Walkways and Subways Package 3 - Contract 1",
+        "tc": "為行人天橋、高架行人道及行人隧道提供暢道通行設施─第三組第一份合約"
+      },
+      "description": {
+        "en": "Construction of 11 lifts at five existing footbridges and one existing subway in Sha Tin, Tai Po, Tuen Mun and Tsuen Wan Districts. [List of Lift Retrofitting Works]",
+        "tc": "為位於沙田、大埔、屯門、荃灣內的五條現有行人天橋及一條現有行人隧道加建十一座升降機。 加建升降機工程名單"
+      },
+      "scope": {
+        "en": "Construction of 11 lifts at five existing footbridges and one existing subway in Sha Tin, Tai Po, Tuen Mun and Tsuen Wan Districts. [List of Lift Retrofitting Works]",
+        "tc": "為位於沙田、大埔、屯門、荃灣內的五條現有行人天橋及一條現有行人隧道加建十一座升降機。 加建升降機工程名單"
+      },
+      "agreement_no": "HY/2018/11",
+      "cost": {
+        "en": "HK$134 Million",
+        "tc": "1億3,400萬港元"
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "August 2019",
+        "tc": "2019年8月"
+      },
+      "commissioning_date": {
+        "en": "December 2022",
+        "tc": "2022年12月"
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "",
+        "tc": ""
+      },
+      "photos": [
+        {
+          "url": "https://www.hyd.gov.hk/en/our_projects/walkability_projects/UA/hy2018_11/photo1.jpg",
+          "alt": ""
+        },
+        {
+          "url": "https://www.hyd.gov.hk/en/our_projects/walkability_projects/UA/hy2018_11/photo2.jpg",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "dataset": "walkability",
+      "department": "HYD",
+      "name": "HY/2018/12 Provision of Universal Accessibility Facilities at Footbridges Package 4 - Contract 1 [in Eastern, Kowloon City, Sham Shui Po and Wong Tai Sin]",
+      "type": "UA",
+      "type_label": {
+        "en": "Universal Accessibility",
+        "tc": "暢道通行設施"
+      },
+      "status": 3,
+      "status_label": {
+        "en": "Completed",
+        "tc": "已完成"
+      },
+      "url": {
+        "en": "https://www.hyd.gov.hk/en/our_projects/walkability_projects/UA/hy2018_12/index.html",
+        "tc": "https://www.hyd.gov.hk/tc/our_projects/walkability_projects/UA/hy2018_12/index.html"
+      },
+      "coordinates": [
+        [
+          114.18431388,
+          22.30573172
+        ],
+        [
+          114.15566172,
+          22.332532
+        ],
+        [
+          114.19372914,
+          22.34424028
+        ],
+        [
+          114.20306357,
+          22.29185051
+        ]
+      ],
+      "page_title": {
+        "en": "Provision of Universal Accessibility Facilities at Footbridges Package 4 - Contract 1",
+        "tc": "為行人天橋提供暢道通行設施─第四組第一份合約"
+      },
+      "description": {
+        "en": "Construction of 5 lifts for 5 footbridges in Eastern, Kowloon City,  Sham Shui Po and Wong Tai Sin. [List of Lift Retrofitting Works]",
+        "tc": ""
+      },
+      "scope": {
+        "en": "Construction of 5 lifts for 5 footbridges in Eastern, Kowloon City,  Sham Shui Po and Wong Tai Sin. [List of Lift Retrofitting Works]",
+        "tc": "為位於東區、九龍城、深水埗及黃大仙的五條行人天橋加建共五座升降機。 加建升降機工程名單"
+      },
+      "agreement_no": "HY/2018/12",
+      "cost": {
+        "en": "HK$268 Million",
+        "tc": "2億6,800萬港元"
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "October 2019",
+        "tc": "2019年10月"
+      },
+      "commissioning_date": {
+        "en": "February 2024",
+        "tc": "2024年2月"
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "",
+        "tc": ""
+      },
+      "photos": [
+        {
+          "url": "https://www.hyd.gov.hk/en/our_projects/walkability_projects/UA/hy2018_12/photo1.jpg",
+          "alt": ""
+        },
+        {
+          "url": "https://www.hyd.gov.hk/en/our_projects/walkability_projects/UA/hy2018_12/photo2.jpg",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "dataset": "walkability",
+      "department": "HYD",
+      "name": "HY/2014/18 Provision of Barrier-free Access Facilities for Highway Structures Phase 3 Contract 7 [in Eastern, Wan Chai, Southern, Kowloon City, Kwun Tong, Yau Tsim Mong and Kwai Tsing]",
+      "type": "UA",
+      "type_label": {
+        "en": "Universal Accessibility",
+        "tc": "暢道通行設施"
+      },
+      "status": 3,
+      "status_label": {
+        "en": "Completed",
+        "tc": "已完成"
+      },
+      "url": {
+        "en": "https://www.hyd.gov.hk/en/our_projects/walkability_projects/UA/hy2014_18/index.html",
+        "tc": "https://www.hyd.gov.hk/tc/our_projects/walkability_projects/UA/hy2014_18/index.html"
+      },
+      "coordinates": [
+        [
+          114.19144765,
+          22.32815041
+        ],
+        [
+          114.17318534,
+          22.27852617
+        ],
+        [
+          114.21650433,
+          22.28465657
+        ],
+        [
+          114.16798534,
+          22.24800566
+        ],
+        [
+          114.2264819,
+          22.31190655
+        ],
+        [
+          114.17068934,
+          22.31284118
+        ],
+        [
+          114.12775502,
+          22.3571873
+        ]
+      ],
+      "page_title": {
+        "en": "Provision of Barrier-free Access Facilities for Highway Structures Phase 3 Contract 7",
+        "tc": "為道路構築物提供無障礙通道設施－第三期第七份合約"
+      },
+      "description": {
+        "en": "Construction of 18 lifts, six ramps and one stairlift for nine existing footbridges, three existing elevated walkways and five existing subways in Eastern, Wan Chai, Southern, Kowloon City, Kwun Tong, Yau Tsim Mong and Kwai Tsing Districts.",
+        "tc": "為位於東區、灣仔、南區、九龍城、觀塘、油尖旺及葵青的九條現有的行人天橋、三條現有的高架行人道及五條現有的行人隧道加建十八座升降機、六條標準斜道和一座樓梯升降機。"
+      },
+      "scope": {
+        "en": "Construction of 18 lifts, six ramps and one stairlift for nine existing footbridges, three existing elevated walkways and five existing subways in Eastern, Wan Chai, Southern, Kowloon City, Kwun Tong, Yau Tsim Mong and Kwai Tsing Districts.",
+        "tc": "為位於東區、灣仔、南區、九龍城、觀塘、油尖旺及葵青的九條現有的行人天橋、三條現有的高架行人道及五條現有的行人隧道加建十八座升降機、六條標準斜道和一座樓梯升降機。"
+      },
+      "agreement_no": "HY/2014/18",
+      "cost": {
+        "en": "HK$349.8 Million",
+        "tc": "3億4,900萬港元"
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "November 2015",
+        "tc": "2015年11月"
+      },
+      "commissioning_date": {
+        "en": "November 2017",
+        "tc": "2017年11月"
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "",
+        "tc": ""
+      },
+      "photos": [
+        {
+          "url": "https://www.hyd.gov.hk/en/our_projects/walkability_projects/UA/hy2014_18/photo1.jpg",
+          "alt": ""
+        },
+        {
+          "url": "https://www.hyd.gov.hk/en/our_projects/walkability_projects/UA/hy2014_18/photo2.jpg",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "dataset": "walkability",
+      "department": "HYD",
+      "name": "Lift and Pedestrian Walkway System between Lai King Hill Road and Lai Cho Road, Kwai Chung",
+      "type": "HEL",
+      "type_label": {
+        "en": "Hillside Escalator / Lift",
+        "tc": "坡道電梯╱升降機"
+      },
+      "status": 1,
+      "status_label": {
+        "en": "Planning",
+        "tc": "規劃中"
+      },
+      "url": {
+        "en": "https://www.hyd.gov.hk/en/our_projects/walkability_projects/HEL/6202tb/",
+        "tc": "https://www.hyd.gov.hk/tc/our_projects/walkability_projects/HEL/6202tb/"
+      },
+      "coordinates": [
+        [
+          114.12701971,
+          22.3490376
+        ]
+      ],
+      "page_title": {
+        "en": "Lift and Pedestrian Walkway System between Lai King Hill Road and Lai Cho Road, Kwai Chung",
+        "tc": "葵涌荔景山路至麗祖路的升降機及行人通道系統"
+      },
+      "description": {
+        "en": "The proposed \"Lift and Pedestrian Walkway System between Lai King Hill Road and Lai Cho Road, Kwai Chung\" is a \"Hillside Escalator Link and Elevator System\". The Project aims to provide a safe, comfortable and convenient pedestrian link between Lai King Hill Road and Lai Cho Road, Kwai Chung.",
+        "tc": "擬建的「葵涌荔景山路至麗祖路的升降機及行人通道系統」屬於「上坡地區自動扶梯連接系統」，項目旨在於葵涌荔景山路和麗祖路之間提供一條既安全又舒適方便的行人通道。"
+      },
+      "scope": {
+        "en": "",
+        "tc": ""
+      },
+      "agreement_no": "",
+      "cost": {
+        "en": "",
+        "tc": "檢討中"
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commissioning_date": {
+        "en": "",
+        "tc": ""
+      },
+      "consultant": {
+        "en": "Mannings (Asia) Consultants Limited",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "",
+        "tc": ""
+      },
+      "photos": [
+        {
+          "url": "https://www.hyd.gov.hk/en/our_projects/walkability_projects/HEL/6202tb/layout.jpg",
+          "alt": "Lift and Pedestrian Walkway System between Lai King Hill Road and Lai Cho Road, Kwai Chung"
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "dataset": "walkability",
+      "department": "HYD",
+      "name": "Wah Sing Street to Castle Peak Road – Kwai Chung Escalator Link System",
+      "type": "HEL",
+      "type_label": {
+        "en": "Hillside Escalator / Lift",
+        "tc": "坡道電梯╱升降機"
+      },
+      "status": 1,
+      "status_label": {
+        "en": "Planning",
+        "tc": "規劃中"
+      },
+      "url": {
+        "en": "https://www.hyd.gov.hk/en/our_projects/walkability_projects/HEL/wah_sing_street/",
+        "tc": "https://www.hyd.gov.hk/tc/our_projects/walkability_projects/HEL/wah_sing_street/"
+      },
+      "coordinates": [
+        [
+          114.13504075,
+          22.36438652
+        ]
+      ],
+      "page_title": {
+        "en": "Wah Sing Street to Castle Peak Road – Kwai Chung\r\nEscalator Link System",
+        "tc": "華星街至青山公路–葵涌段自動扶梯系統"
+      },
+      "description": {
+        "en": "The proposed Project aims to provide a safe, comfortable and convenient pedestrian link between Wah Sing Street and Castle Peak Road – Kwai Chung.",
+        "tc": "擬建項目旨在於華星街至青山公路–葵涌段之間提供一條既安全又舒適方便的行人通道。"
+      },
+      "scope": {
+        "en": "",
+        "tc": ""
+      },
+      "agreement_no": "",
+      "cost": {
+        "en": "",
+        "tc": "檢討中"
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commissioning_date": {
+        "en": "",
+        "tc": ""
+      },
+      "consultant": {
+        "en": "Mott MacDonald Hong Kong Limited",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "",
+        "tc": ""
+      },
+      "photos": [
+        {
+          "url": "https://www.hyd.gov.hk/en/our_projects/walkability_projects/HEL/wah_sing_street/layout.jpg",
+          "alt": "Wah Sing Street to Castle Peak Road – Kwai Chung\r\nEscalator Link System"
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "dataset": "walkability",
+      "department": "HYD",
+      "name": "Pedestrian Link near Chuk Yuen North Estate",
+      "type": "HEL",
+      "type_label": {
+        "en": "Hillside Escalator / Lift",
+        "tc": "坡道電梯╱升降機"
+      },
+      "status": 1,
+      "status_label": {
+        "en": "Planning",
+        "tc": "規劃中"
+      },
+      "url": {
+        "en": "https://www.hyd.gov.hk/en/our_projects/walkability_projects/HEL/6174tb/",
+        "tc": "https://www.hyd.gov.hk/tc/our_projects/walkability_projects/HEL/6174tb/"
+      },
+      "coordinates": [
+        [
+          114.19054767,
+          22.34516245
+        ]
+      ],
+      "page_title": {
+        "en": "Pedestrian Link near Chuk Yuen North Estate",
+        "tc": "竹園北邨行人通道系統"
+      },
+      "description": {
+        "en": "The proposed \"Pedestrian Link near Chuk Yuen North Estate\" is a \"Hillside Escalator Link and Elevator System\".  The Project aims to provide a convenient and comfortable walking environment between Chuk Yuen (North) Estate and Wong Tai Sin Road in Wong Tai Sin.",
+        "tc": "擬建的「竹園北邨行人通道系統」屬於「上坡地區自動扶梯連接系統」，項目旨在於黃大仙竹園北邨和黃大仙道之間提供便捷和舒適的步行環境。"
+      },
+      "scope": {
+        "en": "",
+        "tc": ""
+      },
+      "agreement_no": "",
+      "cost": {
+        "en": "",
+        "tc": "檢討中"
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "Under  review",
+        "tc": ""
+      },
+      "commissioning_date": {
+        "en": "",
+        "tc": ""
+      },
+      "consultant": {
+        "en": "Mannings (Asia) Consultants Limited",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "",
+        "tc": ""
+      },
+      "photos": [
+        {
+          "url": "https://www.hyd.gov.hk/en/our_projects/walkability_projects/HEL/6174tb/layout_plan.jpg",
+          "alt": "Pedestrian Link near Chuk Yuen North Estate"
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "dataset": "walkability",
+      "department": "HYD",
+      "name": "Lift and Pedestrian Walkway System between Lau Sin Street and Tin Hau Temple Road",
+      "type": "HEL",
+      "type_label": {
+        "en": "Hillside Escalator / Lift",
+        "tc": "坡道電梯╱升降機"
+      },
+      "status": 1,
+      "status_label": {
+        "en": "Planning",
+        "tc": "規劃中"
+      },
+      "url": {
+        "en": "https://www.hyd.gov.hk/en/our_projects/walkability_projects/HEL/lau_sin_street/",
+        "tc": "https://www.hyd.gov.hk/tc/our_projects/walkability_projects/HEL/lau_sin_street/"
+      },
+      "coordinates": [
+        [
+          114.19310816,
+          22.28311407
+        ]
+      ],
+      "page_title": {
+        "en": "Lift and Pedestrian Walkway System between Lau Sin Street and Tin Hau Temple Road",
+        "tc": "留仙街至天后廟道升降機及行人通道系統"
+      },
+      "description": {
+        "en": "The proposed \"Lift and Pedestrian Walkway System between Lau Sin Street and Tin Hau Temple Road\" is a \"Hillside Escalator Link and Elevator System\". The Project aims to provide a convenient and comfortable pedestrian link between Tin Hau Temple Road and MTR Tin Hau Station as well as the public transport interchange at King's Road, and to serve as a safe and barrier-free access for the elderly and the disabled.",
+        "tc": "擬建的「留仙街至天后廟道升降機及行人通道系統」屬於「上坡地區自動扶梯連接系統」，項目旨在提供便利舒適的行人通道，連接天后廟道與港鐵天后站和位於英皇道的公共運輸交匯處，並為長者和殘疾人士提供安全的無障礙通道。"
+      },
+      "scope": {
+        "en": "",
+        "tc": ""
+      },
+      "agreement_no": "",
+      "cost": {
+        "en": "",
+        "tc": "檢討中"
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commissioning_date": {
+        "en": "",
+        "tc": ""
+      },
+      "consultant": {
+        "en": "Meinhardt Infrastructure & Environment Ltd.",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "",
+        "tc": ""
+      },
+      "photos": [
+        {
+          "url": "https://www.hyd.gov.hk/en/our_projects/walkability_projects/HEL/lau_sin_street/layout.jpg",
+          "alt": "Lift and Pedestrian Walkway System between Lau Sin Street and Tin Hau Temple Road"
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "dataset": "walkability",
+      "department": "HYD",
+      "name": "HY/2021/04 Braemar Hill Pedestrian Link",
+      "type": "HEL",
+      "type_label": {
+        "en": "Hillside Escalator / Lift",
+        "tc": "坡道電梯╱升降機"
+      },
+      "status": 2,
+      "status_label": {
+        "en": "Under Construction",
+        "tc": "施工中"
+      },
+      "url": {
+        "en": "https://www.hyd.gov.hk/en/our_projects/walkability_projects/HEL/ce29_2017/",
+        "tc": "https://www.hyd.gov.hk/tc/our_projects/walkability_projects/HEL/ce29_2017/"
+      },
+      "coordinates": [
+        [
+          114.1953524,
+          22.28680533
+        ]
+      ],
+      "page_title": {
+        "en": "Braemar Hill Pedestrian Link",
+        "tc": "寶馬山行人通道系統"
+      },
+      "description": {
+        "en": "The proposed “Braemar Hill Pedestrian Link” is a “Hillside Escalator Link and Elevator System” with the purpose of facilitating pedestrians travelling to and from uphill areas. By taking pedestrians as a priority, the project will mainly serve the residents in the district, and provide a safe, comfortable and convenient route for pedestrians to and from areas with steep terrain.",
+        "tc": "擬建的「寶馬山行人通道系統」屬於「上坡地區自動扶梯連接系統」，目的是方便市民往來上坡地區 ，並以行人為優先考慮的工程項目，主要受惠的行人是往返該區的市民，行人通道系統能為他們提供一條安全，舒適及便捷的行人路線，方便他們往返地勢陡斜的地區，提供乘車以外的另一選擇。"
+      },
+      "scope": {
+        "en": "",
+        "tc": ""
+      },
+      "agreement_no": "",
+      "cost": {
+        "en": "HK$682.6 Million",
+        "tc": "6.82億港元"
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "August 2021",
+        "tc": ""
+      },
+      "commissioning_date": {
+        "en": "",
+        "tc": ""
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "",
+        "tc": ""
+      },
+      "photos": [
+        {
+          "url": "https://www.hyd.gov.hk/en/our_projects/walkability_projects/HEL/ce29_2017/ce29_2017_layout.jpg",
+          "alt": ""
+        },
+        {
+          "url": "https://www.hyd.gov.hk/en/our_projects/walkability_projects/HEL/ce29_2017/braemar_hill_video.jpg",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "dataset": "walkability",
+      "department": "HYD",
+      "name": "Between Saddle Ridge Garden and Sai Sha Road",
+      "type": "HEL",
+      "type_label": {
+        "en": "Hillside Escalator / Lift",
+        "tc": "坡道電梯╱升降機"
+      },
+      "status": 3,
+      "status_label": {
+        "en": "Completed",
+        "tc": "已完成"
+      },
+      "url": {
+        "en": "https://www.hyd.gov.hk/en/our_projects/walkability_projects/HEL/projects_completed.html#6199tb/",
+        "tc": "https://www.hyd.gov.hk/tc/our_projects/walkability_projects/HEL/projects_completed.html#6199tb/"
+      },
+      "coordinates": [
+        [
+          114.23650988,
+          22.4252081
+        ]
+      ],
+      "page_title": {
+        "en": "",
+        "tc": ""
+      },
+      "description": {
+        "en": "",
+        "tc": ""
+      },
+      "scope": {
+        "en": "",
+        "tc": ""
+      },
+      "agreement_no": "",
+      "cost": {
+        "en": "",
+        "tc": ""
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commissioning_date": {
+        "en": "",
+        "tc": ""
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "",
+        "tc": ""
+      },
+      "photos": []
+    },
+    {
+      "id": 39,
+      "dataset": "walkability",
+      "department": "HYD",
+      "name": "HY/2023/07 Pedestrian Walkway System between Hing Shing Road and Tai Wo Hau Road and Provision of Covers on Walkways near Hong Kong Eye Hospital, Tuen Mun Hospital and Tang Shiu Kin Hospital",
+      "type": "HEL",
+      "type_label": {
+        "en": "Hillside Escalator / Lift",
+        "tc": "坡道電梯╱升降機"
+      },
+      "status": 2,
+      "status_label": {
+        "en": "Under Construction",
+        "tc": "施工中"
+      },
+      "url": {
+        "en": "https://www.hyd.gov.hk/en/our_projects/walkability_projects/HEL/HY202307/",
+        "tc": "https://www.hyd.gov.hk/tc/our_projects/walkability_projects/HEL/HY202307/"
+      },
+      "coordinates": [
+        [
+          114.12985062,
+          22.36271933
+        ],
+        [
+          114.18485681,
+          22.32467049
+        ],
+        [
+          113.97608282,
+          22.40931332
+        ],
+        [
+          114.17716203,
+          22.27523797
+        ]
+      ],
+      "page_title": {
+        "en": "Pedestrian Walkway System between Hing Shing Road and Tai Wo Hau Road and Provision of Covers on Walkways near Hong Kong Eye Hospital, Tuen Mun Hospital and Tang Shiu Kin Hospital",
+        "tc": "興盛路至大窩口道行人通道系統及連接香港眼科醫院、屯門醫院和鄧肇堅醫院的行人通道加建上蓋"
+      },
+      "description": {
+        "en": "This Project aims to provide a comfortable and convenient pedestrian link between Hing Shing Road and Tai Wo Hau Road and covers to walkways connecting the hospitals to public transport facilities nearby for enhancing the walking environment for peoples travelling to and from the hospitals.",
+        "tc": "此項目旨在於興盛路和大窩口道之間提供一條既舒適又方便的行人通道及為連接公立醫院及鄰近公共交通設施的行人通道加設上蓋，為往返醫院的行人改善步行環境。"
+      },
+      "scope": {
+        "en": "",
+        "tc": ""
+      },
+      "agreement_no": "",
+      "cost": {
+        "en": "",
+        "tc": ""
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commissioning_date": {
+        "en": "3 rd Quarter of 2026",
+        "tc": ""
+      },
+      "consultant": {
+        "en": "Mannings (Asia) Consultants Limited",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "",
+        "tc": ""
+      },
+      "photos": [
+        {
+          "url": "https://www.hyd.gov.hk/en/our_projects/walkability_projects/HEL/HY202307/layout_3.jpg",
+          "alt": ""
+        },
+        {
+          "url": "https://www.hyd.gov.hk/en/our_projects/walkability_projects/HEL/HY202307/layout_2.jpg",
+          "alt": ""
+        },
+        {
+          "url": "https://www.hyd.gov.hk/en/our_projects/walkability_projects/HEL/HY202307/layout_4.jpg",
+          "alt": ""
+        },
+        {
+          "url": "https://www.hyd.gov.hk/en/our_projects/walkability_projects/HEL/HY202307/layout_1.jpg",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "dataset": "walkability",
+      "department": "HYD",
+      "name": "Between Castle Peak Road and Kung Yip Street, Kwai Chung",
+      "type": "HEL",
+      "type_label": {
+        "en": "Hillside Escalator / Lift",
+        "tc": "坡道電梯╱升降機"
+      },
+      "status": 3,
+      "status_label": {
+        "en": "Completed",
+        "tc": "已完成"
+      },
+      "url": {
+        "en": "https://www.hyd.gov.hk/en/our_projects/walkability_projects/HEL/projects_completed.html#HY201902",
+        "tc": "https://www.hyd.gov.hk/tc/our_projects/walkability_projects/HEL/projects_completed.html#HY201902"
+      },
+      "coordinates": [
+        [
+          114.13586761,
+          22.36160212
+        ]
+      ],
+      "page_title": {
+        "en": "",
+        "tc": ""
+      },
+      "description": {
+        "en": "",
+        "tc": ""
+      },
+      "scope": {
+        "en": "",
+        "tc": ""
+      },
+      "agreement_no": "",
+      "cost": {
+        "en": "",
+        "tc": ""
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commissioning_date": {
+        "en": "",
+        "tc": ""
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "",
+        "tc": ""
+      },
+      "photos": [
+        {
+          "url": "https://www.hyd.gov.hk/en/our_projects/walkability_projects/HEL/photo/HY201902.jpg",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "dataset": "walkability",
+      "department": "HYD",
+      "name": "Between Tai Wo Hau Road and Wo Tong Tsui Street, Kwai Chung",
+      "type": "HEL",
+      "type_label": {
+        "en": "Hillside Escalator / Lift",
+        "tc": "坡道電梯╱升降機"
+      },
+      "status": 3,
+      "status_label": {
+        "en": "Completed",
+        "tc": "已完成"
+      },
+      "url": {
+        "en": "https://www.hyd.gov.hk/en/our_projects/walkability_projects/HEL/projects_completed.html#185tb",
+        "tc": "https://www.hyd.gov.hk/tc/our_projects/walkability_projects/HEL/projects_completed.html#185tb"
+      },
+      "coordinates": [
+        [
+          114.1317652,
+          22.36727761
+        ]
+      ],
+      "page_title": {
+        "en": "",
+        "tc": ""
+      },
+      "description": {
+        "en": "",
+        "tc": ""
+      },
+      "scope": {
+        "en": "",
+        "tc": ""
+      },
+      "agreement_no": "",
+      "cost": {
+        "en": "",
+        "tc": ""
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commissioning_date": {
+        "en": "",
+        "tc": ""
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "",
+        "tc": ""
+      },
+      "photos": []
+    },
+    {
+      "id": 42,
+      "dataset": "walkability",
+      "department": "HYD",
+      "name": "Between Kwai Shing Circuit and Hing Shing Road, Kwai Chung",
+      "type": "HEL",
+      "type_label": {
+        "en": "Hillside Escalator / Lift",
+        "tc": "坡道電梯╱升降機"
+      },
+      "status": 3,
+      "status_label": {
+        "en": "Completed",
+        "tc": "已完成"
+      },
+      "url": {
+        "en": "https://www.hyd.gov.hk/en/our_projects/walkability_projects/HEL/projects_completed.html#HY201702",
+        "tc": "https://www.hyd.gov.hk/tc/our_projects/walkability_projects/HEL/projects_completed.html#HY201702"
+      },
+      "coordinates": [
+        [
+          114.12608473,
+          22.36093616
+        ]
+      ],
+      "page_title": {
+        "en": "",
+        "tc": ""
+      },
+      "description": {
+        "en": "",
+        "tc": ""
+      },
+      "scope": {
+        "en": "",
+        "tc": ""
+      },
+      "agreement_no": "",
+      "cost": {
+        "en": "",
+        "tc": ""
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commissioning_date": {
+        "en": "",
+        "tc": ""
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "",
+        "tc": ""
+      },
+      "photos": [
+        {
+          "url": "https://www.hyd.gov.hk/en/our_projects/walkability_projects/HEL/photo/HY201702s.jpg",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "dataset": "walkability",
+      "department": "HYD",
+      "name": "Cheung Hang Estate, Tsing Yi",
+      "type": "HEL",
+      "type_label": {
+        "en": "Hillside Escalator / Lift",
+        "tc": "坡道電梯╱升降機"
+      },
+      "status": 3,
+      "status_label": {
+        "en": "Completed",
+        "tc": "已完成"
+      },
+      "url": {
+        "en": "https://www.hyd.gov.hk/en/our_projects/walkability_projects/HEL/projects_completed.html#6169tb",
+        "tc": "https://www.hyd.gov.hk/tc/our_projects/walkability_projects/HEL/projects_completed.html#6169tb"
+      },
+      "coordinates": [
+        [
+          114.09747497,
+          22.35676121
+        ]
+      ],
+      "page_title": {
+        "en": "",
+        "tc": ""
+      },
+      "description": {
+        "en": "",
+        "tc": ""
+      },
+      "scope": {
+        "en": "",
+        "tc": ""
+      },
+      "agreement_no": "",
+      "cost": {
+        "en": "",
+        "tc": ""
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commissioning_date": {
+        "en": "",
+        "tc": ""
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "",
+        "tc": ""
+      },
+      "photos": []
+    },
+    {
+      "id": 44,
+      "dataset": "walkability",
+      "department": "HYD",
+      "name": "Waterloo Hill",
+      "type": "HEL",
+      "type_label": {
+        "en": "Hillside Escalator / Lift",
+        "tc": "坡道電梯╱升降機"
+      },
+      "status": 3,
+      "status_label": {
+        "en": "Completed",
+        "tc": "已完成"
+      },
+      "url": {
+        "en": "https://www.hyd.gov.hk/en/our_projects/walkability_projects/HEL/projects_completed.html#6168tb",
+        "tc": "https://www.hyd.gov.hk/tc/our_projects/walkability_projects/HEL/projects_completed.html#6168tb"
+      },
+      "coordinates": [
+        [
+          114.17417569,
+          22.31681683
+        ]
+      ],
+      "page_title": {
+        "en": "",
+        "tc": ""
+      },
+      "description": {
+        "en": "",
+        "tc": ""
+      },
+      "scope": {
+        "en": "",
+        "tc": ""
+      },
+      "agreement_no": "",
+      "cost": {
+        "en": "",
+        "tc": ""
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commissioning_date": {
+        "en": "",
+        "tc": ""
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "",
+        "tc": ""
+      },
+      "photos": []
+    },
+    {
+      "id": 45,
+      "dataset": "walkability",
+      "department": "HYD",
+      "name": "Provision of Covers on Walkways near Public Hospitals/Clinics - Investigation, Design and Construction",
+      "type": "WC",
+      "type_label": {
+        "en": "Walkway Cover",
+        "tc": "有蓋行人通道"
+      },
+      "status": 1,
+      "status_label": {
+        "en": "Planning",
+        "tc": "規劃中"
+      },
+      "url": {
+        "en": "https://www.hyd.gov.hk/en/our_projects/walkability_projects/covered_walkway/public_hospitals/index.html",
+        "tc": "https://www.hyd.gov.hk/tc/our_projects/walkability_projects/covered_walkway/public_hospitals/index.html"
+      },
+      "coordinates": [
+        [
+          114.19024995,
+          22.27476847
+        ],
+        [
+          114.12423914,
+          22.26993137
+        ],
+        [
+          113.99565029,
+          22.45836374
+        ],
+        [
+          113.97323116,
+          22.40965092
+        ],
+        [
+          114.11930215,
+          22.36990775
+        ],
+        [
+          114.21264236,
+          22.39808795
+        ],
+        [
+          114.1346961,
+          22.34019379
+        ],
+        [
+          114.15303368,
+          22.3412462
+        ],
+        [
+          114.18871396,
+          22.33546639
+        ]
+      ],
+      "page_title": {
+        "en": "Provision of Covers on Walkways near Public Hospitals/Clinics - Investigation, Design and Construction",
+        "tc": "在毗鄰公立醫院及診所的行人通道加建上蓋 — 勘查研究、設計及建造"
+      },
+      "description": {
+        "en": "The project aims to provide covers to walkways connecting the hospitals/clinics to public transport facilities nearby for enhancing the walking environment for peoples travelling to and from the hospitals/clinics.",
+        "tc": "項目旨在為連接公立醫院/診所及鄰近公共交通設施的行人通道加設上蓋，為往返公立醫院/診所的行人改善步行環境。"
+      },
+      "scope": {
+        "en": "",
+        "tc": ""
+      },
+      "agreement_no": "",
+      "cost": {
+        "en": "Under study",
+        "tc": ""
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "Under study",
+        "tc": ""
+      },
+      "commissioning_date": {
+        "en": "Under study",
+        "tc": ""
+      },
+      "consultant": {
+        "en": "Mannings (Asia) Consultants Limited",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "",
+        "tc": ""
+      },
+      "photos": [
+        {
+          "url": "https://www.hyd.gov.hk/en/our_projects/walkability_projects/covered_walkway/public_hospitals/layout.jpg",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "dataset": "walkability",
+      "department": "HYD",
+      "name": "Rock Hill Street, Kennedy Town",
+      "type": "WC",
+      "type_label": {
+        "en": "Walkway Cover",
+        "tc": "有蓋行人通道"
+      },
+      "status": 2,
+      "status_label": {
+        "en": "Under Construction",
+        "tc": "施工中"
+      },
+      "url": {
+        "en": "https://www.hyd.gov.hk/en/our_projects/walkability_projects/covered_walkway/projects_under_construction.html#rock_hill_street",
+        "tc": "https://www.hyd.gov.hk/tc/our_projects/walkability_projects/covered_walkway/projects_under_construction.html#rock_hill_street"
+      },
+      "coordinates": [
+        [
+          114.12970726,
+          22.28228053
+        ]
+      ],
+      "page_title": {
+        "en": "Rock Hill Street, Kennedy Town",
+        "tc": ""
+      },
+      "description": {
+        "en": "",
+        "tc": ""
+      },
+      "scope": {
+        "en": "",
+        "tc": ""
+      },
+      "agreement_no": "",
+      "cost": {
+        "en": "",
+        "tc": ""
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commissioning_date": {
+        "en": "2026 Q3",
+        "tc": "2026年第3季"
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "",
+        "tc": ""
+      },
+      "photos": [
+        {
+          "url": "https://www.hyd.gov.hk/en/our_projects/walkability_projects/covered_walkway/photo/rock_hill_street.jpg",
+          "alt": "Rock Hill Street, Kennedy Town"
+        }
+      ]
+    },
+    {
+      "id": 47,
+      "dataset": "walkability",
+      "department": "HYD",
+      "name": "Walkway Cover connecting to Grantham Hospital, Wong Chuk Hang",
+      "type": "WC",
+      "type_label": {
+        "en": "Walkway Cover",
+        "tc": "有蓋行人通道"
+      },
+      "status": 2,
+      "status_label": {
+        "en": "Under Construction",
+        "tc": "施工中"
+      },
+      "url": {
+        "en": "https://www.hyd.gov.hk/en/our_projects/walkability_projects/covered_walkway/projects_under_construction.html#grantham",
+        "tc": "https://www.hyd.gov.hk/tc/our_projects/walkability_projects/covered_walkway/projects_under_construction.html#grantham"
+      },
+      "coordinates": [
+        [
+          114.17402846,
+          22.24976564
+        ]
+      ],
+      "page_title": {
+        "en": "Walkway Cover connecting to Grantham Hospital, Wong Chuk Hang",
+        "tc": "連接黃竹坑葛量洪醫院的行人通道加建上蓋"
+      },
+      "description": {
+        "en": "",
+        "tc": ""
+      },
+      "scope": {
+        "en": "",
+        "tc": ""
+      },
+      "agreement_no": "",
+      "cost": {
+        "en": "",
+        "tc": ""
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commissioning_date": {
+        "en": "2026",
+        "tc": "2026年"
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "",
+        "tc": ""
+      },
+      "photos": [
+        {
+          "url": "https://www.hyd.gov.hk/en/our_projects/walkability_projects/covered_walkway/photo/grantham.jpg",
+          "alt": "Walkway Cover connecting to Grantham Hospital, Wong Chuk Hang"
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "dataset": "walkability",
+      "department": "HYD",
+      "name": "Walkway Cover connecting to Haven of Hope Hospital, Tseung Kwan O",
+      "type": "WC",
+      "type_label": {
+        "en": "Walkway Cover",
+        "tc": "有蓋行人通道"
+      },
+      "status": 2,
+      "status_label": {
+        "en": "Under Construction",
+        "tc": "施工中"
+      },
+      "url": {
+        "en": "https://www.hyd.gov.hk/en/our_projects/walkability_projects/covered_walkway/projects_under_construction.html#haven_of_hope",
+        "tc": "https://www.hyd.gov.hk/tc/our_projects/walkability_projects/covered_walkway/projects_under_construction.html#haven_of_hope"
+      },
+      "coordinates": [
+        [
+          114.25782152,
+          22.31433266
+        ]
+      ],
+      "page_title": {
+        "en": "Walkway Cover connecting to Haven of Hope Hospital, Tseung Kwan O",
+        "tc": "連接將軍澳靈實醫院的行人通道加建上蓋"
+      },
+      "description": {
+        "en": "",
+        "tc": ""
+      },
+      "scope": {
+        "en": "",
+        "tc": ""
+      },
+      "agreement_no": "",
+      "cost": {
+        "en": "",
+        "tc": ""
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commissioning_date": {
+        "en": "2026",
+        "tc": "2026年"
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "",
+        "tc": ""
+      },
+      "photos": [
+        {
+          "url": "https://www.hyd.gov.hk/en/our_projects/walkability_projects/covered_walkway/photo/haven_of_hope.jpg",
+          "alt": "Walkway Cover connecting to Haven of Hope Hospital, Tseung Kwan O"
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "dataset": "walkability",
+      "department": "HYD",
+      "name": "Hang Mei Street, Tsing Yi",
+      "type": "WC",
+      "type_label": {
+        "en": "Walkway Cover",
+        "tc": "有蓋行人通道"
+      },
+      "status": 2,
+      "status_label": {
+        "en": "Under Construction",
+        "tc": "施工中"
+      },
+      "url": {
+        "en": "https://www.hyd.gov.hk/en/our_projects/walkability_projects/covered_walkway/projects_under_construction.html#hang_mei_street",
+        "tc": "https://www.hyd.gov.hk/tc/our_projects/walkability_projects/covered_walkway/projects_under_construction.html#hang_mei_street"
+      },
+      "coordinates": [
+        [
+          114.0974839,
+          22.35792189
+        ]
+      ],
+      "page_title": {
+        "en": "Hang Mei Street, Tsing Yi",
+        "tc": ""
+      },
+      "description": {
+        "en": "",
+        "tc": ""
+      },
+      "scope": {
+        "en": "",
+        "tc": ""
+      },
+      "agreement_no": "",
+      "cost": {
+        "en": "",
+        "tc": ""
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commissioning_date": {
+        "en": "2026 Q2",
+        "tc": "2026年第2季"
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "",
+        "tc": ""
+      },
+      "photos": [
+        {
+          "url": "https://www.hyd.gov.hk/en/our_projects/walkability_projects/covered_walkway/photo/hang_mei_street.jpg",
+          "alt": "Hang Mei Street, Tsing Yi"
+        }
+      ]
+    },
+    {
+      "id": 50,
+      "dataset": "walkability",
+      "department": "HYD",
+      "name": "Walkway cover near Hong Kong Children's Hospital",
+      "type": "WC",
+      "type_label": {
+        "en": "Walkway Cover",
+        "tc": "有蓋行人通道"
+      },
+      "status": 3,
+      "status_label": {
+        "en": "Completed",
+        "tc": "已完成"
+      },
+      "url": {
+        "en": "https://www.hyd.gov.hk/en/our_projects/walkability_projects/covered_walkway/projects_completed.html#children_hospital",
+        "tc": "https://www.hyd.gov.hk/tc/our_projects/walkability_projects/covered_walkway/projects_completed.html#children_hospital"
+      },
+      "coordinates": [
+        [
+          114.20935397,
+          22.31550015
+        ]
+      ],
+      "page_title": {
+        "en": "",
+        "tc": ""
+      },
+      "description": {
+        "en": "",
+        "tc": ""
+      },
+      "scope": {
+        "en": "",
+        "tc": ""
+      },
+      "agreement_no": "",
+      "cost": {
+        "en": "",
+        "tc": ""
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commissioning_date": {
+        "en": "",
+        "tc": ""
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "",
+        "tc": ""
+      },
+      "photos": [
+        {
+          "url": "https://www.hyd.gov.hk/en/our_projects/walkability_projects/covered_walkway/photo/children_hospital.jpg",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "id": 51,
+      "dataset": "walkability",
+      "department": "HYD",
+      "name": "Hoi Hing Road and Hoi On Road, Tsuen Wan",
+      "type": "WC",
+      "type_label": {
+        "en": "Walkway Cover",
+        "tc": "有蓋行人通道"
+      },
+      "status": 3,
+      "status_label": {
+        "en": "Completed",
+        "tc": "已完成"
+      },
+      "url": {
+        "en": "https://www.hyd.gov.hk/en/our_projects/walkability_projects/covered_walkway/projects_completed.html#hoi_hing_road",
+        "tc": "https://www.hyd.gov.hk/tc/our_projects/walkability_projects/covered_walkway/projects_completed.html#hoi_hing_road"
+      },
+      "coordinates": [
+        [
+          114.10573809,
+          22.37248211
+        ]
+      ],
+      "page_title": {
+        "en": "",
+        "tc": ""
+      },
+      "description": {
+        "en": "",
+        "tc": ""
+      },
+      "scope": {
+        "en": "",
+        "tc": ""
+      },
+      "agreement_no": "",
+      "cost": {
+        "en": "",
+        "tc": ""
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commissioning_date": {
+        "en": "",
+        "tc": ""
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "",
+        "tc": ""
+      },
+      "photos": [
+        {
+          "url": "https://www.hyd.gov.hk/en/our_projects/walkability_projects/covered_walkway/photo/hoi_hing_road.jpg",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "id": 52,
+      "dataset": "walkability",
+      "department": "HYD",
+      "name": "Nam Wan Road, Tai Po (near Wong Shiu Chi Secondary School and Kwong Fuk Football Ground)",
+      "type": "WC",
+      "type_label": {
+        "en": "Walkway Cover",
+        "tc": "有蓋行人通道"
+      },
+      "status": 3,
+      "status_label": {
+        "en": "Completed",
+        "tc": "已完成"
+      },
+      "url": {
+        "en": "https://www.hyd.gov.hk/en/our_projects/walkability_projects/covered_walkway/projects_completed.html#nam_wan_road",
+        "tc": "https://www.hyd.gov.hk/tc/our_projects/walkability_projects/covered_walkway/projects_completed.html#nam_wan_road"
+      },
+      "coordinates": [
+        [
+          114.17203639,
+          22.44649175
+        ]
+      ],
+      "page_title": {
+        "en": "",
+        "tc": ""
+      },
+      "description": {
+        "en": "",
+        "tc": ""
+      },
+      "scope": {
+        "en": "",
+        "tc": ""
+      },
+      "agreement_no": "",
+      "cost": {
+        "en": "",
+        "tc": ""
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commissioning_date": {
+        "en": "",
+        "tc": ""
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "",
+        "tc": ""
+      },
+      "photos": [
+        {
+          "url": "https://www.hyd.gov.hk/en/our_projects/walkability_projects/covered_walkway/photo/nam_wan_road.jpg",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "id": 53,
+      "dataset": "walkability",
+      "department": "HYD",
+      "name": "Lok King Street, Fo Tan (between MTR Fo Tan Station and Ficus Garden)",
+      "type": "WC",
+      "type_label": {
+        "en": "Walkway Cover",
+        "tc": "有蓋行人通道"
+      },
+      "status": 3,
+      "status_label": {
+        "en": "Completed",
+        "tc": "已完成"
+      },
+      "url": {
+        "en": "https://www.hyd.gov.hk/en/our_projects/walkability_projects/covered_walkway/projects_completed.html#lok_king_street",
+        "tc": "https://www.hyd.gov.hk/tc/our_projects/walkability_projects/covered_walkway/projects_completed.html#lok_king_street"
+      },
+      "coordinates": [
+        [
+          114.19987873,
+          22.39789545
+        ]
+      ],
+      "page_title": {
+        "en": "",
+        "tc": ""
+      },
+      "description": {
+        "en": "",
+        "tc": ""
+      },
+      "scope": {
+        "en": "",
+        "tc": ""
+      },
+      "agreement_no": "",
+      "cost": {
+        "en": "",
+        "tc": ""
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commissioning_date": {
+        "en": "",
+        "tc": ""
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "",
+        "tc": ""
+      },
+      "photos": [
+        {
+          "url": "https://www.hyd.gov.hk/en/our_projects/walkability_projects/covered_walkway/photo/lok_king_street.jpg",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "id": 54,
+      "dataset": "walkability",
+      "department": "HYD",
+      "name": "Woh Chai Street, Shek Kip Mei (between MTR Shek Kip Mei Station Exit A and Mei Leong House of Shek Kip Mei Estate)",
+      "type": "WC",
+      "type_label": {
+        "en": "Walkway Cover",
+        "tc": "有蓋行人通道"
+      },
+      "status": 3,
+      "status_label": {
+        "en": "Completed",
+        "tc": "已完成"
+      },
+      "url": {
+        "en": "https://www.hyd.gov.hk/en/our_projects/walkability_projects/covered_walkway/projects_completed.html#woh_chai_street",
+        "tc": "https://www.hyd.gov.hk/tc/our_projects/walkability_projects/covered_walkway/projects_completed.html#woh_chai_street"
+      },
+      "coordinates": [
+        [
+          114.1681915,
+          22.33173055
+        ]
+      ],
+      "page_title": {
+        "en": "",
+        "tc": ""
+      },
+      "description": {
+        "en": "",
+        "tc": ""
+      },
+      "scope": {
+        "en": "",
+        "tc": ""
+      },
+      "agreement_no": "",
+      "cost": {
+        "en": "",
+        "tc": ""
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commissioning_date": {
+        "en": "",
+        "tc": ""
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "",
+        "tc": ""
+      },
+      "photos": [
+        {
+          "url": "https://www.hyd.gov.hk/en/our_projects/walkability_projects/covered_walkway/photo/woh_chai_street.jpg",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "id": 55,
+      "dataset": "walkability",
+      "department": "HYD",
+      "name": "Gascoigne Road (between Queen Elizabeth Hospital and Labour Tribunal)",
+      "type": "WC",
+      "type_label": {
+        "en": "Walkway Cover",
+        "tc": "有蓋行人通道"
+      },
+      "status": 3,
+      "status_label": {
+        "en": "Completed",
+        "tc": "已完成"
+      },
+      "url": {
+        "en": "https://www.hyd.gov.hk/en/our_projects/walkability_projects/covered_walkway/projects_completed.html#gascoigne_road",
+        "tc": "https://www.hyd.gov.hk/tc/our_projects/walkability_projects/covered_walkway/projects_completed.html#gascoigne_road"
+      },
+      "coordinates": [
+        [
+          114.17224049,
+          22.30873985
+        ]
+      ],
+      "page_title": {
+        "en": "",
+        "tc": ""
+      },
+      "description": {
+        "en": "",
+        "tc": ""
+      },
+      "scope": {
+        "en": "",
+        "tc": ""
+      },
+      "agreement_no": "",
+      "cost": {
+        "en": "",
+        "tc": ""
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commissioning_date": {
+        "en": "",
+        "tc": ""
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "",
+        "tc": ""
+      },
+      "photos": [
+        {
+          "url": "https://www.hyd.gov.hk/en/our_projects/walkability_projects/covered_walkway/photo/gascoigne_road.jpg",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "id": 56,
+      "dataset": "walkability",
+      "department": "HYD",
+      "name": "Chui Kwan Drive, Tung Chung (between North Lantau Hospital and Tung Chung Fire Station)",
+      "type": "WC",
+      "type_label": {
+        "en": "Walkway Cover",
+        "tc": "有蓋行人通道"
+      },
+      "status": 3,
+      "status_label": {
+        "en": "Completed",
+        "tc": "已完成"
+      },
+      "url": {
+        "en": "https://www.hyd.gov.hk/en/our_projects/walkability_projects/covered_walkway/projects_completed.html#chui_kwan_drive",
+        "tc": "https://www.hyd.gov.hk/tc/our_projects/walkability_projects/covered_walkway/projects_completed.html#chui_kwan_drive"
+      },
+      "coordinates": [
+        [
+          113.94101568,
+          22.28411364
+        ]
+      ],
+      "page_title": {
+        "en": "",
+        "tc": ""
+      },
+      "description": {
+        "en": "",
+        "tc": ""
+      },
+      "scope": {
+        "en": "",
+        "tc": ""
+      },
+      "agreement_no": "",
+      "cost": {
+        "en": "",
+        "tc": ""
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commissioning_date": {
+        "en": "",
+        "tc": ""
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "",
+        "tc": ""
+      },
+      "photos": [
+        {
+          "url": "https://www.hyd.gov.hk/en/our_projects/walkability_projects/covered_walkway/photo/chui_kwan_drive.jpg",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "id": 57,
+      "dataset": "walkability",
+      "department": "HYD",
+      "name": "Castle Peak Road Yuen Long Section (between Pok Oi Hospital and Yoho Mall I)",
+      "type": "WC",
+      "type_label": {
+        "en": "Walkway Cover",
+        "tc": "有蓋行人通道"
+      },
+      "status": 3,
+      "status_label": {
+        "en": "Completed",
+        "tc": "已完成"
+      },
+      "url": {
+        "en": "https://www.hyd.gov.hk/en/our_projects/walkability_projects/covered_walkway/projects_completed.html#castle_peak_road",
+        "tc": "https://www.hyd.gov.hk/tc/our_projects/walkability_projects/covered_walkway/projects_completed.html#castle_peak_road"
+      },
+      "coordinates": [
+        [
+          114.03950884,
+          22.44444468
+        ]
+      ],
+      "page_title": {
+        "en": "",
+        "tc": ""
+      },
+      "description": {
+        "en": "",
+        "tc": ""
+      },
+      "scope": {
+        "en": "",
+        "tc": ""
+      },
+      "agreement_no": "",
+      "cost": {
+        "en": "",
+        "tc": ""
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commissioning_date": {
+        "en": "",
+        "tc": ""
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "",
+        "tc": ""
+      },
+      "photos": [
+        {
+          "url": "https://www.hyd.gov.hk/en/our_projects/walkability_projects/covered_walkway/photo/castle_peak_road.jpg",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "id": 58,
+      "dataset": "walkability",
+      "department": "HYD",
+      "name": "Tuen Mun Heung Sze Wui Road (Light Rail Town Centre Station to Lift opposite to the Trend Plaza)",
+      "type": "WC",
+      "type_label": {
+        "en": "Walkway Cover",
+        "tc": "有蓋行人通道"
+      },
+      "status": 3,
+      "status_label": {
+        "en": "Completed",
+        "tc": "已完成"
+      },
+      "url": {
+        "en": "https://www.hyd.gov.hk/en/our_projects/walkability_projects/covered_walkway/projects_completed.html#tuen_mun_heung_sze_wui_road",
+        "tc": "https://www.hyd.gov.hk/tc/our_projects/walkability_projects/covered_walkway/projects_completed.html#tuen_mun_heung_sze_wui_road"
+      },
+      "coordinates": [
+        [
+          113.97529608,
+          22.39199712
+        ]
+      ],
+      "page_title": {
+        "en": "",
+        "tc": ""
+      },
+      "description": {
+        "en": "",
+        "tc": ""
+      },
+      "scope": {
+        "en": "",
+        "tc": ""
+      },
+      "agreement_no": "",
+      "cost": {
+        "en": "",
+        "tc": ""
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commissioning_date": {
+        "en": "",
+        "tc": ""
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "",
+        "tc": ""
+      },
+      "photos": [
+        {
+          "url": "https://www.hyd.gov.hk/en/our_projects/walkability_projects/covered_walkway/photo/tuen_mun_heung_sze_wui_road.jpg",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "id": 59,
+      "dataset": "walkability",
+      "department": "HYD",
+      "name": "Hung Hom Road (between Man Tai Street and Tak Hong Street)",
+      "type": "WC",
+      "type_label": {
+        "en": "Walkway Cover",
+        "tc": "有蓋行人通道"
+      },
+      "status": 3,
+      "status_label": {
+        "en": "Completed",
+        "tc": "已完成"
+      },
+      "url": {
+        "en": "https://www.hyd.gov.hk/en/our_projects/walkability_projects/covered_walkway/projects_completed.html#hung_hom_road",
+        "tc": "https://www.hyd.gov.hk/tc/our_projects/walkability_projects/covered_walkway/projects_completed.html#hung_hom_road"
+      },
+      "coordinates": [
+        [
+          114.18914509,
+          22.30608246
+        ]
+      ],
+      "page_title": {
+        "en": "",
+        "tc": ""
+      },
+      "description": {
+        "en": "",
+        "tc": ""
+      },
+      "scope": {
+        "en": "",
+        "tc": ""
+      },
+      "agreement_no": "",
+      "cost": {
+        "en": "",
+        "tc": ""
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commissioning_date": {
+        "en": "",
+        "tc": ""
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "",
+        "tc": ""
+      },
+      "photos": [
+        {
+          "url": "https://www.hyd.gov.hk/en/our_projects/walkability_projects/covered_walkway/photo/hung_hom_road.jpg",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "id": 60,
+      "dataset": "walkability",
+      "department": "HYD",
+      "name": "Ngan O Road, Tseung Kwan O (near Wo Ming Court)",
+      "type": "WC",
+      "type_label": {
+        "en": "Walkway Cover",
+        "tc": "有蓋行人通道"
+      },
+      "status": 3,
+      "status_label": {
+        "en": "Completed",
+        "tc": "已完成"
+      },
+      "url": {
+        "en": "https://www.hyd.gov.hk/en/our_projects/walkability_projects/covered_walkway/projects_completed.html#ngan_o_road",
+        "tc": "https://www.hyd.gov.hk/tc/our_projects/walkability_projects/covered_walkway/projects_completed.html#ngan_o_road"
+      },
+      "coordinates": [
+        [
+          114.26623294,
+          22.31489445
+        ]
+      ],
+      "page_title": {
+        "en": "",
+        "tc": ""
+      },
+      "description": {
+        "en": "",
+        "tc": ""
+      },
+      "scope": {
+        "en": "",
+        "tc": ""
+      },
+      "agreement_no": "",
+      "cost": {
+        "en": "",
+        "tc": ""
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commissioning_date": {
+        "en": "",
+        "tc": ""
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "",
+        "tc": ""
+      },
+      "photos": [
+        {
+          "url": "https://www.hyd.gov.hk/en/our_projects/walkability_projects/covered_walkway/photo/ngan_o_road.jpg",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "id": 61,
+      "dataset": "walkability",
+      "department": "HYD",
+      "name": "Liu To Road, Tsing Yi (near Cheung Hang Estate Bus Terminal)",
+      "type": "WC",
+      "type_label": {
+        "en": "Walkway Cover",
+        "tc": "有蓋行人通道"
+      },
+      "status": 3,
+      "status_label": {
+        "en": "Completed",
+        "tc": "已完成"
+      },
+      "url": {
+        "en": "https://www.hyd.gov.hk/en/our_projects/walkability_projects/covered_walkway/projects_completed.html#liu_to_road",
+        "tc": "https://www.hyd.gov.hk/tc/our_projects/walkability_projects/covered_walkway/projects_completed.html#liu_to_road"
+      },
+      "coordinates": [
+        [
+          114.09736984,
+          22.35530985
+        ]
+      ],
+      "page_title": {
+        "en": "",
+        "tc": ""
+      },
+      "description": {
+        "en": "",
+        "tc": ""
+      },
+      "scope": {
+        "en": "",
+        "tc": ""
+      },
+      "agreement_no": "",
+      "cost": {
+        "en": "",
+        "tc": ""
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commissioning_date": {
+        "en": "",
+        "tc": ""
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "",
+        "tc": ""
+      },
+      "photos": [
+        {
+          "url": "https://www.hyd.gov.hk/en/our_projects/walkability_projects/covered_walkway/photo/liu_to_road.jpg",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "id": 62,
+      "dataset": "walkability",
+      "department": "HYD",
+      "name": "Pok Fu Lam Road (near Queen Mary Hospital)",
+      "type": "WC",
+      "type_label": {
+        "en": "Walkway Cover",
+        "tc": "有蓋行人通道"
+      },
+      "status": 3,
+      "status_label": {
+        "en": "Completed",
+        "tc": "已完成"
+      },
+      "url": {
+        "en": "https://www.hyd.gov.hk/en/our_projects/walkability_projects/covered_walkway/projects_completed.html#po_fuk_lam_road",
+        "tc": "https://www.hyd.gov.hk/tc/our_projects/walkability_projects/covered_walkway/projects_completed.html#po_fuk_lam_road"
+      },
+      "coordinates": [
+        [
+          114.13108624,
+          22.268656
+        ]
+      ],
+      "page_title": {
+        "en": "",
+        "tc": ""
+      },
+      "description": {
+        "en": "",
+        "tc": ""
+      },
+      "scope": {
+        "en": "",
+        "tc": ""
+      },
+      "agreement_no": "",
+      "cost": {
+        "en": "",
+        "tc": ""
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commissioning_date": {
+        "en": "",
+        "tc": ""
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "",
+        "tc": ""
+      },
+      "photos": [
+        {
+          "url": "https://www.hyd.gov.hk/en/our_projects/walkability_projects/covered_walkway/photo/po_fuk_lam_road.jpg",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "id": 63,
+      "dataset": "walkability",
+      "department": "HYD",
+      "name": "Po Ping Road, Sheung Shui (near Buddhist Li Chong Yuet Ming Nursing Home for the Elderly)",
+      "type": "WC",
+      "type_label": {
+        "en": "Walkway Cover",
+        "tc": "有蓋行人通道"
+      },
+      "status": 3,
+      "status_label": {
+        "en": "Completed",
+        "tc": "已完成"
+      },
+      "url": {
+        "en": "https://www.hyd.gov.hk/en/our_projects/walkability_projects/covered_walkway/projects_completed.html#po_ping_road",
+        "tc": "https://www.hyd.gov.hk/tc/our_projects/walkability_projects/covered_walkway/projects_completed.html#po_ping_road"
+      },
+      "coordinates": [
+        [
+          114.12574478,
+          22.49806825
+        ]
+      ],
+      "page_title": {
+        "en": "",
+        "tc": ""
+      },
+      "description": {
+        "en": "",
+        "tc": ""
+      },
+      "scope": {
+        "en": "",
+        "tc": ""
+      },
+      "agreement_no": "",
+      "cost": {
+        "en": "",
+        "tc": ""
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commissioning_date": {
+        "en": "",
+        "tc": ""
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "",
+        "tc": ""
+      },
+      "photos": [
+        {
+          "url": "https://www.hyd.gov.hk/en/our_projects/walkability_projects/covered_walkway/photo/po_ping_road.jpg",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "id": 64,
+      "dataset": "walkability",
+      "department": "HYD",
+      "name": "Elevated Pedestrian Corridor in Yuen Long Town connecting with Long Ping Station",
+      "type": "DF",
+      "type_label": {
+        "en": "District Facilities",
+        "tc": "地區設施"
+      },
+      "status": 1,
+      "status_label": {
+        "en": "Planning",
+        "tc": "規劃中"
+      },
+      "url": {
+        "en": "https://www.hyd.gov.hk/en/our_projects/walkability_projects/district_facilities/long_ping/index.html",
+        "tc": "https://www.hyd.gov.hk/tc/our_projects/walkability_projects/district_facilities/long_ping/index.html"
+      },
+      "coordinates": [
+        [
+          114.02576013,
+          22.44520786
+        ]
+      ],
+      "page_title": {
+        "en": "Elevated Pedestrian Corridor in Yuen Long Town connecting with Long Ping Station",
+        "tc": "連接朗屏站的元朗市高架行人通道"
+      },
+      "description": {
+        "en": "To relieve the prevailing pedestrian congestion on at grade footpaths and to meet the anticipated pedestrian traffic demand to be induced by the future developments in the Yuen Long town area.",
+        "tc": "工程旨在紓緩目前元朗市地面行人路的行人擠塞狀況，以及應付預期元朗市未來發展所帶來的行人交通需求。"
+      },
+      "scope": {
+        "en": "",
+        "tc": ""
+      },
+      "agreement_no": "",
+      "cost": {
+        "en": "",
+        "tc": "檢討中"
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commissioning_date": {
+        "en": "",
+        "tc": ""
+      },
+      "consultant": {
+        "en": "Ove Arup & Partners Hong Kong Ltd",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "",
+        "tc": ""
+      },
+      "photos": [
+        {
+          "url": "https://www.hyd.gov.hk/en/our_projects/walkability_projects/district_facilities/long_ping/HMW6182TB-PD0001.jpg",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "id": 65,
+      "dataset": "walkability",
+      "department": "HYD",
+      "name": "Pedestrian Link between MTR City One Station and Prince of Wales Hospital",
+      "type": "DF",
+      "type_label": {
+        "en": "District Facilities",
+        "tc": "地區設施"
+      },
+      "status": 1,
+      "status_label": {
+        "en": "Planning",
+        "tc": "規劃中"
+      },
+      "url": {
+        "en": "https://www.hyd.gov.hk/en/our_projects/walkability_projects/district_facilities/cityone_pwh/index.html",
+        "tc": "https://www.hyd.gov.hk/tc/our_projects/walkability_projects/district_facilities/cityone_pwh/index.html"
+      },
+      "coordinates": [
+        [
+          114.20292185,
+          22.38170475
+        ]
+      ],
+      "page_title": {
+        "en": "Pedestrian Link between MTR City One Station and Prince of Wales Hospital",
+        "tc": "港鐵第一城站至威爾斯親王醫院行人通道系統"
+      },
+      "description": {
+        "en": "The project aims to provide a comfortable, convenient and barrier-free elevated pedestrian walkway system to facilitate pedestrians, the elderly, person with disabilities and frail patients to travel between the MTR City One Station and the Prince of Wales Hospital. The project mainly inludes construction of a covered elevated pedestrian walkway connecting the existing Footbridge No. NF414 outside MTR City One Station Exit B and the Main Clinical Block and Trauma Centre (MCBTC) of the Prince of Wales Hospital at Level 1.",
+        "tc": "工程項目旨在提供一條舒適、便捷及無障礙的高架行人通道系統，以便利行人、長者、殘疾人士及體弱病人來往港鐵第一城站及威爾斯親王醫院。 項目主要興建一條高架行人通道以連接近港鐵第一城站B出口外的現有行人天橋編號NF414與威爾斯親王醫院住院主樓暨創傷中心一樓。"
+      },
+      "scope": {
+        "en": "",
+        "tc": ""
+      },
+      "agreement_no": "",
+      "cost": {
+        "en": "Under study",
+        "tc": ""
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "Under study",
+        "tc": ""
+      },
+      "commissioning_date": {
+        "en": "Under study",
+        "tc": ""
+      },
+      "consultant": {
+        "en": "Mott MacDonald Hong Kong Limited",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "",
+        "tc": ""
+      },
+      "photos": [
+        {
+          "url": "https://www.hyd.gov.hk/en/our_projects/walkability_projects/district_facilities/cityone_pwh/layout.jpg",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "id": 66,
+      "dataset": "walkability",
+      "department": "HYD",
+      "name": "Proposed Pedestrian Footbridge System in Mong Kok",
+      "type": "DF",
+      "type_label": {
+        "en": "District Facilities",
+        "tc": "地區設施"
+      },
+      "status": 1,
+      "status_label": {
+        "en": "Planning",
+        "tc": "規劃中"
+      },
+      "url": {
+        "en": "https://www.hyd.gov.hk/en/our_projects/walkability_projects/district_facilities/mkfb/index.html",
+        "tc": "https://www.hyd.gov.hk/tc/our_projects/walkability_projects/district_facilities/mkfb/index.html"
+      },
+      "coordinates": [
+        [
+          114.16935104,
+          22.319298
+        ]
+      ],
+      "page_title": {
+        "en": "Proposed Pedestrian Footbridge System in Mong Kok",
+        "tc": "建議的旺角行人天橋系統"
+      },
+      "description": {
+        "en": "The  proposed footbridge system aims to improve the  crowded footpaths in the district, the pedestrian environment, the connectivity  of the walkway system in the central district of Mong Kok and the  vehicle-pedestrian conflicts as well as the pedestrian safety.",
+        "tc": "建議的行人天橋系統旨在紓緩區內行人路的擠迫情況、改善行人環境、加強旺角中心區行人通道的連接性、減少人車爭路及改善行人安全。"
+      },
+      "scope": {
+        "en": "",
+        "tc": ""
+      },
+      "agreement_no": "",
+      "cost": {
+        "en": "",
+        "tc": "檢討中"
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commissioning_date": {
+        "en": "",
+        "tc": ""
+      },
+      "consultant": {
+        "en": "Atkins China  Ltd",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "",
+        "tc": ""
+      },
+      "photos": [
+        {
+          "url": "https://www.hyd.gov.hk/en/our_projects/walkability_projects/district_facilities/mkfb/Project_Layout_(Eng).jpg",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "id": 67,
+      "dataset": "walkability",
+      "department": "HYD",
+      "name": "Extension of Footbridge Network in Tsuen Wan – Footbridge B along Tai Chung Road and Hoi Shing Road",
+      "type": "DF",
+      "type_label": {
+        "en": "District Facilities",
+        "tc": "地區設施"
+      },
+      "status": 1,
+      "status_label": {
+        "en": "Planning",
+        "tc": "規劃中"
+      },
+      "url": {
+        "en": "https://www.hyd.gov.hk/en/our_projects/walkability_projects/district_facilities/6145tb/index.html",
+        "tc": "https://www.hyd.gov.hk/tc/our_projects/walkability_projects/district_facilities/6145tb/index.html"
+      },
+      "coordinates": [
+        [
+          114.11052704,
+          22.37282599
+        ]
+      ],
+      "page_title": {
+        "en": "Extension of Footbridge Network in Tsuen Wan – Footbridge B along Tai Chung Road and Hoi Shing Road",
+        "tc": "荃灣行人天橋網絡擴建工程 - 沿大涌道及海盛路的行人天橋B"
+      },
+      "description": {
+        "en": "This project aims to provide a footbridge system along Tai Chung Road and Hoi Shing Road to extend the footbridge network in the western part of Tsuen Wan town centre by connecting the existing footbridges.",
+        "tc": "本項目建議沿大涌道及海盛路提供行人天橋連接現有的行人天橋系統，藉此延伸行人天橋網絡覆蓋荃灣市中心西面地區。"
+      },
+      "scope": {
+        "en": "",
+        "tc": ""
+      },
+      "agreement_no": "",
+      "cost": {
+        "en": "",
+        "tc": "檢討中"
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commissioning_date": {
+        "en": "",
+        "tc": ""
+      },
+      "consultant": {
+        "en": "Mannings (Asia) Consultants Ltd. (Design and Construction)",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "",
+        "tc": ""
+      },
+      "photos": [
+        {
+          "url": "https://www.hyd.gov.hk/en/our_projects/walkability_projects/district_facilities/6145tb/Layout_Plan.jpg",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "id": 68,
+      "dataset": "walkability",
+      "department": "HYD",
+      "name": "Footbridge near Former Ngau Tau Kok Police Station and Associated Road Works",
+      "type": "DF",
+      "type_label": {
+        "en": "District Facilities",
+        "tc": "地區設施"
+      },
+      "status": 1,
+      "status_label": {
+        "en": "Planning",
+        "tc": "規劃中"
+      },
+      "url": {
+        "en": "https://www.hyd.gov.hk/en/our_projects/walkability_projects/district_facilities/6192tb/index.html",
+        "tc": "https://www.hyd.gov.hk/tc/our_projects/walkability_projects/district_facilities/6192tb/index.html"
+      },
+      "coordinates": [
+        [
+          114.21179914,
+          22.32031752
+        ]
+      ],
+      "page_title": {
+        "en": "Footbridge near Former Ngau Tau Kok Police Station and Associated Road Works",
+        "tc": "近前牛頭角警署的行人天橋及相關道路工程"
+      },
+      "description": {
+        "en": "The proposed road works are to provide a new footbridge across Wai Yip Street near Siu Yip Street and widen a section of Siu Yip Street footpath to alleviate the overcrowded situation at the existing footbridge extended from the podium of Telford Plaza across Wai Yip Street near Sheung Yuet Road, and enhance the pedestrian connectivity between MTR Kowloon Bay Station and the future Kowloon Bay Action Area.",
+        "tc": "進行建議的道路工程，旨在在兆業街附近建造一條橫跨偉業街的新行人天橋，並擴闊兆業街的一段行人路，從而紓緩德福廣場近常悅道的平台延伸至橫跨偉業街的現有行人天橋的擁擠情況，並加強港鐵九龍灣站與未來九龍灣行動區的行人連繫設施。"
+      },
+      "scope": {
+        "en": "",
+        "tc": ""
+      },
+      "agreement_no": "",
+      "cost": {
+        "en": "",
+        "tc": "檢討中"
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commissioning_date": {
+        "en": "",
+        "tc": ""
+      },
+      "consultant": {
+        "en": "Nil",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "",
+        "tc": ""
+      },
+      "photos": [
+        {
+          "url": "https://www.hyd.gov.hk/en/our_projects/walkability_projects/district_facilities/6192tb/layout.jpg",
+          "alt": "Layout Plan of Footbridge near Former Ngau Tau Kok Police Station and Associated Road Works"
+        }
+      ]
+    },
+    {
+      "id": 69,
+      "dataset": "walkability",
+      "department": "HYD",
+      "name": "Proposed Pedestrian Environment Improvement Works in Kwun Tong Business Area – Ngau Tau Kok Portion",
+      "type": "DF",
+      "type_label": {
+        "en": "District Facilities",
+        "tc": "地區設施"
+      },
+      "status": 1,
+      "status_label": {
+        "en": "Planning",
+        "tc": "規劃中"
+      },
+      "url": {
+        "en": "https://www.hyd.gov.hk/en/our_projects/walkability_projects/district_facilities/6191tb/index.html",
+        "tc": "https://www.hyd.gov.hk/tc/our_projects/walkability_projects/district_facilities/6191tb/index.html"
+      },
+      "coordinates": [
+        [
+          114.21946318,
+          22.31519082
+        ],
+        [
+          114.21530488,
+          22.31750906
+        ]
+      ],
+      "page_title": {
+        "en": "Proposed Pedestrian Environment Improvement Works in Kwun Tong Business Area – Ngau Tau Kok Portion",
+        "tc": "擬議觀塘商貿區的行人環境改善工程 - 牛頭角範圍"
+      },
+      "description": {
+        "en": "The proposed road works are to enhance the connectivity, walkability and environment of pedestrian links to MTR Ngau Tau Kok Station for facilitating the transformation of Kowloon East into another core business district. The proposed road works includes the construction of a pedestrian subway for crossing Elegance Road and Kwun Tong Road, with lift and staircase provisions.",
+        "tc": "建議的道路工程，旨在改善港鐵牛頭角站行人連接通道的連繫、易行度和行人環境，以配合九龍東轉型為另一個核心商業區。建議的道路工程，包括加建一條橫跨觀塘道及雅麗道的行人隧道，並設有升降機及樓梯。"
+      },
+      "scope": {
+        "en": "",
+        "tc": ""
+      },
+      "agreement_no": "",
+      "cost": {
+        "en": "",
+        "tc": ""
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commissioning_date": {
+        "en": "",
+        "tc": ""
+      },
+      "consultant": {
+        "en": "Asia Infrastructure Solutions Limited",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "",
+        "tc": ""
+      },
+      "photos": [
+        {
+          "url": "https://www.hyd.gov.hk/en/our_projects/walkability_projects/district_facilities/6191tb/layout.jpg",
+          "alt": "Layout Plan of Proposed Pedestrian Environment Improvement Works in Kwun Tong Business Area – Ngau Tau Kok Portion"
+        }
+      ]
+    },
+    {
+      "id": 70,
+      "dataset": "walkability",
+      "department": "HYD",
+      "name": "New Wang Tong River Bridge",
+      "type": "DF",
+      "type_label": {
+        "en": "District Facilities",
+        "tc": "地區設施"
+      },
+      "status": 3,
+      "status_label": {
+        "en": "Completed",
+        "tc": "已完成"
+      },
+      "url": {
+        "en": "https://www.hyd.gov.hk/en/our_projects/walkability_projects/district_facilities/projects_completed.html#6850th",
+        "tc": "https://www.hyd.gov.hk/tc/our_projects/walkability_projects/district_facilities/projects_completed.html#6850th"
+      },
+      "coordinates": [
+        [
+          113.99818349,
+          22.26881439
+        ]
+      ],
+      "page_title": {
+        "en": "",
+        "tc": ""
+      },
+      "description": {
+        "en": "",
+        "tc": ""
+      },
+      "scope": {
+        "en": "",
+        "tc": ""
+      },
+      "agreement_no": "",
+      "cost": {
+        "en": "",
+        "tc": ""
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commissioning_date": {
+        "en": "",
+        "tc": ""
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "",
+        "tc": ""
+      },
+      "photos": []
+    },
+    {
+      "id": 71,
+      "dataset": "walkability",
+      "department": "HYD",
+      "name": "Footbridge near MTR Kowloon Bay Station Exit A",
+      "type": "DF",
+      "type_label": {
+        "en": "District Facilities",
+        "tc": "地區設施"
+      },
+      "status": 3,
+      "status_label": {
+        "en": "Completed",
+        "tc": "已完成"
+      },
+      "url": {
+        "en": "https://www.hyd.gov.hk/en/our_projects/walkability_projects/district_facilities/projects_completed.html#6200tb",
+        "tc": "https://www.hyd.gov.hk/tc/our_projects/walkability_projects/district_facilities/projects_completed.html#6200tb"
+      },
+      "coordinates": [
+        [
+          114.21436397,
+          22.32209609
+        ]
+      ],
+      "page_title": {
+        "en": "",
+        "tc": ""
+      },
+      "description": {
+        "en": "",
+        "tc": ""
+      },
+      "scope": {
+        "en": "",
+        "tc": ""
+      },
+      "agreement_no": "",
+      "cost": {
+        "en": "",
+        "tc": ""
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commissioning_date": {
+        "en": "",
+        "tc": ""
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "",
+        "tc": ""
+      },
+      "photos": [
+        {
+          "url": "https://www.hyd.gov.hk/en/our_projects/walkability_projects/district_facilities/photo/6200tb.jpg",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "id": 72,
+      "dataset": "walkability",
+      "department": "HYD",
+      "name": "Lift and Pedestrian Walkway System between Tai Loong Street and Wo Yi Hop Road, Kwai Chung",
+      "type": "DF",
+      "type_label": {
+        "en": "District Facilities",
+        "tc": "地區設施"
+      },
+      "status": 3,
+      "status_label": {
+        "en": "Completed",
+        "tc": "已完成"
+      },
+      "url": {
+        "en": "https://www.hyd.gov.hk/en/our_projects/walkability_projects/district_facilities/projects_completed.html#203tb",
+        "tc": "https://www.hyd.gov.hk/tc/our_projects/walkability_projects/district_facilities/projects_completed.html#203tb"
+      },
+      "coordinates": [
+        [
+          114.13801686,
+          22.36596963
+        ]
+      ],
+      "page_title": {
+        "en": "",
+        "tc": ""
+      },
+      "description": {
+        "en": "",
+        "tc": ""
+      },
+      "scope": {
+        "en": "",
+        "tc": ""
+      },
+      "agreement_no": "",
+      "cost": {
+        "en": "",
+        "tc": ""
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commissioning_date": {
+        "en": "",
+        "tc": ""
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "",
+        "tc": ""
+      },
+      "photos": [
+        {
+          "url": "https://www.hyd.gov.hk/en/our_projects/walkability_projects/district_facilities/photo/203tb.jpg",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "id": 73,
+      "dataset": "walkability",
+      "department": "HYD",
+      "name": "Retrofitting of Escalators for Footbridge across Castle Peak Road – Kwai Chung near MTR Tai Wo Hau Station Exit B",
+      "type": "DF",
+      "type_label": {
+        "en": "District Facilities",
+        "tc": "地區設施"
+      },
+      "status": 3,
+      "status_label": {
+        "en": "Completed",
+        "tc": "已完成"
+      },
+      "url": {
+        "en": "https://www.hyd.gov.hk/en/our_projects/walkability_projects/district_facilities/projects_completed.html#6190tb",
+        "tc": "https://www.hyd.gov.hk/tc/our_projects/walkability_projects/district_facilities/projects_completed.html#6190tb"
+      },
+      "coordinates": [
+        [
+          114.12469064,
+          22.37047424
+        ]
+      ],
+      "page_title": {
+        "en": "",
+        "tc": ""
+      },
+      "description": {
+        "en": "",
+        "tc": ""
+      },
+      "scope": {
+        "en": "",
+        "tc": ""
+      },
+      "agreement_no": "",
+      "cost": {
+        "en": "",
+        "tc": ""
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commissioning_date": {
+        "en": "",
+        "tc": ""
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "",
+        "tc": ""
+      },
+      "photos": []
+    },
+    {
+      "id": 74,
+      "dataset": "walkability",
+      "department": "HYD",
+      "name": "Footbridge near MTR Kowloon Bay Station Exit B",
+      "type": "DF",
+      "type_label": {
+        "en": "District Facilities",
+        "tc": "地區設施"
+      },
+      "status": 3,
+      "status_label": {
+        "en": "Completed",
+        "tc": "已完成"
+      },
+      "url": {
+        "en": "https://www.hyd.gov.hk/en/our_projects/walkability_projects/district_facilities/projects_completed.html#6188tb",
+        "tc": "https://www.hyd.gov.hk/tc/our_projects/walkability_projects/district_facilities/projects_completed.html#6188tb"
+      },
+      "coordinates": [
+        [
+          114.21397502,
+          22.32460255
+        ]
+      ],
+      "page_title": {
+        "en": "",
+        "tc": ""
+      },
+      "description": {
+        "en": "",
+        "tc": ""
+      },
+      "scope": {
+        "en": "",
+        "tc": ""
+      },
+      "agreement_no": "",
+      "cost": {
+        "en": "",
+        "tc": ""
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commissioning_date": {
+        "en": "",
+        "tc": ""
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "",
+        "tc": ""
+      },
+      "photos": [
+        {
+          "url": "https://www.hyd.gov.hk/en/our_projects/walkability_projects/district_facilities/photo/6188tb.jpg",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "id": 75,
+      "dataset": "walkability",
+      "department": "HYD",
+      "name": "Elevated Walkway between Tong Ming Street and Tong Tak Street, Tseung Kwan O",
+      "type": "DF",
+      "type_label": {
+        "en": "District Facilities",
+        "tc": "地區設施"
+      },
+      "status": 3,
+      "status_label": {
+        "en": "Completed",
+        "tc": "已完成"
+      },
+      "url": {
+        "en": "https://www.hyd.gov.hk/en/our_projects/walkability_projects/district_facilities/projects_completed.html#HY201604",
+        "tc": "https://www.hyd.gov.hk/tc/our_projects/walkability_projects/district_facilities/projects_completed.html#HY201604"
+      },
+      "coordinates": [
+        [
+          114.25922282,
+          22.30957422
+        ]
+      ],
+      "page_title": {
+        "en": "",
+        "tc": ""
+      },
+      "description": {
+        "en": "",
+        "tc": ""
+      },
+      "scope": {
+        "en": "",
+        "tc": ""
+      },
+      "agreement_no": "",
+      "cost": {
+        "en": "",
+        "tc": ""
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commissioning_date": {
+        "en": "",
+        "tc": ""
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "",
+        "tc": ""
+      },
+      "photos": [
+        {
+          "url": "https://www.hyd.gov.hk/en/our_projects/walkability_projects/district_facilities/photo/HY201604.jpg",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "id": 76,
+      "dataset": "walkability",
+      "department": "HYD",
+      "name": "Walkway Cover near Tuen Mun Hospital",
+      "type": "WC",
+      "type_label": {
+        "en": "Walkway Cover",
+        "tc": "有蓋行人通道"
+      },
+      "status": 2,
+      "status_label": {
+        "en": "Under Construction",
+        "tc": "施工中"
+      },
+      "url": {
+        "en": "https://www.hyd.gov.hk/en/our_projects/walkability_projects/covered_walkway/tuen_mun/index.html",
+        "tc": "https://www.hyd.gov.hk/tc/our_projects/walkability_projects/covered_walkway/tuen_mun/index.html"
+      },
+      "coordinates": [
+        [
+          113.97631779,
+          22.40968699
+        ]
+      ],
+      "page_title": {
+        "en": "Walkway Cover near Tuen Mun Hospital",
+        "tc": "連接屯門醫院的行人通道加建上蓋"
+      },
+      "description": {
+        "en": "The objective of the proposed works is to enhance the walking environment for people travelling to and from the Tuen Mun Hospital. The works mainly comprise of the construction of a walkway cover at Tsing Lun Road near Tuen Mun Hospital and associated civil works, electrical and mechanical works, drainage works and lighting works.",
+        "tc": "此項目旨為往返屯門醫院的行人改善步行環境。工程主要包括於屯門醫院附近的青麟路加建行人通道上蓋及相關的土木工程、機電工程、渠務工程和照明工程。"
+      },
+      "scope": {
+        "en": "",
+        "tc": ""
+      },
+      "agreement_no": "",
+      "cost": {
+        "en": "",
+        "tc": ""
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "July 2023",
+        "tc": ""
+      },
+      "commissioning_date": {
+        "en": "",
+        "tc": ""
+      },
+      "consultant": {
+        "en": "Mannings (Asia) Consultants Limited",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "",
+        "tc": ""
+      },
+      "photos": [
+        {
+          "url": "https://www.hyd.gov.hk/en/our_projects/walkability_projects/covered_walkway/tuen_mun/layout_plan.jpg",
+          "alt": "Walkway Cover near Tuen Mun Hospital"
+        }
+      ]
+    },
+    {
+      "id": 77,
+      "dataset": "walkability",
+      "department": "HYD",
+      "name": "Walkway Cover near Tang Shiu Kin Hospital",
+      "type": "WC",
+      "type_label": {
+        "en": "Walkway Cover",
+        "tc": "有蓋行人通道"
+      },
+      "status": 2,
+      "status_label": {
+        "en": "Under Construction",
+        "tc": "施工中"
+      },
+      "url": {
+        "en": "https://www.hyd.gov.hk/en/our_projects/walkability_projects/covered_walkway/tang_shiu_kin/index.html",
+        "tc": "https://www.hyd.gov.hk/tc/our_projects/walkability_projects/covered_walkway/tang_shiu_kin/index.html"
+      },
+      "coordinates": [
+        [
+          114.17718357,
+          22.27524131
+        ]
+      ],
+      "page_title": {
+        "en": "Walkway Cover near Tang Shiu Kin Hospital",
+        "tc": "連接鄧肇堅醫院的行人通道加建上蓋"
+      },
+      "description": {
+        "en": "The objective of the proposed works is to enhance the walking environment for people travelling to and from the Tang Shiu Kin Hospital. The works mainly comprise of the construction of a walkway cover at Queen’s Road East near Tang Shiu Kin Hospital and associated civil works, electrical and mechanical works, drainage works and lighting works.",
+        "tc": "此項目旨為往返鄧肇堅醫院的行人改善步行環境。工程主要包括於鄰近鄧肇堅醫院的皇后大道東加建行人通道上蓋及相關的土木工程、機電工程、渠務工程和照明工程。"
+      },
+      "scope": {
+        "en": "",
+        "tc": ""
+      },
+      "agreement_no": "",
+      "cost": {
+        "en": "",
+        "tc": ""
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "July 2024",
+        "tc": ""
+      },
+      "commissioning_date": {
+        "en": "",
+        "tc": ""
+      },
+      "consultant": {
+        "en": "Mannings (Asia) Consultants Limited",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "",
+        "tc": ""
+      },
+      "photos": [
+        {
+          "url": "https://www.hyd.gov.hk/en/our_projects/walkability_projects/covered_walkway/tang_shiu_kin/layout_plan.jpg",
+          "alt": "Walkway Cover near Tang Shiu Kin Hospital"
+        }
+      ]
+    },
+    {
+      "id": 78,
+      "dataset": "walkability",
+      "department": "HYD",
+      "name": "Walkway cover near Hong Kong Eye Hospital",
+      "type": "WC",
+      "type_label": {
+        "en": "Walkway Cover",
+        "tc": "有蓋行人通道"
+      },
+      "status": 3,
+      "status_label": {
+        "en": "Completed",
+        "tc": "已完成"
+      },
+      "url": {
+        "en": "https://www.hyd.gov.hk/en/our_projects/walkability_projects/covered_walkway/projects_completed.html#eye_hospital",
+        "tc": "https://www.hyd.gov.hk/tc/our_projects/walkability_projects/covered_walkway/projects_completed.html#eye_hospital"
+      },
+      "coordinates": [
+        [
+          114.18475026,
+          22.32469424
+        ]
+      ],
+      "page_title": {
+        "en": "",
+        "tc": ""
+      },
+      "description": {
+        "en": "",
+        "tc": ""
+      },
+      "scope": {
+        "en": "",
+        "tc": ""
+      },
+      "agreement_no": "",
+      "cost": {
+        "en": "",
+        "tc": ""
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commissioning_date": {
+        "en": "",
+        "tc": ""
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "",
+        "tc": ""
+      },
+      "photos": [
+        {
+          "url": "https://www.hyd.gov.hk/en/our_projects/walkability_projects/covered_walkway/photo/eye_hospital.jpg",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "id": 79,
+      "dataset": "walkability",
+      "department": "HYD",
+      "name": "Expansion of Bus-Bus Interchange at Tate's Cairn Tunnel",
+      "type": "DF",
+      "type_label": {
+        "en": "District Facilities",
+        "tc": "地區設施"
+      },
+      "status": 1,
+      "status_label": {
+        "en": "Planning",
+        "tc": "規劃中"
+      },
+      "url": {
+        "en": "https://www.hyd.gov.hk/en/our_projects/walkability_projects/district_facilities/bbi_tct/index.html",
+        "tc": "https://www.hyd.gov.hk/tc/our_projects/walkability_projects/district_facilities/bbi_tct/index.html"
+      },
+      "coordinates": [
+        [
+          114.21167804,
+          22.37748056
+        ]
+      ],
+      "page_title": {
+        "en": "Expansion of Bus-Bus Interchange at Tate's Cairn Tunnel",
+        "tc": "擴建大老山隧道巴士轉乘站"
+      },
+      "description": {
+        "en": "This project aims at utilising part of the freed-up space after implementation of the HKeToll for expanding the bus-bus interchange at Tate's Cairn Tunnel, in order to provide additional bus lay-bys and passenger shelters to benefit the traveling public between the New Territories and Kowloon.",
+        "tc": "本項目旨在利用實施「易通行」後騰出的空置土地作擴建大老山巴士轉乘站，增設額外巴士停車灣並興建候車上蓋，以便利往來新界和九龍各區的乘客。"
+      },
+      "scope": {
+        "en": "",
+        "tc": ""
+      },
+      "agreement_no": "",
+      "cost": {
+        "en": "Under study",
+        "tc": ""
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "End 2026",
+        "tc": ""
+      },
+      "commissioning_date": {
+        "en": "",
+        "tc": ""
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "",
+        "tc": ""
+      },
+      "photos": [
+        {
+          "url": "https://www.hyd.gov.hk/en/our_projects/walkability_projects/district_facilities/bbi_tct/layout.jpg",
+          "alt": "Layout Plan of Expansion of Bus-Bus Interchange at Tate's Cairn Tunnel"
+        }
+      ]
+    },
+    {
+      "id": 80,
+      "dataset": "walkability",
+      "department": "HYD",
+      "name": "Footbridge connecting Morse Park No.3 and No.4, Wong Tai Sin",
+      "type": "DF",
+      "type_label": {
+        "en": "District Facilities",
+        "tc": "地區設施"
+      },
+      "status": 3,
+      "status_label": {
+        "en": "Completed",
+        "tc": "已完成"
+      },
+      "url": {
+        "en": "https://www.hyd.gov.hk/en/our_projects/walkability_projects/district_facilities/projects_completed.html#201tb",
+        "tc": "https://www.hyd.gov.hk/tc/our_projects/walkability_projects/district_facilities/projects_completed.html#201tb"
+      },
+      "coordinates": [
+        [
+          114.19118369,
+          22.33697462
+        ]
+      ],
+      "page_title": {
+        "en": "",
+        "tc": ""
+      },
+      "description": {
+        "en": "",
+        "tc": ""
+      },
+      "scope": {
+        "en": "",
+        "tc": ""
+      },
+      "agreement_no": "",
+      "cost": {
+        "en": "",
+        "tc": ""
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commissioning_date": {
+        "en": "",
+        "tc": ""
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "",
+        "tc": ""
+      },
+      "photos": [
+        {
+          "url": "https://www.hyd.gov.hk/en/our_projects/walkability_projects/district_facilities/photo/201tb.jpg",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "id": 81,
+      "dataset": "walkability",
+      "department": "HYD",
+      "name": "Footbridge across Tsui Ping Road",
+      "type": "DF",
+      "type_label": {
+        "en": "District Facilities",
+        "tc": "地區設施"
+      },
+      "status": 2,
+      "status_label": {
+        "en": "Under Construction",
+        "tc": "施工中"
+      },
+      "url": {
+        "en": "https://www.hyd.gov.hk/en/our_projects/walkability_projects/district_facilities/tsui_ping_road/index.html",
+        "tc": "https://www.hyd.gov.hk/tc/our_projects/walkability_projects/district_facilities/tsui_ping_road/index.html"
+      },
+      "coordinates": [
+        [
+          114.22874693,
+          22.31104283
+        ]
+      ],
+      "page_title": {
+        "en": "Footbridge across Tsui Ping Road",
+        "tc": "橫跨翠屏道的行人天橋"
+      },
+      "description": {
+        "en": "The objective of the proposed works is to construct a footbridge across Tsui Ping Road connecting the existing footbridge No. KF90 and the elevated pedestrian deck under PWP Item No. 3193GK Kwun Tong Composite Development.",
+        "tc": "工程旨在興建一條橫跨翠屏道的行人天橋，連接現有行人天橋編號KF90和工務計劃項目第3193GK號觀塘綜合發展項目下擬建的高架行人平台。"
+      },
+      "scope": {
+        "en": "",
+        "tc": ""
+      },
+      "agreement_no": "",
+      "cost": {
+        "en": "",
+        "tc": ""
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "October 2024",
+        "tc": ""
+      },
+      "commissioning_date": {
+        "en": "",
+        "tc": ""
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "",
+        "tc": ""
+      },
+      "photos": [
+        {
+          "url": "https://www.hyd.gov.hk/en/our_projects/walkability_projects/district_facilities/tsui_ping_road/layout.jpg",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "id": 82,
+      "dataset": "walkability",
+      "department": "HYD",
+      "name": "Construction of Proposed Bus-Bus Interchange at Aberdeen Tunnel",
+      "type": "DF",
+      "type_label": {
+        "en": "District Facilities",
+        "tc": "地區設施"
+      },
+      "status": 2,
+      "status_label": {
+        "en": "Under Construction",
+        "tc": "施工中"
+      },
+      "url": {
+        "en": "https://www.hyd.gov.hk/en/our_projects/walkability_projects/district_facilities/bbi_aberdeen/index.html",
+        "tc": "https://www.hyd.gov.hk/tc/our_projects/walkability_projects/district_facilities/bbi_aberdeen/index.html"
+      },
+      "coordinates": [
+        [
+          114.1780587,
+          22.25148106
+        ]
+      ],
+      "page_title": {
+        "en": "Construction of Proposed Bus-Bus Interchange at Aberdeen Tunnel",
+        "tc": "香港仔隧道巴士轉乘站"
+      },
+      "description": {
+        "en": "After the implementation of \"HKeToll\" at the Aberdeen Tunnel, the existing toll booths were demolished and the land released from the toll plaza area to construct a bus interchange.  This project mainly involves the provision of walkway covers at the proposed bus interchange and associated civil, including drainage, underground utilities, electrical and mechanical installations, landscaping, traffic ancillary facilities and slope works, so as to provide an all-weather and comfortable walkway and waiting area.",
+        "tc": "香港仔隧道實施「易通行」後，收費廣場的收費亭被拆除後所騰出的土地將用以興建巴士轉乘站。有關工程將主要在擬建巴士轉乘站加設行人通道上蓋以及進行附屬工程，包括渠務、地下管綫、機電設備、園景美化、交通輔助設施及斜坡工程等，以提供全天候及舒適的通道及候車空間。"
+      },
+      "scope": {
+        "en": "",
+        "tc": ""
+      },
+      "agreement_no": "",
+      "cost": {
+        "en": "",
+        "tc": ""
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "August 2024",
+        "tc": ""
+      },
+      "commissioning_date": {
+        "en": "",
+        "tc": ""
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "",
+        "tc": ""
+      },
+      "photos": [
+        {
+          "url": "https://www.hyd.gov.hk/en/our_projects/walkability_projects/district_facilities/bbi_aberdeen/layout.jpg",
+          "alt": ""
+        }
+      ]
+    }
+  ]
+}
