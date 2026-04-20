@@ -1,0 +1,967 @@
+{
+  "dataset_id": "hyd_noise",
+  "dataset_name": {
+    "en": "Noise Barrier Projects",
+    "tc": "隔音屏障工程項目"
+  },
+  "department": "HYD",
+  "department_full": {
+    "en": "Highways Department",
+    "tc": "路政署"
+  },
+  "generated_at": "2026-04-20T13:53:54.626239+00:00",
+  "total": 13,
+  "projects": [
+    {
+      "id": 1,
+      "dataset": "hyd_noise",
+      "department": "HYD",
+      "item": "6858th",
+      "name": "Retrofitting of Noise Barriers on Tam Kon Shan Road, Tsing Yi",
+      "type": null,
+      "type_label": {
+        "en": "Noise Barrier",
+        "tc": "隔音屏障"
+      },
+      "status": 1,
+      "status_label": {
+        "en": "Under Planning",
+        "tc": "規劃中"
+      },
+      "url": {
+        "en": "https://www.hyd.gov.hk/en/our_projects/environment_protection/6858th/index.html",
+        "tc": "https://www.hyd.gov.hk/tc/our_projects/environment_protection/6858th/index.html"
+      },
+      "coordinates": [
+        [
+          114.10172605,
+          22.36214039
+        ]
+      ],
+      "geometry": null,
+      "page_title": {
+        "en": "Retrofitting of Noise Barriers on Tam Kon Shan Road, Tsing Yi",
+        "tc": "青衣担杆山路加建隔音屏障工程"
+      },
+      "description": {
+        "en": "The purpose of the Project is to mitigate the traffic noise along the section of Tam Kon Shan Road fronting Cheung Fat Estate and Cheung On Estate by retrofitting of noise barriers.",
+        "tc": "本工程項目旨在加建隔音屏障以紓減長發邨與長安邨對出沿担杆山路的交通噪音。"
+      },
+      "scope": {
+        "en": "",
+        "tc": ""
+      },
+      "agreement_no": "6858th",
+      "cost": {
+        "en": "",
+        "tc": ""
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commissioning_date": {
+        "en": "",
+        "tc": ""
+      },
+      "consultant": {
+        "en": "Mannings (Asia) Consultants Ltd.",
+        "tc": "萬利仕(亞洲)顧問有限公司"
+      },
+      "contractor": {
+        "en": "",
+        "tc": ""
+      },
+      "photos": [
+        {
+          "url": "https://www.hyd.gov.hk/en/our_projects/environment_protection/6858th/layout.jpg",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "dataset": "hyd_noise",
+      "department": "HYD",
+      "item": "6816th",
+      "name": "Retrofitting of Noise Barriers on Chai Wan Road",
+      "type": null,
+      "type_label": {
+        "en": "Noise Barrier",
+        "tc": "隔音屏障"
+      },
+      "status": 1,
+      "status_label": {
+        "en": "Under Planning",
+        "tc": "規劃中"
+      },
+      "url": {
+        "en": "https://www.hyd.gov.hk/en/our_projects/environment_protection/6816th/index.html",
+        "tc": "https://www.hyd.gov.hk/tc/our_projects/environment_protection/6816th/index.html"
+      },
+      "coordinates": [
+        [
+          114.23358042,
+          22.26887802
+        ]
+      ],
+      "geometry": null,
+      "page_title": {
+        "en": "Retrofitting of Noise Barriers on Chai Wan Road",
+        "tc": "柴灣道加建隔音屏障工程"
+      },
+      "description": {
+        "en": "The purpose of the Project is to mitigate the traffic noise on Neptune Terrace near Chai Wan Road by retrofitting of noise barriers.",
+        "tc": "本工程項目旨在加建隔音屏障以紓減樂翠臺對出柴灣道的交通噪音。"
+      },
+      "scope": {
+        "en": "",
+        "tc": ""
+      },
+      "agreement_no": "6816th",
+      "cost": {
+        "en": "",
+        "tc": ""
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commissioning_date": {
+        "en": "",
+        "tc": ""
+      },
+      "consultant": {
+        "en": "Mannings (Asia) Consultants Ltd.",
+        "tc": "萬利仕(亞洲)顧問有限公司"
+      },
+      "contractor": {
+        "en": "",
+        "tc": ""
+      },
+      "photos": [
+        {
+          "url": "https://www.hyd.gov.hk/en/our_projects/environment_protection/6816th/layout.jpg",
+          "alt": "Layout Plan of Retrofitting of Noise Barriers on Chai Wan Road"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "dataset": "hyd_noise",
+      "department": "HYD",
+      "item": "6812th",
+      "name": "Retrofitting of Noise Barriers on New Clear Water Bay Road",
+      "type": null,
+      "type_label": {
+        "en": "Noise Barrier",
+        "tc": "隔音屏障"
+      },
+      "status": 1,
+      "status_label": {
+        "en": "Under Planning",
+        "tc": "規劃中"
+      },
+      "url": {
+        "en": "https://www.hyd.gov.hk/en/our_projects/environment_protection/6812th/index.html",
+        "tc": "https://www.hyd.gov.hk/tc/our_projects/environment_protection/6812th/index.html"
+      },
+      "coordinates": [
+        [
+          114.21580335,
+          22.33255524
+        ]
+      ],
+      "geometry": null,
+      "page_title": {
+        "en": "Retrofitting of Noise Barriers on New Clear Water Bay Road",
+        "tc": "新清水灣道加建隔音屏障工程"
+      },
+      "description": {
+        "en": "The purpose of the Project is to mitigate the traffic noise along New Clear Water Bay Road near Choi Wan Estates by retrofitting of noise barriers.",
+        "tc": "本工程項目旨在加建隔音屏障以紓減彩雲邨對出新清水灣道的交通噪音。"
+      },
+      "scope": {
+        "en": "",
+        "tc": ""
+      },
+      "agreement_no": "6812th",
+      "cost": {
+        "en": "",
+        "tc": ""
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commissioning_date": {
+        "en": "",
+        "tc": ""
+      },
+      "consultant": {
+        "en": "Mannings (Asia) Consultants Ltd.",
+        "tc": "萬利仕(亞洲)顧問有限公司"
+      },
+      "contractor": {
+        "en": "",
+        "tc": ""
+      },
+      "photos": [
+        {
+          "url": "https://www.hyd.gov.hk/en/our_projects/environment_protection/6812th/layout.jpg",
+          "alt": "Layout Plan of Retrofitting of Noise Barriers on New Clear Water Bay Road"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "dataset": "hyd_noise",
+      "department": "HYD",
+      "item": "6833th",
+      "name": "Retrofitting of Noise Barriers on Po Shek Wu Road",
+      "type": null,
+      "type_label": {
+        "en": "Noise Barrier",
+        "tc": "隔音屏障"
+      },
+      "status": 1,
+      "status_label": {
+        "en": "Under Planning",
+        "tc": "規劃中"
+      },
+      "url": {
+        "en": "https://www.hyd.gov.hk/en/our_projects/environment_protection/6833th/index.html",
+        "tc": "https://www.hyd.gov.hk/tc/our_projects/environment_protection/6833th/index.html"
+      },
+      "coordinates": [
+        [
+          114.12638124,
+          22.50699175
+        ]
+      ],
+      "geometry": null,
+      "page_title": {
+        "en": "Retrofitting of Noise Barriers on Po Shek Wu Road",
+        "tc": "寶石湖路加建隔音屏障工程"
+      },
+      "description": {
+        "en": "The purpose of the Project is to mitigate the traffic noise along Po Shek Wu Road near Po Sheung Tsuen and Shek Wu Hui by retrofitting of noise barriers.",
+        "tc": "加建隔音屏障以紓減寶石湖路近莆上村及石湖墟住宅的噪音影響。"
+      },
+      "scope": {
+        "en": "",
+        "tc": ""
+      },
+      "agreement_no": "6833th",
+      "cost": {
+        "en": "",
+        "tc": ""
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commissioning_date": {
+        "en": "",
+        "tc": ""
+      },
+      "consultant": {
+        "en": "Mannings (Asia) Consultants Ltd.",
+        "tc": "萬利仕(亞洲)顧問有限公司"
+      },
+      "contractor": {
+        "en": "",
+        "tc": ""
+      },
+      "photos": [
+        {
+          "url": "https://www.hyd.gov.hk/en/our_projects/environment_protection/6833th/layout.jpg",
+          "alt": "Layout Plan of Retrofitting of Noise Barriers on Po Shek Wu Road"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "dataset": "hyd_noise",
+      "department": "HYD",
+      "item": "6860th",
+      "name": "Retrofitting of Noise Barrier at Island Eastern Corridor near Heng Fa Chuen",
+      "type": null,
+      "type_label": {
+        "en": "Noise Barrier",
+        "tc": "隔音屏障"
+      },
+      "status": 1,
+      "status_label": {
+        "en": "Under Planning",
+        "tc": "規劃中"
+      },
+      "url": {
+        "en": "https://www.hyd.gov.hk/en/our_projects/environment_protection/6860th/index.html",
+        "tc": "https://www.hyd.gov.hk/tc/our_projects/environment_protection/6860th/index.html"
+      },
+      "coordinates": [
+        [
+          114.23742273,
+          22.27673961
+        ]
+      ],
+      "geometry": null,
+      "page_title": {
+        "en": "Retrofitting of Noise Barrier at Island Eastern Corridor near Heng Fa Chuen",
+        "tc": "東區走廊（近杏花邨）加建隔音屏障工程"
+      },
+      "description": {
+        "en": "The purpose of the Project is to mitigate the traffic noise on Heng Fa Chuen near Island Eastern Corridor by retrofitting of noise barrier.",
+        "tc": "本工程項目旨在加建隔音屏障以紓減杏花邨對出東區走廊的交通噪音。"
+      },
+      "scope": {
+        "en": "",
+        "tc": ""
+      },
+      "agreement_no": "6860th",
+      "cost": {
+        "en": "",
+        "tc": ""
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commissioning_date": {
+        "en": "",
+        "tc": ""
+      },
+      "consultant": {
+        "en": "Mannings (Asia) Consultants Ltd.",
+        "tc": "萬利仕(亞洲)顧問有限公司"
+      },
+      "contractor": {
+        "en": "",
+        "tc": ""
+      },
+      "photos": [
+        {
+          "url": "https://www.hyd.gov.hk/en/our_projects/environment_protection/6860th/layout.jpg",
+          "alt": "Layout Plan of Retrofitting of Noise Barriers at Island Eastern Corridor near Heng Fa Chuen"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "dataset": "hyd_noise",
+      "department": "HYD",
+      "item": "6831th",
+      "name": "Retrofitting of Noise Barriers on Castle Peak Road (Ping Shan Section)",
+      "type": null,
+      "type_label": {
+        "en": "Noise Barrier",
+        "tc": "隔音屏障"
+      },
+      "status": 1,
+      "status_label": {
+        "en": "Under Planning",
+        "tc": "規劃中"
+      },
+      "url": {
+        "en": "https://www.hyd.gov.hk/en/our_projects/environment_protection/6831th/index.html",
+        "tc": "https://www.hyd.gov.hk/tc/our_projects/environment_protection/6831th/index.html"
+      },
+      "coordinates": [
+        [
+          114.00650716,
+          22.43974182
+        ]
+      ],
+      "geometry": null,
+      "page_title": {
+        "en": "Retrofitting of Noise Barriers on Castle Peak Road (Ping Shan Section)",
+        "tc": "青山公路(屏山段)加建隔音屏障工程"
+      },
+      "description": {
+        "en": "The purpose of the Project is to mitigate the traffic noise on Ping Shan Gardens, Norfolk Terrace, Rainbow Lodge and Imperial Villas I near Castle Peak Road (Ping Shan Section) by retrofitting of noise barriers.",
+        "tc": "本工程項目旨在加建隔音屏障以紓減屏山花園，樂福小築，彩虹軒和帝庭居一期對出青山公路(屏山段)的交通噪音。"
+      },
+      "scope": {
+        "en": "",
+        "tc": ""
+      },
+      "agreement_no": "6831th",
+      "cost": {
+        "en": "",
+        "tc": ""
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commissioning_date": {
+        "en": "",
+        "tc": ""
+      },
+      "consultant": {
+        "en": "Mannings (Asia) Consultants Ltd.",
+        "tc": "萬利仕(亞洲)顧問有限公司"
+      },
+      "contractor": {
+        "en": "",
+        "tc": ""
+      },
+      "photos": [
+        {
+          "url": "https://www.hyd.gov.hk/en/our_projects/environment_protection/6831th/layout_1.jpg",
+          "alt": "Layout Plan of Retrofitting of Noise Barriers on Castle Peak Road (Ping Shan Section)"
+        },
+        {
+          "url": "https://www.hyd.gov.hk/en/our_projects/environment_protection/6831th/layout_2.jpg",
+          "alt": "Layout Plan of Retrofitting of Noise Barriers on Castle Peak Road (Ping Shan Section)"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "dataset": "hyd_noise",
+      "department": "HYD",
+      "item": "6851th",
+      "name": "Retrofitting of Noise Barriers on Jockey Club Road and San Wan Road near Fanling Wai",
+      "type": null,
+      "type_label": {
+        "en": "Noise Barrier",
+        "tc": "隔音屏障"
+      },
+      "status": 1,
+      "status_label": {
+        "en": "Under Planning",
+        "tc": "規劃中"
+      },
+      "url": {
+        "en": "https://www.hyd.gov.hk/en/our_projects/environment_protection/6851th/index.html",
+        "tc": "https://www.hyd.gov.hk/tc/our_projects/environment_protection/6851th/index.html"
+      },
+      "coordinates": [
+        [
+          114.13382517,
+          22.49668672
+        ]
+      ],
+      "geometry": null,
+      "page_title": {
+        "en": "Retrofitting of Noise Barriers on Jockey Club Road and San Wan Road near Fanling Wai",
+        "tc": "馬會道和新運路(近粉嶺圍)加建隔音屏障工程"
+      },
+      "description": {
+        "en": "The purpose of the Project is to mitigate the traffic noise on Jockey Club Road and San Wan Road near Fanling Wai by retrofitting of noise barriers.",
+        "tc": "本工程項目旨在加建隔音屏障以紓減馬會道和新運路(近粉嶺圍)的交通噪音。"
+      },
+      "scope": {
+        "en": "",
+        "tc": ""
+      },
+      "agreement_no": "6851th",
+      "cost": {
+        "en": "",
+        "tc": ""
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commissioning_date": {
+        "en": "",
+        "tc": ""
+      },
+      "consultant": {
+        "en": "Mannings (Asia) Consultants Ltd.",
+        "tc": "萬利仕(亞洲)顧問有限公司"
+      },
+      "contractor": {
+        "en": "",
+        "tc": ""
+      },
+      "photos": [
+        {
+          "url": "https://www.hyd.gov.hk/en/our_projects/environment_protection/6851th/layout.jpg",
+          "alt": "Layout Plan of Retrofitting of Noise Barriers on Jockey Club Road and San Wan Road near Fanling Wai"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "dataset": "hyd_noise",
+      "department": "HYD",
+      "item": "6847th",
+      "name": "Retrofitting of Noise Barriers on San Tin Highway",
+      "type": null,
+      "type_label": {
+        "en": "Noise Barrier",
+        "tc": "隔音屏障"
+      },
+      "status": 1,
+      "status_label": {
+        "en": "Under Planning",
+        "tc": "規劃中"
+      },
+      "url": {
+        "en": "https://www.hyd.gov.hk/en/our_projects/environment_protection/6847th/index.html",
+        "tc": "https://www.hyd.gov.hk/tc/our_projects/environment_protection/6847th/index.html"
+      },
+      "coordinates": [
+        [
+          114.05303026,
+          22.46249898
+        ]
+      ],
+      "geometry": null,
+      "page_title": {
+        "en": "Retrofitting of Noise Barriers on San Tin Highway",
+        "tc": "新田公路加建隔音屏障工程"
+      },
+      "description": {
+        "en": "The purpose of the Project is to mitigate the traffic noise on Mai Po San Tsuen, Casa Paradizo, Green Crest, Hang Fook Garden, Ha San Wai, Merry Garden, San Wai Tsuen and Pok Wai near San Tin Highway by retrofitting of noise barriers.",
+        "tc": "本工程項目旨在加建隔音屏障以紓減米埔新村，夏威夷豪園，翠巒，幸福花園，下新圍村，悅富豪苑，新圍村和壆圍對出新田公路的交通噪音。"
+      },
+      "scope": {
+        "en": "",
+        "tc": ""
+      },
+      "agreement_no": "6847th",
+      "cost": {
+        "en": "",
+        "tc": ""
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commissioning_date": {
+        "en": "",
+        "tc": ""
+      },
+      "consultant": {
+        "en": "Mannings (Asia) Consultants Ltd.",
+        "tc": "萬利仕(亞洲)顧問有限公司"
+      },
+      "contractor": {
+        "en": "",
+        "tc": ""
+      },
+      "photos": [
+        {
+          "url": "https://www.hyd.gov.hk/en/our_projects/environment_protection/6847th/layout_1.jpg",
+          "alt": "Layout Plan of Retrofitting of Noise Barriers on San Tin Highway"
+        },
+        {
+          "url": "https://www.hyd.gov.hk/en/our_projects/environment_protection/6847th/layout_2.jpg",
+          "alt": "Layout Plan of Retrofitting of Noise Barriers on San Tin Highway"
+        },
+        {
+          "url": "https://www.hyd.gov.hk/en/our_projects/environment_protection/6847th/layout_3.jpg",
+          "alt": "Layout Plan of Retrofitting of Noise Barriers on San Tin Highway"
+        },
+        {
+          "url": "https://www.hyd.gov.hk/en/our_projects/environment_protection/6847th/layout_4.jpg",
+          "alt": "Layout Plan of Retrofitting of Noise Barriers on San Tin Highway"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "dataset": "hyd_noise",
+      "department": "HYD",
+      "item": "6766th_6817th",
+      "name": "Retrofitting of noise barriers on Po Lam Road North and Po Ning Road",
+      "type": null,
+      "type_label": {
+        "en": "Noise Barrier",
+        "tc": "隔音屏障"
+      },
+      "status": 2,
+      "status_label": {
+        "en": "Under Construction",
+        "tc": "施工中"
+      },
+      "url": {
+        "en": "https://www.hyd.gov.hk/en/our_projects/environment_protection/6766th_6817th/index.html",
+        "tc": "https://www.hyd.gov.hk/tc/our_projects/environment_protection/6766th_6817th/index.html"
+      },
+      "coordinates": [
+        [
+          114.2526085,
+          22.32655629
+        ]
+      ],
+      "geometry": null,
+      "page_title": {
+        "en": "Retrofitting of noise barriers on Po Lam Road North \r\nand Po Ning Road",
+        "tc": "寶琳北路及寶寧路加建隔音屏障工程"
+      },
+      "description": {
+        "en": "To  mitigate the noise impact of Po Lam Road North and Po Ning Road on neighbouring  residents by retrofitting noise barriers.",
+        "tc": "加建隔音屏障以紓減寶琳北路及寶寧路對毗鄰住宅的噪音影響。"
+      },
+      "scope": {
+        "en": "",
+        "tc": ""
+      },
+      "agreement_no": "6766th_6817th",
+      "cost": {
+        "en": "",
+        "tc": "寶琳北路加建隔音屏障工程 – 3億7600萬 寶寧路加建隔音屏障工程 – 2億4170萬"
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "June 2021",
+        "tc": ""
+      },
+      "commissioning_date": {
+        "en": "24 July 2025 Consultant: Mannings (Asia) Consultants Ltd. (Investigation, Design and Construction)",
+        "tc": "2025年7月24日"
+      },
+      "consultant": {
+        "en": "Mannings (Asia) Consultants Ltd. (Investigation, Design and Construction)",
+        "tc": "萬利仕(亞洲)顧問有限公司  （勘察、設計及建造）"
+      },
+      "contractor": {
+        "en": "",
+        "tc": ""
+      },
+      "photos": [
+        {
+          "url": "https://www.hyd.gov.hk/en/our_projects/environment_protection/6766th_6817th/drawing_1.jpg",
+          "alt": ""
+        },
+        {
+          "url": "https://www.hyd.gov.hk/en/our_projects/environment_protection/6766th_6817th/drawing_2.jpg",
+          "alt": ""
+        },
+        {
+          "url": "https://www.hyd.gov.hk/en/our_projects/environment_protection/6766th_6817th/drawing_3.jpg",
+          "alt": ""
+        },
+        {
+          "url": "https://www.hyd.gov.hk/en/our_projects/environment_protection/6766th_6817th/drawing_4.jpg",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "dataset": "hyd_noise",
+      "department": "HYD",
+      "item": "6871th",
+      "name": "Retrofitting of Noise Barriers on Po Lam Road North (near King Ming Court)",
+      "type": null,
+      "type_label": {
+        "en": "Noise Barrier",
+        "tc": "隔音屏障"
+      },
+      "status": 2,
+      "status_label": {
+        "en": "Under Construction",
+        "tc": "施工中"
+      },
+      "url": {
+        "en": "https://www.hyd.gov.hk/en/our_projects/environment_protection/6871th/index.html",
+        "tc": "https://www.hyd.gov.hk/tc/our_projects/environment_protection/6871th/index.html"
+      },
+      "coordinates": [
+        [
+          114.2503998,
+          22.32303627
+        ]
+      ],
+      "geometry": null,
+      "page_title": {
+        "en": "Retrofitting of Noise Barriers on Po Lam Road North (near King Ming Court)",
+        "tc": "寶琳北路(近景明苑)加建隔音屏障工程"
+      },
+      "description": {
+        "en": "To mitigate the noise impact of Po Lam Road North on neighbouring residents near King Ming Court by retrofitting of noise barriers.",
+        "tc": "加建隔音屏障以紓減寶琳北路近景明苑毗鄰住宅的噪音影響。"
+      },
+      "scope": {
+        "en": "",
+        "tc": ""
+      },
+      "agreement_no": "6871th",
+      "cost": {
+        "en": "",
+        "tc": "1億8010萬港元"
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "June 2022",
+        "tc": ""
+      },
+      "commissioning_date": {
+        "en": "24 July 2025",
+        "tc": "2025年7月24日"
+      },
+      "consultant": {
+        "en": "Mannings (Asia) Consultants Ltd. (Investigation, Design and Construction)",
+        "tc": "萬利仕(亞洲)顧問有限公司  （勘察、設計及建造）"
+      },
+      "contractor": {
+        "en": "",
+        "tc": ""
+      },
+      "photos": [
+        {
+          "url": "https://www.hyd.gov.hk/en/our_projects/environment_protection/6871th/drawing_2.jpg",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "dataset": "hyd_noise",
+      "department": "HYD",
+      "item": "6810th",
+      "name": "Retrofitting of noise barriers on Tuen Mun Road (Town Centre Section)",
+      "type": null,
+      "type_label": {
+        "en": "Noise Barrier",
+        "tc": "隔音屏障"
+      },
+      "status": 3,
+      "status_label": {
+        "en": "Completed",
+        "tc": "已完成"
+      },
+      "url": {
+        "en": "https://www.hyd.gov.hk/en/our_projects/environment_protection/6810th/index.html",
+        "tc": "https://www.hyd.gov.hk/tc/our_projects/environment_protection/6810th/index.html"
+      },
+      "coordinates": [
+        [
+          113.97713534,
+          22.40104577
+        ]
+      ],
+      "geometry": null,
+      "page_title": {
+        "en": "Retrofitting of noise barriers on Tuen Mun Road (Town Centre Section)",
+        "tc": "屯門公路(市中心段)加建隔音屏障工程"
+      },
+      "description": {
+        "en": "To mitigate the noise impact of Tuen Mun Road on neighbouring residents by retrofitting noise barriers and enclosures",
+        "tc": "加建隔音屏障和隔音罩以紓減屯門公路對毗鄰住宅的噪音影響。"
+      },
+      "scope": {
+        "en": "",
+        "tc": ""
+      },
+      "agreement_no": "6810th",
+      "cost": {
+        "en": "",
+        "tc": "8億2,650萬港元"
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "Dec 2015",
+        "tc": ""
+      },
+      "commissioning_date": {
+        "en": "17 March 2020",
+        "tc": "2020年3月17日"
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "",
+        "tc": ""
+      },
+      "photos": [
+        {
+          "url": "https://www.hyd.gov.hk/en/our_projects/environment_protection/6810th/HMW6810TH-PD0002_2016-02-26.jpg",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "dataset": "hyd_noise",
+      "department": "HYD",
+      "item": "6814th",
+      "name": "Retrofitting of Noise Barriers on Tuen Mun Road (Fu Tei Section)",
+      "type": null,
+      "type_label": {
+        "en": "Noise Barrier",
+        "tc": "隔音屏障"
+      },
+      "status": 3,
+      "status_label": {
+        "en": "Completed",
+        "tc": "已完成"
+      },
+      "url": {
+        "en": "https://www.hyd.gov.hk/en/our_projects/environment_protection/6814th/index.html",
+        "tc": "https://www.hyd.gov.hk/tc/our_projects/environment_protection/6814th/index.html"
+      },
+      "coordinates": [
+        [
+          113.97929912,
+          22.41115826
+        ]
+      ],
+      "geometry": null,
+      "page_title": {
+        "en": "Retrofitting of Noise Barriers on Tuen Mun Road (Fu Tei Section)",
+        "tc": "屯門公路(虎地段)加建隔音屏障工程"
+      },
+      "description": {
+        "en": "To mitigate the noise impact of Tuen Mun Road on neighbouring residents by retrofitting noise barriers and enclosures",
+        "tc": "加建隔音屏障和隔音罩以紓減屯門公路對毗鄰住宅的噪音影響。"
+      },
+      "scope": {
+        "en": "",
+        "tc": ""
+      },
+      "agreement_no": "6814th",
+      "cost": {
+        "en": "HK$786.2 Million",
+        "tc": "7億8,620萬港元"
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "June 2016",
+        "tc": ""
+      },
+      "commissioning_date": {
+        "en": "31 December 2019",
+        "tc": "2019年12月31日"
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "",
+        "tc": ""
+      },
+      "photos": [
+        {
+          "url": "https://www.hyd.gov.hk/en/our_projects/environment_protection/6814th/HMW6814TH-ENGLISH.jpg",
+          "alt": ""
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "dataset": "hyd_noise",
+      "department": "HYD",
+      "item": "HY201911",
+      "name": "Retrofitting of Noise Barriers on Long Tin Road",
+      "type": null,
+      "type_label": {
+        "en": "Noise Barrier",
+        "tc": "隔音屏障"
+      },
+      "status": 3,
+      "status_label": {
+        "en": "Completed",
+        "tc": "已完成"
+      },
+      "url": {
+        "en": "https://www.hyd.gov.hk/en/our_projects/environment_protection/HY201911/index.html",
+        "tc": "https://www.hyd.gov.hk/tc/our_projects/environment_protection/HY201911/index.html"
+      },
+      "coordinates": [
+        [
+          114.01607629,
+          22.44041149
+        ]
+      ],
+      "geometry": null,
+      "page_title": {
+        "en": "Retrofitting of Noise Barriers on Long Tin Road",
+        "tc": "朗天路加建隔音屏障工程"
+      },
+      "description": {
+        "en": "To mitigate the noise impact of Long Tin Road on neighbouring residents by retrofitting noise barriers. Retrofitting of cantilevered and vertical noise barriers of about 635 metres (m) long along Long Tin Road between Parkside Villa and Park Royale.",
+        "tc": "加建隔音屏障以紓減朗天路對毗鄰住宅的噪音影響。 沿柏麗豪園與御豪山莊之間的朗天路進行加建約635米長的懸臂式隔音屏障和直立式隔音屏障。"
+      },
+      "scope": {
+        "en": "",
+        "tc": ""
+      },
+      "agreement_no": "HY201911",
+      "cost": {
+        "en": "HK$304.0 Million",
+        "tc": "3億400萬港元"
+      },
+      "award_date": {
+        "en": "",
+        "tc": ""
+      },
+      "commencement_date": {
+        "en": "July 2020",
+        "tc": ""
+      },
+      "commissioning_date": {
+        "en": "21 October 2023",
+        "tc": "2023年10月21日"
+      },
+      "consultant": {
+        "en": "",
+        "tc": ""
+      },
+      "contractor": {
+        "en": "",
+        "tc": ""
+      },
+      "photos": [
+        {
+          "url": "https://www.hyd.gov.hk/en/our_projects/environment_protection/HY201911/HY201911_Contract_Layout_Plan.jpg",
+          "alt": ""
+        }
+      ]
+    }
+  ]
+}

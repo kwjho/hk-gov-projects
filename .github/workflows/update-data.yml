@@ -29,6 +29,7 @@ jobs:
           python scripts/crawl_cedd.py
           python scripts/crawl_archsd.py
           python scripts/crawl_hyd_road.py
+          python scripts/crawl_hyd_noise.py
 
       - name: Commit updated data
         run: |
