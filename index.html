@@ -460,7 +460,8 @@ const DATASETS = [
   { id: 'cedd',        file: 'data/cedd.json' },
   { id: 'archsd',      file: 'data/archsd.json' },
   { id: 'hyd_road',   file: 'data/hyd_road.json' },
-  { id: 'hyd_noise',  file: 'data/hyd_noise.json' },
+  { id: 'hyd_noise',        file: 'data/hyd_noise.json' },
+  { id: 'cedd_catchments', file: 'data/cedd_catchments.json' },
 ];
 
 const TYPE_COLOR = { UA:'#3b82f6', HEL:'#10b981', WC:'#f59e0b', DF:'#a855f7' };
@@ -605,7 +606,7 @@ function renderMap(projects) {
     const popupHtml = `<div class="popup-name">${nameStr}</div>
       <div class="popup-meta">${p.department} · ${tx(p.status_label)}${costStr ? ' · ' + costStr : ''}</div>`;
 
-    if (p.department === 'WSD' && p.geometry) {
+    if (p.geometry) {
       const [lonSpan, latSpan] = geoBBoxSpan(p.geometry);
       const isCitywide = lonSpan > 0.3 || latSpan > 0.3;
       if (isCitywide && p.coordinates?.length) {

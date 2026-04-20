@@ -30,6 +30,7 @@ jobs:
           python scripts/crawl_archsd.py
           python scripts/crawl_hyd_road.py
           python scripts/crawl_hyd_noise.py
+          python scripts/crawl_cedd_catchments.py
 
       - name: Commit updated data
         run: |
