@@ -9,7 +9,7 @@
     "en": "Highways Department",
     "tc": "路政署"
   },
-  "generated_at": "2026-04-19T14:27:19.722372+00:00",
+  "generated_at": "2026-05-01T05:52:27.710040+00:00",
   "total": 27,
   "projects": [
     {
@@ -1538,8 +1538,8 @@
         "tc": "北都公路"
       },
       "description": {
-        "en": "The Northern Metropolis Highway (NMH) is a major east-west corridor linking the development nodes (including Ngau Tam Mei, San Tin Technopole, Kwu Tung North/Fanling North and New Territories North (NTN) New Town) in the Northern Metropolis with a total length of approximately 24 kilometers. The preliminary alignment of the NMH connects Tin Shui Wai to the NTN New Town near Ping Che, and consists of the four road sections – Tin Shui Wai section, San Tin section, Kwu Tung section, and NTN New Town section. The NMH will enhance accessibility to the new development areas, and further enhance cross-boundary road connections for passengers and goods, enabling members of the public and visitors to travel conveniently to and from various major land boundary control points in the Northern Metropolis. Upon commissioning of the NMH, it can effectively divert about 40 per cent of the traffic flow between the New Territories East and West during peak hours, thereby alleviating traffic pressure on existing roads.",
-        "tc": "北都公路是一條連貫北部都會區內各個發展重心(包括牛潭尾、新田科技城、古洞北／粉嶺北及新界北新市鎮)的主要東西走廊，總長度約為24公里。其初步走線連接天水圍至新界北新市鎮近坪輋，由四個路段組成：天水圍段、新田段、古洞段，以及新界北新市鎮段。北都公路將會增強各新發展區的通達性，以及進一步完善跨境客貨運的道路連接，讓市民及旅客更便捷地往返區內各個主要陸路口岸。北都公路通車後，在繁忙時段能有效分流約四成往返新界東西的交通流量，紓緩現有道路的交通壓力。"
+        "en": "The Northern Metropolis Highway (NMH) is a major east-west corridor linking the development nodes (including Ngau Tam Mei, San Tin Technopole, Kwu Tung North/Fanling North and New Territories North (NTN) New Town) in the Northern Metropolis with a total length of approximately 24 kilometres. The preliminary alignment of the NMH connects Tin Shui Wai to the NTN New Town near Ping Che, and consists of the four road sections – Tin Shui Wai section, San Tin section, Kwu Tung section, and NTN New Town section. The NMH will enhance accessibility to the new development areas, unleash development potential, and further enhance cross-boundary road connections for passengers and goods, enabling members of the public and visitors to travel conveniently to and from various major land boundary control points in the Northern Metropolis. Upon commissioning of the NMH, it can effectively divert the traffic flow between the New Territories East and West during peak hours, thereby alleviating anticipated traffic pressure on existing roads.",
+        "tc": "北都公路是一條連貫北部都會區內各個發展重心(包括牛潭尾、新田科技城、古洞北／粉嶺北及新界北新市鎮)的主要東西走廊，總長度約為24公里。其初步走線連接天水圍至新界北新市鎮近坪輋，由四個路段組成：天水圍段、新田段、古洞段，以及新界北新市鎮段。北都公路將會增強各新發展區的通達性，釋放發展潛力，以及進一步完善跨境客貨運的道路連接，讓市民及旅客更便捷地往返區內各個主要陸路口岸。北都公路通車後，在繁忙時段能有效分流往返新界東西的交通流量，紓緩現有道路預期的交通壓力。"
       },
       "scope": {
         "en": "",
@@ -1605,8 +1605,8 @@
       ],
       "geometry": null,
       "page_title": {
-        "en": "Central Kowloon Route",
-        "tc": "中九龍幹線"
+        "en": "Central Kowloon Route Project",
+        "tc": "中九龍幹線工程"
       },
       "description": {
         "en": "To relieve traffic congestion on the existing east-west roads across Central Kowloon.",
@@ -1630,8 +1630,8 @@
         "tc": ""
       },
       "commissioning_date": {
-        "en": "End of 2025",
-        "tc": "2025年年底"
+        "en": "Dec 2025",
+        "tc": "2025年12月"
       },
       "consultant": {
         "en": "Arup – Mott MacDonald Joint Venture (Design and Construction)",

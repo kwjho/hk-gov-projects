@@ -9,7 +9,7 @@
     "en": "Highways Department",
     "tc": "路政署"
   },
-  "generated_at": "2026-04-18T03:44:43.385383+00:00",
+  "generated_at": "2026-05-01T05:41:25.953170+00:00",
   "total": 82,
   "projects": [
     {
@@ -851,24 +851,20 @@
         "tc": "2021年11月"
       },
       "commissioning_date": {
-        "en": "February 2025",
-        "tc": "2025年2月"
+        "en": "December 2025",
+        "tc": "2025年12月"
       },
       "consultant": {
-        "en": "WSP (Asia ) Limited",
-        "tc": "科進顧問(亞洲)有限公司"
+        "en": "",
+        "tc": ""
       },
       "contractor": {
-        "en": "Build King - Richwell Engineering Joint Venture",
-        "tc": "利基—顯豐工程聯營"
+        "en": "",
+        "tc": ""
       },
       "photos": [
         {
-          "url": "https://www.hyd.gov.hk/en/our_projects/walkability_projects/UA/hy2020_09/photo2.png",
-          "alt": ""
-        },
-        {
-          "url": "https://www.hyd.gov.hk/en/our_projects/walkability_projects/UA/hy2020_09/photo1.png",
+          "url": "https://www.hyd.gov.hk/en/our_projects/walkability_projects/UA/hy2020_09/photo3.jpg",
           "alt": ""
         }
       ]
